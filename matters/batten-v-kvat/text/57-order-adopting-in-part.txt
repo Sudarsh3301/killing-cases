@@ -1,0 +1,539 @@
+1 
+ 
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE NORTHERN DISTRICT OF GEORGIA 
+ROME DIVISION 
+ 
+CHRISTOPHER MATTHEW 
+BATTEN, 
+ 
+Plaintiff, 
+ 
+v. 
+ 
+K-VA-T FOOD STORES, INC., d/b/a 
+FOOD CITY,  
+ 
+Defendant. 
+ 
+ 
+ 
+ 
+CIVIL ACTION FILE  
+NO. 4:22-cv-00179-WMR 
+ 
+ORDER 
+ 
+Before the Court is the Magistrate Judge’s Final Report and Recommendation 
+(“R&R”) [Doc. 53], which recommends that Defendant K-VA-T Food Stores, Inc.’s 
+Motion for Summary Judgment [Doc. 29] be granted. Plaintiff Christopher Matthew 
+Batten has filed Objections to the R&R [Doc. 55], and Defendant has filed a 
+Response to Plaintiff’s Objections [Doc. 56]. For the reasons stated herein, 
+Defendant’s Motion for Summary Judgment is GRANTED. 
+I. 
+Background 
+The relevant factual allegations in this case are set forth in the R&R and are 
+incorporated by reference as if set forth fully herein.  The Court has also reviewed 
+for clear error the portions of the Magistrate Judge’s findings of undisputed material 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 1 of 21
+2 
+ 
+fact that Plaintiff did not file objections to. [Doc. 53 at 2–14]. Having found no error, 
+the Court adopts those facts as the undisputed material facts for purposes of this 
+Order and will separately discuss the objected-to facts in the Discussion section 
+below. To provide background, the Court summarizes the case’s relevant procedural 
+history. 
+Plaintiff brought the instant action against Defendant, his former employer, 
+alleging that Defendant violated the Americans with Disabilities Act (“ADA”) by 
+failing to provide him with a reasonable accommodation and by retaliating against 
+him after he requested a reasonable accommodation by terminating his employment. 
+[Doc. 1]. After discovery closed, Defendant filed the pending Motion for Summary 
+Judgment, which argues that both Plaintiff’s failure to accommodate claim and his 
+retaliation claim should be dismissed. [Doc. 29]. The Magistrate Judge agreed and 
+recommended that summary judgment be granted in Defendant’s favor. [Doc. 53].  
+As to the failure to accommodate claim, the Magistrate Judge found that 
+because Plaintiff could perform the essential functions of his job without an 
+accommodation, Defendant was under no obligation to provide him with an 
+accommodation. [Id. at 28]. Alternatively, the Magistrate Judge found that Plaintiff 
+could not prevail on his failure to accommodate claim because he caused a 
+breakdown in the interactive process with Defendant that prevented the parties from 
+considering reasonable accommodations.  [Id. at 29–32]. As to Plaintiff’s retaliation 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 2 of 21
+3 
+ 
+claim, the Magistrate Judge recommended dismissal because Plaintiff failed to 
+present evidence showing that Defendant terminated his employment because he 
+sought accommodation. [Id. at 33]. Additionally, the Magistrate Judge 
+recommended dismissal because the retaliation claim is based on the same facts as 
+his failure to accommodate claim. [Id. at 33–34]. Plaintiff has filed objections to the 
+R&R, which the Court discusses below. [Doc. 55].  
+II. 
+Legal Standard 
+ 
+In reviewing an R&R, this Court makes a “de novo determination of those 
+portions of the report or specified proposed findings or recommendations to which 
+objection is made.” 28 U.S.C. § 636(b)(1). “Parties filing objections to a magistrate’s 
+report and recommendation must specifically identify those findings objected to. 
+Frivolous, conclusive, or general objections need not be considered by the district 
+court.” United States v. Schultz, 565 F.3d 1353, 1361 (11th Cir. 2009) (citations 
+omitted). If no specific objections are made or no objections are made at all, “the 
+appropriate standard of review for the report and recommendation is clear error.” 
+Lattimore v. Bank of Am., N.A., 2014 WL 11456272, at *1 (N.D. Ga. Feb. 10, 2014), 
+aff'd sub nom. Lattimore v. Bank of Am. Home Loans, 591 F. App’x 693 (11th Cir. 
+2015). As Defendant has filed timely objections to the R&R in this case, the Court 
+reviews the challenged portions of the R&R de novo and the remainder of the R&R 
+for clear error. 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 3 of 21
+4 
+ 
+III. 
+Discussion 
+ 
+Pursuant to Federal Rule of Civil Procedure 56(a), summary judgment is 
+proper when the record evidence shows that “there is no genuine issue as to any 
+material fact and that the moving party is entitled to a judgment as a matter of law.” 
+Fed. R. Civ. P. 56(a); Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986). A dispute 
+is “genuine” if evidence suggests a reasonable jury could return a verdict for the non-
+movant. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986). “An issue of 
+fact is ‘material’ if, under the applicable substantive law, it might affect the outcome 
+of the case.” Hickson Corp. v. N. Crossarm Co., Inc., 357 F.3d 1256, 1259 (11th Cir. 
+2004).  
+ 
+The moving party bears the burden of demonstrating that there is no genuine 
+issue of material fact that should be decided at trial. Clark v. Coats & Clark, Inc., 
+929 F.2d 604, 608 (11th Cir. 1991). If the moving party carries the initial burden, 
+then the burden shifts to the non-moving party to demonstrate that there is an issue 
+of material fact that precludes summary judgment. Id. Then, summary judgment is 
+only appropriate if the non-moving party fails to meet its burden of presenting 
+evidence sufficient to create a genuine issue of material fact as to an essential 
+element of its claim. Celotex Corp., 477 U.S. at 323. On summary judgment, the 
+Court views the evidence and any inferences that may be reasonably drawn in the 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 4 of 21
+5 
+ 
+light most favorable to the non-movant. Adickes v. S.H. Kress & Co., 398 U.S. 144, 
+158–159 (1970).  
+A. Summary Judgment is Proper on Plaintiff’s Failure to Accommodate 
+Claim. 
+ 
+Plaintiff has filed several objections to the Magistrate Judge’s findings related 
+to his failure to accommodate claim. Before turning to those objections, a discussion 
+of the Eleventh Circuit standard governing failure to accommodate claims is 
+necessary. 
+ 
+“The ADA imposes upon employers the duty to provide reasonable 
+accommodations for known disabilities unless doing so would result in undue 
+hardship to the employer.” Holbrook v. City of Alpharetta, Ga., 112 F.3d 1522, 1526 
+(11th Cir. 1997). To survive summary judgment, a plaintiff must produce evidence 
+that “(1) she was a qualified individual with a disability; (2) she made a specific 
+request for a reasonable accommodation; and (3) her employer . . . failed to provide 
+a reasonable accommodation, or engage in the requisite interactive process in order 
+to identify a reasonable accommodation.” D’Onofrio v. Costco Wholesale Corp., 
+964 F.3d 1014, 1021 (11th Cir. 2020). In this case, there is no dispute that Plaintiff 
+has satisfied the first two elements for purposes of summary judgment. [Doc. 31 at 
+9; Doc. 50 at ¶ 60]. Thus, the only remaining issue is whether Defendant failed to 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 5 of 21
+6 
+ 
+provide Plaintiff a reasonable accommodation or failed to engage in an interactive 
+process to identify a reasonable accommodation.  
+ 
+42 U.S.C. § 12111(9)(B) provides that a “reasonable accommodation” may 
+include:  
+job restructuring, part-time or modified work schedules, reassignment 
+to a vacant position, acquisition or modification of equipment or 
+devices, appropriate adjustment or modifications of examinations, 
+training materials or policies, the provision of qualified readers or 
+interpreters, and other similar accommodations for individuals with 
+disabilities. 
+However, an employee is “not entitled to the accommodation of her choice, but only 
+to a reasonable accommodation.” Stewart v. Happy Herman’s Cheshire Bridge, Inc., 
+117 F.3d 1278, 1286 (11th Cir. 1997) (quoting Lewis v. Zilog, Inc., 908 F. Supp. 
+931, 947 (N.D. Ga. 1995)). “The key is ‘reasonability,’ meaning an employer is not 
+required to accommodate an employee in any manner that the employee desires—or 
+even provide that employee’s preferred accommodation.” D’Onofrio v. Costco 
+Wholesale Corp., 964 F.3d 1014, 1021 (11th Cir. 2020). 
+ 
+To select an appropriate and reasonable accommodation, “it may be necessary 
+for the [employer] to initiate an informal, interactive process with the individual . . . 
+[to] identify the precise limitations resulting from the disability and potential 
+reasonable accommodations that could overcome those limitations.” 29 C.F.R. § 
+1630.2(o)(3). However, an employer is not liable for failure to accommodate when 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 6 of 21
+7 
+ 
+it “does not obstruct an informal interactive process[,] makes reasonable efforts to 
+communicate with the employee and provide accommodations based on the 
+information it possesses[,] and the employee’s actions cause a breakdown in the 
+interactive process.” Stewart v. Happy Herman’s Cheshire Bridge, Inc., 117 F.3d 
+1278, 1287 (11th Cir. 1997). Thus, “[u]nder the ADA, an employer will not be liable 
+for failure to accommodate if the employee is responsible for the breakdown of the 
+interactive process.” D’Onofrio v. Costco Wholesale Corp., 964 F.3d 1014, 1022 
+(11th Cir. 2020). 
+ 
+Moreover, the Eleventh Circuit has historically held that “if an employee does 
+not require an accommodation to perform her essential job functions, then the 
+employer is under no obligation to make an accommodation, even if the employee 
+requests an accommodation that is reasonable and could be easily provided.” 
+D’Onofrio, 964 F.3d at 1022; see also Lucas v. W.W. Grainger, Inc., 257 F.3d 1249, 
+1255 (11th Cir. 2001) (“An accommodation can qualify as ‘reasonable,’ and thus be 
+required by the ADA, only if it enables the employee to perform the essential 
+functions of the job.”). However, as the Magistrate Judge’s R&R highlights, the 
+Eleventh Circuit’s recent panel opinion in Beasley v. O’Reilly Auto Parts calls this 
+principle into question. 69 F.4th 744 (11th Cir. 2023). Specifically, the Beasley 
+majority wrote: 
+When faced with the question of whether an ADA plaintiff was a 
+“qualified individual” under 42 U.S.C. § 12112(a), we have sometimes 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 7 of 21
+8 
+ 
+made broad statements that “an accommodation is ‘reasonable’ and 
+necessary under the ADA only if it enables the employee to perform 
+the essential functions of the job.” Lucas, 257 F.3d at 1259–60 
+(emphasis added); see also LaChance v. Duffy’s Draft House, Inc., 146 
+F.3d 832, 835 (11th Cir. 1998) (“An accommodation is reasonable — 
+and, therefore, required under the ADA — only if it enables the 
+employee to perform the essential functions of the job.”) (quotation 
+marks omitted). And in a case where the employer provided all the 
+accommodations that were required under the ADA, we said that “if an 
+employee does not require an accommodation to perform her essential 
+job functions, then the employer is under no obligation to make an 
+accommodation.” D’Onofrio, 964 F.3d at 1022. 
+ 
+Those statements about essential job functions in those three decisions 
+are expansive, but they are necessarily tethered to the facts of those 
+cases. That is important because “whatever their opinions say, judicial 
+decisions cannot make law beyond the facts of the cases in which those 
+decisions are announced.” Pretka v. Kolter City Plaza II, Inc., 608 F.3d 
+744, 762 (11th Cir. 2010) (quotation marks omitted); see also id. 
+(“Statements in an opinion that are not fitted to the facts, or that extend 
+further than the facts of that case, or that are not necessary to the 
+decision of an appeal given the facts and circumstances of the case, are 
+dicta. We are not required to follow dicta in our own prior decisions.”). 
+Beasley, 69 F.4th at 756–57. Nevertheless, the Beasley majority did little to settle 
+the debate, summing up its opinion by saying: “So what do we hold about whether 
+the ADA’s requirement that an employer provide an employee with reasonable 
+accommodations extends beyond those that will enable him to perform the essential 
+functions of his job? Nothing, really. There is enough dicta on that subject already.” 
+Id. at 760.  
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 8 of 21
+9 
+ 
+ 
+Plaintiff’s first and most fervent objection is that the Magistrate Judge erred 
+in following the D’Onofrio line of cases1 that hold that an employer is under no 
+obligation to make an accommodation if an employee does not require an 
+accommodation to perform his essential job functions. [Doc. 55 at 7–16]. The 
+Magistrate Judge relied on this principle in finding that Plaintiff, who could perform 
+the essential functions of his job without reasonable accommodation, was not 
+entitled to any accommodation from Defendant. [Doc. 53 at 28–29]. Plaintiff 
+specifically objects that the facts in each of the D’Onofrio line of cases are 
+distinguishable from the facts of this case and that the Magistrate Judge erred by 
+applying the principles in those cases here. [Doc. 55 at 9–16]. Plaintiff also objects 
+that the R&R “dismisses” the Beasley opinion and that it “goes too far by impliedly 
+adding that not only must the accommodation enable the employee to do his job, but 
+he must be totally unable to perform the essential functions of his job without it.” 
+[Id. at 9, 16].  
+ 
+The Court acknowledges that the Magistrate Judge’s recommendation is in 
+tension with the Eleventh Circuit’s Beasley opinion, which casts doubt on the 
+D’Onofrio line of cases that hold that an employer is under no obligation to make an 
+ 
+1 These four cases include: D’Onofrio v. Costco Wholesale Corp., 964 F.3d 1014 
+(11th Cir. 2020); Lucas v. W.W. Grainger, Inc., 257 F.3d 1249 (11th Cir. 2001); 
+LaChance v. Duffy’s Draft House, Inc., 146 F.3d 832 (11th Cir. 1998); and Willis 
+v. Conopco, Inc., 108 F.3d 282 (11th Cir. 1997). 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 9 of 21
+10 
+ 
+accommodation if an employee does not require an accommodation to perform his 
+essential job functions. Nevertheless, the Beasley opinion does not provide 
+substantial guidance on this issue because it says “[n]othing, really” to settle the 
+debate. Beasley, 69 F.4th at 760. In any event, because the Court finds that Plaintiff 
+caused a breakdown in the interactive process in this case, the Court need not decide 
+whether an employer is required to provide an accommodation when an employee 
+can perform the essential functions of his job—albeit, with some difficulty—without 
+an accommodation. This is true regardless of whether the D’Onofrio line of cases, 
+as Plaintiff contends, are distinguishable from this case. [Doc. 55 at 8–16]. 
+ 
+The Magistrate Judge found, and Plaintiff contests, that “[P]laintiff caused a 
+breakdown in the interactive process.” [Doc. 53 at 30]. Plaintiff instead contends 
+that the R&R “ignores facts from which a reasonable jury could conclude that it was 
+the Defendant who caused the breakdown in the interactive process, not [Plaintiff].” 
+[Doc. 55 at 22]. 
+ 
+The undisputed evidence shows that Defendant initiated the interactive 
+process on August 12, 2021, when it met with Plaintiff, advised him that his request 
+to work with a service dog would not be approved, and offered him the USCAN 
+position.2 [Doc. 43 at ¶¶ 19, 32]; Owens v. Governor’s Off. of Student Achievement, 
+ 
+2 A USCAN cashier works inside the store and “make[s] sure store customers in the 
+self-check-out lines are getting checked out right” and “check[s] ID[s] if individual 
+customers are buying alcohol.” [Doc. 43 at ¶ 20].  
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 10 of 21
+11 
+ 
+52 F.4th 1327, 1334 (11th Cir. 2022) (quoting 29 C.F.R. § 1630.2(o)(3)) (describing 
+the employer’s obligation to “‘initiate an informal, interactive process’ with the 
+employee to discuss the employee’s specific limitations, explore potential 
+accommodations, and select the most appropriate accommodation for both the 
+employer and the employee.”). It is also undisputed that, at that meeting, Plaintiff 
+“made it clear to [Defendant] that he would not accept any accommodation or 
+position that did not include bringing the dog to work with him.” [Doc. 43 at ¶¶ 22–
+23]. By doing this, Plaintiff limited the “universe” of potential accommodations to a 
+single accommodation—one that Defendant did not find acceptable. Owens, 52 
+F.4th at 1335 (emphasis added) (“[W]hen an employee triggers an employer’s 
+accommodation duties, the employer must expend time and expense to explore the 
+universe of reasonable accommodations, identify one that is mutually agreeable to 
+the parties, and implement it.”). 
+ 
+The law is clear: an employee is “not entitled to the accommodation of her 
+choice, but only to a reasonable accommodation.” Stewart v. Happy Herman’s 
+Cheshire Bridge, Inc., 117 F.3d 1278, 1286 (11th Cir. 1997) (quoting Lewis v. Zilog, 
+Inc., 908 F. Supp. 931, 947 (N.D. Ga. 1995)). By limiting the universe of potential 
+accommodations to one, Plaintiff caused a breakdown of the interactive process and 
+foreclosed Defendant from offering a “[reasonable accommodation] that [was] 
+mutually agreeable to the parties.” Owens v. Governor’s Off. of Student 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 11 of 21
+12 
+ 
+Achievement, 52 F.4th 1327, 1335 (11th Cir. 2022). This fact is fatal to Plaintiff’s 
+failure to accommodate claim. See D’Onofrio v. Costco Wholesale Corp., 964 F.3d 
+1014, 1022 (11th Cir. 2020) (“Under the ADA, an employer will not be liable for 
+failure to accommodate if the employee is responsible for the breakdown of the 
+interactive process.”). 
+ 
+A reasonable jury could not conclude otherwise as Plaintiff contends, even if 
+Defendant offered Plaintiff only one alternative (the USCAN position), and even if 
+Plaintiff told Defendant that he could not perform the USCAN position because of 
+his disability. [Doc. 55 at 23]. Unlike Plaintiff, Defendant did not foreclose all 
+available alternatives that could be discussed in the future by anticipatorily denying 
+those that did not involve bringing a service dog to work. Rather, Defendant opted 
+to “discuss alternatives with Plaintiff and move forward with a different 
+accommodation for Plaintiff other than the service dog,” but was prevented from 
+doing so because of Plaintiff’s insistence on his one and only desired 
+accommodation. [Doc. 43 at ¶ 31].  
+ 
+Additionally, a reasonable jury could not find, as Plaintiff contends, that 
+Defendant caused the breakdown in the interactive process. [Doc. 55 at 23–24]. 
+When Plaintiff made clear at the August 12, 2021, meeting that he would not accept 
+any accommodations that did not include a service dog, he caused the breakdown in 
+the interactive process. See Stewart v. Happy Herman’s Cheshire Bridge, Inc., 117 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 12 of 21
+13 
+ 
+F.3d 1278, 1287 (11th Cir. 1997) (holding that an employee caused the breakdown 
+in the interactive process when she “simply demanded that [her employer] 
+capitulate” to her desired accommodation).3 Even if Plaintiff ended the August 12, 
+2021, meeting by indicating that he would wait to hear other options from 
+Defendant, he had already foreclosed Defendant from proposing a “mutually 
+agreeable” accommodation by indicating that he would not accept any 
+accommodation that did not include a service dog. Owens v. Governor’s Off. of 
+Student Achievement, 52 F.4th 1327, 1335 (11th Cir. 2022); [Doc. 55 at 23].  
+ 
+The Court similarly rejects Plaintiff’s argument that a reasonable jury could 
+conclude that “Defendant’s blatantly hollow and insincere offer of an 
+‘accommodation’ that [it] knew would be ineffective was not ‘reasonable’ and 
+therefore a failure to engage in the interactive process.” [Doc. 55 at 24]. The purpose 
+of the interactive process is to “discuss the employee’s specific limitations [and] 
+explore potential accommodations.” Owens v. Governor’s Off. of Student 
+Achievement, 52 F.4th 1327, 1334 (11th Cir. 2022). That is precisely what Defendant 
+initiated: a discussion about potential accommodations. [Doc. 43 at ¶¶ 19, 31]. And, 
+ 
+3 To the extent that Plaintiff objects to the Magistrate Judge’s reliance on Stewart 
+because the facts of that case differ from the facts in this case, Plaintiff’s objection 
+is overruled. [Doc. 55 at 22–23]. The operative holding and facts that the Magistrate 
+Judge referenced from that case are applicable here. See [Doc. 53 at 30–31]. Namely, 
+Plaintiff, like the employee in Stewart, demanded that his employer acquiesce to his 
+desired accommodation. See Stewart, 117 F.3d at 1280–83. 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 13 of 21
+14 
+ 
+as discussed above, Plaintiff caused the breakdown in this process. Plaintiff cannot 
+now benefit from the lack of results generated by the interactive process after he 
+caused the process to fail in its infancy before other alternatives could be discussed. 
+The Court agrees with the Magistrate Judge’s assessment: “The defendant believed 
+that offering plaintiff a USCAN position could have met plaintiff’s expressed need 
+for stability. (PSAMF ¶ 68.). . . . However, [Defendant] never got to explore that 
+alternative because plaintiff would only accept an accommodation that included his 
+service animal. (DR-PSAMF ¶ 68.)[.]” [Doc. 53 at 9]. In sum, Defendant cannot be 
+liable because it “d[id] not obstruct an informal interactive process[,] ma[de] 
+reasonable efforts to communicate with the employee and provide accommodations 
+based on the information it possesse[d,] and the employee’s actions cause[d] a 
+breakdown in the interactive process.” Stewart v. Happy Herman’s Cheshire Bridge, 
+Inc., 117 F.3d 1278, 1287 (11th Cir. 1997). 
+Finally, as it relates to Plaintiff’s failure to accommodate claim, Plaintiff 
+objects that the Magistrate Judge “ignored persuasive authority that is directly on-
+point” by failing to discuss the Northern District of Alabama’s decision in 
+Hollingsworth v. O’Reilly Auto. Stores, Inc., 2015 WL 412894 (N.D. Ala. Jan. 30, 
+2015). [Doc. 55 at 17]. Plaintiff relied on Hollingsworth in his Response to 
+Defendant’s Motion and claims that it “stands for the proposition that an employer 
+may be obligated to provide reasonable accommodation to an employee even if the 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 14 of 21
+15 
+ 
+employee has been able to perform the essential functions of his job without 
+accommodation.” [Id.]. Plaintiff specifically contends that the Magistrate Judge 
+erred by failing to explain how the D’Onofrio line of cases is consistent with the 
+Hollingsworth decision. [Id.]. 
+ 
+As an initial matter, when questions of federal law are at issue, this Court is 
+bound only by decisions of the Eleventh Circuit and the Supreme Court. See 
+McGinley v. Houston, 361 F.3d 1328, 1331 (11th Cir. 2004) (“[A] district judge’s 
+decision neither binds another district judge nor binds him.”). And, while it is true 
+that other district court decisions are often persuasive, it is not this Court’s duty to 
+reconcile other district courts’ decisions with Eleventh Circuit precedent. That task 
+is uniquely reserved for the Eleventh Circuit when a party to an action files an 
+appeal.4 Therefore, the Magistrate Judge did not err by omitting discussion of 
+Hollingsworth or by failing to explain how that case squares with the Eleventh 
+Circuit’s precedent.  
+Moreover, because the Court grants summary judgment on Plaintiff’s failure 
+to accommodate claim based on Plaintiff causing the breakdown in the interactive 
+ 
+4 Importantly, the defendant in Hollingsworth did not appeal the district court’s 
+denial of summary judgment in its favor. See Docket in 4:13-CV-01623-KOB, N.D. 
+Ala; see also Coleman v. Hillsborough Cnty., 41 F.4th 1319, 1324 (11th Cir. 2022) 
+(quoting Schmelz v. Monroe Cnty., 954 F.2d 1540, 1542 (11th Cir. 1992)) (“[A]n 
+order denying a motion for summary judgment is not an appealable final order.”). 
+Thus, the Eleventh Circuit never had the opportunity to review the district judge’s 
+decision. 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 15 of 21
+16 
+ 
+process, Hollingsworth retains little relevance to this case. In Hollingsworth, the 
+employee requested accommodations on several occasions, but his requests were 
+ignored and belittled. See Hollingsworth, 2015 WL 412894 at *2 (explaining that 
+the employee’s manager “failed to take any steps to insure that [the employee] 
+received assistance lifting heavy items,” and the employee’s two phone calls to the 
+employer’s human resources department were never returned). Here, Defendant 
+chose to “discuss alternatives with Plaintiff and move forward with a different 
+accommodation for Plaintiff other than the service dog,” but “Plaintiff made it clear 
+to [Defendant] that he would not accept any accommodation or position that did not 
+include bringing the dog to work with him.” [Doc. 43 at ¶¶ 23, 31]. Because of these 
+disparate facts, the Court declines to follow Hollingsworth. 
+B. Summary Judgment is Proper on Plaintiff’s ADA Retaliation Claim. 
+ 
+The Magistrate Judge recommended that Plaintiff’s retaliation claim be 
+dismissed on two independent grounds. See [Doc. 53 at 32–34].  First, the Magistrate 
+Judge found that Plaintiff failed to present evidence showing that Defendant 
+terminated his employment because he sought accommodation. [Id. at 33]. The 
+Magistrate Judge instead found that the undisputed facts show that Plaintiff was 
+placed on leave after he informed Defendant that he would only accept an 
+accommodation allowing him to use a service dog at work, and Defendant 
+terminated Plaintiff’s employment when he exhausted his leave and had not returned 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 16 of 21
+17 
+ 
+to work. [Id.]. Second, the Magistrate Judge recommended that Plaintiff’s retaliation 
+claim be dismissed because the facts supporting it are the same as those supporting 
+his failure to accommodate claim. [Id. at 33–34].  
+ 
+Plaintiff has not objected to the Magistrate Judge’s recommendation that his 
+retaliation claim be dismissed because it is based on the same facts as his failure to 
+accommodate claim. [Id.]. After reviewing the Magistrate’s finding on this point for 
+clear error, the Court finds none. Accordingly, the Court adopts the Magistrate 
+Judge’s finding as the opinion of this Court. Although this is a sufficient and 
+independent ground for dismissing Plaintiff’s retaliation claim, the Court will also 
+consider Plaintiff’s objections to the remainder of the Magistrate Judge’s findings as 
+to his retaliation claim. Before considering those objections, a discussion of the 
+standard governing retaliation claims is necessary. 
+“To establish a prima facie case of retaliation, a plaintiff must show: (1) 
+statutorily protected expression; (2) adverse employment action; and (3) a causal 
+link between the protected expression and the adverse action.” Stewart v. Happy 
+Herman’s Cheshire Bridge, Inc., 117 F.3d 1278, 1287 (11th Cir. 1997). In the 
+context of requesting disability accommodations, a plaintiff engages in statutorily 
+protected expression if he shows “that he had a good faith, objectively reasonable 
+belief that he was entitled to [his requested] accommodations under the ADA.” 
+Standard v. A.B.E.L. Servs., Inc., 161 F.3d 1318, 1328 (11th Cir. 1998). If the 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 17 of 21
+18 
+ 
+plaintiff establishes a prima facie case, “the burden then shifts to the defendant 
+employer to come forward with legitimate non-discriminatory reasons for its actions 
+that negate the inference of retaliation.” Stewart, 117 F.3d at 1287. If the employer 
+produces such evidence, “[t]he plaintiff must then demonstrate that it will be able to 
+establish at trial that the employer’s proffered non-discriminatory reasons are a 
+pretextual ruse designed to mask retaliation.” Id.  
+ 
+There is no dispute here that Plaintiff has satisfied the first two elements of a 
+prima facie retaliation claim by engaging in statutorily protected expression 
+(requesting an accommodation) and suffering an adverse employment action (having 
+his employment terminated). Thus, the remaining issues are causation and the 
+burden-shifting analysis. See Stewart, 117 F.3d at 1287. As it relates to causation, 
+the Magistrate Judge found, and Plaintiff contests, that “there is no probative 
+evidence that plaintiff was separated from employment because he sought 
+accommodation.” [Doc. 53 at 33]. Plaintiff objects that the Magistrate Judge 
+“ignore[d] a clear chain of admissions” from which a reasonable jury could conclude 
+that, “had [Plaintiff] not requested the use of a service dog, Defendant would never 
+have placed him on leave or ultimately terminated his employment.” [Doc. 55 at 21–
+22]. 
+ 
+The Court agrees with Plaintiff that he has produced sufficient evidence to 
+show a causal connection between his request for accommodation and his firing.  
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 18 of 21
+19 
+ 
+[Doc. 55 at 21–22]. “To establish a causal connection, a plaintiff must show that the 
+relevant decisionmaker was ‘aware of the protected conduct, and that the protected 
+activity and the adverse actions were not wholly unrelated.’” Kidd v. Mando Am. 
+Corp., 731 F.3d 1196, 1211 (11th Cir. 2013) (quoting Shannon v. Bellsouth 
+Telecomm.., Inc., 292 F.3d 712, 716 (11th Cir. 2002)).5 This requires Plaintiff to 
+make a showing of “but-for causation.” Frazier-White v. Gee, 818 F.3d 1249, 1258 
+(11th Cir. 2016). Here, the undisputed facts show that Plaintiff was placed on leave 
+so that he could “reconsider and engage in further discussion with Food City to 
+identify other alternatives that would meet his needs besides the service dog, such 
+as the USCAN position.” [Doc. 43 at ¶ 38]. The undisputed facts further show that 
+Defendant terminated Plaintiff “for failing to return from leave.” [Doc. 50 at ¶ 75]. 
+In other words, but for Plaintiff’s request for an accommodation, he would not have 
+been placed on leave, and but for his failure to return from that leave, he would not 
+have been fired. Thus, in a technical sense, the Court cannot say that Plaintiff’s 
+request for accommodation and his firing were “wholly unrelated.” Kidd, 731 F.3d 
+at 1211. 
+ 
+5 Although Kidd is a Title VII retaliation case, courts in the Eleventh Circuit “assess 
+ADA retaliation claims under the same framework we employ for retaliation claims 
+arising under Title VII.” Stewart v. Happy Herman’s Cheshire Bridge, Inc., 117 F.3d 
+1278, 1287 (11th Cir. 1997). 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 19 of 21
+20 
+ 
+ 
+However, the Court finds that Defendant has “come forward with legitimate 
+non-discriminatory reasons for its actions that negate the inference of retaliation,” 
+and Plaintiff has failed to “demonstrate that it will be able to establish at trial that 
+the employer’s proffered non-discriminatory reasons are a pretextual ruse designed 
+to mask retaliation.” Stewart, 117 F.3d at 1287. Plaintiff and Defendant agree that 
+Plaintiff “was terminated by Defendant effective February 14, 2022, for failing to 
+return from leave.” [Doc. 50 at ¶ 75].6 Plaintiff’s failure to return to work (i.e., his 
+absenteeism) is a legitimate and non-discriminatory reason to terminate his 
+employment. See Cunningham v. Nature’s Earth Pellets, L.L.C., 433 F. App’x 751, 
+753 (11th Cir. 2011) (finding that the plaintiff’s “history of absenteeism” was a  
+legitimate reason to terminate her employment); Wills v. Postmaster General, 300 
+F. App’x 748, 752 (11th Cir. 2008) (“Here, the [employer] offered [the employee’s] 
+excessive absences as a legitimate, nondiscriminatory explanation for its actions, 
+and, therefore, [the employee] was required to demonstrate that that reason was 
+pretextual.”). Plaintiff has failed to introduce any evidence that “meet[s] that reason 
+ 
+6 Defendant placed Plaintiff on a leave of absence on August 18, 2021. [Doc. 43 at 
+¶ 38]. As it relates to Defendant’s policy for personal leave, David Ellison, a Senior 
+Human Resources Specialist for Defendant, testified at his deposition that an 
+employee may take up to two personal leaves of 90 days in a 365-day calendar year 
+(for a total of 180 days of leave). [Doc. 29-5 at 10:18–20; 18:4–11; 70:13–17]. Mr. 
+Ellison testified that “[o]nce those leaves are, you know, exhausted and someone 
+does not return to work they are, you know, terminated.” [Id. at 60:2–5]. Plaintiff’s 
+180 days of leave expired on February 14, 2022, and he did not return to work. [Id. 
+at 70:18–20; Doc. 43 at ¶ 40]. 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 20 of 21
+21 
+ 
+head on and rebut[s] it.” Chapman v. AI Transp., 229 F.3d 1012 , 1030 (11th Cir. 
+2000). Thus, Plaintiff has failed to raise a genuine issue of material fact that 
+Defendant’s proffered reason was a pretext for discrimination. 
+IV. 
+Conclusion 
+For the foregoing reasons, Defendant’s Motion for Summary Judgment [Doc. 
+29] is GRANTED. 
+ 
+IT IS SO ORDERED, this 8th day of December, 2023. 
+ 
+Case 4:22-cv-00179-WMR     Document 57     Filed 12/08/23     Page 21 of 21

@@ -1,0 +1,783 @@
+1 
+ 
+IN THE UNITED STATES DISTRICT COURT 
+NORTHERN DISTRICT OF GEORGIA 
+AT ROME 
+ 
+CHRISTOPHER MATTHEW BATTEN, ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+Plaintiff, 
+ 
+ 
+ 
+ 
+) 
+Case No. 4:22-cv-00179 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+v. 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+JURY DEMANDED 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+K-VA-T FOOD STORES, INC. d/b/a 
+) 
+FOOD CITY, 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+Defendant.  
+ 
+ 
+ 
+) 
+__________________________________________________________________ 
+PLAINTIFF’S MEMORANDUM OF LAW IN OPPOSITION TO 
+DEFENDANT’S MOTION FOR SUMMARY JUDGMENT 
+__________________________________________________________________ 
+ 
+ 
+Plaintiff, Christopher Matthew Batten, by and through undersigned counsel, 
+hereby files this Memorandum of Law in Opposition to Defendant’s Motion to 
+Summary Judgment. 
+I. 
+FACTUAL BACKGROUND 
+ 
+Matthew Batten was involved in a horrific motorcycle crash in 2014. (Batten 
+Affidavit 1¶ 2). The crash caused Mr. Batten to need dozens of surgeries to install 
+hardware and screws throughout the right side of his body. (Batten Affidavit ¶ 3). 
+Eventually, the injuries he suffered in the crash caused Mr. Batten to have to have 
+ 
+1 All references to “Batten Affidavit” are to the Affidavit of Christopher Matthew 
+Batten are attached as Exhibit A, which is being filed herewith. 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 1 of 25
+2 
+ 
+his right arm amputated. (Batten Affidavit ¶ 4). Mr. Batten has a neurostimulator 
+implant for pain. (Batten Dep2. 59:12-60:6). Mr. Batten needs a job with a chair and 
+the ability to sit down because of his condition. (Batten Dep. 20:24-21:19). Mr. 
+Batten has an altered gait as a result of his condition. (Batten Dep. 21:5-11). 
+During the almost three years that Mr. Batten worked for Food City, he was 
+able to perform the essential functions of his position, but doing so caused him 
+constant pain. Furthermore, performing the essential functions of his job put him at 
+risk for falling and injuring himself because of the effects that his disability have on 
+his ability to ambulate. (Batten Affidavit ¶ 17). 
+Parts of Mr. Batten’s job with Defendant were particularly painful to perform 
+because of his condition. (Batten Dep. 29:6-19). On multiple occasions while 
+performing his job for Defendant, Mr. Batten has stumbled and fallen. (Batten Dep. 
+31:20-32:13, 84:6-20). Mr. Batten’s difficulty in performing some tasks of his job 
+remained consistent during his employment with Defendant. (Batten Dep. 34:20-
+25). 
+Working in the fuel kiosk gave Mr. Batten the needed opportunity to sit or 
+stand as needed for his condition. (Batten Dep. 35:6-12). Mr. Batten had put in his 
+ 
+2 All references to “Batten Dep.” are to the deposition of Christopher Matthew 
+Batten, which was taken on January 11, 2023. Cited excerpts from this deposition 
+are attached as Exhibit B, which is being filed herewith. 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 2 of 25
+3 
+ 
+request for a service dog around the beginning of 2017, before he started working 
+for Defendant. (Batten Dep. 60:19-25, 86:1-6).  
+On August 6, 2021, Mr. Batten met with Mr. David Ellison and Gary Richards. 
+(Batten Affidavit ¶ 5). During that meeting, Mr. Ellison asked Mr. Batten about his 
+ability to do his job. (Batten Dep. 69:11-14). In that August 6 meeting, Mr. Batten 
+told Mr. Ellison that he had issues related to anxiety, isolation, and stability. (Batten 
+Affidavit ¶ 6). In that August 6 meeting, Mr. Batten told Mr. Ellison that he had 
+fallen “maybe five times” while at work because of the stability issues caused by the 
+extensive hardware in the right side of his body. (Batten Affidavit ¶ 7; Ellison Dep3. 
+36:1-15). 
+In that August 6 meeting, Mr. Batten told Mr. Ellison that his service animal 
+can detect when Mr. Batten is beginning to have a “lock down panic attack” and can 
+assist him with that. (Batten Affidavit ¶ 8). In that August 6 meeting, Mr. Batten told 
+Mr. Ellison that his service animal provided stability to prevent falls and also was 
+there to help him get back up if necessary. (Batten Affidavit ¶ 9; Ellison Dep. 36:18-
+23, 37:4-10). In fact, Mr. Batten’s service dog is specifically trained to help him as 
+a “stabilizer” and to help him get back up if he falls. (Batten Dep. 85:9-17). 
+ 
+3 All references to “Ellison Dep.” are to the deposition of David Gary Ellison, 
+which was taken on January 11, 2023. Cited excerpts from this deposition are 
+attached as Exhibit C which is being filed herewith. 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 3 of 25
+4 
+ 
+On August 12, 2021, Mr. Batten met with Mr. David Ellison and Gary 
+Richards. (Batten Affidavit ¶ 10). In that August 12 meeting, Mr. Ellison told Mr. 
+Batten that the request for his service animal was being denied. (Batten Affidavit ¶ 
+11). In that August 12 meeting, Mr. Ellison offered Mr. Batten a position inside the 
+store in the USCAN Cashier position to help with Mr. Batten’s anxiety. (Batten 
+Affidavit ¶ 12). The USCAN position did not accommodate Mr. Batten’s instability 
+issues related to his disability. (Richards Dep4. 56:3-6).  
+In response to the offer of the USCAN Cashier position, Mr. Batten told Mr. 
+Ellison that he has screws and hardware throughout the right side of his body as well 
+as Complex Regional Pain Syndrome. (Batten Affidavit ¶ 13). Mr. Batten told Mr. 
+Ellison that “standing for an extended period of time doesn’t work.” (Batten 
+Affidavit ¶ 14). Mr. Batten told Mr. Ellison that he could not physically perform the 
+USCAN Cashier position. (Batten Affidavit ¶ 15). Before the August 12, 2021 
+meeting ended, Mr. Batten told Mr. Ellison “I guess, at this time, I have to wait for 
+whatever you guys come up with . . . .” (Batten Affidavit ¶ 16). 
+The Gas ‘N’ Go fuel clerk position was the only position offered by Defendant 
+that allowed Mr. Batten to sit and stand as needed for his disability. (Richards Dep. 
+56:7-10). Without modifications, the USCAN Attendant position is an all-standing 
+ 
+4 All references to “Richards Dep.” are to the deposition of Gary Richards, which 
+was taken on January 12, 2023. Cited excerpts from this deposition are attached as 
+Exhibit D, which is being filed herewith. 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 4 of 25
+5 
+ 
+position that does not utilize a chair or stool. (Richards Dep. 55:2-7, 57:2-5; Ellison 
+Dep. 45:3-5; Meadows Dep5. 71:9-13; Food City 30(b)(6) Dep6. 58:23-59:2). 
+Mr. Batten did not give Defendant an ultimatum. Mr. Batten said that the 
+USCAN position would not work for him because he could not physically do it, and 
+could not “be on his feet for prolonged periods of time.” (Ellison Dep. 45:6-16, 
+47:18-23, 51:15-20). Mr. Batten made it abundantly clear that he had a physical 
+condition that would prevent him from standing for long periods of time in the 
+USCAN Attendant position. (Food City 30(b)(6) Dep. 61:3-7; 65:19-23). 
+At no time did Defendant offer to modify the USCAN position to allow Mr. 
+Batten the use of a chair, stool, or other assistive device. (Food City 30(b)(6) Dep. 
+59:6-10, 61:8-62:7; Ellison Dep. 45:24-46:1). Defendant never had any plan or 
+intention to offer Mr. Batten a stool, chair, cane or other assistive device in the 
+USCAN Attendant position. (Food City 30(b)(6) Dep. 63:9-24; Ellison Dep. 46:5-
+9). 
+ 
+5 All references to “Meadows Dep.” are to the deposition of Donnie Meadows, 
+which was taken on January 27, 2023. Cited excerpts from this deposition are 
+attached as Exhibit E to Plaintiff’s Memorandum of Law in Opposition to 
+Defendant’s Motion for Summary Judgment, which is being filed herewith. 
+6 All references to “Food City 30(b)(6) Dep.” are to the deposition of Food City’s 
+Corporate Representative Sherrell Lyon, Jr., which was taken on March 3, 2023. 
+Cited excerpts from this deposition are attached as Exhibit F to Plaintiff’s 
+Memorandum of Law in Opposition to Defendant’s Motion for Summary 
+Judgment, which is being filed herewith. 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 5 of 25
+6 
+ 
+Donnie Meadows was the Defendant’s Vice President of Human Resources. 
+(Meadows Dep. 12:7-9). Mr. Meadows made the ultimate decision to deny Mr. 
+Batten’s request for the use of his service animal. (Meadows Dep. 40:4-17). Mr. 
+Meadows admitted that Mr. Batten was a “qualified employee” under Defendant’s 
+ADA policy. (Meadows Dep. 42:21-43:12).  
+Mr. Meadows admitted that the decision to deny Mr. Batten the use of his 
+service animal was not made based on a finding that it would have constituted an 
+undue burden to Defendant. (Meadows Dep. 43:22-44:6). Neither Mr. Meadows nor 
+anyone else at Food City ever made the determination that Mr. Batten’s use of the 
+service dog would constitute any burden on Food City, undue or otherwise. 
+(Meadows Dep. 45:12-19). In fact, Mr. Meadows stated that he had absolutely no 
+problem with Mr. Batten’s use of his service animal. (Meadows Dep. 44:23-45:1).  
+Prior to denying Mr. Batten’s request for the use of his service dog, Food City 
+never made or communicated a determination that Mr. Batten’s use of his service 
+dog would cause an undue hardship on Food City. (Food City 30(b)(6) Dep. 39:7-
+20). The Store Manager, Gary Richards, could not think of any reason why it would 
+be a problem for Mr. Batten, as the fuel clerk, to have his service animal with him in 
+the kiosk. (Richards Dep. 29:25-30:7). 
+Prior to Mr. Batten’s request being formally denied, Mr. Batten was allowed 
+to bring his service dog to work with him for about a week. (Richards Dep. 37:7-16, 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 6 of 25
+7 
+ 
+40:25-41:10). Mr. Batten worked for a full week with his service dog without 
+incident before Defendant decided to deny his request to have the service dog. 
+(Richards Dep. 54:3-6).  
+Defendant understood Mr. Batten’s request for a service animal as it pertained 
+to his disability related to his anxiety, isolation, and stability. (Food City 30(b)(6) 
+Dep. 57:6-10). Defendant understood that any proposed accommodation would need 
+to address Mr. Batten’s anxiety, isolation, and stability. (Food City 30(b)(6) Dep. 
+57:11-15).  
+Mr. Meadows testified that Defendant offered Mr. Batten the alternative 
+accommodation of the USCAN position to “meet his need for stability.” (Meadows 
+Dep. 45:20-46:2). Defendant knew, however, that without modification, the USCAN 
+Attendant position would not address Mr. Batten’s stability concerns. (Food City 
+30(b)(6) Dep. 62:8-12; Richards Dep. 56:3-6). 
+After Mr. Batten informed Defendant that the USCAN position was not 
+appropriate because he couldn’t physically stand all the time, Defendant never 
+responded with any proposed modification to the USCAN position. (Meadows Dep. 
+100:21-101:6). Mr. Batten was terminated by Defendant effective February 14, 
+2022, for failing to return from leave. (Ellison Dep. 62:6-63:16). 
+Defendant selected a non-disabled employee to fill Mr. Batten’s position as 
+the Fuel Clerk after he was terminated. (Food City 30(b)(6) Dep. 70:12-19). 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 7 of 25
+8 
+ 
+II. 
+SUMMARY JUDGMENT STANDARD 
+ 
+ 
+The granting of a motion for summary judgment is “only appropriate when 
+‘there is no genuine issue as to any material fact and … the moving party is entitled 
+to a judgment as a matter of law.’” Schoenfeld v. Babbitt, 168 F.3d 1257, 1264 (11th 
+Cir. 1999) (emphasis added) (quoting Fed. R. Civ. P. 56(c); Celotex Corp. v. Catrett, 
+477 U.S. 317, 322 (1986)). “A genuine issue of material fact exists when ‘the 
+evidence is such that a reasonable jury could return a verdict for the non[] moving 
+party.’” Rogers v. Mentor Corp., 682 Fed. Appx. 701, 708 (11th Cir. 2017) (quoting 
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986)). In examining the record 
+on such a motion, the Court views the evidence in “the light most favorable to the 
+non-moving party.” Schoenfeld, 168 F.3d at 1264, and resolves all reasonable doubts 
+in favor of the non-moving party. Change v. Midtown Neurology, P.C., No. 1:19-cv-
+00885-SCJ, 2021 U.S. Dist. LEXIS 115658, at *6 (N.D. Ga. 2021). Granting a 
+motion for summary judgment is only appropriate “if a case is ‘so one-sided that one 
+party must prevail as a matter of law.’” Rogers, 682 Fed. Appx. at 708 (quoting 
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 251-52 (1986). 
+III. 
+APPLICABLE LAW 
+ 
+McDonnel Douglas  
+ 
+ 
+In employment discrimination and retaliation cases, Plaintiffs may rely on 
+direct or indirect evidence of discrimination to support their claims. de la Cruz v. 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 8 of 25
+9 
+ 
+Children's Trust, 843 F. Supp. 2d 1273, 1281 (S.D. Fla. 2012). Where a plaintiff 
+relies on indirect (circumstantial) evidence, the claim is generally subject to the 
+burden-shifting analysis outlined by the United States Supreme Court in McDonnell 
+Douglas Corp. v. Green, 411 U.S. 792 (1973). Wilson v. B/E Aero., Inc., 376 F.3d 
+1079, 1087 (11th Cir. 2004). Direct evidence is defined as “evidence which reflects 
+‘a discriminatory or retaliatory attitude correlating to the discrimination or retaliation 
+complained of by the employee.’” Id. at 1086 (quoting Damon v. Fleming 
+Supermarkets of Fla., Inc., 196 F.3d 1354, 1358 (11th Cir. 1999)). It is evidence that 
+“if believed, proves [the] existence of [a] fact without inference or presumption.” Id. 
+(quoting Burrell v. Bd. of Trustees of Ga. Military Coll., 125 F.3d 1390, 1393 (11th 
+Cir. 1997)).  
+ 
+If a plaintiff presents sufficient evidence to establish a prima facie case, then 
+the burden shifts to the Defendant to provide a “a legitimate, nondiscriminatory 
+reason for its adverse actions. Davidson v. CHSPSC LLC, 861 Fed. Appx. 306, 311 
+(11th Cir. 2021). The Plaintiff must then establish that the Defendant’s stated reason 
+was false and that the real reason was discrimination. Id. This “pretext” can be shown 
+by 
+demonstrating 
+“‘such 
+weaknesses, 
+implausibilities, 
+inconsistencies, 
+incoherencies, or contradictions in [the employer's] proffered legitimate reasons for 
+its action that a reasonable factfinder could find them unworthy of credence.’” Id. 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 9 of 25
+10 
+ 
+(quoting Springer v. Convergys Customer Mgmt. Grp. Inc., 509 F.3d 1344, 1348 
+(11th Cir. 2007)).  
+ 
+Significantly, Courts in the 11th Circuit hold that the McDonnell Douglas 
+framework “is not, and was never intended to be the sine qua non for a plaintiff to 
+survive summary judgment in an employment discrimination case.” Id. (quoting 
+Smith v. Lockheed-Martin Corp., 644 F.3d 1321, 1328 (11th Cir. 2011)). Such a 
+plaintiff may survive summary judgment if he presents “a convincing mosaic of 
+circumstantial evidence that would allow a jury to infer intentional discrimination 
+by the decisionmaker.” Id. (quoting Smith v. Lockheed-Martin Corp., 644 F.3d 1321, 
+1328 (11th Cir. 2011)). Among “other things,” this “mosaic” may consist of evidence 
+showing “(1) suspicious timing, ambiguous statements, and other bits and pieces 
+from which an inference of discriminatory intent might be drawn, (2) systemically 
+better treatment of similarly situated employees, and (3) that the employer’s 
+justification is pretextual.” Id. (quoting Lewis v. City of Union City, Ga., 934 F.3d 
+1169, 1185 (11th Cir. 2019)).  
+ 
+The 11th Circuit Court of Appeals has held that the McDonnell Douglas 
+framework does not govern claims of disability discrimination under the ADA, 
+including failure to accommodate.  Nadler v. Harvey, No. 06-12692, 2007 U.S. App. 
+LEXIS 20272, at *28 (11th Cir. 2007). Therefore, on such claims, once the Plaintiff 
+has proffered sufficient evidence to support a prima facie case, “summary judgment 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 10 of 25
+11 
+ 
+is inappropriate.” Hollingsworth v. O'Reilly Auto. Stores, Inc., No. 4:13-CV-01623-
+KOB, 2015 U.S. Dist. LEXIS 10956, at *25 (N.D. Al. 2015). 
+ADA Discrimination 
+ 
+In the 11th Circuit, to establish a prima facie case of ADA discrimination, a 
+plaintiff must show that he “(1) was disabled; (2) was a qualified individual; and (3) 
+was discriminated against because of [his] disability.” Davidson, 861 Fed. Appx. at 
+310. A “qualified individual” is defined as “an individual who, with or without 
+reasonable accommodation, can perform the essential functions of the employment 
+position that such individual holds or desires.” 42 USCS § 12111(8). This requires a 
+plaintiff to establish “either that he can perform the essential functions of his job 
+without accommodation, or . . . that he can perform the essential functions of his job 
+with a reasonable accommodation.” McKane v. UBS Fin. Servs., Inc., 363 Fed. Appx. 
+679, 681 (11th Cir. 2010) (emphasis added) (quoting Davis v. Fla. Power & Light 
+Co., 205 F.3d 1301, 1305 (11th Cir. 2000)).  
+Failure to Accommodate  
+ 
+ 
+In the 11th Circuit, a failure by an employer to provide reasonable 
+accommodation to a disabled person is itself a form of discrimination under the ADA 
+“so long as that individual is ‘otherwise qualified,’ and unless the employer can show 
+undue hardship.” Holly v. Clairson Indus., L.L.C., 492 F.3d 1247, 1262 (11th Cir. 
+2007). To establish a prima facie case of ADA discrimination by failure to 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 11 of 25
+12 
+ 
+accommodate, a plaintiff must show that “(1) he is disabled; (2) he is a qualified 
+individual; and (3) he was discriminated against by way of the defendant’s failure to 
+provide a reasonable accommodation.” McKane v. UBS Fin. Servs., Inc., 363 Fed. 
+Appx. 679, 681 (11th Cir. 2010).  
+ 
+A “reasonable accommodation” is defined to include: 
+(A) making existing facilities used by employees readily accessible to 
+and usable by individuals with disabilities; and 
+(B) job restructuring, part-time or modified work schedules, 
+reassignment to a vacant position, acquisition or modification of 
+equipment or devices, appropriate adjustment or modifications of 
+examinations, training materials or policies, the provision of qualified 
+readers or interpreters, and other similar accommodations for 
+individuals with disabilities. 
+ 
+42 USCS § 12111(9).  
+ 
+A requested accommodation is “reasonable and required only if it enables the 
+employee to perform an essential function of the job.” McKane, Inc., 363 Fed. Appx. 
+at 681 (quoting Lucas v. W.W. Grainger, Inc., 257 F.3d 1249, 1255 (11th Cir. 2001)). 
+This is true, even if the employee has been able in the past to perform the essential 
+functions of his job without accommodation. (See infra pp. 18-19). 
+ADA Retaliation 
+ 
+In the 11th Circuit, to establish a prima facie case of ADA retaliation in 
+employment, a plaintiff must show that he (1) engaged in statutorily protected 
+conduct, (2) suffered an adverse employment action, and (3) that there is a causal 
+connection between the two. Todd v. Fayette Cty. Sch. Dist., 998 F.3d 1203, 1219 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 12 of 25
+13 
+ 
+(11th Cir. 2021) (citing Farley v. Nationwide Mut. Ins. Co., 197 F.3d 1322, 1336 
+(11th Cir. 1999)). Requesting an accommodation is protected activity so long as the 
+Plaintiff has a good faith belief that he is entitled to the accommodation. Jeter v. 
+Dixie, No. 1:13cv197-MEF, 2013 U.S. Dist. LEXIS 128185, at *10 (M.D. Al. 2013).  
+IV. 
+LEGAL ARGUMENT 
+ 
+A. Plaintiff is a “Qualified Individual” Under the Law and Entitled to 
+Reasonable Accommodation even Though he had Performed his job 
+Without it. 
+ 
+Defendant argues to this Court that Plaintiff’s request for the use of his service 
+animal was “not a reasonable and required accommodation under the ADA because 
+it was not necessary in order for Plaintiff to perform the essential functions of the 
+fuel clerk position.” (Defendant’s Brief in Support of Defendant K-VA-T’s Motion 
+for Summary Judgment, p. 12). Defendant’s argument on this point is without merit 
+because the governing statutes and caselaw clearly establish that a Plaintiff is not 
+ineligible for reasonable accommodation under the ADA simply because he has been 
+able to perform the essential functions of his job without it. 
+Under the ADA, a “qualified individual” is defined as “an individual who, 
+with or without reasonable accommodation, can perform the essential functions of 
+the employment position that such individual holds or desires.” 42 USCS § 12111(8) 
+(emphasis added). The black letter law unambiguously contemplates a “qualified 
+individual” who is able to perform the essential functions of his job even without an 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 13 of 25
+14 
+ 
+accommodation. Defendant’s argument to this Court would effectively render that 
+language meaningless by requiring this Court to find that a disabled person who can 
+perform his job without accommodation is not a qualified individual under the ADA.  
+Defendant further distorts the caselaw that they cite for this argument. 
+Defendant recites the basic premise that “An accommodation is reasonable and 
+necessary under the ADA only when it enables the employee to perform the essential 
+functions of the position.” (Defendant’s Brief in Support of Defendant K-VA-T’s 
+Motion for Summary Judgment, p. 12). For this premise, Defendant cites to three 
+cases: McKane v. UBS Fin. Servs., Inc., 363 Fed. Appx. 679, 681 (11th Cir. 2010); 
+Holly v. Clairson Industries, LLC, 492 F.3d 1247, 1255 (11th Cir. 2007); and Lucas 
+v. W.W. Grainger, Inc., 257 F.3d 1249 (11th Cir. 2001). Defendant, however, omits a 
+crucial phrase that explains the above premise:  
+“If the individual is unable to perform an essential function of his job, 
+even with an accommodation, he is, by definition, not a ‘qualified 
+individual’ and, therefore, not covered under the ADA. In other words, 
+the ADA does not require the employer to eliminate an essential 
+function of the plaintiff's job.”  
+ 
+Holly v. Clairson Industries, LLC, 492 F.3d 1247, 1255 (11th Cir. 2007). See also, 
+McKane v. UBS Fin. Servs., Inc., 363 Fed. Appx. 679, 681 (11th Cir. 2010) (“Thus, 
+if [the plaintiff] is unable to perform an essential function of his . . . job, even with 
+an accommodation, he is, by definition, not a qualified individual and, therefore, not 
+covered under the ADA.”).  
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 14 of 25
+15 
+ 
+Taken together, the statutory authority and the above-cited caselaw establish 
+that a plaintiff must show that he is able to perform the essential functions of his job 
+because the law does not require the employer to provide an accommodation that, 
+even if granted, would not enable the employee to perform his job.  
+Defendant’s main support for their argument is the decision of the 11th Circuit 
+Court of Appeals in D’Onofrio v. Costco Wholesale Corp., 964 F.3d 1014, 1022 
+(11th Cir., 2020), cert. denied, 2021 U.S. LEXIS 826 (U.S. Feb. 22, 2021). In that 
+case, the Court addressed the plaintiff, D’Onofrio’s, argument that she had been 
+denied reasonable accommodations related to her disability as a deaf person. 
+D’Onofrio, 964 F.3d at 1021. D’Onofrio claimed that although she had had no issues 
+communicating with her managers for “many years,” she began to have 
+communication issues with a new general manager in 2012. Id. at 1016. The Court 
+interpreted this to mean that the communication issues were “new” and related solely 
+to the new manager. Id. at 1017.  
+D’Onofrio made two requests for accommodations related to the 
+communication issues with the new manager: (1) that the new manager be 
+transferred, and (2) that all the other managers be trained on “deaf culture.”  Id. The 
+Court noted that “D'Onofrio did not ask . . . for any other specific accommodation 
+that might help her improve her communications with [the new manager].” Id. The 
+employer “responded appropriately to D’Onofrio’s two requests.” Id. at 1024.  
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 15 of 25
+16 
+ 
+The employer denied the request to transfer the new manager, which the Court 
+declared a “legally permissible response” given that both the EEOC and 11th Circuit 
+caselaw hold that such an action is not a reasonable accommodation. Id. 
+Nevertheless, the employer promised D'Onofrio that it would work to improve the 
+communication with the new manager and followed that up with the installation of 
+specialized equipment in the workplace to aid in her communication with all 
+managers. Id. In response to the second request, the employer agreed to organize 
+deaf-culture training. Id.  
+D'Onofrio argued that these actions by her employer were not reasonable 
+accommodations because she had requested “alternative accommodations that were 
+not granted.” Id. at 1028. The Court, however, noted that “D'Onofrio cites no 
+evidence to show that she requested alternative accommodations that went 
+unfulfilled.” Id. In fact, the Court ultimately affirmed the holding of the district court 
+“because D'Onofrio cannot point to a ‘specific instance in which she needed an 
+accommodation and was denied one.” Id. at 1032 (quoting Batson v. Salvation Army, 
+897 F.3d 1320, 1326 (11th Cir. 2018)).  
+In the present case, Defendant’s main proposition from the D'Onofrio case is 
+that “if an employee does not require an accommodation to perform her essential job 
+functions, then the employer is under no obligation to make an accommodation . . . .” 
+D’Onofrio, 964 F.3d at 1022. Defendant does not, however, point this Court to the 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 16 of 25
+17 
+ 
+two cases cited by the D’Onofrio as support for that proposition. The two 11th Circuit 
+decisions cited by the D’Onofrio Court both involved plaintiffs who had failed to 
+prove that they had a “physical impairment that substantially limited one or more of 
+her major life activities.” Hilburn v. Murata Elecs. N. Am., Inc., 181 F.3d 1220, 1229 
+(11th Cir. 1999). See also, Albright v. Columbia County Bd. of Educ., 135 Fed. Appx. 
+344, 345 (11th Cir. 2005) (“The district court correctly found that [Plaintiff] did not 
+meet the first definition of disability because her condition did not substantially limit 
+a major life activity.”). A narrow reading of the D’Onofrio decision on this point is 
+not only warranted based upon the cases cited by the D’Onofrio court, it is the only 
+reading that does not bring the D’Onofrio decision into conflict with other case law 
+in this jurisdiction. (See infra pp. 18-19).  
+Unlike in D’Onofrio, Mr. Batten did not suddenly develop brand new 
+problems at work related to his disability. Mr. Batten pushed himself to fulfill his job 
+requirements with Defendant despite his disabilities causing him constant pain and 
+causing him to fall on numerous occasions throughout his employment. (Plaintiff’s 
+Statement of Additional Material Facts, ¶ 7-10). Furthermore, unlike in D’Onofrio, 
+Mr. Batten in fact did request a “specific accommodation that might help” with his 
+problems related to his disability. (Plaintiff’s Statement of Additional Material Facts, 
+¶ 25-27). 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 17 of 25
+18 
+ 
+An employer may be obligated to provide a reasonable accommodation to an 
+employee even if the employee has been able to perform the essential functions of 
+his job without accommodation. Hollingsworth v. O'Reilly Auto. Stores, Inc., No. 
+4:13-CV-01623-KOB, 2015 U.S. Dist. LEXIS 10956, at *27 (N.D. Al. 2015). See 
+also, Reaves v. Nexstar Broad., Inc.,7 327 F. Supp. 3d 1352, 1373 (D. Or. 2018) 
+(“[A]n employer may be obligated to provide an accommodation that may prevent a 
+condition from worsening even though the employee could perform the essential 
+functions of the job without the accommodation.”); Nawrot v. CPC Int'l, 259 F. Supp. 
+2d 716 (N.D. Ill. 2003) (court could not conclude as a matter of law on summary 
+judgment that breaks  were not a reasonable accommodation for a diabetic employee 
+to perform the essential functions of his job when without them, the employee might 
+collapse and be unable to perform the job at all); Branson v. West, No. 97-C-3538, 
+1999 U.S. Dist. LEXIS 7343 at *10-12 (N.D. Ill. May 11, 1999) (paraplegic 
+employee whose use of a wheelchair was causing fatigue and other physical ailments 
+requested reasonable accommodation of a service dog). 
+In the Hollingsworth case, the plaintiff brought a claim for failure to 
+accommodate under the ADA. Hollingsworth, No. 4:13-CV-01623-KOB, 2015 U.S. 
+Dist. LEXIS 10956, at *1. The defendant sought summary judgment arguing that the 
+ 
+7 Reaves v. Nexstar Broad, Inc., Nawrot v. CPC Int’l, and Branson v. West are 
+attached as part of the collective Exhibit H, which is being filed herewith. 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 18 of 25
+19 
+ 
+plaintiff “did not need an accommodation because he was able to perform the 
+essential functions of his job without an accommodation.” Id. at *26. The Court 
+noted that although the plaintiff was able to perform the essential functions of his 
+job, “doing so caused him significant pain . . . .” Id. at 27. The Court stressed that an 
+employer “cannot avoid its obligation to provide a reasonable accommodation to [an 
+employee] simply because he was able to endure the pain of performing his job.” Id. 
+The Court found that this created a genuine issue of material fact for trial. Id. at 28.   
+In the present case, Mr. Batten pushed himself to fulfill his job requirements 
+with Defendant despite his disabilities causing him constant pain and causing him to 
+fall on numerous occasions throughout his employment. (Plaintiff’s Statement of 
+Additional Material Facts, ¶ 7-10). The record is clear that Mr. Batten is a “Qualified 
+Individual” because he could have performed the essential functions of his position 
+with accommodation. (Plaintiff’s Statement of Additional Material Facts, ¶ 77). 
+For all of the aforementioned reasons, Defendant’s argument that Mr. Batten 
+is not entitled to accommodation because he had done without accommodation in 
+the past is completely without merit. There exists a genuine issue for trial and 
+Defendant’s Motion for Summary Judgment on this issue must be denied. 
+ 
+B. Defendant Failed to Engage in the Interactive Process. 
+Defendant argues, from the case of Stewart v. Happy Herman’s Cheshire 
+Bridge, 117 F.3d 1278 (11th Cir. 1997), that Mr. Batten’s actions caused a 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 19 of 25
+20 
+ 
+“breakdown” of the interactive process and not Defendant’s. (Defendant’s Brief in 
+Support of Defendant K-VA-T’s Motion for Summary Judgment, p. 12-14). It is 
+worth noting that in the Stewart case, the plaintiff there caused a breakdown in the 
+interactive process by refusing all five of the accommodations offered by her 
+employer without providing “any substantive reasons as to why [the 
+accommodations] were unreasonable given her medical needs.” Stewart, 117 F.3d at 
+1286-87.  
+That fact alone significantly distinguishes the present case. Here, Defendant 
+offered Mr. Batten one, and only one, accommodation in the form of a transfer to the 
+USCAN attendant position. (Plaintiff’s Statement of Additional Material Facts, ¶ 
+32). Mr. Batten did not simply refuse to accept the solitary accommodation offered 
+by the Defendant; he explained why his medical condition, including his diagnosis 
+of Complex Regional Pain Syndrome and his gait instability, would not allow him 
+to work a full standing position like the USCAN attendant. (Plaintiff’s Statement of 
+Additional Material Facts, ¶ ¶ 33-36). 
+Furthermore, Defendant has admitted that at no time did anyone discuss or 
+make any plan to offer Mr. Batten a modification of the USCAN attendant position 
+to address Mr. Batten’s stated stability issues. (Plaintiff’s Statement of Additional 
+Material Facts, ¶ ¶ 43-44). This is the case even though after Mr. Batten confirmed 
+that he could not physically perform an all standing position like the USCAN 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 20 of 25
+21 
+ 
+attendant, he told Defendant “I guess, at this time, I have to wait for whatever you 
+guys come up with . . . .” (Plaintiff’s Statement of Additional Material Facts, ¶ 37). 
+Even after the Defendant placed Mr. Batten on a personal leave of absence, 
+Defendant never reached out to Mr. Batten to have any further discussions regarding 
+possible accommodations. 
+Viewing the facts in the light most favorable to the non-movant, a reasonable 
+jury could find that the Defendant’s offer of one “accommodation” to Mr. Batten that 
+it admits did not even address Mr. Batten’s physical needs (see infra pp. 22-23) was 
+a failure to make “reasonable efforts” regarding possible accommodations. 
+Therefore, this creates a genuine issue for trial and Defendant’s Motion for Summary 
+Judgment on this issue must be denied.  
+C. Plaintiff’s Requested Accommodation was Reasonable and Posed no 
+Burden, Undue or Otherwise, to Defendant. 
+ 
+Defendant argues that Mr. Batten was not entitled to the accommodation he 
+“particularly desired”—only a reasonable accommodation. (Defendant’s Brief in 
+Support of Defendant K-VA-T’s Motion for Summary Judgment, p. 14). There is 
+ample evidence in the record from which a reasonable jury could conclude that Mr. 
+Batten’s requested accommodation was not only a reasonable accommodation, but 
+perhaps the only reasonable accommodation.  
+Under the applicable regulations pertaining to the ADA, a “service animal” is 
+defined as “any dog that is individually trained to do work or perform tasks for the 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 21 of 25
+22 
+ 
+benefit of an individual with a disability, including a physical, sensory, psychiatric, 
+intellectual, or other mental disability.” 28 CFR § 36.104. This includes animals that 
+provide “physical support and assistance with balance and stability to individuals 
+with mobility disabilities.” Id. Mr. Batten has testified that his service animal was 
+specifically trained to assist him, by detecting panic attacks, assisting him with 
+stability, and helping him to recover if he falls. (Plaintiff’s Statement of Additional 
+Material Facts, ¶ ¶ 25-27).  
+ 
+The Defendant understood that Mr. Batten’s request for the use of his service 
+animal related to the anxiety, isolation, and stability related to his disability and that 
+any accommodation would need to address those issues.  (Plaintiff’s Statement of 
+Additional Material Facts, ¶ ¶ 65-66). Donnie Meadows, the man who made the 
+decision to deny Mr. Batten’s request, testified that the USCAN attendant position 
+was offered to Mr. Batten to address his “need for stability,” (Plaintiff’s Statement 
+of Additional Material Facts, ¶ 68), but the Defendant, through its corporate 
+representative testified that Defendant knew that without modification, the USCAN 
+attendant position would not address Mr. Batten’s stability concerns. (Plaintiff’s 
+Statement of Additional Material Facts, ¶ 69). 
+ 
+There is absolutely no evidence in the record to establish that Mr. Batten’s use 
+of his service animal would have constituted an undue hardship on Defendant. 
+Defendant has admitted that at no time was such a determination ever made much 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 22 of 25
+23 
+ 
+less communicated to Mr. Batten. (Plaintiff’s Statement of Additional Material 
+Facts, ¶ 54). Furthermore, before the request was ultimately denied, Mr. Batten was 
+permitted to perform his job as the fuel clerk for a full week alongside his service 
+animal, and Defendant admitted that it caused no issues. (Plaintiff’s Statement of 
+Additional Material Facts, ¶ ¶ 56-57). The Store Manager, Gary Richards, could not 
+think of any reason why it would be a problem for Mr. Batten, as the fuel clerk, to 
+have his service animal with him in the kiosk. (Plaintiff’s Statement of Additional 
+Material Facts, ¶ 55). And the man who made the decision to deny Mr. Batten’s 
+request even testified that he had absolutely no problem with Mr. Batten’s use of his 
+service animal. (Plaintiff’s Statement of Additional Material Facts, ¶ 52).  
+Viewing the facts in the light most favorable to the non-movant, a reasonable 
+jury could find that Mr. Batten’s requested accommodation was reasonable and that 
+it would not have caused an undue hardship on Defendant. Therefore, this creates a 
+genuine issue for trial and Defendant’s Motion for Summary Judgment on this issue 
+must be denied.  
+D. A Reasonable Jury Could Conclude that Defendant Retaliated Against 
+Plaintiff for Requesting an Accommodation of his Disability. 
+ 
+There is sufficient evidence in the record to establish a prima facie case of 
+ADA retaliation. The first element requires proof of statutorily protected conduct. 
+Mr. Batten requested a disability accommodation, which is statutorily protected 
+conduct. See Jeter v. Dixie, No. 1:13cv197-MEF, 2013 U.S. Dist. LEXIS 128185, at 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 23 of 25
+24 
+ 
+*10 (M.D. Al. 2013). The Second element requires proof of an adverse employment 
+action. Mr. Batten was placed on a leave of absence and then terminated from his 
+job. (Plaintiff’s Statement of Additional Material Facts, ¶ 75). The third and final 
+element requires proof of a causal link between the first two elements. Mr. Batten’s 
+being placed on leave was in connection to his request for the use of his service dog 
+and specifically the Defendant’s denial of that request. (Defendant’s Statement of 
+Material Facts, ¶ 38). And Mr. Batten’s termination was for his failure to return from 
+that leave. (Plaintiff’s Statement of Additional Material Facts, ¶ 75).  
+A reasonable jury could conclude that there was a causal connection between 
+Mr. Batten’s firing and his initial request for accommodation. As such, this creates a 
+genuine issue for trial and Defendant’s Motion for Summary Judgment on this issue 
+must be denied. 
+V. 
+CONCLUSION 
+ 
+Viewing the evidence in the light most favorable to the non-moving party and 
+resolving all reasonable doubts in favor of the non-moving party, there is more than 
+sufficient evidence in the record from which a reasonable jury could find in favor of 
+the Plaintiff on the asserted claims. The record before this Court therefore establishes 
+genuine disputes as to material facts. As such, Plaintiff respectfully asserts that 
+Defendant’s Motion for Summary Judgment must be denied.  
+ 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 24 of 25
+25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Respectfully submitted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MASSEY & ASSOCIATES, P.C. 
+ 
+/s/ R. Ethan Hargraves 
+ 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R. Ethan Hargraves, GA No. 793839 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6400 Lee Highway, Suite 101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chattanooga, TN 37421 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ph: 423.697.4529, F: 423.634.8886 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ethan@masseyattorneys.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attorney for Plaintiff 
+*by signature above, counsel certifies 
+that this brief has been prepared with 
+one of the font and point selections 
+approved by the Court in LR 5.1(B). 
+ 
+ 
+CERTIFICATE OF SERVICE 
+ 
+ 
+I HEREBY CERTIFY that on the 25th day of May 2023, a copy of the 
+foregoing was filed electronically. Notice of this filing will be sent by operation of 
+the Court’s electronic filing system to all parties indicated on the electronic filing 
+receipt. All other parties will be served by regular U.S. Mail. Parties may access this 
+filing through the Court’s electronic filing system.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MASSEY & ASSOCIATES, P.C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/s/ R. Ethan Hargraves 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R. Ethan Hargraves 
+ 
+Case 4:22-cv-00179-WMR     Document 42     Filed 05/25/23     Page 25 of 25

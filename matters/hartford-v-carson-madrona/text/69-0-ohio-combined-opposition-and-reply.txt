@@ -1,0 +1,1665 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+1 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+MUSICK, PEELER & GARRETT LLP 
+333 South Hope Street, Suite 2900 
+Los Angeles, California 90071-3048 
+Telephone (213) 629-7600 
+Facsimile (213) 624-1376 
+ 
+Lawrence A. Tabb (State Bar No. 141471) 
+   l.tabb@musickpeeler.com 
+Danica Lam (State Bar No. 266710) 
+   d.lam@musickpeeler.com 
+ 
+Attorneys for Defendants and Counterclaimants OHIO SECURITY INSURANCE COMPANY 
+and AMERICAN FIRE AND CASUALTY COMPANY 
+ 
+UNITED STATES DISTRICT COURT 
+NORTHERN DISTRICT OF CALIFORNIA 
+ 
+HARTFORD FIRE INSURANCE 
+COMPANY, 
+Plaintiff, 
+vs. 
+CARSON MADRONA COMPANY, LLC; 
+OHIO SECURITY INSURANCE 
+COMPANY; AMERICAN FIRE AND 
+CASUALTY COMPANY; and DOES 1 
+through 10, inclusive, 
+Defendant. 
+Case No. 3:23-cv-06259-VC 
+Judge: 
+Vince Chhabria 
+OHIO SECURITY INSURANCE 
+COMPANY AND AMERICAN FIRE 
+CASUALTY COMPANY ’S COMBINED 
+OPPOSITION TO HARTFORD FIRE 
+INSURANCE COMPANY AND ACE 
+CASUALTY AND PROPERTY 
+INSURANCE COMPANY’S CROSS 
+MOTIONS FOR SUMMARY 
+JUDGMENT; AND REPLY IN SUPPORT 
+OF OHIO SECURITY AND AMERICAN 
+FIRE’S MOTION FOR PARTIAL 
+SUMMARY JUDGMENT 
+Trial Date: TBD 
+AND RELATED COUNTERCLAIMS 
+ 
+Defendants and Counterclaimants Ohio Security Insurance Company (“Ohio Security”) and 
+American Fire Casualty Company (“American Fire”) hereby respectfully submit their combined 
+opposition to Hartford Fire Insurance Company (“Hartford”) and Ace Casualty and Property 
+Insurance Company (“Ace”)’s respective cross motions for summary judgment (Doc. 67; Doc. 68.)  
+They also submit this combined reply to the oppositions to their Motion for Partial Summary 
+Judgment (Doc. 64.) 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 1 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+i 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+TABLE OF CONTENTS 
+Page 
+I. 
+INTRODUCTION ..................................................................................................................2 
+II. 
+UNDISPUTED FACTS .........................................................................................................3 
+III. 
+LEGAL ARGUMENTS .........................................................................................................4 
+A. 
+Hartford Breached its Continuing Defense Duty to Carson Madrona .......................4 
+B. 
+The Hartford Policy’s Lessors of Land Provision Confers Additional 
+Insured Status on Carson Madrona ............................................................................6 
+C. 
+Even if the Blanket Endorsement Controls, there is still Additional Insured 
+Coverage for Carson Madrona ...................................................................................9 
+1. 
+A finding of “Substantial Factor in Causing Harm” is not necessary 
+to satisfy the “caused in part” requirement of the Blanket 
+Endorsement ...................................................................................................9 
+2. 
+Only Minimal Causal Connection is Required ............................................11 
+3. 
+Cases Cited by Ace Do Not Support its Position .........................................14 
+D. 
+Hartford provided Primary Coverage, and is not Entitled to Recover from 
+Ohio ..........................................................................................................................16 
+E. 
+The Correct Determination of Priority of Coverage for Carson Madrona ...............17 
+IV. 
+CONCLUSION ....................................................................................................................20 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 2 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+ii 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+TABLE OF AUTHORITIES 
+ 
+Page(s) 
+Cases 
+Acceptance Ins. Co. v. Syufy Enterprises, 
+69 Cal.App.4th 321 (1999) (Syufy) ......................................................................................... 13 
+Aerojet-Gen Corp. v. Superior Court, 
+17 Cal.4th 38 (1997) .................................................................................................................. 5 
+American Casualty Co. v. General Star Indem. Co., 
+125 Cal.App.4th 1510 (2005) .................................................................................................... 9 
+Canadian Ins. Co. v. Rusty’s Island Chip Co. 
+36 Cal.App.4th 491 (1995) ........................................................................................................ 9 
+City of Ontario v. Allied World Assurance Co., 
+No. EDCV202279JGBSPX, 2021 WL 6104180 (C.D. Cal. Sept. 30, 2021) .................... 19, 20 
+Crane v. State Farm Fire & Cas. Co., 
+5 Cal. 3d 112 (1971) .................................................................................................................. 8 
+Delgado v. Heritage Life Ins. Co., 
+157 Cal.App.3d 262 (1984) ....................................................................................................... 8 
+Espinosa v. Little Co. of Mary Hosp., 
+31 Cal. App.4th 1304 (1995) ................................................................................................... 10 
+Foster Poultry Farms v. Contractors Bonding and Insurance Company, 
+562 F.Supp.3d 1152 (E.D. Cal. 2022) ............................................................................... 10, 11 
+Gary Mountain, et al. v. David Perez, et al., 
+Alameda County Superior Court Case No. RG17857926 ................................. 2, 3, 4, 6, 15, 18 
+Gemini Ins. Co. v. Delos Ins. Co., 
+211 Cal.App.4th 719 (2012) .............................................................................................. 14, 15 
+Hartford Accident & Indem. Co. v. Sup.Ct., 
+23 Cal.App.4th 1774 (1994) ...................................................................................................... 4 
+Hartford Casualty Ins. Co. v Travelers Indent. Co., 
+110 Cal.App.4th 710 (2003) ........................................................................................ 11, 12, 13 
+Hyundai Motor Am. v. Nat’l Union Fire Ins. Co., 
+No. SACV 08-00020-JVS, 2011 WL 13133820 (C.D. Cal. Mar. 21, 2011) ............................ 5 
+Jane D. v. Ordinary Mutual 
+32 Cal. App. 4th 643 (1995) ...................................................................................................... 7 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 3 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+iii 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+Jenkins v. Ins. Co. of N. Am., 
+220 Cal.App. 3d 1481 (1990) .................................................................................................... 5 
+Montrose Chem. Corp. v. Sup.Ct.,. 
+6 Cal.4th 287 (1993) .............................................................................................................. 4, 5 
+Montrose Chem. Corp. v. Superior Ct. of Los Angeles Cty., 
+9 Cal. 5th 215 (2020) ................................................................................................................. 9 
+National Fire Ins. Co. of Hartford v Federal Insurance Co., 
+843 F.Supp.2d 1011 (N.D, Cal. 2012) .................................................................................... 13 
+Palmer v. Truck Ins. Exch., 
+21 Cal. 4th 1109 (1999) ............................................................................................................. 8 
+Reliance Nat. Indem. Co. v. Gen. Star Indem. Co., 
+72 Cal. App. 4th 1063 (1999) ................................................................................................... 18 
+Rossmoor Sanitation v. Pylon, Inc., 
+13 Cal.3d 622 – 626 (1975) ............................................................................................... 16, 18 
+S. Cal. Counseling Ctr. v. Great Am. Ins. Co., 
+162 F. Supp. 3d 1045 (C.D. Cal. 2014) ..................................................................................... 8 
+Scottsdale Ins. Co. v. MV Transp., 
+36 Cal.4th 643 (2005) ................................................................................................................ 4 
+St. Paul Fire & Marine Ins. Co. v. Am. Dynasty Surplus Lines Ins. Co., 
+101 Cal.App.4th 1038 (2002) .................................................................................................. 14 
+St. Paul Mercury Ins. Co. v. Frontier Pac. Ins. Co., 
+111 Cal.App.4th 1234 (2003) .................................................................................................... 8 
+to JPI Westcoast Const., L.P. v. RJS & Associates, Inc., 
+156 Cal.App.4th 1448 (2007), Doc. 68 ................................................................................... 20 
+Truck Ins. Exch. v. AMCO Ins. Co., 
+56 Cal.App.5th 619 (2020) ........................................................................................................ 9 
+Vitton Constr. Co. v. Pac. Ins. Co., 
+110 Cal.App.4th 762 (2003) ...................................................................................................... 9 
+Zurich Specialties London Ltd. v. Gemini Ins. Co., 
+No. G033979, 2005 WL 1102650 (Cal. Ct. App. 2005) ..................................................... 7, 15 
+Statutes 
+Civil Code § 3534 ........................................................................................................................... 7 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 4 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+iv 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+Other Authorities 
+Cambridge Advanced Learner’s Dictionary.................................................................................. 10 
+Thesaurus Cambridge University Press 
+https://dictionary.cambridge.org/us/dictionary/english/in-part ............................................... 10 
+ 
+ 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 5 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+2 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+MEMORANDUM OF POINTS AND AUTHORITIES 
+I. 
+INTRODUCTION 
+Plaintiff and cross defendant Hartford and counterclaim defendant and third party defendant 
+Ace assert various grounds upon which they seek to avoid their coverage obligations; all of which 
+are unsupported by evidence and the law. 
+First, for years, Hartford acknowledged a duty to defend Carson Madrona Company, LLC 
+(“Carson Madrona”) in Gary Mountain, et al. v. David Perez, et al., Alameda County Superior Court 
+Case No. RG17857926 (“Underlying Lawsuit”) under the insurance policy no. 41 CSE S30502, 
+effective from January 1, 2016 to January 1, 2017 which Hartford issued to Ashley Furniture (the 
+“Hartford Policy”).  Hartford, however, withdrew its defense after the jury rendered its verdict 
+because although the jury found Hartford’s named insured, Ashley Furniture, was negligent, the 
+jury did not find that Ashley Furniture was a “substantial factor” in causing harm to Mr. Perez.  This 
+contravenes well settled California law that the duty to defend continues until the conclusion of the 
+action including, through appeal.  The reason for this is self-evident, there is the possibility that a 
+reversal results in a new trial with a different outcome.  Hartford breached its duty to defend Carson 
+Madrona and owes Ohio Security amounts it expended in assuming Carson Madron’s defense.  
+Second, Hartford and Ace claim that a narrower Blanket Endorsement in the Hartford Policy 
+applies to Carson Madrona, instead of the broader Lessors of Land Provision found in the Hartford 
+Policy’s coverage form.  This argument is unavailing.  Critically, Hartford specifically defended 
+Carson Madrona under the Lessors of Land Provision, not the Blanket Endorsement.  The 
+Lessors of Land Provision applies here since there was no Blanket Endorsement specifically issued 
+to Carson Madrona. Further, at the very least, it is ambiguous as to whether the coverage form’s 
+Lessor of Land Provision or the Blanket Endorsement applies.  Consequently, the Lessors of Land 
+Provision, the provision giving rise to coverage, controls – as Hartford previously acknowledged.  
+Third, Hartford and Ace contend that in order to for additional insured coverage to attach, 
+the Blanket Endorsement requires a near exclusive causal connection between Ashley Furniture’s 
+liability and that of Carson Madrona’s.  This is simply untrue.  For additional coverage to attach, a 
+jury finding that the named insured Ashley Furniture was a “substantial factor in causing harm” is 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 6 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+3 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+not necessary.  The Blanket Endorsement merely requires that Ashley Furniture’s act caused the 
+harm “in whole or in part”, which is more than satisfied here.  Thus, even if Ashley was not a 
+substantial factor in causing Mr. Perez’ injury, the Blanket Endorsement applies and additional 
+insured coverage under the Hartford Policy and Ace Policy is triggered.   
+Fourth, contrary to well established rules regarding priority of coverage, Ace contends, its 
+Policy issued to Ashley Furniture - the contractual indemnitor - is not triggered until the excess 
+American Fire Policy issued to Carson Madrona – the contractual indemnitee - is exhausted.  This 
+is in direct contravention of California law. 
+The plain language of the policies, the Lease, and California law do not support Hartford 
+and Ace’s avoidance of their coverage obligations to their additional insured, Carson Madrona.  
+Accordingly, Ohio Security and American Fire request that the court rule as follows: (1) Hartford 
+had a continuing duty to defend Carson Madrona in the Underlying Lawsuit, that Hartford breached 
+this duty, and that Ohio Security is entitled to recover amounts from Hartford which it paid on 
+Carson Madrona’s behalf in connection with the defense of the Underlying Lawsuit;  (2) Carson 
+Madrona is an additional insured under the Hartford  and Ace Policies and  the Lessors of Land 
+Provision in the Hartford Policy confers  additional insured status on Carson Madrona; and (3) the 
+proper priority of coverage with regard to the coverage afforded to Carson Madrona for the 
+Underlying Lawsuit is as follows: (i) Hartford Policy, (ii) Ohio Security Policy, (iii) Ace Policy and 
+(iv) American Fire Policy. 
+In light of the above, and as delineated in further detail below, Hartford and Ace’s cross 
+motions for summary judgment should be denied.1  Further, Ohio Security and American Fire’s 
+motion for partial summary judgment should be granted.2 
+II. 
+UNDISPUTED FACTS 
+The following facts are undisputed: Ashley Furniture and Carson Madrona entered into a 
+ 
+1 Doc. 67; Doc. 68 (Reference to “Doc” refers to the court-applied pagination (the blue page 
+numbers at the top), and when available to Ohio Security and American Fire’s Joint Index and 
+Compendium of Evidence and Bates Stamped, “Joint Index” filed concurrently with Ohio Security 
+and American Fire’s Motion for Partial Summary Judgment  
+2 Doc. 64. 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 7 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+4 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+lease agreement (“Lease”) for 6195 Coliseum Way, Oakland, California (“Warehouse”).3  The 
+Lease agreement required Ashley Furniture to indemnify Carson Madrona for any claim “arising 
+out of or in any way connected with, and Landlord shall not be liable to Tenant on account of (a) 
+Tenant’s use of the Premises; (b) the conduct of Tenant’s business or anything else done or permitted 
+by Tenant to be done in or about the Premises…” 4 (emphasis added)  The Lease also required 
+Ashley Furniture to procure primary and non-contributory insurance for Carson Madrona..5  
+Hartford issued insurance policy no. 41 CSE S30502, effective from January 1, 2016 to 
+January 1, 2017 to Ashley Furniture (the “Hartford Policy”) with a per occurrence limit of 
+$2,000,000.6  Ace issued excess policy with number G2793742500 001 effective from January 1, 
+2016 to January 1, 2017 to Ashley Furniture (the “Ace Policy”) with a limit of $25,000,000.7  Both 
+Hartford and Ace acknowledge that Carson Madrona is an additional insured under the Hartford 
+Policy and Ace Policy.8 
+III. 
+LEGAL ARGUMENTS 
+A. Hartford Breached its Continuing Defense Duty to Carson Madrona 
+Hartford acknowledged that it owed Carson Madrona a defense in the Underlying Lawsuit, 
+and defended Carson Madrona through verdict but withdrew its defense and abandoned Carson 
+Madron after the jury’s verdict..9  However, an insurer’s duty to defend continues until the action 
+ends “unless the insurer sooner proves, by facts subsequently developed, that the potential for 
+coverage which previously appeared cannot possibly materialize, or no longer exists.”  Scottsdale 
+Ins. Co. v. MV Transp., 36 Cal.4th 643, 657 (2005) (emphasis added); Montrose Chem. Corp. v. 
+Sup.Ct.,.6 Cal.4th 287, 295 (1993).  Stated more succinctly, “the duty to defend begins when a 
+potential for coverage arises, and the duty continues until the insurer proves otherwise.”  Hartford 
+ 
+3 Doc. 67, p. 8; Doc. 64-7; Doc. 68, pp. 8 – 9. 
+4 Doc. 64-7, p. 21 [Joint Index 00143]. 
+5 Doc. 64-7, pp. 23 - 24 [Joint Index 00145, 146]. 
+6 Doc. 67, p. 9; Doc. 64-10 [Joint Index 00180] 
+7 Doc. 68, p. 12; Doc. 64-15, p. 2 [Joint Index 313] 
+8 Doc. 67, p. 9 “Hartford agreed to defend Carson Madrona”; Doc. 68, p. 23 “Carson is an insured. 
+ACE does not contend otherwise.” 
+9 Doc. 67, p. 9. 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 8 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+5 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+Accident & Indem. Co. v. Sup.Ct., 23 Cal.App.4th 1774, 1781, (1994)(emphasis added).  In other 
+words, “[o]nce the duty to defend an action arises, it continues until either the underlying action 
+concludes, or the insurer seeks, and obtains, an adjudication that the has been extinguished.” 
+Hyundai Motor Am. v. Nat’l Union Fire Ins. Co., No. SACV 08-00020-JVS, 2011 WL 13133820 at 
+*2 (C.D. Cal. Mar. 21, 2011) (emphasis added); Aerojet-Gen Corp. v. Superior Court, 17 Cal.4th 
+38, 58 (1997).  The duty to defend includes the duty to appeal.  Jenkins v. Ins. Co. of N. Am., 220 
+Cal.App. 3d 1481, 1489 (1990).  Hartford ignored these well settled legal principles when it failed 
+to defend Carson Madrona through the appeal process. 
+Here, even if Hartford contends that additional insured coverage for Carson Madrona 
+depended on a finding of liability on the part of Ashley Furniture, Hartford had a continuing duty to 
+defend Carson Madrona through the appeal process.  The appeal could have reversed the verdict, 
+and a new trial could have resulted in a different allocation of liability among the underlying parties.  
+Notably, a reversal on appeal and a new trial would go against Hartford’s current coverage position 
+since it could present an allocation of damages against Ashley Furniture.  As long as there is 
+potential coverage, Hartford had a duty to defend Carson Madrona. Montrose Chem. Corp. of Calif. 
+v. Sup.Ct. (Canadian Universal Ins. Co., Inc.), 6 Cal.4th 287, 300 (1993) (“[T]he insured need only 
+show that the underlying claim may fall within policy coverage; the insurer must prove it cannot.”)  
+Instead of defending Carson Madrona as it was obligated to do, Hartford withdrew its 
+defense of Carson Madrona and denied any indemnity obligations.10 Hartford clearly stated, “it has 
+no continuing defense obligation and no indemnity obligation to Carson in this matter and that it is 
+incumbent upon Ohio Security to step in to protect its named insured.”11   
+While Hartford claims it did not withdraw from Carson Madrona’s defense, and cites to 
+several correspondence claiming the same, Hartford’s actions tell a different story.  Hartford did not 
+pay for any of Carson Madron’s appellate counsel’s fees.12  It did not appoint its own appellate 
+counsel or join with the prosecution of appeal provided by Ohio Security.  It did not participate in 
+ 
+10 Doc. 64-14, p. 4; Joint Index 00310.  
+11 Id. 
+12 Doc. 64-2, p. 6, ¶ 14. 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 9 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+6 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+mediation for the Underlying Lawsuit.  It did not contribute any funds towards the settlement.13  It 
+does not dispute that costs and interest are part of the defense duty but refuses to pay costs and 
+interest awarded against Carson Madrona.14  In other words, Hartford plays lip service to continuing 
+to defend Carson Madrona but in reality, deserted Carson Madrona.  Accordingly, Ohio Security 
+had to step in to fund the appeal, and ultimately indemnify Carson Madrona for millions of dollars.15   
+B. The Hartford Policy’s Lessors of Land Provision Confers Additional Insured 
+Status on Carson Madrona 
+The Hartford Policy’s Section II – WHO IS AN INSURED:  
+(6) Additional Insureds When Required By Written Contract, Written Agreement 
+or Permit 
+The following person(s) or organization(s) are an additional insured when you have 
+agreed, in a written contract, written agreement or because of a permit issued by a 
+state or political subdivision, that such person or organization be added as an 
+additional insured on your policy, provided the injury or damage occurs subsequent 
+to the execution of the contract or agreement. 
+A person or organization is an additional insured under this provision only for that 
+period of time required by the contract or agreement. 
+However, no such person is an additional insured under this provision if such 
+person or organization is included as an insured by an endorsement issued by us 
+and made a part of this coverage part. 
+*** 
+(c) Lessors of Land or Premises (“Lessors of Land Provision”): Any person or 
+organization from whom [Ashely Furniture] lease[s] land or premises, but only with 
+respect to liability arising out of the ownership, maintenance or use of that part of 
+the land or premises leased to [Ashley Furniture].16 (emphasis added) 
+ 
+The above provisions controls Carson Madrona’s status as an additional insured.   
+First, there is no dispute that there is no Blanket Endorsement naming Carson Madrona as 
+an additional insured.  Hartford’s Certificate of Insurance issued to Carson Madrona provides that 
+it is “included as Additional Insured in accordance with the general liability policy.  General liability 
+policy evidenced herein is primary and non-contributory to other insurance available to Additional 
+ 
+13 Doc. 64-2, p. 6, ¶¶ 14 - 17. 
+14 Doc. 67, p. 25. 
+15  Doc. 64-2, p. 6, ¶ 14. 
+16 Doc. 64-10, p. 27 [Joint Index 00195 – 197]. 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 10 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+7 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+Insured, but only in accordance with the policy’s provision.”17 The Lease required that Carson 
+Madrona be named on Ashley Furniture’s insurance policies, thus, it is an additional insured under 
+the Lessors of Land Provision of the Hartford Policy.18  While there is a Blanket Endorsement which 
+pertains to “Blanket Where Required by Written Contract or Agreement”, it does not name Carson 
+Madrona specifically.  Significantly, there are three additional insured endorsements in the Hartford 
+Policy which name specific entities, none of which is Carson Madrona.19   
+Second, where the Lessors of Land Provision specifically addresses lessors like Carson 
+Madrona, it should apply over the Blanket Endorsement, which provides more general coverage to 
+additional contractual indemnitees.  Civil Code § 3534 (“Particular expressions qualify those which 
+are general”); see Jane D. v. Ordinary Mutual 32 Cal. App. 4th 643, 651 (1995) (specific 
+endorsement in church’s general liability policy covering sexual misconduct by priests prevailed 
+over more general language of policy that excluded it).  Zurich Specialties London Ltd. v. Gemini 
+Ins. Co., No. G033979, 2005 WL 1102650 (Cal. Ct. App. 2005) illustrates the specific over general 
+principle set forth by Civil Code Section 3534.  In Zurich Specialties, the appellate court analyzed 
+competing AI endorsements, one which covered liability “arising out of” the named insured’s 
+activities, and another that limited coverage to the subcontractor’s “sole negligence.”  The appellate 
+court found that “arising out of” endorsement to control over a narrower endorsement.  
+Applied here, the Lessors of Land Provision applies to entities like Carson Madrona in 
+particular as the lessor of the Warehouse as opposed to general contractual indemnitees.  Further, 
+the Lessors of Land Provision provides coverage consistent with the requirements of the Lease, 
+which required that the tenant Ashley Furniture obtain insurance for Carson Madrona for liability 
+“arising out of the operation, maintenance, use, or occupancy” of the subject premises.20  “When 
+additional insured endorsements, by their own terms, depend on the existence of a written contract 
+between the named insured and the additional insured, the contract is a significant circumstance in 
+ 
+17 Doc. 64-21, p. 2 [Joint Index 00465]. 
+18 Doc. 64-7,  p. 23 [Joint Index 00145 – 146].  
+19 Doc, 64-10, pp. 56 – 59; See also, Doc., 63-4, Declaration of Yakub Hazzard, Exh. 3 at pp. 104, 
+105, 106, 107. 
+20 Doc. 64-7,  p. 23 [Joint Index 00145 – 146] 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 11 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+8 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+determining the objectively reasonable expectations of the additional insured.”  St. Paul Mercury 
+Ins. Co. v. Frontier Pac. Ins. Co., 111 Cal.App.4th 1234, 1245 (2003). 
+Third, if Hartford and Ace’s position is given weight, then the Hartford Policy’s coverage 
+form’s “Section II Who is an Insured, Subsection 6” (“Subsection 6”) will be disregarded whenever 
+there is an endorsement.  In this scenario, the Blanket Endorsement (which does not name any 
+contractual indemnitee) applies in every situation where Ashley Furniture is contractually obligated 
+to indemnify another party. This will render Subsection 6 – which provides for specific terms 
+regarding additional insured coverage for vendors (6a), Lessors of Equipment (6b), Lessors of Land 
+(6c), Architects, Engineers or Surveyors (6d), and Permits issued (6e)21 – mere surplusage as they 
+will never ever be given effect.  This is contrary to insurance interpretation dictated by California 
+law.  When interpreting an insurance policy, the Court “must interpret [the policy] to give effect to 
+all of its terms and avoid an interpretation that renders a term mere surplusage.” S. Cal. Counseling 
+Ctr. v. Great Am. Ins. Co., 162 F. Supp. 3d 1045, 1050, 1053 (C.D. Cal. 2014).  Courts must 
+“interpret [insurance contract] terms in context and give effect to every part of the policy with each 
+clause helping to interpret the other.”  Palmer v. Truck Ins. Exch., 21 Cal. 4th 1109, 1115 (1999).  
+Accordingly, Hartford and Ace’s contention should be rejected on this ground. 
+Fourth, the Blanket Endorsement does not name Carson Madrona like the other additional 
+endorsements found in the Hartford Policy which specifically name the additional insured.22  On the 
+other hand, the Hartford Policy provides that Subsection 6 does not apply when there are 
+endorsements issued to a contractual indemnitee.  There are no endorsements issued to Carson 
+Madrona specifically.  In light of this, at the very least, there is ambiguity as to whether the Blanket 
+Endorsement or Subsection 6 (which includes the Lessors of Land Provision) controls with regard 
+to Carson Madrona’s status as additional insured.  An ambiguity results “when ‘there is 
+contradictory or necessarily inconsistent language in different portions of the instrument; ...’ 
+Delgado v. Heritage Life Ins. Co., 157 Cal.App.3d 262, 271 (1984).  When there is an ambiguity in 
+a policy, the policy must be liberally construed in favor of coverage for the insured.  Crane v. State 
+ 
+21 Doc. 64-10, pp. 27 – 28 [Joint Index 00196 – 197] 
+22 Doc. 64-10, pp. 56 – 59. 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 12 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+9 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+Farm Fire & Cas. Co., 5 Cal. 3d 112, 115 (1971); Montrose Chem. Corp. v. Superior Ct. of Los 
+Angeles Cty., 9 Cal. 5th 215, 230 (2020).  Accordingly, the Lessors of Land Provision provides 
+coverage and should be given effect. 
+Last, Hartford does not dispute that Hartford’s coverage position letters and communications 
+prior to the jury verdict have relied exclusively on the Lessors of Land Provision, and never on the 
+Blanket Endorsement.23  It follows that Hartford has waived any purported right to rely on the 
+Blanket Endorsement as a defense to coverage.  Canadian Ins. Co. v. Rusty’s Island Chip Co. 36 
+Cal.App.4th 491, 497–498 (1995).   
+Thus, for all the reasons stated above, the Lessors of Land Provisions with its broad “arising 
+out of” language applies.  The broad language of the Lessors of Land Provisions confers additional 
+insured status on Carson Madrona under the Hartford Policy and Ace Policy without having to prove 
+that its liability was related to Ashley Furniture’s actions.  Vitton Constr. Co. v. Pac. Ins. Co., 110 
+Cal.App.4th 762, 767-68 (2003) (“the fact that an accident is not attributable to the named insured’s 
+negligence is irrelevant when the additional insured endorsement does not purport to allocate or 
+restrict coverage according to fault”); Truck Ins. Exch. v. AMCO Ins. Co., 56 Cal.App.5th 619, 634 
+(2020) (where tenant’s policy named landlord as additional insured “with respect to [the landlords’] 
+liability arising out of [the tenant’s] use of the property,” coverage applied regardless of tenant’s 
+fault); American Casualty Co. v. General Star Indem. Co., 125 Cal.App.4th 1510, 1525 (2005) 
+(additional insured was entitled to the “full indemnity and defense benefits promised under the 
+policy” where Additional Insured endorsement covered “liability arising out of [named insured’s] 
+operations” even where the additional insured was solely liable). Significantly, Hartford or Ace does 
+not dispute any of these cited legal authorities but instead claims that the Lessors of Land Provision’s 
+“arising out of” language simply does not apply.   
+C. Even if the Blanket Endorsement Controls, there is still Additional Insured 
+Coverage for Carson Madrona 
+1. A finding of “Substantial Factor in Causing Harm” is not necessary to satisfy 
+the “caused in part” requirement of the Blanket Endorsement 
+ 
+23 Doc. 64-11, p. 6; Doc. 64-12, pp. 3, 4 [Joint Index 00288, 00293 – 294].   
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 13 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+10 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+To avoid coverage, both Hartford and Ace relies on the Blanket Endorsement, which 
+provides: 
+A. Section II — Who Is An Insured is amended to include as an additional insured 
+the person(s) or organization(s) shown in the Schedule [“BLANKET WHERE 
+REQUIRED BY WRITTEN CONTRACT OR AGREEMENT”], but only with 
+respect to liability for “bodily injury”, “property damage” or “personal and  
+advertising injury” caused, in whole or in part, by your acts or omissions or the 
+acts or omissions of those acting on your behalf: (emphasis added) 
+ 
+1. In the performance of your ongoing operations; or  
+ 
+2. In connection with your premises owned by or rented to you.  
+However:  
+ 
+1. The insurance afforded to such additional insured only applies to the extent 
+permitted by law; and  
+ 
+Both Hartford and Ace claim that because Ashley Furniture was not found to be a 
+“substantial factor” in causing Mr. Perez’s harm, there is no additional insured coverage under the 
+Blanket Endorsement.  Hartford and Ace appear to argue that “substantial factor” equates to 
+exclusive causation of harm.  It is simply not so as “there is no judicially approved definition of 
+what is a substantial factor for causation purposes, it seems to be something which is more than a 
+slight, trivial, negligible, or theoretical factor in producing a particular result.”  Com. to BAJI No. 
+3.76 (8th ed. 1994 bound vol.) p. 99.)  Espinosa v. Little Co. of Mary Hosp., 31 Cal. App.4th 1304, 
+1314 (1995).  Thus, it follows that Ashley Furniture’s act can slightly, or in part, cause the harm, 
+but still not be considered a substantial factor.   
+Slightly causing harm or causing in part satisfies the Blanket Endorsement’s “cause in part” 
+requirement.  Indeed, “in part” is defined as “partly, or to some degree” (Cambridge Advanced 
+Learner’s 
+Dictionary 
+& 
+Thesaurus 
+Cambridge 
+University 
+Press 
+https://dictionary.cambridge.org/us/dictionary/english/in-part). “Cause in part” required by the 
+Blanket Endorsement does not necessarily require a finding of “substantial factor” in causing the 
+harm. 
+Indeed, in Foster Poultry Farms v. Contractors Bonding and Insurance Company, 562 
+F.Supp.3d 1152, 1162 (E.D. Cal. 2022), the Eastern District applying California law held that a 
+property owner sufficiently claimed that it was an “additional insured” under commercial general 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 14 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+11 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+liability (CGL) policy issued by CBIC to the property owner’s independent contractor indemnitor 
+which provided additional insured coverage to the property owner for bodily injury caused in whole 
+or in part by the indemnitor.  In Foster Poultry Farms, plaintiff was injured while at work at a 
+premises owned by Foster Poultry Farm.  The independent contractor indemnitor was not named as 
+a defendant in the underlying case as the plaintiff’s claims against it was barred by workers 
+compensation exclusivity laws.  Id. at 1159.  In finding additional insured status for property owner, 
+despite no liability on the named insured’s party - the court noted that the policy did not provide, 
+“caused solely by” or “caused exclusively by” the indemnitor’s negligence, or caused by the named 
+insured’s sole negligence—yet that is how the indemnitor’s carrier - as Hartford and Ace do here - 
+implicitly urged the court to interpret and apply the policy’s terms.  The Foster Poultry Farms court 
+declined to adopt such a narrow and unsupported interpretation of the policy’s phrase “caused by” 
+and instead interpreted the provision to include coverage for bodily injury caused in whole or in 
+part by the indemnitor’s actions. Id. at 1162.  The court noted that “to conclude otherwise would 
+require either reading additional limiting language into the Policy or construing ambiguities in the 
+Policy against the insured, which would run afoul of the “principle that ambiguities are generally 
+construed against the party who caused the uncertainty to exist (i.e., the insurer) in order to protect 
+the insured’s reasonable expectation of coverage.”  Id. at 1161.   
+Hartford’s, and Ace’s contentions similar to that of the indemnitor’s carrier’s in Foster 
+Poultry Farms should likewise be rejected as it creates a higher standard of causation for coverage, 
+which is not required under the Hartford Policy. 
+2. 
+Only Minimal Causal Connection is Required 
+California applies the “minimal causal connection” standard with regard to coverage 
+disputes in the landlord tenant context In Hartford Casualty Ins. Co. v Travelers Indent. Co., 110 
+Cal.App.4th 710 (2003), the court held that the additional insured coverage for the landlord broadly 
+extends to injuries occurring outside the tenant’s literal leased premises and in the common areas, 
+where they are related to the tenant’s presence on the property. Id. at 720. The tenant, leased offices 
+on the second floor and a portion of the third floor, not including an exterior deck area on the third 
+floor which was common space for which the landlord was responsible. Id. at 713-714. The tenant’s 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 15 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+12 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+employee fell from the third floor exterior deck area and died. Travelers defended the landlord and 
+tendered the landlord’s defense and indemnity to Hartford in accordance with the additional insured 
+endorsement. In holding that the landlord was entitled to additional insured coverage, the Court of 
+appeal explained: “The Hartford policy, read according to the plain commonsense meaning of its 
+terms, extended coverage to liability potentially imposed on [the landlord] that are related to [the 
+tenant’s] presence in the [landlord’s] premises .”.Id. at 720. 
+Hartford Casualty Ins. Co considered an additional insured endorsement similar to the 
+Blanket Endorsement in that it provided coverage for the landlord “but only with respect” to the 
+named insured’s to your operations or use of facilities.  Id. at 714, 723.  There, as here, Hartford 
+argued that there was no additional insured coverage for the landlord.  The court rejected  Hartford’s 
+argument when Hartford contended that the phrase “but only with respect to” as restrictively 
+referring only to liability that is directly caused by [its named insured].”  Ibid.  The court noted that 
+the law and Hartford’s policy do not “support that narrow semantic interpretation.”  Ibid.  The court 
+noted that “nothing in the meaning of “only with respect to” hints at a requirement of direct 
+causation.  It merely indicates some relationship. For example, Webster’s Dictionary includes 
+among the definitions of “with respect to” and “in respect of” such concepts as “as regards,” “with 
+reference to,” “in relation to” and “with regard to.” (citations omitted.)  Id. at 719.   
+Accordingly, to establish coverage as an additional insured in the landlord-tenant context, 
+only a minimal causal connection or incidental relationship between the liability and the tenant’s 
+presence in the landlord’s property need to be shown. Id at 723. “[T]o the extent [the landlord] had 
+a duty to prevent employees of a tenant from falling off the roof, that duty is related to the tenant’s 
+operations, work, use of the facilities.  Id. at 724. The court found that “[t]his kind of accident is the 
+precise reason why a landlord obtains coverage as a tenant’s additional insured-to protect against 
+liability imposed on the landlord because of the occupation and use of the landlord’s property by 
+the business tenant.” Id. Lastly, the court, held:  [W]hen the landlord is held liable for an injury 
+related to the tenant’s use of the property, the plain language in this case covers the landlord. There 
+is no limitation to the tenant’s ‘operations’ and no requirement that the tenant be at fault.” Id. at 723.  
+Thus, despite the fact that this language was narrower than the more common “arising out of” 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 16 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+13 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+phrase, the landlord was entitled to coverage as an additional insured.  Id. at 720.   
+In so holding, the Harford Casualty court echoed the sentiments of the Acceptance Ins. Co. 
+v. Syufy Enterprises, 69 Cal.App.4th 321 (1999) (Syufy) which held that the additional insured clause 
+grants coverage without regard to whether the injury was caused by the named insured or the 
+additional insured. The building owner’s negligence was irrelevant because the policy language did 
+not address fault. Acceptance, 69 Cal.App.4th at 330.  In other words, “minimal causal connection” 
+does not require that the injury be connected to the negligence of the named insured (i.e. the tenant). 
+This District extended and applied the standard established Halford Casualty to injuries 
+involving the tenant’s guest or invitees. In National Fire Ins. Co. of Hartford v Federal Insurance 
+Co., 843 F.Supp.2d 1011 (N.D, Cal. 2012), another case involving a Hartford company, the landlord 
+was a hotel that leased a ballroom to a restaurant that was catering a graduation party. During the 
+party, a three-year old guest of the party wandered from the first floor to a common area, took an 
+elevator to the second floor of the hotel, fell off a balcony, and died. Id. at 1012. A wrongful death 
+action followed. A coverage action was initiated to determine whether the tenant’s insurer, was 
+obligated to defend and indemnify the landlord hotel as an additional insured.  The additional 
+insured endorsement to the tenant’s policy stated that the landlord was an additional insured “with 
+respect to liability arising out of the ownership, maintenance, or use of that specific part of the 
+premises leased to [the restaurant].” Id. at 1014-15. Applying California law, the district court 
+determined that the landlord was an additional insured under the tenant’s policy stating: 
+Furthermore, while the hotel may have had an independent duty to its own guests 
+and invitees to ensure that the balcony railing was designed and maintained in a 
+safe condition, its duty to [the claimant] arose from the fact that it was reasonably 
+foreseeable that guests at restaurant events would be on portions of the premises 
+outside the confines of the restaurant itself and the ballrooms it was entitled to use. 
+Thus, the hotel’s risk was in an important sense “derivative” in any event. 
+Accordingly, the hotel was entitled to coverage … as an additional insured. 
+ 
+Id. at 1014-1015. By so holding, the court recognized that the minimal causal connection or 
+incidental relationship requirement is satisfied by virtue of the fact that it is foreseeable that invitees 
+of the tenant will venture into areas not specifically within the control of the tenant. 
+ 
+Here, it is undisputed that an employee of Ashley Furniture, Gary Mountain acting on behalf 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 17 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+14 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+of Ashley Furniture, invited David Perez to come to the Warehouse.24  Mr. Perez was injured by an 
+arc flash which occurred as Mr. Perez reinserted a “pullout switch” into the Main Distribution Panel 
+(“MDP”), a panel through which incoming electricity is routed to multiple structures at a large 
+commercial property.25  Hartford and Ace conveniently omit that this MDP supplies electricity to 
+Ashley Furniture’s leased space meaning it was needed for Ashley Furniture’s use of the 
+Warehouse.26  There were several switches in the MDP, the pullout safety switch supplying power 
+to the Ashley Furniture’s occupied units was the wrong voltage rating for the MDP.27  This caused 
+the arcing and ultimately, Mr. Perez’s injuries.28  This sufficiently meets the Blanket Endorsement’s 
+requirement for bodily injury caused, in part, by Ashley Furniture’s acts or acts of those acting on 
+its behalf (Mountain) in connection with [its] rented premises. 
+ 
+Thus, even if the Blanket Endorsement applies, Carson Madrona should be afforded 
+additional insured coverage under the Hartford Policy and the Ace Policy.  
+3. 
+Cases Cited by Ace Do Not Support its Position 
+Hartford does not offer any cases interpreting its Blanket Endorsement.  On the other hand, 
+the California cases29 proffered by Ace, St. Paul Fire & Marine Ins. Co. v. Am. Dynasty Surplus 
+Lines Ins. Co., 101 Cal.App.4th 1038, 1055 (2002) and Gemini Ins. Co. v. Delos Ins. Co., 211 
+Cal.App.4th 719, 723 (2012) do not support Ace’s position.  
+In Am. Dynasty Surplus Lines Ins. Co., supra, 101 Cal. App. 4th at p. 1039, the subcontractor 
+agreed to indemnify the general contractor for liability arising from the subcontractor’s operations.  
+Id. at pp. 1045 – 1046.  The subcontractor’s employee had been injured when a pipe exploded during 
+the general contractor's pressure-testing of that pipe, and the parties stipulated that the explosion 
+had nothing to do with performance of the subcontract, but rather resulted entirely from activities in 
+which the general contractor was separately and independently engaged.  Id. This is entirely 
+different from the instant case where there is no stipulation that Carson Madrona’s acts are not 
+ 
+24 Doc. 64-4, p. 9; Doc. 64-17, p. 3 [Joint Index 00009, 00397]. 
+25 Doc. 68, at pg. 8:24 - 26 
+26 Doc. 64-17, pp. 4, 7, 10,  [Joint Index00398, 00401 - 404].  
+27 Id. 
+28 Id.  
+29 The out of state cases cited by Ace do not control here. 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 18 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+15 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+related to that of Ashley Furniture’s.  Instead, Carson Madrona and the underlying plaintiffs both 
+contend that Ashley Furniture’s use of the Warehouse is at the forefront of the Underlying Lawsuit.30   
+In Gemini Ins. Co. v. Delos Ins. Co., 211 Cal.App.4th 719, 721 (2012), a restaurant's 
+insurance policy included an additional insured endorsement which made the restaurant's landlord 
+an additional insured with respect to the landlord's liability arising from the restaurant's acts, 
+undertaken in the course of the restaurant's operations on the leased premises.  Ibid.  The insurance 
+policy also had an exclusion for claims or suits between insureds. Ibid.  The tenant negligently 
+started a fire on the leased premises. Ibid.  The fire damaged the landlord's property, and the landlord 
+sought to recover from the restaurant for the damages.  Ibid.  The case posed a single question: “Was 
+the tenant covered for the landlord's claim, or was coverage barred by the interinsured exclusion? 
+In this opinion, we hold that the inter-insured exclusion did not bar coverage for the landlord's claim 
+against the tenant.”  Ibid. 
+Here, there are no claims between Carson Madron and Ashley Furniture and there is no 
+dispute regarding whether an exclusion bars coverage for suits between two insureds.  In any event, 
+the court in Gemini found additional insured coverage for the landlord, the tenant’s insurer argued 
+that the additional insured endorsement merely changes the scope of the coverage afforded to the 
+additional insured.  Gemini Ins. Co., supra, 211 Cal.App.4th at p. 724.  There, as here,31 the tenant’s 
+insurer urged the court to rule that the additional insured endorsement merely changes the scope of 
+the coverage afforded to the additional insured.  The court rejected this contention and noted that 
+“doing so would lead to an absurd result, the kind of result we seek to avoid.”  Ibid.  There, as here,32 
+it is undisputed that the landlord insisted as a condition of the lease that the tenant carry liability 
+insurance, and insisted that it be named as additional insured on the tenant’s policy.  Ibid.  “This is 
+a common practice among commercial landlords, and indeed the policy endorsement is designated 
+as one for landlords.”  Ibid.  Thus, the Gemini court found additional insured coverage for the 
+landlord; the evidence here compels the same result. 
+ 
+30 Doc. 64-4, p. 9; Doc. 64-17, p. 3; Doc. 64-17, pp. 4, 7, 10 [Joint Index 00009, 00397 – 398, 
+00401 - 404].    
+31 Doc. 68, p. 23, lines 21 – 24. 
+32 Doc. 64-7, pp. 23 - 24 [Joint Index 00145, 146]. 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 19 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+16 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+D. Hartford provided Primary Coverage, and is not Entitled to Recover from Ohio 
+In claiming that Hartford and Ohio Security share the same level of risk, Hartford urges this 
+court to ignore Rossmoor Sanitation v. Pylon, Inc., 13 Cal.3d 622, 625 – 626 (1975), and claims that 
+Rossmoor has nothing to do with additional insured coverage.33  Hartford claims that Rossmoor only 
+involved an insurer seeking subrogated claims against its insured’s purported indemnitor.  While 
+Rossmoor did involve subrogated claims between an indemnitee’s insurer and a contractual 
+indemnitor, there were also direct claims between the carriers.  Specifically, “Rossmoor (owner) 
+then brought this declaratory action against both Pylon (contractor) and U.S. Fire (contractor’s 
+insurer), seeking indemnity for the sums [it]s paid. U.S. Fire cross-complained against INA (owner’s 
+insurer), seeking an apportionment of the sums between the carriers pursuant to the “other 
+insurance” clauses.”  Id.   
+The Supreme Court in Rossmoor clearly held that the owner’s insurance coverage, provided 
+by a direct insurer, was excess over coverage provided by the indemnitor contractor’s policy.  
+Rossmoor, supra, 13 Cal.3d at pp. 633–635.  The California Supreme Court denied apportionment 
+between the insurers, noting as a compelling factor: “[T]o apportion the loss in this case pursuant to 
+the other insurance clauses would effectively negate the indemnity agreement and impose liability 
+on [the owner’s insurer] when [the owner] bargained with [the contractor] to avoid that very result 
+as part of the consideration for the construction agreement. We therefore conclude that… because 
+the [contractor’s insurance policy naming the owner as an additional insured] was part of the 
+consideration for the construction job, it must be viewed as primary insurance.” Id. at pp. 634–635. 
+Similarly, Hartford’s named insured Ashley Furniture was contractually obligated to 
+indemnity Carson Madrona, and to procure insurance covering Carson Madrona on a primary and 
+noncontributing (meaning that Carson Madrona may look solely to the insurance provided by 
+Ashley Furniture with respect to a covered claim and shall not be required to make a claim under 
+any other insurance Landlord may have).34  Pursuant to the Lease’s indemnity requirement, the 
+provisions of the Hartford Policy, and Rossmoor, the Hartford Policy provides primary coverage to 
+ 
+33 Doc. 67, p. 22. 
+34 Doc. 64-7, pp. 13, 21, 23, 24 [Joint Index 00135, 143, 145 - 146].  
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 20 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+17 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+Carson Madrona. 
+ 
+Contrary to Hartford’s claim, Ohio Security never wrongfully refused to defend Carson 
+Madrona as the primary defense obligation belonged to Hartford.35  Hartford’s Certificate of 
+Insurance issued to Carson Madrona provides that Harford affords primary and non-contributory 
+coverage.36  The Certificate is consistent with the Other Insurance provision of the Hartford Policy 
+provides in pertinent parts: 
+4. Other Insurance  
+*** 
+b.  Excess Insurance  
+(7) When you Add Others as An Additional Insured To This Insurance Any 
+other insurance available to an additional insured. 
+ 
+However, the following provisions apply to other insurance available to any 
+person or organization who is an additional insured under this coverage part. 
+*** 
+(b) Primary and Non-Contributory To Other Insurance When Required by 
+Contract 
+ 
+If you have agreed in a written contract, written agreement, or permit 
+that this insurance is primary and non-contributory with the additional 
+insured’s own insurance, this insurance is primary, and we will not seek 
+contribution from that other insurance.37 
+When Hartford abandoned Carson Madrona, Ohio Security unequivocally stepped in to 
+defend.38 Ohio Security does not owe Hartford any past defense fees and costs.  Instead, Hartford 
+must reimburse Ohio Security amounts it expended in prosecuting Carson Madrona’s appeal as well 
+as all costs and post judgment amounts awarded against Carson Madrona as delineated in Ohio 
+Security’s Motion.39 
+E. The Correct Determination of Priority of Coverage for Carson Madrona 
+Ace does not dispute that Carson is an insured under the Ace Policy.40  Instead, Ace contends 
+ 
+35 Doc. 64-7, p. 24 [Joint Index 00146] 
+36 Doc. 64-21, p. 2 [Joint Index 00465] 
+37 Doc. 64-10, p. 31 [Joint Index 00200]. 
+38 Doc. 64-2, p. 6, ¶ 14.  
+39 Doc. 64, pp. 24:15 – 25:26. 
+40 Doc. 68, p. 23 “Carson is an insured. ACE does not contend otherwise.” 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 21 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+18 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+that coverage under the American Fire Policy is triggered before the Ace Policy.41   The reasons 
+provided by Ace are unavailing. 
+First, Ace claims that Rossmoor does not apply, and instead, urges this court to disregard the 
+indemnity agreement between the parties pursuant to Reliance Nat. Indem. Co. v. Gen. Star Indem. 
+Co., 72 Cal. App. 4th 1063 (1999).  As explained above, Rossmoor applies with regard to 
+determination of priority between an indemnitor’s policy and an indemnitee’s policy.  Further 
+Reliance cannot apply as between Ace and American Fire because that case involved determination 
+of coverage between the primary carrier of an indemnitor and the excess carrier of an indemnitee.42  
+There is no dispute here, and the law is well settled that primary and excess policies provide different 
+levels of coverage.  Here, Ace issued an excess policy to the contractual indemnitor, while American 
+Fire issued an excess policy to the contractual indemnitee.  Thus, Reliance does not apply as between 
+Ace and American Fire, which both provide excess coverage.   
+Second, Ace claims that the purported the lease termination agreement released Ashley 
+Furniture’s indemnity obligation, somehow terminates Carson Madrona and its direct insurers right 
+to recover against Ace and Hartford.43  The lease termination agreement does not affect the 
+insurance coverage provided under the Ace and Hartford Policy.44  Nothing in the language cited 
+by Ace suggest otherwise.   
+Third, relying on Rossmoor, which it also claims does not apply to this action, Ace urges 
+this court to rule that because the indemnity clause in the Lease does not provide for indemnity for 
+Carson Madrona’s active negligence, it somehow does not apply.45  Ace claims that Carson seeks 
+indemnity for its sole negligence.  This is untrue.  Carson Madrona seeks indemnity, and additional 
+insured coverage, for the Underlying Lawsuit arising from and/or with respect to Ashley Furniture’s 
+ 
+41 Doc. 68, p. 26 
+42 Doc. 68, p. 27:6 -11. 
+43 Doc. 68, p. 28:12 – 26. 
+44 Doc. 63, pp. 23 – 26, Ohio Security and American Fire incorporates by reference Carson 
+Madrona’s briefing on this issue.   
+45 Doc. 68, pp. 28 – 29. 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 22 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+19 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+use of the Warehouse which led to underlying plaintiff’s injuries.46 
+Fourth, without citation to any legal authority, Ace claims that the Lease does not determine 
+priority as between Ace and American Fire because it only required insurance limits of “not less 
+than $2,000,000” which was satisfied under the Hartford Policy.47  The sole California case on point 
+– City of Ontario v. Allied World Assurance Co., No. EDCV202279JGBSPX, 2021 WL 6104180 
+(C.D. Cal. Sept. 30, 2021) – specifically rejects Ace’s argument. 
+City of Ontario involved a construction project for which a permit was issued by the City of 
+Ontario requiring the named insured, Rasic “to maintain Commercial General Liability Insurance, 
+or equivalent form, with a combined single limit of not less than $1,000,000 per occurrence.” 
+(emphasis added).  City of Ontario v. Allied World Assurance Co. U.S., No. EDCV202279JGBSPX, 
+2021 WL 6104180, at *5 (C.D. Cal. Sept. 30, 2021)  Rasic obtained a primary CGL policy from 
+Travelers with a $2 million per occurrence limit and an excess policy from Allied World Assurance 
+(“AWAC” with a $25 million occurrence and aggregate limit. When the plaintiffs in the underlying 
+action made settlement demands exceeding $8 million, the issue arose as to the City’s coverage as 
+an additional insured, i.e. whether the City was limited to $1 million under the Traveler’s policy 
+alone or entitled to up to $27 million in coverage between the Travelers’ policy ($2 million) and the 
+AWAC policy ($25 million). Travelers did not participate in the lawsuit, but AWAC and the City 
+filed cross-motions for summary judgment motions. 
+In finding that the subject excess policy provided coverage, the City of Ontario court 
+reasoned as follows: 
+[T]here is a difference between requiring Rasic to purchase “up to” $1,000,000 in 
+coverage and “not less than” $1,000,000 in coverage. The first has a limit of 
+$1,000,000; the second does not. To read the contract otherwise fails to give 
+meaning to the words “not less than.” Simplifying this question into plain English 
+cuts through this thicket of confusion. The Permit required Rasic to purchase an 
+insurance policy that would pay out at least $1,000,000 in the event of an accident.  
+ 
+City of Ontario v. Allied World Assurance Co. U.S., No. EDCV202279JGBSPX, 2021 WL 
+6104180, at *6 (C.D. Cal. Sept. 30, 2021).  The City of Ontario court found that the Travelers Policy 
+ 
+46 Doc. 64-4, p. 9; Doc. 64-17, p. 3; Doc. 64-17, pp. 4, 7, 10 [Joint Index 00009, 00397 – 398, 
+00401 - 404];  
+47 Doc. 68, p. 29.   
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 23 of 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3533035.1  
+20 
+Case No. 3:23-cv-06259-VC
+OHIO SECURITY INSURANCE COMPANY AND AMERICAN FIRE’S OPPOSITION TO CROSS MOTION 
+FOR SUMMARY JUDGMENT AND REPLY TO OPPOSITION 
+ 
+MUSICK, PEELER 
+& GARRETT LLP 
+provides Plaintiff $2,000,000 in coverage and that the Allied World Policy operates in addition to 
+the Travelers Policy for all claims by Insureds.  Id.   
+Applying the reasoning in City of Ontario, Ace’s contention should likewise be rejected as 
+the Lease did not put a cap on the coverage required.  It required “at least $2,000,000” in coverage.  
+This amount is a floor, not a ceiling. It does not preclude higher limits of coverage.  The Ace Policy 
+operates in addition to the Hartford Policy in providing additional coverage to Carson Madrona. 
+Fifth, and most notably, Ace does not dispute the applicability, and even cite to JPI 
+Westcoast Const., L.P. v. RJS & Associates, Inc., 156 Cal.App.4th 1448 (2007).48  The JPI court 
+affirmed that after the primary carrier of the indemnitee pays out, then the excess carrier of the 
+indemnitor was next in line to contribute. Id. p. 1457. 
+Thus, Ashley Furniture’s primary policy – the Hartford Policy - provides the first level of 
+coverage for Carson Madrona. Subsequently, Carson Madrona’s primary policy - Ohio Security 
+Policy - provides the next level.  Ashley Furniture’s excess policy – the Ace Policy – would then 
+attach.  Only after the exhaustion of the Hartford Policy, the Ohio Security Policy and the Ace Policy 
+would coverage under Carson Madrona’s excess policy – the American Fire Policy – be triggered.          
+IV. 
+CONCLUSION 
+For the foregoing reasons, Hartford and Ace’s cross motions for summary judgment should 
+be denied, Ohio Security and American Fire’s motion for partial summary judgment should be 
+granted. 
+DATED:  January 30, 2025 
+MUSICK, PEELER & GARRETT LLP 
+By: 
+/s/ Danica Lam 
+Lawrence A. Tabb 
+Danica Lam 
+Attorneys for Defendants and Counterclaimants 
+OHIO SECURITY INSURANCE COMPANY 
+and AMERICAN FIRE AND CASUALTY 
+COMPANY 
+ 
+ 
+48 Doc. 68, p. 27:28. 
+Case 3:23-cv-06259-VC     Document 69     Filed 01/30/25     Page 24 of 24

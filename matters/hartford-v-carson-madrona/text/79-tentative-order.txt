@@ -1,0 +1,40 @@
+ 
+ 
+UNITED STATES DISTRICT COURT 
+NORTHERN DISTRICT OF CALIFORNIA 
+ 
+HARTFORD FIRE INSURANCE 
+COMPANY, 
+Plaintiff, 
+v. 
+ 
+CARSON MADRONA COMPANY, LLC, 
+et al., 
+Defendants. 
+Case No.  23-cv-06259-VC    
+ 
+ 
+TENTATIVE ORDER RE CROSS-
+MOTIONS FOR SUMMARY 
+JUDGMENT 
+Re: Dkt. Nos. 63, 64, 67, 68 
+ 
+ 
+The Court is tentatively inclined to rule on the cross-motions for summary judgment as 
+follows: The endorsement, not the coverage form, controls Carson Madrona’s coverage under the 
+Hartford and ACE policies. The endorsement requires something like proximate cause, such that 
+Hartford and ACE had no duty to indemnify Carson Madrona given the jury’s finding that 
+Ashley was a 0% substantial factor in causing Perez’s injuries. Hartford and ACE had a duty to 
+defend Carson Madrona on appeal, however, because the appeal could have resulted in a new 
+trial, which could in turn have resulted in a finding that Ashley caused Perez’s injury and 
+therefore resulted in coverage. The Ohio Security policy applies before the Hartford policy, and 
+the American Fire policy applies before the ACE policy. 
+The parties should come to the hearing prepared to discuss these tentative rulings 
+(including whether the tentative ruling on priority of coverage would be an alternative ground for 
+granting Hartford’s and ACE’s motions regarding their duty to defend).  
+IT IS SO ORDERED. 
+Dated: February 25, 2025 
+______________________________________ 
+VINCE CHHABRIA 
+United States District Judge 
+Case 3:23-cv-06259-VC     Document 79     Filed 02/25/25     Page 1 of 1

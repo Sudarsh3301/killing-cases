@@ -1,0 +1,36 @@
+{
+  "matter": "hartford-v-carson-madrona",
+  "filed": "2025-01-02",
+  "claims": 14,
+  "inferences": 25,
+  "premises": 110,
+  "unstatedPremises": 24,
+  "statedPremisesAnchored": 63,
+  "statedPremises": 86,
+  "attacks": 47,
+  "attacksStillOpen": 22,
+  "openAttacksOnUnstated": 9,
+  "attacksOnUnstated": 15,
+  "attacksOnOther": 32,
+  "openAttacksOnOther": 13,
+  "courtFirstReasonAttack": {
+    "rank": 2,
+    "onUnstatedPremise": true,
+    "ruling": "open"
+  },
+  "secureClaims": {
+    "asFiled": 5,
+    "underAttack": 1,
+    "afterExchange": 2
+  },
+  "courtReasons": 7,
+  "courtReasonsFlaggedByTwin": 6,
+  "courtReasonsFoundByBaseline": 5,
+  "courtFirstTwoRanks": [
+    2,
+    3
+  ],
+  "redlineEditsApplied": 15,
+  "hardenedReplayStillOpen": 7,
+  "hardenedReplayReasons": 7
+}

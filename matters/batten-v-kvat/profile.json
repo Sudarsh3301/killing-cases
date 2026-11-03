@@ -1,0 +1,18 @@
+{
+  "case": "Batten v. K-VA-T Food Stores, Inc. (d/b/a Food City)",
+  "docket": "4:22-cv-00179 (N.D. Ga.)",
+  "courtlistener_docket": "https://www.courtlistener.com/docket/64898316/batten-v-k-va-t-food-stores-inc/",
+  "court": "U.S. District Court for the Northern District of Georgia",
+  "courtListenerCourtId": "gand",
+  "circuit": "11th Cir.",
+  "judge": "William M. Ray, II (Magistrate Judge Walter E. Johnson wrote the report and recommendation)",
+  "side": "plaintiff (Christopher Matthew Batten)",
+  "motionRole": "non_movant",
+  "proceeding": "summary_judgment",
+  "motion": "Defendant Food City's motion for summary judgment (D.I. 29), brief D.I. 31, statement of material facts D.I. 30",
+  "nature": "Employment",
+  "notes": "Whole docket is public. 2 judicial readings: R&R (53) and order adopting in part (57). Appeal dismissed as moot (64). Exhibit attachments 29.x and 31.x have no descriptions on the docket page; rename after reading.",
+  "brief": "Plaintiff's opposition (D.I. 42), response to Food City's statement of facts (D.I. 43) and statement of additional facts (D.I. 44), filed 2023-05-25",
+  "filingDate": "2023-05-25",
+  "outcome": "Lost. Food City's motion granted (D.I. 57): no genuine issue of material fact that the proffered reason was a pretext. R&R (D.I. 53) adopted in part."
+}

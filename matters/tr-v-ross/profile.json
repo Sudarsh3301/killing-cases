@@ -1,0 +1,18 @@
+{
+  "case": "Thomson Reuters Enterprise Centre GmbH v. ROSS Intelligence Inc.",
+  "docket": "1:20-cv-00613 (D. Del.)",
+  "courtlistener_docket": "https://www.courtlistener.com/docket/17131648/thomson-reuters-enterprise-centre-gmbh-v-ross-intelligence-inc/",
+  "court": "U.S. District Court for the District of Delaware",
+  "courtListenerCourtId": "ded",
+  "circuit": "3d Cir.",
+  "judge": "Stephanos Bibas (sitting by designation)",
+  "side": "defendant (ROSS Intelligence)",
+  "motionRole": "non_movant",
+  "proceeding": "summary_judgment",
+  "motion": "Plaintiffs' renewed motion for partial summary judgment on direct copyright infringement and related defenses (D.I. 674)",
+  "nature": "Copyright: Westlaw headnotes used to train a legal-AI search tool",
+  "notes": "Many exhibits are redacted. The opinion has a sealed Appendix A (D.I. 771).",
+  "brief": "Ross's answering brief in opposition to TR's renewed motion on direct infringement (sealed D.I. 713, redacted D.I. 723), filed 2024-10-30",
+  "filingDate": "2024-10-30",
+  "outcome": "Lost. TR's motion on direct infringement granted in part, TR's fair-use motion granted, both Ross motions denied (D.I. 772; opinion D.I. 770)."
+}

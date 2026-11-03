@@ -1,0 +1,819 @@
+Case 4:22-cv-00179-WMR Document 46-3 Filed 05/25/23. Page 1 of 16
+
+12/08/22 VTA Report
+15:39 Page 1
+
+VTA Training Detail Report
+For Single Student
+
+All Dates
+
+Course
+
+Training History Credit Hours Comp. Date
+EBYSAF 102 Bloodborne Pathogens (5 min) 0.00 07/12/21
+Lessons _ Order Name Type Take When Req. Status Grade Score Status Date
+1 Bloodborne Pathogens Document Self-Study Yes Complete 07/12/21
+2 Bloodborne Test Test Self-Study Yes Complete 100.00 07/12/21
+FULREQ100 Class C-UndergroundStorageTank (2 min) 0.00 07/12/21
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 UST Class C Training Document Self-Study Yes Complete 07/12/21
+EBYSEC102 Credit Card Skimmers (5 min) 0.00 07/12/21
+Lessons _ Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Credt Crd Skimr Upda Document Self-Study Yes Complete 07/12/21
+2 CC Skimmers Test Test Self-Study Yes Complete 90.00 07/12/21
+EBYSAFREF _ Fire Extinguisher In Work Place (9 min) 0.00 07/12/21
+Lessons _ Order Name Type Take When Req. Status Grade Score _ Status Date
+4 Fire Extinguisher Document Self-Study Yes Complete 07/12/21
+2 Test Test Self-Study Yes Complete 100.00 07/12/21
+FULSAF101 Gas'N Go Safety (10 min) 0.00 07/12/21
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Gas'N Go Safety Document Self-Study Yes Complete 07/12/21
+2 Gas'N Go Test Test Self-Study Yes Complete 80.00 07/12/21
+EBYHRS102 Harassment Policy (5 min) 0.00 07/12/21
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+{ Harassment Policy Document Self-Study Yes Complete 07/12/21
+2 Harassment Test Test Self-Study Yes Complete 100.00 07/12/21
+EBYSAF902 Hazard Communications (12 min) 0.00 07/12/21
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Hazard Communication Document Self-Study Yes Complete 07/12/21
+2 Haz Com Test Test Self-Study Yes Complete 100.00 07/12/21
+EBYSAF 111 Healthy at Work Acknowledgement (1 min) 0.00 07/12/21
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Healthy at Work Ack Document Self-Study Yes Complete 07/12/21
+EBYSEC104 Information Security Policy (10 min) 0.00 07/12/21
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Information Security Document Self-Study Yes Complete 07/12/21
+2 AcceptableUse Policy Document Self-Study Yes Complete 07/12/21
+3 Payment Card Info Document Self-Study Yes Complete 07/12/21
+4 Security Awareness Document Self-Study Yes Complete 07/12/21
+
+Contact the Training Department with any questions
+K-VA-T
+
+001041
+Case 4:22-cv-00179-WMR Document 46-3 Filed 05/25/23. Page 2 of 16
+
+12/08/22 VTA Report
+15:39 Page 2
+
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Course
+Code Title
+
+Training History Credit Hours Comp. Date
+EBYSAF105 Lockout Tagout Affected Employee (9 min) 0.00 07/12/21
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 LockoutTagoutAffect Document Self-Study Yes Complete 07/12/21
+EBYSEC105 PCI Data Security (6 min) 0.00 07/12/21
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+4 PCI Data Security Document Self-Study Yes Complete 07/12/21
+2 Test Test Self-Study Yes Complete 90.00 07/12/21
+EBYSAF 109 Preventing Slips Trips Falls Video(7min) 0.00 07/12/21
+Lessons _Order Name Type Take When Req. Status Grade Score Status Date
+1 Prevent SlipTripFall Document Self-Study Yes Complete 07/12/21
+PPMSAF008 Safety Manual - Slip Trip and Fall Prev 0.00 07/12/21
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Purpose Document Self-Study Yes Complete 07/12/21
+2 Falls Document Self-Study Yes Complete 07/12/21
+3 Elevated Falls Document Self-Study Yes Complete 07/12/21
+4 Protection FromFalls Document Self-Study Yes Complete 07/12/21
+5 Wet FloorMaintenance Document Self-Study Yes Complete 07/12/21
+EBYSAF108 Slips, Trips and Falls Procedures(10min) 0.00 07/12/21
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Slips Trips Falls Document Self-Study Yes Complete 07/12/21
+2 Wet FloorMaintenance Document Self-Study Yes Complete 07/12/21
+3 SlipsTripsFalls Test Test Self-Study Yes Complete 100.00 07/12/21
+EBYHRS109 Update My Profile Information (1 min) 0.00 07/12/21
+Lessons _ Order Name Type Take When Req. Status Grade Score _ Status Date
+1 UpdateMyProfile Info Document Self-Study Yes Complete 07/12/21
+EBYSEC106 Acceptable Use Policies (3 min) 0.00 03/09/21
+Lessons _ Order Name Type Take When Req. Status Grade Score _ Status Date
+4 Acceptable Use Polic Document Self-Study Yes Complete 03/09/21
+EBYSEC108 Counterfeit Money Prevention (2 min) 0.00 03/09/21
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Counterfeit Money Pr Document Self-Study Yes Complete 03/09/21
+Contact the Training Department with any questions
+K-VA-T
+
+001042
+Filed 05/25/23 Page 3 of 16
+
+Case 4:22-cv-00179-WMR Document 46-3
+
+12/08/22 VTA Report
+15:39 Page 3
+VTA Training Detail Report
+
+For Single Student
+All Dates
+Course
+
+Code Title
+
+Training History Credit Hours Comp. Date
+EBYCOV100 Covid-19 Guidelines 2020 (13 min) 0.00 03/09/21
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Characteristics Document Self-Study Yes Complete 03/09/21
+2 Signs Symptoms Document Self-Study Yes Complete 03/09/21
+3 Asymptom PreSymptom Document Self-Study Yes Complete 03/09/21
+4 Deadly Consequences Document Self-Study Yes Complete 03/09/21
+5 Hand Washing Document Self-Study Yes Complete 03/09/21
+6 Face Covering Document Self-Study Yes Complete 03/09/21
+7 Non-Contact Greeting Document Self-Study Yes Complete 03/09/21
+8 Heat Related Illness Document Self-Study Yes Complete 03/09/21
+EBYEXP109 Energy Conservation Program 2021 (4 min) 0.00 03/09/21
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Energy Conservation Document Self-Study Yes Complete 03/09/21
+EBYHRS110 Scholarship Information (3 min) 0.00 02/04/21
+Lessons _ Order Name Type Take When Req. Status Grade Score _Status Date
+1 KVAT Scholarships Document Self-Study Yes Complete 02/04/21
+EBYSAF111 Healthy at Work Acknowledgement (1 min) 0.00 12/30/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Healthy @ Work Document Self-Study Yes Complete 12/30/20
+FNDCSH129 Tobacco Sales Age ID Req 2020 (2 min) 0.00 12/30/20
+Lessons _Order Name Type Take When Req. Status Grade Score _Status Date
+1 Tobacco Requirements Document Self-Study Yes Complete 12/30/20
+SECSEC103 ~— Active Shooter Training Video (5 min) 0.00 11/30/20
+Lessons _Order Name Type Take When Req. Status Grade Score Status Date
+1 Active Shooter Video Document Self-Study Yes Complete 41/30/20
+EBYSEC102 Credit Card Skimmers (5 min) 0.00 11/30/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+4 Credt Crd Skimr Upda Document Self-Study Yes Complete 11/30/20
+2 CC Skimmers Test Test Self-Study Yes Complete 90.00 11/30/20
+FNDCSH874 Gift Cards (8 min) 0.00 10/16/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Gift Cards Document Self-Study Yes Complete 10/16/20
+2 Test Test Self-Study Yes Complete 80.00 10/16/20
+Contact the Training Department with any questions
+K-VA-T
+
+001043
+Filed 05/25/23 Page 4of 16
+
+Case 4:22-cv-00179-WMR Document 46-3
+
+12/08/22 VTA Report
+15:39 Page 4
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Course
+
+Code
+
+Sry
+
+Traledngistary. Credit Hours Comp. Date
+FNDCSH102 Third Party Gift Cards (4 min) 0.00 10/16/20
+Lessons Order Name Type Take When Req. Status Grade Score _Status Date
+1 Third Party GiftCard Document Self-Study Yes Complete 10/16/20
+2 Third Party Gift Crd Test Self-Study Yes Complete 80.00 10/16/20
+EBYUND211 United Way 2020 (2 min) 0.00 10/16/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 United Way 2020 Document Self-Study Yes Complete 10/16/20
+EBYCOV100 Covid-19 Guidelines 2020 (13 min) 0.00 09/08/20
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Characteristics Document Self-Study Yes Complete 09/08/20
+2 Signs Symptoms Document Self-Study Yes Complete 09/08/20
+3 Asymptom PreSymptom Document Self-Study Yes Complete 09/08/20
+4 Deadly Consequences Document Self-Study Yes Complete 09/08/20
+5 Hand Washing Document Self-Study Yes Complete 09/08/20
+6 Face Covering Document Self-Study Yes Complete 09/08/20
+¢ Non-Contact Greeting Document Self-Study Yes Complete 09/08/20
+8 Heat Related Illness Document Self-Study Yes Complete 09/08/20
+FULPRO105 Daytime Fuel Delivery (9 min) 0.00 09/08/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Daytime Fuel Deliver Document Self-Study Yes Complete 09/08/20
+2 Fuel Delivery Test Test Self-Study Yes Complete 90.00 09/08/20
+EBYSAF 111 Healthy at Work Acknowledgement (1 min) 0.00 07/07/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Healthy @ Work Document Self-Study Yes Complete 07/07/20
+EBYSEC104 Information Security Policy (10 min) 0.00 06/24/20
+Lessons _Order Name Type Take When Req. Status Grade Score Status Date
+1 Information Security Document Self-Study Yes Complete 06/24/20
+2 AcceptableUse Policy Document Self-Study Yes Complete 06/24/20
+3 Payment Card Info Document Self-Study Yes Complete 06/24/20
+4 Security Awareness Document Self-Study Yes Complete 06/24/20
+EBYSAF105 Lockout Tagout Affected Employee (9 min) 0.00 06/24/20
+Lessons __Order Name Type Take When Req. Status Grade Score _ Status Date
+1 LockoutTagoutAffect Document Self-Study Yes Complete 06/24/20
+EBYSAF109 Preventing Slips Trips Falls Video(7min) 0.00 06/24/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+4 Prevent SlipTripFall Document Self-Study Yes Complete 06/24/20
+Contact the Training Department with any questions
+K-VA-T
+
+001044
+Case 4:22-cv-00179-WMR Document 46-3 Filed 05/25/23. Page 5 of 16
+
+12/08/22 VTA Report
+15:39 Page 5
+
+VTA Training Detail Report
+For Single Student
+
+All Dates
+
+Course
+
+Training History, Credit Hours Comp. Date
+EBYSAFREF _ Fire Extinguisher In Work Place (9 min) 0.00 06/12/20
+Lessons _Order Name Type Take When Req. Status Grade Score _Status Date
+4 Fire Extinguisher Document Self-Study Yes Complete 06/12/20
+2 Test Test Self-Study Yes Complete 100.00 06/12/20
+EBYSEC105 PCI Data Security (6 min) 0.00 06/12/20
+Lessons _Order Name Type Take When Req. Status Grade Score Status Date
+1 PCI Data Security Document Self-Study Yes Complete 06/12/20
+2 Test Test Self-Study Yes Complete 100.00 06/12/20
+PPMSAF008 Safety Manual - Slip Trip and Fall Prev 0.00 06/12/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Purpose Document Self-Study Yes Complete 06/12/20
+2 Falls Document Self-Study Yes Complete 06/12/20
+3 Elevated Falls Document Self-Study Yes Complete 06/12/20
+4 Protection FromFalls Document Self-Study Yes Complete 06/12/20
+5 Wet FloorMaintenance Document Self-Study Yes Complete 06/12/20
+EBYSAF 108 Slips, Trips and Falls Procedures(10min) 0.00 06/12/20
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Slips Trips Falls Document Self-Study Yes Complete 06/12/20
+2 Wet FloorMaintenance Document Self-Study Yes Complete 06/12/20
+3 SlipsTripsFalls Test Test Self-Study Yes Complete 100.00 06/12/20
+EBYSAF 102 Bloodborne Pathogens (5 min) 0.00 06/11/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Bloodborne Pathogens Document Self-Study Yes Complete 06/11/20
+2 Bloodborne Test Test Self-Study Yes Complete 80.00 06/11/20
+FULSAF 101 Gas'N Go Safety (10 min) 0.00 06/11/20
+Lessons Order Name Type Take When Req. Status Grade Score _Status Date
+1 Gas'N Go Safety Document Self-Study Yes Complete 06/11/20
+2 Gas'N Go Test Test Self-Study Yes Complete 90.00 06/11/20
+EBYHRS102 Harassment Policy (5 min) 0.00 06/11/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Harassment Policy Document Self-Study Yes Complete 06/11/20
+2 Harassment Test Test Self-Study Yes Complete 100.00 06/11/20
+EBYSAF902 Hazard Communications (12 min) 0.00 06/11/20
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Hazard Communication Document Self-Study Yes Complete 06/11/20
+2 Haz Com Test Test Self-Study Yes Complete 100.00 06/11/20
+
+Contact the Training Department with any questions
+K-VA-T
+
+001045
+Filed 05/25/23 Page 6 of 16
+
+Case 4:22-cv-00179-WMR Document 46-3
+
+12/08/22 VTA Report
+15:39 Page 6
+VTA Training Detail Report
+
+For Single Student
+All Dates
+Course
+
+Code
+
+Training Histo ;
+g y Credit Hours Comp. Date
+EBYHRS109 Update My Profile Information (1 min) 0.00 06/11/20
+Lessons _Order Name Type Take When Req. Status Grade Score __ Status Date
+1 UpdateMyProfile Info Document Self-Study Yes Complete 06/11/20
+EBYSEC106 Acceptable Use Policies (3 min) 0.00 05/06/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Acceptable Use Polic Document Self-Study Yes Complete 05/06/20
+FULREQ100 Class C-UndergroundStorageTank (2 min) 0.00 05/06/20
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 UST Class C Training Document Self-Study Yes Complete 05/06/20
+EBYSEC102 Credit Card Skimmers (5 min) 0.00 05/06/20
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Credt Crd Skimr Upda Document Self-Study Yes Complete 05/06/20
+2 CC Skimmers Test Test Self-Study Yes Complete 90.00 05/06/20
+‘BYSAF110 Proper Use of Face Masks (3 min) 0.00 05/06/20
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Proper Face Mask Document Self-Study Yes Complete 05/06/20
+EBYFSF102 Disease Prevention (9 min) 0.00 03/04/20
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Disease Prevention Document Self-Study Yes Complete 03/04/20
+EBYHRS110 Scholarship Information (3 min) 0.00 03/04/20
+Lessons _ Order Name Type Take When Req. Status Grade Score Status Date
+1 KVAT Scholarships Document Self-Study Yes Complete 03/04/20
+FNDCSH129 Tobacco Sales Age ID Req 2020 (2 min) 0.00 01/02/20
+Lessons _Order Name Type Take When Req. Status Grade Score Status Date
+1 Tobacco Requirements Document Self-Study Yes Complete 01/02/20
+SECSEC103 Active Shooter Training Video (5 min) 0.00 11/11/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Active Shooter Video Document Self-Study Yes Complete 11/11/19
+EBYSEC102 Credit Card Skimmers (5 min) 0.00 11/11/19
+Lessons _ Order Name Type Take When Req. Status Grade Score Status Date
+1 Credt Crd Skimr Upda Document Self-Study Yes Complete 11/11/19
+2 CC Skimmers Test Test Self-Study Yes Complete 90.00 11/11/19
+
+Contact the Training Department with any questions
+K-VA-T
+
+001046
+Case 4:22-cv-00179-WMR Document 46-3 Filed 05/25/23. Page 7 of 16
+
+12/08/22 VTA Report
+15:39 Page 7
+
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Course
+
+Training History Credit Hours Comp. Date
+EBYGEN102 Logile Connect App (2 min) 0.00 11/11/19
+Lessons _Order Name Type Take When Req. Status Grade Score Status Date
+1 Logile Connect App Document Self-Study Yes Complete 11/11/19
+FCYALL100 Company Orientation Welcome (55 Min) 30.00 09/21/19
+Lessons _ Order Name Type Take When Req. Status Grade Score _Status Date
+1 Company Orientation Document Self-Study Yes Complete 05/28/19
+2 Company Orientation Test Self-Study Yes Complete 100.00 05/28/19
+4 Customer Service Document Self-Study Yes Complete 09/21/19
+5 Customer Service Test Self-Study Yes Complete 100.00 09/21/19
+6 KARE Program Document Self-Study Yes Complete 09/21/19
+FULPRO105 Daytime Fuel Delivery (9 min) 9.00 09/21/19
+Lessons _ Order Name Type Take When Req. Status Grade Score Status Date
+1 Daytime Fuel Deliver Document Self-Study Yes Complete 09/21/19
+2 Fuel Delivery Test Test Self-Study Yes Complete 100.00 09/21/19
+»PMSAF005 Safety Manual - Accident Prevention 0.00 09/21/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Accident Invest Proc Document Self-Study Yes Complete 09/21/19
+2 Accident Investigate Document Self-Study Yes Complete 09/21/19
+PPMSAF004 Safety Manual - First Aid 0.00 09/21/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 First Aid Document Self-Study Yes Complete 09/21/19
+2 First Aid Instruct Document Self-Study Yes Complete 09/21/19
+Contact the Training Department with any questions KVA-T
+
+001047
+Case 4:22-cv-00179-WMR Document 46-3 Filed 05/25/23. Page 8 of 16
+
+12/08/22 VTA Report
+15:39 Page 8
+
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Course
+Code Title
+
+Training History
+
+Credit Hours Comp. Date
+PPMSAF007 Safety Manual - General Policies 0.00 09/21/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Ladders Document Self-Study Yes Complete 09/21/19
+2 Violence InWorkplace Document Self-Study Yes Complete 09/21/19
+3 Electrical Document Self-Study Yes Complete 09/21/19
+4 Slicers Document Self-Study Yes Complete 09/21/19
+5 Meat Grinders Document Self-Study Yes Complete 09/21/19
+6 Sharp Instruments Document Self-Study Yes Complete 09/21/19
+7 Box Cutter Safety Document Self-Study Yes Complete 09/21/19
+8 Stockroom Document Self-Study Yes Complete 09/21/19
+9 Lifting Procedures Document Self-Study Yes Complete 09/21/19
+10 Safety Rules Document Self-Study Yes Complete 09/21/19
+1 Compactor Baler Document Self-Study Yes Complete 09/21/19
+12 Scrubber Buffer Document Self-Study Yes Complete 09/21/19
+13 Fire Extinguisher Document Self-Study Yes Complete 09/21/19
+14 Helium Balloon Gas Document Self-Study Yes Complete 09/21/19
+15 Handling Dry Ice Document Self-Study Yes Complete 09/21/19
+16 Safety Vests Document Self-Study Yes Complete 09/21/19
+Office Safety Document Self-Study Yes Complete 09/21/19
+18 Evacuation Plan Document Self-Study Yes Complete 09/21/19
+PPMSAF009 Safety Manual - Hazard Communications 0.00 09/21/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Purpose Document Self-Study Yes Complete 09/21/19
+2 General Information Document Self-Study Yes Complete 09/21/19
+3 Chemical Safety Document Self-Study Yes Complete 09/21/19
+4 Definitions Document Self-Study Yes Complete 09/21/19
+5 SDS Information Document Self-Study Yes Complete 09/21/19
+PPMSAF006 Safety Manual - Recordkeeping 0.00 09/21/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Recordkeeping Document Self-Study Yes Complete 09/21/19
+Z Self Inspect Audits Document Self-Study Yes Complete 09/21/19
+PPMSAF003 Safety Manual - Safety and Health Train 0.00 09/21/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Safety Health Train Document Self-Study Yes Complete 09/21/19
+PPMSAF002 Safety Manual - Safety Committee 0.00 09/21/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Safety Committee Document Self-Study Yes Complete 09/21/19
+Contact the Training Department with any questions K-VA-T
+
+001048
+Case 4:22-cv-00179-WMR Document 46-3 Filed 05/25/23. Page 9 of 16
+
+12/08/22 VTA Report
+15:39 Page 9
+
+VTA Training Detail Report
+For Single Student
+
+All Dates
+
+Course
+
+Training History Credit Hours Comp. Date
+EBYUND210 United Way Video (2 min) 0.00 09/21/19
+Lessons _Order Name Type Take When Req. Status Grade Score __ Status Date
+1 United Way Video Document Self-Study Yes Complete 09/21/19
+EBYHRS301 30 Day Follow Up (1 min) 1.00 08/29/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 30 Day Follow Up Document Self-Study Yes Complete 08/29/19
+2 30 Day Follow Up Que Test Self-Study Yes Complete 100.00 08/29/19
+EBYSLP101 Code Adam (16 min) 16.00 06/29/19
+Lessons _Order Name Type Take When Req. Status Grade Score Status Date
+4 Code Adam Document Self-Study Yes Complete 06/29/19
+2 Test Test Self-Study Yes Complete 100.00 06/29/19
+EBYEXP101 Energy Conservation CostControl (10 min) 10.00 06/29/19
+Lessons _Order Name Type Take When Req. Status Grade Score Status Date
+1 Utilities Course Document Self-Study Yes Complete 06/29/19
+2 Utilities Test Test Self-Study Yes Complete 87.50 06/29/19
+EBYSAF101 Fire Extinguisher In Work Place (9 min) 9.00 06/29/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Fire Extinguisher Document Self-Study Yes Complete 06/29/19
+2 Fire Extinguisher Test Self-Study Yes Complete 100.00 06/29/19
+FNDCSH874 Gift Cards (8 min) 8.00 06/29/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Gift Cards Document Self-Study Yes Complete 06/29/19
+2 Test Test Self-Study Yes Complete 80.00 06/29/19
+WHSALL107 IceBreaker (8 min) 8.00 06/29/19
+Lessons _Order Name Type Take When Req. Status Grade Score Status Date
+4 IceBreaker Video Document Self-Study Yes Complete 06/29/19
+EBYSEC104 Information Security Policy (10 min) 0.00 06/29/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Information Security Document Self-Study Yes Complete 06/29/19
+2 AcceptableUse Policy Document Self-Study Yes Complete 06/29/19
+3 Payment CardTerminal Document Self-Study Yes Complete 06/29/19
+4 Security Awareness Document Self-Study Yes Complete 06/29/19
+5 Payment Card Data Document Self-Study Yes Complete 06/29/19
+EBYSAF105 Lockout Tagout Affected Employee (9 min) 9.00 06/29/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 LockoutTagoutAffect Document Self-Study Yes Complete 06/29/19
+Contact the Training Department with any questions KAT
+
+001049
+Filed 05/25/23 Page 10 of 16
+
+Case 4:22-cv-00179-WMR Document 46-3
+
+12/08/22 VTA Report
+15:39 Page 10
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Course
+
+Code Title
+
+Training Histo “
+9g ry Credit Hours Comp. Date
+EBYHRS201 My Profile Acknowledgement (1 min) 1.00 06/29/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 My Profile Training Document Self-Study Yes Complete 06/22/19
+2 My Profile Test Test Self-Study Yes Complete 100.00 06/29/19
+EBYGEN100 Online Ordering at foodcity.com (4 min) 4.00 06/29/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Online Ordering Document Self-Study Yes Complete 06/29/19
+SECSEC102 Organized Retail Crime (5 min) 5.00 06/29/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 OrganizedRetailCrime Document Self-Study Yes Complete 06/29/19
+EBYSEC105 PCI Data Security (6 min) 6.00 06/29/19
+Lessons Order Name Type Take When Req. Status Grade Score _ Status Date
+1 PCI Data Security Document Self-Study Yes Complete 06/29/19
+2 Test Test Self-Study Yes Complete 90.00 06/29/19
+PHMCUS102 Pharm Mobile AppOnline Prescript (6 min) 6.00 06/29/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Pharm Online Prescri Document Self-Study Yes Complete 06/29/19
+EBYSAF109 Preventing Slips Trips Falls Video(7min) 0.00 06/29/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Prevent SlipTripFall Document Self-Study Yes Complete 06/29/19
+PPMSAF008 Safety Manual - Slip Trip and Fall Prev 0.00 06/29/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Purpose Document Self-Study Yes Complete 06/29/19
+2 Falls Document Self-Study Yes Complete 06/29/19
+3 Elevated Falls Document Self-Study Yes Complete 06/29/19
+4 Protection FromFalls Document Self-Study Yes Complete 06/29/19
+5 Wet FloorMaintenance Document Self-Study Yes Complete 06/29/19
+EBYHRS110 Scholarship Information (3 min) 8.00 06/29/19
+Lessons _Order Name Type Take When Req. Status Grade Score __ Status Date
+1 KVAT Scholarships Document Self-Study Yes Complete 06/29/19
+EBYSLP104 See Something Say Something (4 min) 4.00 06/29/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 See Something Say Sm Document Self-Study Yes Complete 06/29/19
+Contact the Training Department with any questions
+K-VA-T
+
+001050
+Case 4:22-cv-00179-WMR Document 46-3 Filed 05/25/23. Page 11 of 16
+
+12/08/22 VTA Report
+15:39 Page 11
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Course
+
+Code Title
+
+Training Histo. :
+9 ry Credit Hours Comp. Date
+EBYSAF108 Slips, Trips and Falls Procedures(10min) 0.00 06/29/19
+Lessons _Order Name Type Take When Req. Status Grade Score _Status Date
+1 Slips Trips Falls Document Self-Study Yes Complete 06/29/19
+2 Wet FloorMaintenance Document Self-Study Yes Complete 06/29/19
+3 SlipsTripsFalls Test Test Self-Study Yes Complete 100.00 06/29/19
+FCYALL112 Smart Choices Shelf Tags (5 min) 5.00 06/29/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 SmartChoiceShelfTags Document Self-Study Yes Complete 06/29/19
+FNDCSH124 Tax Exempt/Store Charge Cards (6 min) 6.00 06/29/19
+Lessons _ Order Name Type Take When Req. Status Grade Score _ Status Date
+1 TaxExmptStoreCharge Document Self-Study Yes Complete 06/29/19
+FNDCSH127 Tobacco Sales Age ID Require (10 min) 10.00 06/29/19
+Lessons __Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Tobacco Age/ID Requi Document Self-Study Yes Complete 06/29/19
+2 Tobacco Age/ID Requi Test Self-Study Yes Complete 90.90 06/29/19
+FNDCSH122 Digital Coupons (4 min) 4.00 06/25/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 e ValuCard Savers Document Self-Study Yes Complete 06/25/19
+2 eValuCard Test Test Self-Study Yes Complete 100.00 06/25/19
+EBYSAF 107 Eyewash Station Personal Protect (4 min) 0.00 06/25/19
+Lessons _ Order Name Type Take When Req. Status Grade Score Status Date
+1 Eyewash Station Document Self-Study Yes Complete 06/25/19
+2 Eyewash Station Test Test Self-Study Yes Complete 91.00 06/25/19
+FCYALL125 Food City Treasure Hunt (4 min) 0.00 06/25/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Treasure Hunt Document Self-Study Yes Complete 06/25/19
+EBYHRS102 Harassment Policy (5 min) 5.00 06/25/19
+Lessons Order Name Type Take When Req. Status Grade Score _Status Date
+1 Harassment Policy Document Self-Study Yes Complete 06/25/19
+2 Harassment Test Test Self-Study Yes Complete 100.00 06/25/19
+EBYGEN101 Instacart - Home Delivery Service(5 min) 0.00 06/25/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 HomDeliverylnstacart Document Self-Study Yes Complete 06/25/19
+Contact the Training Department with any questions
+K-VA-T
+
+001051
+Case 4:22-cv-00179-WMR Document 46-3 Filed 05/25/23. Page 12 of 16
+
+12/08/22 VTA Report
+15:39 Page 12
+
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Course
+Code Title
+
+Training History Credit Hours Comp. Date
+FNDCSH102 Third Party Gift Cards (4 min) 4.00 06/25/19
+Lessons _ Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Third Party GiftCard Document Self-Study Yes Complete 06/25/19
+2 Third Party Gift Crd Test Self-Study Yes Complete 100.00 06/25/19
+EBYHRS101 401K Course (5 min) 5.00 06/22/19
+Lessons _ Order Name Type Take When Req. Status Grade Score _ Status Date
+1 401K Document Self-Study Yes Complete 06/22/19
+EBYHRS203 ADA Guidelines Service Animals (3 min) 3.00 06/22/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 ACKGT ADA Service An Document Self-Study Yes Complete 06/22/19
+2 Serv Anim FAQ Document Self-Study Yes Complete 06/22/19
+FCYHRS103 Associate Purchasing Policy (1 min) 1.00 06/22/19
+Lessons _Order Name Type Take When Req. Status Grade Score _Status Date
+1 Purchasing Policy Document Self-Study Yes Complete 06/22/19
+2 Understanding Acknow Test Self-Study Yes Complete 100.00 06/22/19
+EBYSAF 102 Bloodborne Pathogens (5 min) 5.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Bloodborne Pathogens Document Self-Study Yes Complete 06/22/19
+2 Bloodborne Test Test Self-Study Yes Complete 100.00 06/22/19
+EBYSEC102 Credit Card Skimmers (5 min) 0.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Credt Crd Skimr Upda Document Self-Study Yes Complete 06/22/19
+2 CC Skimmers Test Test Self-Study Yes Complete 90.00 06/22/19
+FCYALL105 Doughnut Fund Raising Program(2 min) 2.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Doughnut FundRaising Document Self-Study Yes Complete 06/22/19
+2 FndRaising Test Test Self-Study Yes Complete 100.00 06/22/19
+FNDCSH125 Electronic Cigarettes (4 min) 4.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+4 Electronic Cigarette Document Self-Study Yes Complete 06/22/19
+EBYEXP108 Energy Conservation Program (8 min) 8.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 ECO Rewards Document Self-Study Yes Complete 06/22/19
+
+Contact the Training Department with any questions
+K-VA-T
+
+001052
+Filed 05/25/23 Page 13 of 16
+
+Case 4:22-cv-00179-WMR Document 46-3
+
+Code
+
+12/08/22 VTA Report
+15:39 Page 13
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Course
+
+Training Histo :
+9 ry. Credit Hours Comp. Date
+EBYHRS200 Entrance Interview (4 min) 4.00 06/22/19
+Lessons _ Order Name Type Take When Req. Status Grade Score Status Date
+1 Interview Evaluation Self-Study Yes Complete 06/22/19
+EBYHRS121 FC Handbook Acknowledgement 0.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 FC Handbook Ack Document Self-Study Yes Complete 06/22/19
+FCYALL124 Food City Website (2 min) 0.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Food City Website Document Self-Study Yes Complete 06/22/19
+0 Digital Coupons Document Self-Study Yes Complete 06/22/19
+PHMPRO106 Food City Wellness Club (2 min) 0.00 06/22/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Wellness Club Document Self-Study Yes Complete 06/22/19
+2 Enroll Instructions Document Self-Study Yes Complete 06/22/19
+FULSAF 101 Gas'N Go Safety (10 min) 10.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Gas'N Go Safety Document Self-Study Yes Complete 06/22/19
+2 Gas'N Go Test Test Self-Study Yes Complete 100.00 06/22/19
+EBYHRS114 Kronos Mobile App (1 min) 1.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Kronos Mobile Acknow Document Self-Study Yes Complete 06/22/19
+2 Kronos Download Inst Document Self-Study Yes Complete 06/22/19
+EBYHRS106 Kronos Time Clock (6 min) 6.00 06/22/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Kronos Time Clock Document Self-Study Yes Complete 06/22/19
+2 Kronos Test Test Self-Study Yes Complete 100.00 06/22/19
+FCYALL115 Loss Prevention Video (10 min) 10.00 06/22/19
+Lessons _ Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Loss PreventionVideo Document Self-Study Yes Complete 06/22/19
+2 Loss Prevention Test Test Self-Study Yes Complete 90.00 06/22/19
+FCYALL102 Orientation Evaluation (1 min) 3.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Evaluation Evaluation Self-Study Yes Complete 06/22/19
+Contact the Training Department with any questions
+K-VA-T
+
+001053
+Case 4:22-cv-00179-WMR Document 46-3
+
+Filed 05/25/23
+
+Page 14 of 16
+
+12/08/22 VTA Report
+15:39 Page 14
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Course
+
+Code Title
+
+TERA e MISIOTy, Credit Hours Comp. Date
+EBYHRS112 Social Media Policy (5 min) 5.00 06/22/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+4 Social Media Policy Document Self-Study Yes Complete 06/22/19
+FCYHRS104 Time Record Keeping Acknowledge (1 min) 1.00 06/22/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Time Record Keeping Document Self-Study Yes Complete 06/22/19
+2 Understanding Acknow Test Self-Study Yes Complete 100.00 06/22/19
+EBYHRS115 Tobacco-Free Non-Smoking Policy (2 min) 2.00 06/22/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Tobacco-Free Policy Document Self-Study Yes Complete 06/22/19
+EBYSLP105 Trash Disposal Acknowledgement (2 min) 2.00 06/22/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Trash Disposal Document Self-Study Yes Complete 06/22/19
+=BYHRS109 Update My Profile Information (1 min) 1.00 06/22/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 UpdateMyProfile Info Document Self-Study Yes Complete 06/22/19
+FCYHRS100 Attendance Acknowledgement (1 min) 1.00 06/18/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 AttendAcknowledgemnt Document Self-Study Yes Complete 06/18/19
+FCYALL117 Fuel Bucks Rewards (5 min) 0.00 06/18/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 Fuel Bucks Rewards Document Self-Study Yes Complete 06/18/19
+PPMFUE003 Fuel Center Manual - General Policies 0.00 06/18/19
+Lessons _Order Name Type Take When Req. Status Grade Score Status Date
+1 Keys to Tank Document Self-Study Yes Complete 06/18/19
+2 Ordering Document Self-Study Yes Complete 06/18/19
+3 Product Transfers Document Self-Study Yes Complete 06/18/19
+4 Order Guide Document Self-Study Yes Complete 06/18/19
+5 Rotation Concessions Document Self-Study Yes Complete 06/18/19
+6 Merchandising Document Self-Study Yes Complete 06/18/19
+7 Surveys Document Self-Study Yes Complete 06/18/19
+8 Drive Offs Document Self-Study Yes Complete 06/18/19
+9 Robbery Document Self-Study Yes Complete 06/18/19
+10 Inventories Document Self-Study Yes Complete 06/18/19
+11 Cig Tobaccolnventory Document Self-Study Yes Complete 06/18/19
+Contact the Training Department with any questions
+K-VA-T
+
+001054
+Case 4:22-cv-00179-WMR Document 46-3 Filed 05/25/23. Page 15 of 16
+
+12/08/22 VTA Report
+15:39 Page 15
+
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Course
+
+Tralalag oy Credit Hours Comp. Date
+PPMFUE002 Fuel Center Manual - Job Descriptions 0.00 06/18/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Fuel Coordinator JD Document Self-Study Yes Complete 06/18/19
+2 Fuel Clerk JD Document Self-Study Yes Complete 06/18/19
+3 Training People Document Self-Study Yes Complete 06/18/19
+4 How to Train Document Self-Study Yes Complete 06/18/19
+5 Scheduling the Work Document Self-Study Yes Complete 06/18/19
+PPMFUE004 Fuel Center Manual - Operations 0.00 06/18/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Required Certificatn Document Self-Study Yes Complete 06/18/19
+2 Sign Manual Document Self-Study Yes Complete 06/18/19
+3 Responsibilities Document Self-Study Yes Complete 06/18/19
+4 Credit Debit EBT Document Self-Study Yes Complete 06/18/19
+5 Terminal-Seal Inspec Document Self-Study Yes Complete 06/18/19
+6 Security Access Document Self-Study Yes Complete 06/18/19
+7 Opening Procedures Document Self-Study Yes Complete 06/18/19
+8 Closing Procedures Document Self-Study Yes Complete 06/18/19
+9 Shut Down Procedures Document Self-Study Yes Complete 06/18/19
+10 Change Order Document Self-Study Yes Complete 06/18/19
+11 Mandatory Safe Drops Document Self-Study Yes Complete 06/18/19
+12 Customer Service Document Self-Study Yes Complete 06/18/19
+13 Fuel Price Sheet Document Self-Study Yes Complete 06/18/19
+14 Fuel Deliveries Document Self-Study Yes Complete 06/18/19
+15 Veeder Root System Document Self-Study Yes Complete 06/18/19
+16 Price Changes Document Self-Study Yes Complete 06/18/19
+17 Announcements Document Self-Study Yes Complete 06/18/19
+18 Service Numbers Document Self-Study Yes Complete 06/18/19
+19 24 Hour Fuel Sales Document Self-Study Yes Complete 06/18/19
+PPMFUE005 Fuel Center Manual - Safety - Sanitation 0.00 06/18/19
+Lessons _ Order Name Type Take When Req. Status Grade Score Status Date
+1 Sanitation Document Self-Study Yes Complete 06/18/19
+2 Cordless Blower Document Self-Study Yes Complete 06/18/19
+3 Safety Document Self-Study Yes Complete 06/18/19
+4 Customer Safety Document Self-Study Yes Complete 06/18/19
+§ Emergency Spill Proc Document Self-Study Yes Complete 06/18/19
+6 Emergency First Aid Document Self-Study Yes Complete 06/18/19
+7 Basics Document Self-Study Yes Complete 06/18/19
+Contact the Training Department with any questions
+K-VA-T
+
+001055
+Case 4:22-cv-00179-WMR Document 46-3 Filed 05/25/23. Page 16 of 16
+
+12/08/22 VTA Report
+15:39 / Page 16
+VTA Training Detail Report
+For Single Student
+All Dates
+
+Tretnlag History Credit Hours Comp. Date
+EBYSAF902 Hazard Communications (12 min) 14.00 06/18/19
+Lessons _Order Name Type Take When Req. Status Grade Score _ Status Date
+1 Hazard Communication Document Self-Study Yes Complete 06/18/19
+2 Haz Com Test Test Self-Study Yes Complete 87.50 06/18/19
+FCYHRS101 Three Hour Associate Dept Tour (1 min) 1.00 06/07/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 3 Hour Tour Page Document Self-Study Yes Complete 06/07/19
+2 3 Hour Tour Test Test Self-Study Yes Complete 100.00 06/07/19
+EBYFTT100 About Fast Track (11 min) 11.00 05/28/19
+Lessons _ Order Name Type Take When Req. Status Grade Score _ Status Date
+1 About Fast Track Document Self-Study Yes Complete 05/28/19
+2 Fast Track Test Test Self-Study Yes Complete 100.00 05/28/19
+FCYALL113 Company Orientation Video (16 min) 16.00 05/28/19
+Lessons _ Order Name Type Take When Req. Status Grade Score Status Date
+1 Company Orientation Document Self-Study Yes Complete 05/28/19
+2 Orientation Vid Test Test Self-Study Yes Complete 100.00 05/28/19
+FULREQ100 Class C-UndergroundStorageTank (2 min) 2.00 05/23/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 UST Class C Training Document Self-Study Yes Complete 05/23/19
+FULSAF 102 Gas N Go Safety Refresher Course 10.00 05/23/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 GasNGoSafetyRefreshr Document Self-Study Yes Complete 05/23/19
+2 Gas N Go Test Test Self-Study Yes Complete 100.00 05/23/19
+In-Progress Training Class Start Date
+FULREQ101 Class B-UndergroundStorageTank (3 hours) 05/01/19
+Lessons Order Name Type Take When Req. Status Grade Score Status Date
+1 UST Class B Training Document Self-Study Yes Started 05/23/19
+Contact the Training Department with any questions
+K-VA-T
+
+001056

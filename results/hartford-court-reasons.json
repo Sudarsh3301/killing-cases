@@ -1,0 +1,12 @@
+{
+  "note": "Hand-graded: each decisive reason in the court's order (Dkt. 81, 20 March 2025) matched to the highest-ranked red-team attack that makes the same point, and to the one-prompt baseline's points. Ranks are out of 47 attacks, fixed on the filing-day record.",
+  "reasons": [
+    {"id": "rule-1", "text": "The endorsement governs, not the coverage form", "twinRank": 2, "baseline": true},
+    {"id": "rule-3", "text": "\"Caused, in whole or in part\" means proximate cause, so no duty to indemnify", "twinRank": 3, "baseline": true},
+    {"id": "rule-11", "text": "The lease does not set priority between the insurers", "twinRank": 7, "baseline": true},
+    {"id": "rule-7", "text": "With Ohio Security primary, its claim to appellate fees and costs fails", "twinRank": 13, "baseline": true},
+    {"id": "rule-6", "text": "Ohio Security's policy applies before Hartford's", "twinRank": 14, "baseline": true},
+    {"id": "rule-9", "text": "American Fire applies before Ace", "twinRank": 23, "baseline": false},
+    {"id": "rule-4", "text": "No indemnity, so no post-judgment interest", "twinRank": null, "baseline": false}
+  ]
+}

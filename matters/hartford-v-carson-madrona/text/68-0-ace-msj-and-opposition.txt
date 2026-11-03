@@ -1,0 +1,2278 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+ 
+ 
+William C. Reeves - 183878 
+Christine Fierro - 191660 
+MORALES FIERRO & REEVES 
+1440 Maria Lane, Suite 200 
+Walnut Creek, CA 94596 
+Telephone:  (925) 288-1776 
+Facsimile:   (925) 288-1856 
+Email: lawoffice@mfrlegal.com 
+ 
+Attorneys for Counter-Defendant 
+ACE PROPERTY & CASUALTY  
+INSURANCE COMPANY 
+ 
+ 
+UNITED STATES DISTRICT COURT 
+ 
+NORTHERN DISTRICT OF CALIFORNIA  
+ 
+HARTFORD FIRE INSURANCE COMPANY,
+ 
+ 
+ 
+Plaintiff, 
+ 
+ 
+vs. 
+ 
+CARSON MADRONA CO., LLC; et al.  
+ 
+ 
+Defendants. 
+)
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+)
+CASE NO.: 3:31-CV-06259-VC
+ 
+ 
+ 
+NOTICE OF MOTION, MOTION FOR SUMMARY JUDGMENT OR, IN THE 
+ALTERNATIVE, PARTIAL SUMMARY JUDGMENT; MEMORANDUM OF POINTS AND 
+AUTHORITIES IN SUPPORT AND OPPOSITION TO THE MOTIONS OF CARSON 
+MADRONA CO., LLC, OHIO SECURITY INSURANCE COMPANY AND AMERICAN 
+FIRE AND CASUALTY COMPANY 
+ 
+Date: February 20, 2025 
+Time: 10:00 a.m. 
+Judge: Honorable Vince Chhabria 
+ 
+Accompanying Document: Request for Judicial Notice 
+ 
+ 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 1 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+i 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+ 
+TABLE OF CONTENTS 
+ 
+Notice Of Motion And Opposition 
+1 
+ 
+Points And Authorities 
+1 
+ 
+I. 
+Introduction 
+1 
+ 
+II. 
+Facts 
+3 
+ 
+ 
+A. 
+The Incident Giving Rise to the Underlying Action 
+3 
+ 
+ 
+B. 
+The Underlying Action and the Jury Verdict 
+5 
+ 
+ 
+C. 
+The Policies 
+6 
+ 
+ 
+ 
+1. 
+The Hartford Policy 
+6 
+ 
+ 
+ 
+2. 
+The ACE Excess Policy 
+7 
+ 
+ 
+ 
+3. 
+The Ohio and American Policies 
+8 
+ 
+III. 
+Argument 
+ 
+ 
+ 
+8 
+ 
+ 
+A. 
+The Duty to Indemnify Carson as An Additional Insured Is 
+Controlled By the Terms of the Additional Insured Endorsement in 
+the Hartford Policy 
+ 
+8 
+ 
+ 
+B. 
+No Indemnity Is Owed Carson Under the Hartford and ACE 
+Policies Because the Jury Held That Stoneledge Was Not A Cause 
+of the Damages For Which Carson Was Held Liable 
+11 
+ 
+ 
+ 
+1. 
+The additional insured endorsement requires proximate 
+causation 
+ 
+11 
+ 
+ 
+ 
+2. 
+The jury in the Underlying Action held that Stoneledge’s 
+acts or omissions were not a legal cause of the injury to 
+Perez  
+ 
+16 
+ 
+ 
+C. 
+The Injuries For Which Carson Was Held Liable Did Not “Arise 
+Out Of” The Use “Of That Part Of The Land Or Premises Leased 
+To You 
+ 
+ 
+18 
+ 
+ 
+D. 
+ACE Did Not Owe A Defense to Carson Under Its Excess Policy 
+20 
+ 
+ 
+E. 
+Priority of Coverage  
+21 
+ 
+IV. 
+Conclusion 
+ 
+ 
+ 
+25 
+ 
+ 
+ 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 2 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ii 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+ 
+TABLE OF AUTHORITIES 
+ 
+State Cases 
+ 
+Acceptance Ins. Co. v. Syufy Enterprises, 
+69 Cal.App.4th 321 (1999) 
+12 
+ 
+Aerojet-General Corp. v. Transport Indemnity Co., 
+17 Cal.4th 38 (1997) 
+9 
+ 
+Bacon Constr. Co. v. Arbella Prot. Ins. Co., Inc., 
+208 A.3d 595 (R.I. 2019) 
+15 
+ 
+Bockrath v. Aldrich Chem. Co., 
+21 Cal. 4th 71 (1999) 
+16 
+ 
+Burlington Ins. Co. v. NYC Transit Auth., 
+29 N.Y.3d 313 (2017) 
+14 
+ 
+City of Bell v. Sup. Court, 
+220 Cal.App.4th 236 (2013) 
+24 
+ 
+Continental Cas. Co. v. Phoenix Constr. Co., 
+46 Cal.2d 423 (1956) 
+9 
+ 
+Edmondson Prop. Mgmt. v. Kwock, 
+156 Cal.App.4th 197 (2007) 
+24 
+ 
+Fireman's Fund Ins. Cos. v. Atlantic Richfield Co., 
+94 Cal.App.4th 842 (2001) 
+12 
+ 
+Gemini Ins. Co. v. Delos Ins. Co., 
+211 Cal. App. 4th 719 (2012) 
+12 
+ 
+Hanover Ins. Co. v. Philadelphia Indem. Ins. Co., 
+159 A.D.3d 587 (N.Y. App. Div. 2018) 
+15 
+ 
+Hartford v. State of California, 
+41 Cal.App.4th 1564 (1996) 
+19 
+ 
+Herman Christensen & Sons, Inc. v. Paris Plastering Co., 
+61 Cal.App.3d 237 (1976) 
+24 
+ 
+JPI Westcoast Const., L.P. v. RJS & Associates, Inc., 
+156 Cal.App. 4th 1448 (2007) 
+22 
+ 
+Maryland Casualty Co. v. Bailey & Sons, Inc., 
+35 Cal.App.4th 856 (1995) 
+24 
+ 
+Maryland Casualty Co. v. Nationwide Ins. Co., 
+65 Cal.App.4th 21 (1998) 
+12 
+ 
+McCrary Constr. Co. v. Metal Deck Specialists, Inc., 
+133 Cal. App. 4th 1528 (2005) 
+24 
+ 
+ 
+ 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 3 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+iii 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+ 
+Mission Nat'l Ins. Co. v. Coachella Valley Water Dist., 
+210 Cal.App.3d 484 (1989) 
+9 
+ 
+Montrose Chemical Corp. of Calif. v. Sup.Ct. (Canadian Universal Ins. Co., Inc.) 
+(Montrose III), 9 Cal.5th 215 (2020) 
+20 
+ 
+N. American Capacity Ins. Co. v. Claremont Liab. Ins. Co., 
+177 Cal.App.4th 272 (2009) 
+20 
+ 
+Olympic Ins. Co. v. Employers Surplus Lines Ins. Co., 
+126 Cal.App.3d 593 (1981) 
+20 
+ 
+Powerine Oil Co., Inc. v. Sup.Ct. (Central Nat'l Ins. Co. of Omaha) (Powerine II), 
+37 Cal.4th 377 (2005) 
+20 
+ 
+Prince v. Pacific Gas & Electric Co., 
+45 Cal.4th 1151 (2009) 
+24 
+ 
+Reliance Nat. Indem. Co. v. Gen. Star Indem. Co., 
+72 Cal. App. 4th 1063 (1999) 
+22, 23 
+ 
+Rossmoor Sanitation, Inc. v. Pylon, Inc., 
+13 Cal.3d 622 (1975) 
+21, 22, 23, 24 
+ 
+Rutherford v. Owens-Illinois, Inc., 
+16 Cal.4th 953 (1997) 
+16 
+ 
+Signal Companies, Inc. v. Harbor Ins. Co., 
+27 Cal. 3d 359 (1980) 
+20 
+ 
+Skanska USA Bldg. Inc. v. M.A.P. Mech. Contractors, Inc., 
+505 Mich. 368 (2020) 
+10 
+ 
+St. Paul Fire & Marine Ins. Co. v. Am. Dynasty Surplus Lines Ins. Co., 
+101 Cal. App. 4th 1038 (2002) 
+11, 12, 17 
+ 
+Transport Indemnity Co. v. Schnack, 
+131 Cal.App.3d 149 (1982) 
+12 
+ 
+Yahoo Inc. v. Nat'l Union Fire Ins. Co. etc., 
+14 Cal. 5th 58 (2022) 
+15 
+ 
+ 
+Federal Cases 
+ 
+Capital City Real Estate, LLC v. Certain Underwriters at Lloyd’s London, 
+788 F.3d 375 (4th Cir. 2015) 
+14 
+ 
+Columbia Cas. Co. v. Fed. Ins. Co., 
+2015 WL 4734704 (N.D. Cal. 2015) 
+22 
+ 
+Continental Casualty Co. v. City of Richmond, 
+763 F.2d 1076 (9th Cir. 1985) 
+13 
+ 
+Crane v. Royal Ins. Co. of Am., 
+17 F.3d 1186 (9th Cir. 1994) 
+9 
+ 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 4 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+iv 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+ 
+Dale Corp. v. Cumberland Mut. Fire Ins. Co., 
+2010 WL 4909600 (E.D. Pa.  2010) 
+10, 13, 14 
+ 
+Fireman's Fund Ins. Co. v. Discover Property & Cas. Co., 
+2009 WL 2591394 (N.D.Cal. 2009) 
+19 
+ 
+First Mercury Ins. Co. v. Shawmut Woodworking & Supply Inc., 
+48 F. Supp.3d 158 (D. Conn. 2014) 
+aff'd, 660 F. App'x 30 (2d Cir. 2016) 
+15 
+ 
+Gilbane Bldg. Co. v. Admiral Ins. Co., 
+664 F.3d 589 (5th Cir. 2011) 
+14 
+ 
+Hartford Fire Ins. Co. v. California, 
+509 U.S. 764 (1993) 
+9 
+ 
+Lincoln Gen. Ins. Co. v. Fed. Constr., Inc., 
+2010 WL 4978852 (N.D. Ill. 2010) 
+15 
+ 
+Louisville Galleria, LLC v. Philadelphia Indem. Ins. Co., 
+593 F. Supp. 3d 637 (W.D. Ky. 2022) 
+15 
+ 
+MacArthur v. O'Connor Corp., 
+635 F. Supp. 2d 112 (D. R.I. 2009) 
+15 
+ 
+Place v. P.F. Chang's China Bistro, Inc., 
+2015 WL 11145058 (W.D. Tenn. 2015) 
+15 
+ 
+Underwriters at Lloyd's of London v. Cordova Airlines, Inc., 
+283 F.2d 659 (9th Cir.1960) 
+13 
+ 
+ 
+Other 
+ 
+Philip L. Bruner & Patrick J. O'Connor, Jr., Braner and O'Connor on Construction 
+Law § 11:167 (2010) 
+13 
+ 
+Hon. H. Walter Croskey (Ret.), Hon. Rex Heeseman (Ret.), Jeffrey I. Ehrlich, and 
+Peter H. Klee, Anatomy of Insurance Policy, California Practice Guide: Insurance 
+Litigation, Ch. 3-C, August 2024 Update 
+10 
+ 
+Merriam Webster dictionary 
+(https://www.merriamwebster.com/dictionary/on%20 behalf%20of %20someone) 
+17 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 5 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+1 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+Notice of Motion and Opposition 
+On February 20, 2025 at 10:00 a.m., ACE Property & Casualty Insurance Company 
+(“ACE”) will move under Federal Rule of Civil Procedure 56 for an order granting summary 
+judgment or, in the alternative, partial summary judgment to ACE at the following location: 
+Courtroom 4 on the 17th Floor, 450 Golden Gate Avenue, San Francisco, California 94102.  The 
+motion will seek entry of summary judgment and an order that (1) ACE had no duty to indemnify 
+Defendant Carson Madrona Company, LLC (“Carson”) against the settlement that ultimately 
+resolved the case captioned Mountain v. DP Elec., Alameda County Sup. Ct. Case No. RG 
+17857916 (the “Underlying Action”); and (2) ACE had no duty to defend Carson with respect to the 
+Underlying Action. In the alternative, ACE seeks a declaration that: (1) even if it owed indemnity, it 
+did not owe a defense to Carson in the Underlying Action; (2) the ACE policy applies only as 
+excess to the policies issued by Hartford, Ohio Security, and American Fire. 
+This motion is based on this Notice and Motion, the accompanying Memorandum of Points 
+and Authorities, Request for Judicial Notice and Appendix, and all other matters of which this Court 
+may take judicial notice, all pleadings, records and files in this action, and upon all other matters 
+that may be presented at the hearing on this motion 
+Points and Authorities 
+I. 
+Introduction 
+ 
+Through a jury trial, David Perez and his wife Donna (collectively “Perezes”) secured a 
+judgment against a commercial property owner and landlord, Carson Madrona Company, LLC 
+(“Carson”), and Carson’s property manager, two trusts known as SanOak Management Company 
+(“SanOak”),1 for injuries Mr. Perez sustained while working on the Carson property’s Main 
+Distribution Panel (“MDP”).  At trial, Perez alleged that the MDP had been expanded without 
+permits and a “pullout switch” and fuses had been installed which were underrated for the voltage 
+loads those parts were to handle. The result was a dangerous condition that led to an arc flash when 
+ 
+1 James L. Krasne, Trustee of the Guilford Glazer Trust of 1984 dba SanOak Management Company and James L 
+Krasne as Surviving Trustee of The Diane Pregerson Glazer Survivor’s Trust dba SanOak Management Company, 
+collectively, hereinafter “SanOak.”  Request for Judicial Notice, ¶C, ex. V. 
+ 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 6 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+2 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+Mr. Perez tried to replace a blown fuse. The Perezes were awarded a total of $25.5 million, with 
+fault allocated 50/50 between Carson and SanOak (which were each severally liable).  
+The Perezes also sued a property tenant, Stoneledge Furniture, LLC,2 alleging Stoneledge 
+was liable for the conditions creating the arc flash.  However, the jury concluded that Stoneledge 
+bore no fault for Perez’s injuries and allocated Stoneledge 0% liability. 
+ 
+In this action Carson and its direct insurers, Ohio Security Insurance Company (“Ohio”) and 
+American Fire and Casualty Company (“American”) are seeking reimbursement from Hartford Fire 
+Ins. Co. ("Hartford") and ACE Property and Casualty Ins. Co. (“ACE”), the primary and excess 
+insurers for Stoneledge, for amounts paid to satisfy the judgement. While the Hartford and ACE 
+policies add Carson as an “additional insured” via endorsement, they do not provide indemnity for 
+the judgment.  These policies extend coverage to additional insureds only for liability “caused, in 
+whole or in part by the acts or omissions” of Stoneledge – coverage which applies only if 
+Stoneledge’s conduct was a proximate cause of the injury for which damages were awarded.  
+Because Stoneledge did not cause the injury to Perez, neither Hartford nor ACE owes the indemnity 
+sought by Carson and its direct insurers.   
+ 
+Carson and Ohio/American argue the contrary by asserting the wrong standard, focused on 
+the wrong policy provision.  Ignoring policy language which dictates which of two possible 
+additional insured provisions controls, Carson and its direct insurers assert that coverage is extended 
+under an additional insured provision in the body of the policy which uses the phrase “arising out 
+of” instead of the phrase “caused by . . . your acts or omissions,” used in the additional insured 
+endorsement, in describing the relationship between the injury and the named insured (Stoneledge).  
+The provision upon which Carson and the direct insurers rely states that it does not apply when the 
+entity seeking coverage is added as an insured via endorsement.  As Carson is an insured under an 
+endorsement, that endorsement controls the issue of coverage here. 
+Carson further incorrectly argues that it is entitled to coverage because Perez was working 
+ 
+2 The initial lease agreement was between Carson and Warehouse and Delivery Solutions, Inc.  In April, 2016, the lease 
+was assigned to Stoneledge Furniture, LLC, with the permission of Carson, as part of an Asset Purchase Agreement. 
+Carson’s Motion for Summary Judgment, Declaration of Hazzard, Exs. 1 and 2, Docs. 63-2 and 63-3. 
+ 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 7 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+3 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+“on behalf of” Stoneledge (and, therefore, his acts can be considered in satisfying the requirement 
+of the endorsement). But Perez did not represent Stoneledge or work for its benefit; Perez, worked 
+for his own benefit.  Moreover, the jury held Perez was not to be a proximate cause of his injuries.   
+ 
+With no citation to policy language or case law, Carson also asserts ACE owed it a duty to 
+defend.  The ACE policy is excess. Coverage does not attach until underlying insurance is 
+exhausted.  Here, two primary policies were not exhausted and both defended Carson; no obligation 
+to defend arose under the ACE excess policy.  Further, because ACE did not have a duty to defend, 
+its policy does not cover the costs of an appeal bond, interest, or costs taxed against the insured. 
+ 
+Finally, American wrongly relies on the indemnity provision in the lease between Carson 
+and Stoneledge to argue that the ACE policy applies before the American policy.  (American 
+concedes that the primary policies issued by Hartford and Ohio apply before the ACE policy.) The 
+indemnity provision has no bearing on the issue of priority between policies. Neither Carson nor 
+Ohio/American (in subrogation) have sued Stoneledge for contractual indemnity.  Moreover, even if 
+the terms of the lease were relevant, the lease was terminated before the conclusion of the 
+Underlying Action, ending any duty Stoneledge might have had to indemnify Carson.  The ACE 
+policy, by its terms, applies, if at all, as excess over the Hartford, Ohio, and American policies. 
+ 
+In this case, Carson and its property manager were found liable for a large judgment that had 
+to be resolved by those entities and their direct insurers, Ohio and American.  And a the jury held 
+that Stoneledge was not a cause of the accident.  Therefore, neither Hartford nor ACE had a duty of 
+indemnity and, as an excess insurer, ACE never had a duty to defend.  Carson and Ohio/American’s 
+motions should be denied and ACE’s motion granted. 
+II. 
+Facts 
+A. 
+The Incident Giving Rise to the Underlying Action 
+David Perez was injured by an arc flash which occurred as Mr. Perez reinserted a “pullout 
+switch” into the Main Distribution Panel (“MDP”), a panel through which incoming electricity is 
+routed to multiple structures at a large commercial property.  Request for Judicial Notice (“RJN”), 
+¶A.1., Exs. A and B. On the day of the incident Stoneledge, a tenant at the property, known as the 
+Coliseum Way Industrial Complex (“Coliseum Way”), experienced a power outage in its leased 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 8 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+4 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+space. Gary Mountain, a Stoneledge employee, looked for property manager, Jeremy Blanchard, an 
+employee of SanOak, to report the problem.  Not finding Mr. Blanchard (and unable to reach him 
+by phone), Mr. Mountain called DP Electric, a business owned by Mr. Perez, having found the 
+number for the electrician on a list entitled “Emergency Numbers,” posted on the property 
+manager’s door. RJN ¶A.2., Exs. C and D. 
+According to his testimony, when Mr. Perez arrived at the property, he inspected an 
+electrical panel and “disconnects” in the Stoneledge warehouse. RJN ¶A.3., Ex. E. He turned off 
+power to the disconnects and discovered that power was not coming in, indicating that there was a 
+blown fuse “upstream.”  RJN ¶A.4., Ex. F.   Mr. Perez asked Mr. Mountain to direct him to the 
+MDP where he found five “pullout switches,” each of which housed fuses. RJN ¶A.5., Ex. G.  He 
+pulled out one of the switches and, finding a blown fuse, replaced it with a new fuse he found in a 
+bag in the MDP cabinet. RJN ¶A.6., Ex. H. When he reinserted the pullout box, an arc flash 
+occurred. RJN ¶A.7., Ex. I. 
+The Perezes’ theory at trial was that the MDP, which had been originally installed with two 
+pullout switches, had been expanded, without permits, to serve five pullout switches.  RJN ¶A.8., 
+Ex. J.  Mike Jones, one of the Perezes’ experts, opined that the pullout switch involved in the 
+incident was a switch that had been added without permitting and was not adequate for the use, as it 
+was rated for 240 volts instead of 600 volts. RJN ¶A.9., Ex. K.  At trial, he testified that the under-
+rated pullout switch posed a hidden danger for any person working on it, calling the equipment 
+“illegal and poorly maintained.” RJN ¶A.10., Ex. L.  Perez expert John Loud similarly testified that 
+“the cause of this arc flash was the code-violating pullout switch that was only rated to operate at 
+240 volts, but it was being used in a circuit at 480 volts.  And, in addition, the use of 300-volt fuses, 
+again, in a 480 volt circuit.” RJN ¶A.11., Ex. M.  Moreover, he testified, “there was nothing to alert 
+[Mr. Perez] to this code-violating condition.”  RJN ¶A.12., Ex. N. Perez sought to prove at trial 
+“that had the pullout switch in the MDP been properly rated at 600 volts, there would have been no 
+arc flash explosion.  The arc would have been contained in the box.” RJN ¶A.13., Ex. O. 
+Carson did not dispute that the MDP was part of the common area of the property, and its 
+maintenance was the responsibility of Carson, not Stoneledge.  William Neiman, the Vice President 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 9 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+5 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+of Carson and “point person” for management of the property (RJN ¶A.14., Ex. P.), testified:  
+ 
+It wasn’t that we didn’t want DP Electric to be contacted.  The – reason we put it 
+[the emergency contact list] up there was that if there was an emergency inside 
+the tenants’ premises and they needed to – they needed to reach an electrician, 
+they had an electrician that we had experience with.  But that did not mean that 
+David Perez nor – it didn’t state anywhere there that David Perez had 
+authorization to enter into the MDP or anything.  And the lease clearly 
+distinguishes whose responsibility is the electrical for the common area and 
+whose electrical is inside the premises.  And the landlord’s responsible for the 
+common area, which the MDP is part of.  
+ 
+* * * 
+ 
+. . . I think it’s common knowledge, that the MDP was in the common area and it 
+was not specific to a tenant.  And the lease is also very specific that the only 
+responsibility for maintenance the tenant had was within the tenant’s premises. 
+(RJN ¶A.14., Ex. Q.) 
+ 
+B. 
+The Underlying Action and the Jury Verdict 
+In April, 2017, Gary Mountain and his wife initiated the action, Mountain v. DP Electric, et 
+al., Alameda County Sup. Court Case No. RG 17857926 (the “Underlying Action”).  In that action, 
+the Perezes filed a cross-complaint against Carson, SanOak, and Stoneledge, alleging negligence/ 
+premises liability, negligence per se, negligent hiring and retention, general negligence, and loss of 
+consortium (by Donna Perez only).  RJN ¶B, Ex. U. The Mountain claims were settled prior to trial; 
+the claims of Mr. Perez and his wife were tried before a jury.   
+At the close of trial, the jury awarded David Perez $7 million in past non-economic damages 
+and $13.5 million in future non-economic damages, as against Carson and SanOak.  The jury 
+awarded Donna Perez an additional $5 million against the same two entities for loss of consortium. 
+The jury was provided a Special Verdict Form, on which they responded “yes” to the following 
+questions: “Was Carson Madrona Company, LLC negligent?”; “Was Carson Madrona Company, 
+LLC’s negligence a substantial factor in causing harm to David Perez?”; “Was [SanOak] 
+negligent?”; “Was [SanOak’s] negligence a substantial factor in causing harm to David Perez?”. 
+The jury responded to “yes” to the question “Was Stoneledge Furniture, LLC, dba Ashley Furniture 
+Homestore negligent?”; however, the jury responded “no” to the question “was [Stoneledge’s] 
+negligence a substantial factor in causing harm to David Perez?”  RJN ¶C, Ex. V. 
+Asked, “what percentage of responsibility for David Perez’s harm to assign” to each party, 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 10 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+6 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+the jury responded that Carson was 50% responsible and SanOak was 50% responsible. Stoneledge 
+and Mr. Perez were 0% responsible. By reason of these special verdicts, judgment was entered: in 
+favor of Mr. Perez against Carson, “severally, in the amount of $10,250,000”; in favor of Mr. Perez 
+against SanOak, “severally in the amount of $10,250,000”; in favor of Donna Perez against Carson 
+“severally, in the amount of $2,500,000”; in favor of Donna Perez against SanOak “severally, in the 
+amount of $2,500,000”;  and in favor of Stoneledge against the Perezes. RJN ¶C, Ex. V. 
+ 
+C. 
+The Policies 
+ 
+ 
+1. 
+The Hartford Policy 
+Hartford issued a primary policy to Stoneledge, for the policy period January 1, 2016, to 
+January 1, 2017, with a $2 million per occurrence limit.  (Carson MSJ, Dec. of Hazzard, Ex. 3, Doc 
+63-4, p. 11-12.)  The policy includes the form HG 00 01 06/05, which states: “We will pay those 
+sums that the insured becomes legally obligated to pay as damages because of ‘bodily injury’ or 
+‘property damage’ to which this insurance applies. . . .” (Id. at Doc 63-4, p. 18.)  In “Section II --
+Who is an Insured,” the Hartford form HG 0001 06/05 states: 
+ 
+6. 
+Additional Insureds When Required By Written Contract, Written 
+Agreement or Permit 
+ 
+The following persons or organizations are an additional insured when you 
+have agreed in a written contract, written agreement or because of a permit 
+issued by a state or political subdivision, that such person or organization 
+be added as an additional insured on your policy, provided the injury or 
+damage occurs subsequent to the execution of the contract or agreement. 
+ 
+. . . 
+ 
+However, no such person or organization is an insured under this 
+provision if such person or organization is included as an insured by 
+an endorsement issued by us and made a part of this Coverage Part. 
+ 
+ 
+ 
+. . . 
+ 
+c. 
+Lessors of Land or Premises 
+ 
+Any person or organization from whom you lease land or 
+premises, but only with respect to liability arising out of the 
+ownership, maintenance or use of that part of the land or premises 
+leased to you. . . . (Id. at Doc 63-4, p. 27-28. Emphasis added.) 
+ 
+The Hartford policy includes an endorsement, “Additional Insured – Designated Person or 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 11 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+7 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+Organization,” form CG 2026 04 13, which states in the Schedule, “Blanket Where Required By 
+Written Contract or Agreement.”  Id. at Doc 63-4, p. 59. The endorsement states: 
+ 
+A. 
+Section II – Who Is An Insured is amended to include as an additional 
+insured the person or organization shown in the Schedule, but only 
+with respect to liability for “bodily injury” . . . caused, in whole or in part, 
+by your acts or omissions or the acts or omissions of those acting on your 
+behalf: 
+ 
+1. in the performance of your ongoing operations; or 
+2. in connection with your premises owned or rented to you. 
+ 
+However: 
+ 
+. . .  
+ 
+2. 
+if coverage provided to the additional insured is required by contract or 
+agreement, the insurance afforded to such additional insured will not be 
+broader than that which you are required by the contract or agreement to 
+provide for such additional insured. (Id. at Doc 63-4, p. 59.) 
+Hartford agreed to and did defend both its named insured, Stoneledge, and Carson as an 
+additional insured, under a reservation of rights, through to judgement in the trial.  Ohio/American 
+MSJ, Dec. of Cossalter, ¶¶ 6, 7, 10, Doc 64-2. 
+ 
+ 
+2. 
+The ACE Excess Policy 
+ACE Property & Casualty Insurance Company issued an umbrella policy to Stoneledge, 
+with the policy period January 1, 2016, to January 1, 2017, and a limit of $25 million per 
+occurrence.  Carson MSJ, Dec. of Hazzard, Ex. 4, Doc 63-5, p. 2. The policy includes the form XS-
+20835 (8/06).  The insuring agreement states: “We will pay on behalf of the insured those sums in 
+excess of the ‘retained limit’ that the insured becomes legally obligated to pay as damages because 
+of ‘bodily injury’, ‘property damage’, or ‘personal and advertising injury’ to which this insurance 
+applies.” Id. at Doc. 63-5, p. 10.  “Retained Limit” is defined as “The total applicable limits of 
+‘underlying insurance’ and any applicable limit of ‘other insurance’ providing coverage to the 
+‘insured.’” Id. at Doc. 63-5, p. 27.  “Underlying insurance” is defined as the policy issued by 
+Hartford, and all “other insurance,” defined as all other applicable policies.  Id. at Doc. 63-5, pp. 28, 
+5. In Section II, Who Is An Insured, the policy states that insureds include: 
+ 
+6. 
+Any person or organization, if insured under “underlying insurance” 
+[defined as the Hartford policy], provided that coverage provided by this 
+policy for any such insured will be no broader than coverage provided by 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 12 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+8 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+“underlying insurance.” (Id. at Doc 63-5, p. 12.) 
+ 
+The policy has a separate section, Section III, entitled Defense and Supplementary Payments, in 
+which the ACE policy states the Company has a duty to defend “when damages sought would be 
+covered by ‘underlying insurance’ but are not covered by that insurance because of the 
+exhaustion of the applicable limits of ‘underlying insurance’ by the payment of ‘loss’ covered by 
+this policy” or when “other insurance” would cover the damages but the “other insurance” is 
+exhausted.  Under paragraph III. C., when underlying or other insurance is not exhausted, ACE 
+has the right, but not the duty to defend.  Id. at Doc. 63-5, p. 12. Section III, paragraph D states, 
+“If we assume the defense of any ‘suit’ against the ‘insured’ we will pay in addition to the 
+applicable Limit of Insurance: . . .”  In eight subparts, paragraph D lists “expenses we incur,” the 
+costs of an appeal bond, “all costs taxed against the ‘insured,’” and pre- and post-judgment 
+interest. Id. at Doc. 63-5, p. 12-13.  
+3. 
+The Ohio and American Policies 
+Ohio Security Insurance Company (“Ohio”) issued a primary general liability policy to 
+Carson which also insured SanOak.   American Fire and Casualty Company (“American”) issued an 
+excess general liability policy to Carson, which also insured SanOak. Ohio/American MSJ, Dec. of 
+Cossalter, ¶4, Exs. 2, 3, Docs. 64-2, 64-5, 64-6. 
+III. 
+ARGUMENT 
+ 
+A. 
+The Duty to Indemnify Carson as An Additional Insured Is Controlled By 
+the Terms of the Additional Insured Endorsement in the Hartford Policy.  
+ 
+Because of the insurance requirement in the lease between Carson and Stoneledge, Carson 
+would qualify as an additional insured under the Hartford policy under two separate provisions of 
+the policy – namely, under paragraph 6, subpart c., in Section II of the general liability form HG 
+0001 06/05 (“Paragraph 6”) (Doc 63-4, p. 27-8) and under endorsement, Additional Insured – 
+Designated Person or Organization, form CG 2026 04/13 (Doc 63-4, p. 59).  However, because 
+Carson qualifies as an insured pursuant to the endorsement, Paragraph 6 does not apply, and the 
+scope of the coverage provided to Carson is determined under the terms of the endorsement.   
+Specifically, both Paragraph 6 and the additional insured endorsement add entities as 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 13 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+9 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+insureds to the policy pursuant to a “blanket” provision – a provision which adds as insureds entities  
+the named insured (here, Stoneledge) agrees to add via a contract with that entity.3  However, 
+Paragraph 6 addresses which provision controls where two could apply, stating “no such person or 
+organization is an insured under this provision if such person or organization is included as an 
+insured by an endorsement issued by us and made a part of this Coverage Part.”  Doc 63-4, p. 27. 
+Under its plain language, Paragraph 6 does not apply where an entity is added as an insured via 
+endorsement. Here, Stoneledge agreed under the lease to add Carson as an insured to its policies.  
+Therefore, Carson qualified as an insured under both Paragraph 6 and the additional insured 
+endorsement.  However, because Paragraph 6 does not apply where an endorsement does, coverage 
+for Carson must be analyzed under the terms of the endorsement. 
+Paragraph 6’s statement prioritizing the endorsement reflects a general rule of policy 
+interpretation -- namely, that endorsements control over the body of a standard form policy. “If 
+there is a conflict in meaning between an endorsement and the body of the policy, the endorsement 
+controls.” Continental Cas. Co. v. Phoenix Constr. Co., 46 Cal.2d 423, 431 (1956); Aerojet-General 
+Corp. v. Transport Indemnity Co., 17 Cal.4th 38, 50, n. 4 (1997).  The reasoning behind the rule is 
+clear.  Endorsements better reflect the intentions of the contracting parties, who pick and choose 
+provisions to modify a standard form, using combinations of endorsements to create a contract with 
+terms to suit the parties.  See, Mission Nat'l Ins. Co. v. Coachella Valley Water Dist., 210 
+Cal.App.3d 484, 497 (1989). 
+In this case, the use of the additional insured endorsement form CG 2026 04 13 in the 
+Hartford policy also reflects a change in the insurance industry regarding additional insured 
+provisions.  As discussed below, in 2004, the Insurance Services Office4 (“ISO”) altered many 
+ 
+3 Paragraph 6 begins with the statement: “the following persons or organizations are an additional insured when you 
+have agreed in a written contract . . . that such person or organization be added as an additional insured. . . .” Dec. of 
+Hazzard, Ex.3, Doc 63-4, p. 27. The additional insured endorsement states:  “Section II – Who Is an Insured is amended 
+to include as an additional insured the person or organization shown in the Schedule,” and the schedule states: “Blanket 
+Where Required by Written Contract or Agreement.” Dec. of Hazzard, Ex. 3, Doc 63-4, p. 59. 
+ 
+4 The ISO is an association funded by a number of insurance companies, whose functions include writing standard 
+insurance policy forms which comply with the legal and administrative requirements of the various states. “[M]ost CGL 
+insurance written in the United States is written on these forms.” Hartford Fire Ins. Co. v. California, 509 U.S. 764, 772 
+(1993); Crane v. Royal Ins. Co. of Am., 17 F.3d 1186, 1188 (9th Cir. 1994) 
+ 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 14 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+10 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+additional insured endorsements, creating new editions of forms which used the phrase “caused in 
+whole or in part” instead of the phrase “arising out of” in describing the required causal connection 
+between alleged damages and the role of the named insured in defining the scope of coverage 
+provided an additional insured.  See, Dale Corp. v. Cumberland Mut. Fire Ins. Co., 2010 WL 
+4909600 (E.D. Pa.  2010).  The Hartford form HG0001 used as the body of the policy, was an “06 
+05” edition – reflecting that the form was promulgated in June, 2005.  The policy was then amended 
+to add endorsement form CG 2026 04 13, an edition copyrighted in April, 2013,5 and reflecting the 
+more modern language.   
+Carson argues simply that it is a lessor and therefore Paragraph 6. subpart c. applies.  Carson 
+makes no effort to explain why Paragraph 6 applies if Carson is added as an insured by 
+endorsement.  Carson suggests that only if it were added as an insured via a provision that was more 
+specific than Paragraph 6.c., which expressly applies to “lessors,” would the limitation applicable to 
+all of the subparagraphs of 6, apply.  But that is not what the provision states.  Paragraph 6 states 
+simply that “no . . . organization is an insured under this provision if such person or organization is 
+included as an insured by an endorsement . . . .” The provision does not state that Paragraph 6 does 
+not apply if an insured is specifically named as additional insured elsewhere or added via a 
+descriptive paragraph that is narrower than the subparts listed below.  The mere fact that the 
+endorsement subsumes all of the subparagraphs under paragraph 6 does not mean that subparagraph 
+6.c. applies, as Carson suggests.  Moreover, the additional insured endorsement also explicitly 
+applies to lessors.  It extends coverage “in connection with your premises owned or rented to you” – 
+a phrase reflecting an intent to insure risks related to the leasing of property. Doc 63-4, p. 59. 
+In this case, Hartford added an additional insured endorsement to the Stoneledge policy that 
+broadly defined the entities to whom coverage was extended.  But the endorsement changed the 
+ 
+5 “Each form and endorsement published by the Insurance Services Office (ISO) can be identified by a form number 
+and an edition date. For example, the current ISO Commercial General Liability Coverage Form is identified as ‘CG 00 
+01 12 07.’ The letters (CG) indicate it is a Commercial General Liability form. The first four digits (00 01) indicate it is 
+an occurrence-based version of the form. The last four digits (12 07) indicate the edition date.” Hon. H. Walter Croskey 
+(Ret.), Hon. Rex Heeseman (Ret.), Jeffrey I. Ehrlich, and Peter H. Klee, Anatomy of Insurance Policy, California 
+Practice Guide: Insurance Litigation, Ch. 3-C, August 2024 Update; Skanska USA Bldg. Inc. v. M.A.P. Mech. 
+Contractors, Inc., 505 Mich. 368, 390 (2020) [“The last four digits of the 10-digit ISO policy form provide the edition 
+date in month and year format.”] 
+ 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 15 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+11 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+scope of the coverage provided, stating that additional insureds would be covered only for bodily 
+injury “caused, in whole or in part, by the acts or omissions” of Stoneledge “in connection with 
+premises owned or rented to Stoneledge.”  Given the endorsement, which added Carson as an 
+insured, under its unambiguous terms, Paragraph 6 does not apply and coverage for Carson must be 
+evaluated under the additional insured endorsement. 
+ 
+B. 
+No Indemnity Is Owed Carson Under the Hartford and ACE Policies 
+Because the Jury Held That Stoneledge Was Not A Cause of the Damages 
+For Which Carson Was Held Liable.  
+ 
+ 
+ 
+ 
+ 
+1. 
+The additional insured endorsement requires proximate causation. 
+The Additional Insured endorsement, form 2026 04 13, adds Carson as an insured to the 
+Hartford policy:  
+ 
+but only with respect to liability for “bodily injury” . . . caused, in whole or in part, 
+by your acts or omissions or the acts or omissions of those acting on your behalf: 
+ 
+1. 
+in the performance of your ongoing operations; or 
+2. 
+in connection with your premises owned or rented to you. 
+Carson MSJ, Dec. of Hazzard, Ex. 3, Doc 63-4, p. 59, emphasis added. “Caused in whole or in part, 
+by your acts or omissions” as used in the endorsement connotes a legal cause or substantial factor.  
+It does not obligate the insurer to indemnify the additional insured where, as here, a jury held that 
+the named insured did not act in a manner a reasonable person would find contributed to the harm.   
+While there is no controlling California case law directly interpreting the language of the 
+additional insured endorsement at issue here, California courts focus on the particular language at 
+issue in an endorsement or indemnity provision in determining how it applies. St. Paul Fire & 
+Marine Ins. Co. v. Am. Dynasty Surplus Lines Ins. Co., 101 Cal. App. 4th 1038 (2002).  American 
+Dynasty recognized a difference between the phrases “arising out of” the operations of the named 
+insured and “arising out of your acts and omissions,” holding that the additional phrase required 
+more than that the putative indemnitor directed the injured man to the job site. Id. at 1052. In that 
+case, the court concluded that the phrase arising out of your “act or omission” required the 
+indemnitor-subcontractor to have committed an injury-causing act connected to its performance of 
+work under the subcontract – something more than was required by the phrase “arising out of the 
+work”:  “[W]here an indemnification promise is limited to ‘acts or omissions’ of the promisor, there 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 16 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+12 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+must be some evidence of such an act or omission, and there can be no indemnification obligation if 
+the liability arose solely from the negligence of the promisee or its agents.”  Id. at 1054 (emphasis 
+in original).  The court distinguished Fireman's Fund Ins. Cos. v. Atlantic Richfield Co., 94 
+Cal.App.4th 842 (2001) and Acceptance Ins. Co. v. Syufy Enterprises, 69 Cal.App.4th 321 (1999), 
+as both of those cases interpreted the “broad” phrases “arising out of” or “arising from” and neither 
+dealt with the limiting phrase, “acts or omissions.” Id at 1052. 
+In American Dynasty, an employee of a subcontractor, Sasco, was injured while working on 
+a job site, near a pipe that was being pressure-tested by general contractor, ARB.  The employee 
+heard a hissing noise and ran but was nonetheless injured when the pipe exploded.  “On the record 
+before us, not only is there no basis for finding Sasco at fault for Casados's injury, but also Sasco 
+did not do any act that was in any way connected to such injury. There was no act or omission by 
+Sasco: the injury to Casados resulted from an explosion in a pipe being pressure-tested by ARB and 
+its employees or agents. Whatever negligence or legal responsibility there was for that explosion, it 
+rests solely with ARB.” Id. at 1054. 
+Similarly, in Gemini Ins. Co. v. Delos Ins. Co., 211 Cal. App. 4th 719, 723 (2012), the court 
+interpreted an additional insured provision that limited coverage to the additional insured's liability 
+that “results from and by reason of [the named insured's] act or omission or an act or omission of 
+[the named insured's] agent or employee in the course of [the named insured's] operations at that 
+part of the premises leased to you and shown in the Schedule.” The court concluded that this 
+provision afforded coverage “only when and where” the additional insured faced liability arising 
+from the named insured's acts undertaken in the course of the named insured's operations, because 
+the provision was designed “to protect parties who are not named insureds from exposure to 
+vicarious liability for acts of the named insured.” Gemini, supra, 211 Cal.App.4th at 723 (quoting 
+Maryland Casualty Co. v. Nationwide Ins. Co., 65 Cal.App.4th 21,31(1998) (emphasis added). 
+Significantly, the courts have also consistently held that “caused by” must be more narrowly 
+construed than “arising out of.”  In Transport Indemnity Co. v. Schnack, 131 Cal.App.3d 149 
+(1982), the court held that a fire which occurred during the fueling of an airplane “arose out of” the 
+maintenance or use of the aircraft, even though it was not directly caused by the aircraft itself.  
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 17 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+13 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+However, the court recognized that “arising out of” had a different meaning than “caused by”: 
+ 
+“Arising out of” serves to identify the events (“occurrence”) for which liability is 
+covered by broadly linking them to the use, ownership or maintenance of the 
+aircraft. “Cause,” on the other hand, links the events (“occurrence”) and the 
+damage suffered. [Citations] The insurance policy does not purport to regulate the 
+theory of liability or the standard of causation, but only to specify the events upon 
+which a covered liability is predicated and to broadly link them (i.e., the 
+‘occurrence’) to the damage complained of by the word “cause”’  
+Id. at 151-52.  Similarly, in Continental Casualty Co. v. City of Richmond, 763 F.2d 1076, 1080-81 
+(9th Cir. 1985), the Ninth Circuit applying California law, “concluded that ‘arising from’ implies 
+something broader than causation.”  The court cited to and agreed with Underwriters at Lloyd's of 
+London v. Cordova Airlines, Inc., 283 F.2d 659, 664–65 (9th Cir.1960), where the court held: “The 
+word ‘arising’ connotes, in ordinary usage, something broader than causation.” 
+Nationwide, courts which have directly considered the policy language at issue here have 
+held that a named insured must be a legal or proximate cause of the alleged damage for coverage to 
+apply.  In Dale Corp. v. Cumberland Mut. Fire Ins. Co., 2010 WL 4909600 (E.D. Pa.  2010), the 
+Pennsylvania court held that the phrase “caused in whole or in part,” which replaced “arising out 
+of” in multiple endorsements beginning in 2004, meant proximate cause. The court explained: 
+ 
+The ISO introduced this revised version of its widely-used additional insured 
+endorsements as a response to courts' interpretations of its prior version.  Philip L. Bruner 
+& Patrick J. O'Connor, Jr., Bruner and O'Connor on Construction Law § 11:167 (2010). 
+ 
+The 2004 revisions (1) eliminated the ‘arising out of language’ from 
+several standard endorsements; (2) substituted, in its stead, that coverage 
+applied only to injury or damage ‘caused in whole or in part’ by the acts 
+[or] omissions of the named insured; and (3) specifically excluded injury 
+or damage arising out of the sole negligence of the additional insured. 
+ 
+The 2004 revisions are a belated acknowledgement [sic] that the 
+‘arising out of language simply did not accomplish the scope of 
+coverage intended by the industry. Many courts interpreted ‘arising 
+out of to be a simple causation test and, therefore, afforded direct 
+primary coverage to the additional insured. The ISO hopes that, by 
+substituting ‘caused by’ for ‘arising out of,’ a narrower coverage 
+interpretation will be afforded. Moreover, the revised language 
+specifies that coverage is afforded the additional insured for 
+liability arising out of the named insured's ‘acts or omissions,’ not 
+simply the named insured's operations. Arguably, the absence of 
+fault on behalf of the named insured results in a finding of no 
+coverage for the additional insured. 
+ 
+Id. (footnotes omitted); see also id. at § 11:151 (noting that the industry 
+sought to limit coverage of additional insureds by introduction of the 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 18 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+14 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+“caused, in whole or in part, by” language which it hoped would require 
+“some causation on the part of the named insured to trigger coverage under 
+the additional insured endorsement.”). This history significantly undercuts 
+Dale's argument that a simple “but for” test is what was intended when the 
+parties chose to use the words “caused by” rather than “arising out of.” 
+ 
+As noted in Dale multiple jurisdictions have held that the modern policy language required a 
+showing of proximate causation in order to trigger the duty to defend.  In Gilbane Bldg. Co. v. 
+Admiral Ins. Co., 664 F.3d 589, 598 (5th Cir. 2011), the Fifth Circuit contrasted two additional 
+insured provisions – one which used the phrase “with respect to,” and the second which used the 
+phrase “caused in whole or in part.”  Gilbane held that the insurer using the latter phrase owed 
+coverage to the additional insured only if the named insured proximately caused the injuries.  
+The Fourth Circuit expressly agreed with Gilbane in Capital City Real Estate, LLC v. 
+Certain Underwriters at Lloyd’s London, 788 F.3d 375 (4th Cir. 2015), holding: 
+ 
+the language is quite clear that coverage is provided for Capital City, as the 
+additional insured, for “property damage ... caused in whole or in part by” 
+Marquez. The Fifth Circuit has construed the exact Endorsement language at issue 
+here to mean that an insurer has a duty to defend an additional insured “only if the 
+underlying pleadings allege that” the named insured, “or someone acting on its 
+behalf, proximately caused” the injury or damage. . . .Insurance law 
+commentators have also examined the language at issue and concluded that an 
+additional insured is covered where a named insured is at least partially negligent. 
+See, e.g., Scott C. Turner, Insurance Coverage of Construction Disputes § 42:4 
+(2015) (stating that when the “ISO issued revised versions of its additional 
+insured endorsements” in 2004, it “attempt[ed] to narrow coverage for additional 
+insureds” such that “for there to be insurance for the additional insured ... the 
+named insured must be negligent at least in part”).  
+Id. at 380. “We thus conclude that the plain language of the Endorsement provides for exactly what 
+is says: coverage to [the additional insured] for property damage caused by [the named insured], 
+either in whole or in part.” Ibid. 
+In Burlington Ins. Co. v. NYC Transit Auth., 29 N.Y.3d 313 (2017), the New York court 
+similarly noted that the change in language in the common additional insured endorsements was 
+intended to provide coverage for an additional insured’s vicarious or contributory negligence and to 
+prevent coverage for the additional insured’s sole negligence.  Id. at 326.  The court held: 
+ 
+The defendants argue that the endorsement does not limit liability to cases in 
+which an insured's acts or omissions are negligent or otherwise legally actionable. 
+Essentially, they advocate that “caused, in whole or in part” means “but for” 
+causation. . . . This is an incorrect interpretation of the policy language, which, by 
+its terms, describes proximate causation and legal liability based on the insured's 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 19 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+15 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+negligence or other actionable deed. 
+ 
+Id. at 321.  The court expressly rejected the argument that the phrase “caused by” was not materially 
+different from “arising out of.” Id. at 323–24; see also, Hanover Ins. Co. v. Philadelphia Indem. Ins. 
+Co., 159 A.D.3d 587, 588 (N.Y. App. Div. 2018). 
+The Fourth and Fifth Circuits and New York state courts are not alone: First Mercury Ins. 
+Co. v. Shawmut Woodworking & Supply Inc., 48 F. Supp.3d 158, 174 (D. Conn. 2014) [“[T]he 
+progression from ‘arising out of’ to ‘caused, in whole or in part, by’ shows that that ‘liability’ refers 
+in both instances to causation and the amendment was intended to require proximate causation by 
+the insured rather than simply but-for causation”]; Bacon Constr. Co. v. Arbella Prot. Ins. Co., Inc., 
+208 A.3d 595, 600 (R.I. 2019) [“Based on our review of the Arbella policy, we are satisfied that the 
+clear and unambiguous additional insured endorsement provision contains limiting, fault-based 
+language; thereby restricting Bacon's entitlement to coverage to those situations where liability is 
+attributable, at least in part, to the negligence of U.S. Drywall, the named insured”]; Place v. P.F. 
+Chang's China Bistro, Inc., 2015 WL 11145058, at *8 (W.D. Tenn. 2015) [“the Court adopts 
+Zurich's interpretation of the additional insured endorsement, which invokes coverage for BPP as 
+the additional insured only in circumstances where PFC's actions are the proximate cause of the 
+injury to Jane Doe, or where BPP is vicariously liable for those harms”]; Louisville Galleria, LLC v. 
+Philadelphia Indem. Ins. Co., 593 F. Supp. 3d 637, 648 (W.D. Ky. 2022) [“Kentucky courts have 
+not specifically addressed the interpretation of ‘caused, in whole or in part, by.’ . . . the Court will 
+assume the language requires the higher showing of proximate cause”]; Lincoln Gen. Ins. Co. v. 
+Fed. Constr., Inc., 2010 WL 4978852, at *2 (N.D. Ill. 2010) [finding endorsement provided 
+coverage to the additional insured only for vicarious liability imputed to the additional insured by 
+the acts or omissions of the named insured, and not for the negligence by the additional insured]; 
+MacArthur v. O'Connor Corp., 635 F. Supp. 2d 112 (D. R.I. 2009) [coverage for the additional 
+insured only in instances where the additional insured was deemed to be vicariously liable]. 
+As the California Supreme Court recently restated, insurance policies are contracts to which 
+the ordinary rules of contractual interpretation apply. “If the policy language is clear and explicit it 
+governs.” Yahoo Inc. v. Nat'l Union Fire Ins. Co. etc., 14 Cal. 5th 58, 67 (2022).  In this case, the 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 20 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+16 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+endorsement is clear in using the phrase “caused by, in whole or in part, your acts or omissions.” 
+The phrasing connotes legal cause or substantial factor – a cause that a reasonable person would 
+find to have contributed to the harm, a cause that is more than negligible, remote or trivial.   
+ 
+2. 
+The jury in the Underlying Action held that Stoneledge’s  
+acts or omissions were not a legal cause of the injury to Perez. 
+ 
+In the Underlying Action, a jury held that Stoneledge did not cause the injuries for which the 
+Perezes sought damages.  The questions put to the jury in the Special Verdict form are found in the 
+Judicial Council of California Civil Jury Instructions (CACI).  The jury was read CACI 430, 
+entitled “Causation:  Substantial Factor,” which states: “A substantial factor in causing harm is a 
+factor that a reasonable person would consider to have contributed to the harm.  It must be more 
+than a remote or trivial factor.  It does not have to be the only cause of harm.  Conduct is not a 
+substantial factor in causing harm if the same harm would have occurred without that conduct.”  
+RJN ¶A. 16., Ex. R. “The substantial factor standard is a relatively broad one, requiring only that 
+the contribution of the individual cause be more than negligible or theoretical. Thus, ‘a force which 
+plays only an “infinitesimal” or “theoretical” part in bringing about injury, damage, or loss is not a 
+substantial factor,’ but a very minor force that does cause harm is a substantial factor. This rule 
+honors the principle of comparative fault.’”  Bockrath v. Aldrich Chem. Co., 21 Cal. 4th 71, 79 
+(1999), quoting Rutherford v. Owens-Illinois, Inc., 16 Cal.4th 953 (1997).  Because the jury held 
+that Stoneledge was not a “substantial factor” leading to Mr. Perez’s injury, it necessarily found that 
+Stoneledge’s conduct did not contribute to the harm more than an infinitesimal, negligible, or 
+theoretical way and that the damages would have occurred, with or without the conduct of 
+Stoneledge.  The jury holding establishes that the judgment against Carson was not for bodily injury 
+caused, in whole or in part, by an act or omission by Stoneledge. 
+Even if this Court were to hold that “caused by, in whole or in part,” does not refer to 
+“proximate cause," Carson would still not have coverage for this judgment because the facts at trial 
+and jury holding do not support an argument that Mr. Perez’s injury resulted from “an act or 
+omission” of Stoneledge.  Mr. Perez asserted at trial that the MDP, an area of the property which 
+was entirely the responsibility of Carson, was expanded without a permit and a pullout switch with 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 21 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+17 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+under-rated voltage was installed.  Perez argued that it was this “illegal” (unpermitted) 
+configuration in the MDP which caused a dangerous hazard and ultimately caused the arc flash 
+which was not contained in the pullout switch.  Stoneledge employee, Mr. Mountain, did little more 
+than call DP Electric from the “emergency numbers” list on the property manager’s door.  Asked 
+about his interaction with Mr. Perez, at trial Mr. Mountain testified, “I stayed with him for maybe 
+four or five minutes . . . And I had other stuff to do, so I left him alone.”  Sometime later, Perez 
+searched out Mountain and asked him where the main electrical panel was. Mr. Mountain showed 
+him two panels, not knowing which Perez needed to see: “I’m not that familiar with the electricity, 
+so I did show him the two biggest panels that I knew.”  After pointing out the panels:  “I left and he 
+started working on them I guess.”   Sometime later, Mr. Mountain went to check with Mr. Perez 
+when power would be restored to the warehouse.  Mountain arrived at the MDP in time to hold 
+open a panel door for Mr. Perez while he inserted the pullout switch.  RJN ¶ A.17., Ex. S.  No act or 
+omission by Stoneledge caused the arc flash.  As in American Dynasty, Stoneledge did nothing 
+more than put Mr. Perez in the zone of danger.   
+Carson and Ohio/American cite only to case law interpreting the phrase “arising out of,” not 
+“caused by” and without the added phrase “acted or omission.”  They do not explain how the 
+difference in the policy language used in the additional insured endorsement which is actually at 
+issue here, impacts the coverage extended to an additional insured.   
+Carson argues that acts of Perez should be attributed to Stoneledge because Perez “was 
+acting on Ashley’s behalf” at the time of the accident.  The argument misconstrues “on behalf of.”  
+The online Merriam Webster dictionary (https://www.merriamwebster.com/dictionary/on%20 
+behalf%20of %20someone), defines the idiom “on behalf of” as: “1: as a representative of someone 
+. . . 2: or US in behalf of someone or in someone's behalf: for the benefit of someone; 3: in support 
+of someone. She spoke in behalf of the other candidate. They're willing to do anything on their 
+child's behalf.; : because of someone. Don't get up on my behalf.” Mr. Perez was not working as a 
+representative of Stoneledge.  He was not making products or performing a service which 
+Stoneledge offered to a third party. He was not working to benefit Stoneledge; Stoneledge was not 
+profiting from his work.  At most, Mr. Perez was performing a service for Stoneledge, on his own 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 22 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+18 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+behalf. He was a licensed electrician and an independent contractor, operating his own corporate 
+business, DP Electric.  RJN ¶ A.18., Ex. T.  He worked to earn profits for his own business. Nor 
+was Perez an agent or employee of Stoneledge, working under the control of Stoneledge.      
+In fact, Perez was not even working for Stoneledge at the time of the accident.  Mr. Perez 
+found and tried to correct a problem in the MDP – a common area and the sole responsibility of 
+Carson. On the day of the accident, Mr. Mountain called Mr. Perez because the DP Electric number 
+was listed on a page of “Emergency numbers” posted on the property manager’s office door.  Mr. 
+Mountain believed he was following the direction of the property manager in making the call and 
+Mountain  made the call only because je could not find the property manager.  The fact that 
+Stoneledge made a telephone call is irrelevant; Mr. Perez’s work was for Carson. 
+Finally, the jury found that Mr. Perez was not a proximate cause of his own injuries; he was 
+allocated 0 fault for his damages.  Therefore, Carson’s liability was not for damage caused by Perez.  
+Ohio/American obtusely moves for a judicial determination that Carson “qualifies as an 
+insured,” a request that seems to miss the point.  ACE does not contend that Carson does not qualify 
+as an insured.  It qualifies as an insured under the endorsement, but it is not owed indemnity 
+because its liability was not for damages caused by Stoneledge.  Additional Insured Endorsement, 
+Form 2026 states: “Section II – Who Is an Insured is amended to include as an additional insured 
+the person or organization shown in the Schedule . . .”  The form states in the schedule, “Blanket - 
+Where Required by Written Contract or Agreement.”  The written contract between Carson and 
+Stoneledge required that Stoneledge add Carson as an insured to the policy; therefore, Carson is an 
+insured.  ACE does not contend otherwise.  However, the added insured has coverage “but only 
+with respect to liability for” injury caused by Stoneledge.  The second phrase does not determine if 
+Carson is an insured; it determines the scope of the coverage provided to the additional insured.  
+Carson’s liability here is not within the scope of coverage. 
+ 
+C. 
+The Injuries For Which Carson Was Held Liable Did Not “Arise Out Of”  
+The Use “Of That Part Of The Land Or Premises Leased To You.”  
+ 
+ 
+Should this court hold that Paragraph 6 of the form HG 0001 applies, indemnity is not owed 
+because the injuries to Perez did not arise out of “that part of the premises” leased to Stoneledge.  In 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 23 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+19 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+this case, at trial, Carson admitted that the Main Distribution Panel, where the incident occurred, 
+was part of the common area of the property.  Carson also acknowledged that it and its property 
+manager, San Oak, maintained and controlled that part of the property. 
+In Fireman's Fund Ins. Co. v. Discover Property & Cas. Co., 2009 WL 2591394 (N.D. Cal. 
+2009), the court construed a provision similar to the provision at issue here and concluded that when 
+a person on her way to attend a signing at a bookstore in a mall tripped and fell over construction 
+materials more than 800 feet away from the store, the liability did not arise out of the bookstore's 
+use of the premises it leased. Fireman's Fund reasoned that even though the injured person would 
+not have been on mall property “but for” the bookstore event, the connection between the fact that 
+she was walking to the bookstore and the store's use of its leased premises was “too thin” to support 
+coverage under the policy provision. 2009 WL 2591394 at *4. The court noted that there was a 
+geographical distance between the bookstore and the site of the injury. Id. 
+Similarly, in Hartford v. State of California, 41 Cal.App.4th 1564 (1996), the court found 
+the distance between where a claimant was injured and the space being used by the named insured, 
+was a factor weighing against coverage for an additional insured.  In that case, a child was injured 
+while playing on bleachers some distance away from where his grandparents were setting up an 
+exhibition booth at the state fairgrounds. Id. at 1567.  The court held there was no coverage for the 
+state as an Additional Insured under an endorsement to a policy issued to the grandparents’ 
+business.  The endorsement named the State as an additional insured for the term of the fair “... but 
+only insofar as the operations under this contract are concerned.”  The fact that the child was on the 
+fairgrounds because his grandmother was there to set up the booth, was an insufficient basis to 
+characterize the accident as having arisen out of the operations of the booth. Id. at 1569. 
+Here, Carson’s liability did not “arise out of” Stoneledge’s “maintenance or use of that part 
+of the land or premises leased to” it.  Mr. Perez’s injuries occurred while he was replacing a fuse on 
+the MDP, in a common area.  At the time of the arcing event, according to Perez, he had turned off 
+all of the loads on the electrical supply source located within the Stoneledge leased area.  At trial, 
+Carson did not dispute that the MDP was part of the common areas of the property and was the 
+responsibility of Carson, not Stoneledge.  Further, Perez argued that the cause of the accident was 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 24 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+20 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+an unpermitted expansion of the MDP, with an under-rated pullout switch and fuse.  Even the phone 
+call to DP Electric does not tie the injury to Stoneledge’s use of its warehouse.  Stoneledge called 
+DP Electric only because Mr. Mountain could not find the property manager and so he dialed a 
+number from the emergency contacts list on the property manager’s door.   
+The accident occurred in a common area, outside the leased space, while the Mr. Perez 
+worked on a piece of equipment for which the landlord was entirely responsible, while the load 
+within the leased space was all turned off.  Given the facts which were asserted at trial and the 
+jury’s finding of fault entirely on Carson and SanOak, the liability of Carson did not arise out of 
+Stoneledge’s use of its leased premises.  Therefore, neither Hartford nor ACE owes indemnity, even 
+if Paragraph 6.c. applies in this case.   
+D. 
+ACE Did Not Owe A Defense to Carson Under Its Excess Policy 
+The ACE policy was issued as excess, written to apply only after primary insurance, 
+including the Hartford policy, which is specifically identified in the policy schedule as “underlying 
+insurance,” exhausted.  As an excess policy, the ACE policy provides “indemnity coverage that 
+attaches upon the exhaustion of underlying insurance coverage for a claim.”  Montrose Chemical 
+Corp. of Calif. v. Sup.Ct., 9 Cal.5th 215, 222 (2020); Powerine Oil Co., Inc. v. Sup.Ct., 37 Cal.4th 
+377 (2005).  In other words, excess insurance “provides coverage after other identified insurance is 
+no longer on the risk.” N. American Capacity Ins. Co. v. Claremont Liab. Ins. Co., 177 Cal.App.4th 
+272, 291 (2009).  It is well-established that as between a primary insurer and an excess insurer, the 
+former is solely responsible for defense costs even though the claim against the insured may be for 
+a sum in excess of the primary coverage. Signal Companies, Inc. v. Harbor Ins. Co., 27 Cal. 3d 
+359, 368 (1980). “Primary insurers generally have the primary duty of defense.” Olympic Ins. Co. v. 
+Employers Surplus Lines Ins. Co., 126 Cal.App.3d 593, 597 (1981).  
+The ACE policy states in the insuring agreement that the insurer “will pay on behalf of the 
+insured those sums in excess of the ‘retained limit’. . . .”  Doc. 63-5, p. 10. The policy defines the 
+“retained limit” as the combined limits of the Hartford policy and any other applicable insurance. 
+Doc. 63-5, p. 27. Consistent with the insuring agreement, in Section III of the policy, entitled 
+Defense and Supplementary Payments, the ACE policy states (in paragraph A) the Company has a 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 25 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+21 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+duty to defend “when damages sought would be covered by ‘underlying insurance’ [or ‘other 
+insurance’] but are not covered by that insurance because of the exhaustion of the applicable limits 
+of ‘underlying insurance’ [or ‘other insurance’] by the payment of ‘loss’ covered by this policy.”  
+Further, Section III, paragraph C., states that when underlying or other insurance is not exhausted, 
+ACE has the right, but not the duty to defend.  Doc. 63-5, p. 12-13. Here, during the pendency of 
+the Underlying Action, neither the Hartford policy nor the Ohio policy had exhausted limits through 
+the payment of loss.  Both insurers extended a defense to Carson. Ohio contends that it assumed 
+Carson’s defense after Hartford “withdrew” (Ohio/ American MSJ, Dec. of M. Cossalter, ¶¶10, 14, 
+Doc 64-2), a contention Hartford disputes, but no party asserts the primary carriers did not defend.  
+Both Hartford and Ohio admit that their primary policies applied before the ACE policy.  Carson 
+asserts that ACE had a duty to defend but points to no policy language supporting the argument.  
+Nor does Carson allege that Hartford and Ohio exhausted the limits of their policies by the payment 
+of “loss” during the pendency of the Underlying Action.  Carson’s assertion that ACE owed a 
+defense should be rejected. 
+ 
+Because it had no duty to defend, ACE does not owe pre- or post-judgment interest, even 
+assuming, arguendo, a duty to indemnify Carson for the judgment arose.  Under Section III, 
+paragraph D begins, “If we assume the defense of any ‘suit’ against the ‘insured’ we will pay in 
+addition to the applicable Limit of Insurance,” followed by eight subparts, which include “expenses 
+we incur,” the costs of an appeal bond, “all costs taxed against the ‘insured,’” and pre- and post-
+judgment interest. Doc. 63-5, p. 12-13.  By its terms, the policy covers the costs of appeal bond, 
+costs taxed against the insured and interest arise only in those cases where ACE had an obligation to 
+defend.  Where, as here, that duty did not arise, ACE had no obligation to pay costs and interest. 
+E. 
+Priority of Coverage 
+ACE agrees with Ohio and American that the Hartford and Ohio primary policies apply 
+before any excess policy.  However, American misstates the law in arguing that the ACE excess 
+policy applies before the American excess policy and does not address the language of the policies, 
+which dictates that the American policy applies before the ACE policy.  Relying on Rossmoor 
+Sanitation, Inc. v. Pylon, Inc., 13 Cal.3d 622 (1975), American argues that the priority of coverage 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 26 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+22 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+between the two excess policies is determined by the indemnity provision in the contract between 
+Stoneledge and Carson.  The argument is wrong for multiple reasons.  First, the issue before this 
+court is how the various policies apply vis a vis Carson, not the issue of indemnity as between 
+Stoneledge and Carson.  In Reliance Nat. Indem. Co. v. Gen. Star Indem. Co., 72 Cal. App. 4th 
+1063 (1999), the court held that a contractual indemnity provision did not dictate the priority of 
+coverage between policies insuring the same entity.  In Reliance, a primary insurer, Reliance, which 
+issued a policy to a named insured, Lollapalooza, sought to recover amounts paid to settle claims 
+against Lollapalooza, asserting equitable contribution or indemnity against an excess insurer, 
+General Star, which insured Lollapalooza as an additional insured.  Reliance argued the General 
+Star policy should have applied before the Reliance policy by virtue of the contractual indemnity 
+clause in the contract between Lollapalooza and General Star’s named insured, Don Law.   The 
+court held that the contractual indemnity clause in the contract between Lollapalooza and Don Law 
+did not dictate how the policies applied.  Don Law, the putative indemnitor, was not named in the 
+coverage action, its liability for contractual indemnity had not been decided in the underlying 
+action, and the indemnity provision was not an operative contract between the two insurers: 
+ 
+The contract contains an indemnity agreement between Lollapalooza and Don Law. 
+No determination was ever made in the Underlying Action with regard to the 
+respective liability of either Lollapalooza or Don Law or whether the indemnity 
+agreement was applicable. Neither Reliance nor General Star were parties to the 
+Lollapalooza–Don Law Contract and, therefore, are not bound by that contract.  
+Id. at 1072–73.  Reliance distinguished Rossmoor, noting Rossmoor involved the parties to the 
+indemnity contract and the plaintiff-insurer had asserted subrogation: 
+ 
+even though the case of Rossmoor is cited repeatedly and extensively by Reliance, 
+that case simply does not apply to this dispute between two carriers for 
+Lollapalooza. There is nothing that can make any of the policies at issue subject 
+to the contractual obligations to which these carriers were not parties. . . . 
+Furthermore, this is not a subrogation case. Reliance has not sued Don Law, and 
+concedes that Don Law's liability to Lollapalooza has never been established. 
+Accordingly, this is not a case of a carrier, as a subrogee, seeking recovery from a 
+third-party tortfeasor pursuant to an express indemnity agreement or by way of 
+equitable indemnity. That just was not the question at issue in this case. 
+Ibid.  The priority of coverage for Lollapalooza, as between policies insuring that entity (one as a 
+named insured, the other as an additional insured) was to be decided by the terms of the policies 
+themselves. See also, JPI Westcoast Const., L.P. v. RJS & Associates, Inc., 156 Cal.App. 4th 1448, 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 27 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+23 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+1458–1466 and n.3 (2007); Columbia Cas. Co. v. Fed. Ins. Co., 2015 WL 4734704 (N.D. Cal. 
+2015).  As explained in Reliance, Rossmoor was an action between the insureds on a contract for 
+indemnity and a subrogation claim by the insurer.  Reliance, 72 Cal.App.4th at 1079; Rossmoor, 13 
+Cal.3d at 627-8. “Rossmoor did not purport to establish a general rule that a contractual 
+indemnification agreement between an insured and a third party takes precedence over well-
+established general rules of primary and excess coverage in an action between insurers repeatedly 
+articulated by California appellate courts.”  Reliance, 72 Cal.App.4th at 1081.   
+In this case, American seeks reimbursement from ACE as a co-insurer for Carson.  Neither 
+Carson nor Ohio/ American have a cause of action against Stoneledge, either for direct contractual 
+indemnity or in subrogation.  Accordingly, the issue of priority of coverage must be determined by 
+the terms of the policies, not by the terms of a contract between Carson and Stoneledge.   
+Moreover, even if the application of the indemnity clause in the lease was before this court, 
+Stoneledge would not be liable to Carson.  Carson and Stoneledge entered into a lease termination 
+agreement, dated December 21, 2017 (prior to the judgment in the Underlying Action) in which 
+Carson fully released Stoneledge from any indemnity obligation: 
+ 
+Upon receipt of the early termination fee, Landlord, . . . hereby fully and 
+unconditionally waives, releases, remises and forever discharges Tenant . . . from 
+any and all obligations, claims, demands, losses, damages, liabilities, debts, dues, 
+accounts, controversies, actions or causes of action, whether known or unknown, 
+direct or indirect, foreseen or unforeseen, contingent or actual, liquidated or 
+unliquidated, suspected or claimed, which the Landlord Releasing Parties ever 
+had, now has or may hereafter claim to have had against the Tenant Released 
+Parties arising directly or indirectly out of, based upon, or related in any way to 
+the Premises or the Lease (collectively, the “Landlord Released Claims”) . . .  
+Carson MSJ, Dec. of Hazzard, Ex. 15, Doc. 63-16, p. 5. While Carson argues that the lease 
+termination does not impact the application of the policies, it does impact the right of Carson or its 
+direct insurers to recover from Stoneledge and defeats any argument based on that right.  Stated 
+differently, neither Carson nor its direct insurers (in subrogation) could recover from Stoneledge 
+under the lease.  It is also therefore true that neither Carson nor its direct insurers can recover from 
+the insurers of Stoneledge, in their capacity as insurers of Stoneledge.   
+ 
+Assuming arguendo that Carson did not release Stoneledge, the indemnity provision still 
+would not apply because the provision did not address Carson’s active negligence.  In Rossmoor, 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 28 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+24 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+the court stated the well-established rule: “If an indemnity clause does not address itself to the issue 
+of an indemnitee's negligence, it is referred to as a ‘general’ indemnity clause. While such clauses 
+may be construed to provide indemnity for a loss resulting in part from an indemnitee's passive 
+negligence, they will not be interpreted to provide indemnity if an indemnitee has been actively 
+negligent. Provisions purporting to hold an owner harmless without expressly mentioning an 
+indemnitee's negligence, have been deemed to be ‘general’ clauses.” Rossmoor, 13 Cal.3d at 628–
+629; McCrary Constr. Co. v. Metal Deck Specialists, Inc., 133 Cal. App. 4th 1528, 1537–38 
+(2005); Maryland Casualty Co. v. Bailey & Sons, Inc., 35 Cal.App.4th 856, 869 (1995).   Courts 
+have repeatedly held that the right to indemnity is strictly construed against the indemnitee, and 
+indemnification for the affirmative or active negligence of the indemnitee must be “clear, positive 
+and specific to that effect.” Herman Christensen & Sons, Inc. v. Paris Plastering Co., 61 
+Cal.App.3d 237, 245-46 (1976); Edmondson Prop. Mgmt. v. Kwock, 156 Cal.App.4th 197 (2007); 
+Prince v. Pacific Gas & Electric Co., 45 Cal.4th 1151, 1158 (2009); City of Bell v. Sup. Court, 220 
+Cal.App.4th 236, 250 (2013). Here, the lease indemnity provision stated that Stonledge was to 
+indemnify Carson from any loss, damage or suit, “on account of (a) Tenant’s use of the Premises; 
+(b) the conduct of Tenant’s business . . . (c) any breach or default in the performance of Tenant’s 
+obligations under this lease; (d) any misrepresentations or breach of warranty by Tenant . . .; or (c) 
+other acts, failures to act or occurrences on the Premises, except to the extent caused by Landlord’s 
+gross negligence or willful misconduct . . . .”  Dec. of Hazzard, Ex. 1, Doc. 63-2 p. 21.   In this case, 
+Carson would be seeking indemnity for its sole, active negligence. The indemnity provision does 
+not expressly address the active negligence of Carson, and, therefore, it does not apply.  
+Finally, if the lease had any bearing on determining the priority of coverage, the lease would 
+be of no assistance to American vis a vis ACE.  In Article 23 of the lease, Carson obligated 
+Stoneledge to maintain general liability insurance with limits “not less than $2,000,000 for each 
+occurrence.”  Id. at Doc. 63-2, p. 23-24. The Hartford policy has a limit of $2 million per 
+occurrence, satisfying the lease obligation.  Carson did not require excess insurance, and the parties 
+made no statement in the lease that would dictate which excess policy had priority to the other. 
+Under the terms of the policies, the ACE policy is excess to the Hartford and Ohio primary 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 29 of 30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+25 
+MOTION 
+ 
+Case No: 3:31-CV-06259-VC 
+policies and the American excess policy.  The American policy states “We will pay on behalf of the 
+Insured the amount of ‘loss’ covered by this insurance in excess of the ‘Underlying Limits of 
+Insurance’ shown in Item 5 of the Declarations. . . .”  Ohio/American Joint Index, Ex. 3. Doc. 64-6, 
+p. 14.  The policy defines “Underlying Limits of Insurance” as “the total sum of the limits of all 
+applicable ‘underlying insurance’ stated in Item 5 of the Declarations, including self-insurance or 
+means other than insurance.”  Id. at Doc 64-6 p. 16.  Item 5 of the Schedule of Underlying 
+Insurance lists the primary policy issued by Ohio and limits of $1 million per occurrence.  Id. at 
+Doc 64-6, p. 10.  Accordingly, the attachment point of the American policy is at exhaustion of the 
+$1 million Ohio policy.  The ACE policy, in contrast, states in its insuring agreement that it will pay 
+a loss “in excess of the ‘retained limit’ that the insured becomes legally obligated to pay as damages 
+because of ‘bodily injury.’”  Doc. 63-5, p. 10. It defined “retained limit” as “the total applicable 
+limits of ‘underlying insurance’ and any applicable limit of ‘other insurance’ providing coverage 
+to the ‘insured.’” Doc 63-5, p 27.  The “underlying insurance” is the $2 million Hartford primary 
+policy and “other insurance” is defined to include both the Ohio and American policies and the 
+attachment point for the ACE policy is exhaustion of the Hartford, Ohio and American policies.  
+Therefore, the ACE policy applies as excess to the American policy, which, in turn, is excess to the 
+primary policies. 
+IV. 
+CONCLUSION 
+ 
+For all the foregoing reasons, the motions of Carson and Ohio/ American should be denied. 
+Summary judgment should be granted to ACE because the ACE policy does not owe indemnity or 
+defense to Carson in relation to the Underlying Action because Stoneledge did not cause the injuries 
+for which Carson was held liable. In the alternative, ACE respectfully requests that this court 
+declare that ACE did not owe a duty to defend Carson and that its policy is excess to the policies 
+issued to Hartford, Ohio and American. 
+Dated:  January 16, 2025 
+ 
+ 
+ 
+MORALES FIERRO & REEVES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By: 
+/s/Christine Fierro 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHRISTINE FIERRO 
+Attorneys for Defendant ACE PROPERTY & 
+CASUALTY INSURANCE COMPANY 
+Case 3:23-cv-06259-VC     Document 68     Filed 01/16/25     Page 30 of 30

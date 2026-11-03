@@ -1,0 +1,193 @@
+EXHIBIT 14 
+OF HAZZARD DECLARATION
+                Page 360
+Case 3:23-cv-06259-VC     Document 63-15     Filed 12/31/24     Page 1 of 5
+SONIA S. WAISMAN 
+2401 Pacific Coast Highway, Suite 206 
+Hermosa Beach, CA 90254 
+Main: 619.237.3095 
+Direct: 310.524.0400 
+www.mwwdlaw.com 
+swaisman@mwwdlaw.com 
+September 11, 2023 
+Via Email Only 
+Patricia A. Daza-Luu, Esq. 
+Nicolaides Fink Thorpe Michaelides Sullivan LLP 
+777 South Figueroa Street, Suite 750 
+Los Angeles, CA 90017 
+pdazaluu@nicolaidesllp.com 
+Re: 
+Mountain v. Perez, et al. (including Perez Cross-Complaint therein)  
+Alameda County Superior Court Case No. RG17857926 
+Insured: 
+Ashley Furniture Inc. 
+Alleged Additional Insured:  Carson Madrona Company, LLC 
+Claimants:  
+ 
+David and Donna Perez 
+Date of Loss:   
+5/17/16 
+Hartford Policy No.: 
+41 CSE S30502 (1/1/16-1/1/17) 
+Liberty’s Underwriting Company:  Ohio Security Insurance Company 
+Ohio Security Policy No.: 
+ 
+BLS (16) 56862638 (8/31/15-8/31/16) 
+Ohio Security’s Named Insured:  
+Carson Madrona Company LLC 
+Dear Ms. Daza-Luu: 
+As you know, our office represents Hartford Fire Insurance Company (“Hartford”) as coverage 
+counsel in connection with the above-referenced matter.  This letter follows our prior discussions and 
+your August 11, 2023 letter regarding this matter and further responds to the issues you have raised. 
+Your client, Ohio Security Insurance Company (“Ohio Security”) issued the above-referenced 
+primary commercial general liability (“CGL”) policy, along with an umbrella excess liability policy, to 
+Carson Madrona Company LLC (“Carson”), and contends that Carson is entitled to additional insured 
+coverage under the above referenced Hartford policy (the “Hartford Policy”) issued to “Ashley Furniture 
+Industries, Inc.” (together with defendant “Stoneledge Furniture LLC dba Ashley Furniture Homestore,” 
+hereinafter “Ashley”) in connection with the above-referenced lawsuit (the “Lawsuit”).  For the reasons 
+explained below, neither the facts nor the cases to which you cite, and on which Ohio Security relies, 
+support Ohio Security’s position.1 Therefore, Hartford has disputed and continues to dispute Ohio 
+Security’s position.  
+1  With respect to the facts, your letter refers to “the $25.5 million verdict” in the Lawsuit, but fails to note that the 
+jury verdict and Judgment on Special Verdict allocate 50% of the responsibility to “James Krasne, Trustee of the 
+Exhbit 14, Page 361
+Case 3:23-cv-06259-VC     Document 63-15     Filed 12/31/24     Page 2 of 5
+Patricia Daza-Luu, Esq 
+September 11, 2023 
+Page 2 
+ 
+MCCLOSKEY, WARING, WAISMAN & DRURY LLP      
+2401 PACIFIC COAST HIGHWAY, SUITE 206, HERMOSA BEACH, CA 90254                                                                                  PHONE: 310.524.0400 
+ 
+Based on my recent review of the Hartford Policy, it contains an amendatory endorsement entitled 
+“Additional Insured – Designated Person or Organization” (“AI Endorsement”), applicable “Where 
+Required By Written Contract or Agreement.”2  It provides, in relevant part, as follows: 
+ 
+A. Section II – Who Is An Insured is amended to include as an additional insured the 
+person(s) or organization(s) shown in the Schedule, but only with respect to liability 
+for “bodily injury’, “property damage” or “personal and advertising injury” caused, 
+in whole or in part, by your acts or omissions or the acts or omissions of those acting 
+on your behalf: 
+ 
+1. In the performance of your ongoing operations; or 
+2. In connection with your premises owned or rented to you. 
+However: 
+*   *   * 
+2. If coverage provided to the additional insured is required by contract or 
+agreement, the insurance afformed to such additional insured will not be broader than 
+that which you are required by the contract or agreement to provide for such additional 
+insured. 
+*   *   * 
+Most courts addressing this issue have construed the above language as it is plainly written –to 
+apply only where liability is caused by the named insured.  See, e.g., AvalonBay Communities, Inc. v. 
+Contractors Bonding & Ins. Co., 2022 WL 4596560, *2, *3 (C.D. Cal. July 20, 2022) (addressing 
+substantially the same AI language as in Hartford’s AI Endorsement, recognizing that the “policy 
+extends coverage to an additional insured for bodily injury caused by [the named insured’s] 
+negligence”). Courts in other jurisdictions are in accord. See, e.g., Burlington Ins. Co. v. NYC Transit 
+Authority, 29 N.Y.3d 313, 317, 79 N.E.3d 477 (N.Y. 2017) (New York’s highest court considered the 
+same language as in Hartford’s AI Endorsement here, concluding that “where an insurance policy is 
+restricted to liability for any bodily injury ‘caused, in whole or in part,’ by the ‘acts or omissions’ of the 
+named insured, the coverage applies to injury proximately caused by the named insured”). Thus where, 
+as in this instance, Hartford’s named insured was found to have zero responsibility for the injuries to 
+Dave Perez, the Hartford Policy does not provide additional insured coverage to Carson. 
+ 
+The cases on which you rely also acknowledge there can be a distinction between the language 
+of the AI Endorsement and the language at issue in those cases. For example, in Truck Ins. Exchange v. 
+ 
+Diane Pregerson Glazer Survivor’s Trust dba SanOak Management Company” which undisputedly is solely 
+insured by Ohio Security in connection with this matter, and not by Hartford, leaving $12.75 million of the total 
+verdict – not $25.5 million – allocated to Carson. 
+ 
+2  My understanding is that you may already have a copy of the Hartford Policy. If you do not, however, and would 
+like a copy, please let me know. 
+Exhbit 14, Page 362
+Case 3:23-cv-06259-VC     Document 63-15     Filed 12/31/24     Page 3 of 5
+Patricia Daza-Luu, Esq 
+September 11, 2023 
+Page 3 
+ 
+MCCLOSKEY, WARING, WAISMAN & DRURY LLP      
+2401 PACIFIC COAST HIGHWAY, SUITE 206, HERMOSA BEACH, CA 90254                                                                                  PHONE: 310.524.0400 
+AMCO Ins. Co., 56 Cal. App. 5th 619, 634 (2020), the court explicitly noted that, unlike Hartford’s AI 
+Endorsement, “AMCO did not write its additional insured endorsement to bar coverage where the tenant 
+was not at fault.”   
+ 
+Second, Hartford has recently learned of a December 21, 2017 Lease Termination Agreement 
+between Ashley and Carson (Trial Exh. 467), pursuant to which both parties fully and unconditionally 
+waived, released and forever discharged each other “from any and all obligations, claims, demands, 
+losses, damages, liabilities . . . controversies, actions or causes of action, whether known or unknown 
+. . .arising directly or indirectly out of, based upon, or related in any way to the Premises or the Lease,” 
+subject to certain exceptions not relevant here.  (Emphasis added.)  Thus, any obligations Ashley may 
+have had to Carson pursuant to the lease ceased to exist. Since Ashley is not the contractual indemnitor 
+of Carson, any theory relating to priority of coverage as between Hartford and Ohio Security based on 
+any such provision in the lease does not apply. Although you may already have a copy of the Lease 
+Termination Agreement, a copy accompanies this letter. 
+ 
+Third, the above-quoted AI Endorsement in the Hartford Policy provides additional insured 
+coverage only to persons or organizations Ashley is required by contract or agreement to have designated 
+as additional insureds, and only to the extent required by the contract or agreement. The Lease 
+Termination Agreement, however, fully and unconditionally waived, released and forever discharged 
+Ashley from any and all known and unknown obligations arising directly or indirectly out of, based 
+upon, or related in any way to the Premises or the Lease – including any obligation to procure insurance 
+covering Carson.  
+ 
+Under the facts here, particularly given the foregoing policy language and 2017 contractual 
+release between Carson and Ashley with respect to the lease at issue, Hartford maintains the position 
+that it has no continuing defense obligation and no indemnity obligation to Carson in this matter and that 
+it is incumbent upon Ohio Security to step in to protect its named insured.   
+ 
+Finally, with respect to “Other Insurance,” your letter quotes an excerpt form from Section IV of 
+the Hartford Policy, but overlooks that it was replaced by an amendatory endorsement entitled 
+“Amendment – Other Insurance Condition,” which deletes the provision quoted in your letter, and 
+provides instead:  
+ 
+A. Paragraph 4., the Other Insurance Condition (Section IV – Commercial General 
+Liability Conditions), is replaced by the following: 
+ 
+4. Other Insurance 
+This insurance is excess over any other insurance, whether primary, excess, 
+contingent or on any other basis, except when purchased specifically to apply in 
+excess of this insurance. 
+If this insurance is excess, we will have no duty under this Coverage Part to defend 
+the insured against any "suit" if any other insurer has a duty to defend the insured 
+against that "suit". If no other insurer defends, we will undertake to do so, but we 
+will be entitled to the insured's rights against all those other insurers. 
+Exhbit 14, Page 363
+Case 3:23-cv-06259-VC     Document 63-15     Filed 12/31/24     Page 4 of 5
+Patricia Daza-Luu, Esq 
+September 11, 2023 
+Page 4 
+ 
+MCCLOSKEY, WARING, WAISMAN & DRURY LLP      
+2401 PACIFIC COAST HIGHWAY, SUITE 206, HERMOSA BEACH, CA 90254                                                                                  PHONE: 310.524.0400 
+* * * 
+B. Paragraph 2.e. of Section IV – Commercial General Liability Conditions is replaced 
+by the following: 
+e. Additional Insureds Other Insurance  
+If we cover a claim or “suit” under this Coverage Part that may also be covered by 
+other insurance available to an additional insured, such additional insured must 
+submit such claim or “suit” to the other insurer for defense and indemnity. 
+Thus, Ohio Security’s position that it is excess to the Hartford Policy in this matter is unsupported 
+by the Other Insurance provision, in addition to the other reasons discussed in this letter. 
+ 
+With respect to the inquiry in your letter regarding an alleged Hartford excess policy, I have 
+already connected you with counsel for Federal Insurance Company, which issued the excess policy to 
+Ashley above the primary level Hartford Policy.  
+ 
+Hartford continues to reserve all of its rights in this matter under the Hartford Policy, at law and 
+in equity, including, but not limited to, the right to seek reimbursement of any and all sums paid and to 
+be paid by Hartford on behalf of Carson in connection with the Lawsuit, to the extent allowed by law. 
+Neither this letter nor any other communication by or on behalf of Hartford is intended to be, nor shall 
+it be construed as, a waiver of any of any rights under the Hartford Policy or of any terms, exclusions, 
+conditions or other provisions of the Hartford Policy. 
+ 
+If you have any questions or would like to discuss this matter further, please do not hesitate to 
+contact me. 
+Sincerely, 
+ 
+Sonia S. Waisman 
+Sonia S. Waisman 
+SSW/nt 
+ 
+Exhbit 14, Page 364
+Case 3:23-cv-06259-VC     Document 63-15     Filed 12/31/24     Page 5 of 5

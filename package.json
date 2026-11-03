@@ -1,0 +1,21 @@
+{
+  "name": "killing-cases",
+  "private": true,
+  "description": "Research: map a legal brief as an argument graph, attack it with AI agents, and replay it against the real ruling",
+  "scripts": {
+    "test": "tsx --test src/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "run": "tsx --env-file=.env src/run.ts",
+    "case-pack": "tsx --env-file=.env src/case-pack.ts",
+    "viewer": "tsx viewer/server.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.33.1",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^24.12.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

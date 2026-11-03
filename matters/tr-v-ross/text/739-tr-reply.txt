@@ -1,0 +1,1127 @@
+Case 1:20-cv-00613-SB Document 739 Filed 11/18/24 Page 1 of 31 PagelD #:
+211245
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF DELAWARE
+
+THOMSON REUTERS ENTERPRISE )
+CENTRE GMBH and WEST PUBLISHING _ )
+CORPORATION, )
+)
+Plaintiffs and )
+Counterdefendants, ) C.A. No. 20-613 (SB)
+)
+v. ) REDACTED - PUBLIC VERSION
+) Original filing date: November 13, 2024
+ROSS INTELLIGENCE INC., ) Redacted filing date: November 18, 2024
+)
+Defendant and )
+Counterclaimant. )
+
+PLAINTIFFS’ REPLY BRIEF IN SUPPORT OF THEIR MOTION FOR PARTIAL
+SUMMARY JUDGMENT ON DIRECT COPYRIGHT INFRINGEMENT
+AND RELATED DEFENSES
+
+Morris, NICHOLS, ARSHT & TUNNELL LLP
+Michael J. Flynn (#5333)
+1201 North Market Street
+P.O. Box 1347
+Wilmington, DE 19899
+(302) 658-9200
+mflynn@morrisnichols.com
+Attorneys for Plaintiffs
+
+OF COUNSEL:
+
+Dale M. Cendali Daniel E. Laytin, P.C.
+
+Joshua L. Simmons Christa C. Cottrell, P.C.
+
+Eric A. Loverro Alyssa C. Kalisky
+
+KIRKLAND & ELLIS LLP Cameron Ginder
+
+601 Lexington Avenue Vanessa Barsanti
+
+New York, NY 10022 Danielle O’Neal
+
+(212) 446-4800 Jonathan Emmanuel
+Lexi Wung
+
+Miranda D. Means Max Samels
+
+KIRKLAND & ELLIS LLP KIRKLAND & ELLIS LLP
+
+200 Clarendon Street 300 North LaSalle
+
+Boston, MA 02116
+(617) 385-7500
+
+November 13, 2024
+
+Chicago, IL 60654
+(312) 862-2000
+Case 1:20-cv-00613-SB Document 739 Filed 11/18/24 Page 2 of 31 PagelD #:
+
+211246
+TABLE OF CONTENTS
+SUMMARY OF THE ARGUMENT. ........ccccesecssesseecceseeceeseeecesecaeenecaeeacesesaresesacsaneneaeeeseneraseneeaeeas 1
+ARGUMENT ......cccsssscsssessesscseeeccceseesseseesseceesessesaeeseseseseaaecsessesseesessesanenasaneuessaseeeeaeaaecaeaaeeaeeaeeseenees 6
+I. ROSS IS LIABLE FOR DIRECT COPYRIGHT INFRINGEMENT AS A MATTER OF
+LAW oeecccccsscsssescsccscescceceseeseesecsscsnesesaecssaesaecseaaeesecsesseesessecseeeecsnenessesaneeasaneaeeaeenseseeaeeaeaaeeas 7
+A. ROSS Does Not Dispute That Plaintiffs Own a Valid Copyright That Is Entitled
+to a Presumption of Validity ..........cccccccssecssessscccsesceeeesseceseeeseeesseeseseeeseecsessanecseecees 7
+B. ROSS Copied Undisputedly Original West Headnotes..............ccescesseseeeeteeeseeeees 7
+1.The Law of the Case Doctrine Applies to Protectability and Actual Copying.... 7
+2. Substantial Similarity Is Satisfied 0.0.0.0... cescsscsseeseessecseeecescecsnessnessneeseaeees 11
+C. ROSS’s Arguments as to Volitional Infringement Fail Because They
+Mischaracterize the Law ..........cscessscsescesececetseeesecseecscereseseeeceesecesesnesseeeaeeateneeees 17
+II. ROSS’S DEFENSES TO COPYRIGHT INFRINGEMENT FAIL AS A MATTER OF
+LAW ..eeccesecssescsscescesecssenecaneaceacessesnssnesseneaceneaecasesesasesscaesaneaesasesssanesseaneaeeneaesasenesateneeaes 18
+A. ROSS’s Arguments as to Innocent Infringement Misread the Statute and Ignore
+Plaintiffs’ Evidence... teceeecsecscesecescesccesecesesnevscesaecseeenceseseneseneeaeeaeeaeesasenseeees 18
+B. ROSS Fails to Show Any Factual Dispute Precluding Summary Judgment of No
+Copyright Misuse............csccsssccssscssssesssessecsscesescecssecsnecsneesaeecsaesseeseeesesaecsenecensessneses 22
+THT. ©. CONCLUSION Wu. eee eccceesesescsceeseesesceeseseceacseecseenecseeseesecanesaeceesaeeaeeaeaeeeseeaeseneaeseesanens 24
+Case 1:20-cv-00613-SB Document 739 Filed 11/18/24 Page 3 of 31 PagelD #:
+
+211247
+TABLE OF AUTHORITIES
+Page(s)
+
+Cases
+Advance Am. Servicing of Arkansas v. McGinnis,
+
+526 F.3d 1170 (8th Cir. 2008) 0... cee eseeseeeceseceeceeceseseseeeseeceeeessaecaeeeeeseeeseeeseeseeeaessessaesaees 11
+Arizona v. California,
+
+460 U.S. 605 (1983)... eceeccssccesesscesecesceeseeesceeeesesssesaecaeesseeeeseeeseesaeasaeeaecsseeaeeeaecaeecaeeeeeeaeesaeess 8
+Ass'n of Am. Med. Colls. v. Mikaelian,
+
+No. 83 Civ. 2745, 1986 WL 332 (E.D. Pa. Mar. 18, 1986)... cee ceeseeesceeeeeeeeeseeeeeeeeeeees 13, 15
+Cartoon Network LP, LLLP y. CSC Holdings, Inc.,
+
+536 F.3d 121 (2d Cir. 2008)... ee eecescesccseeceseceeesececeesceeseeseseaessaeseessaesseeeaeeeeeeseenaeeeeesaeeeaeeaees 17
+Celotex Corp. v. Catrett,
+
+A477 U.S. 317 (1986)... eccesccsscceceseeesecececseeesceseeesesssenaecaeeseeeaeeseeeseeceaaaeeaessaesaeeeeeeaeecaeeeeeeaeesaeens 6
+Inre City of Phila. Litig.,
+
+158 F.3d 711 (Bd Cir. 1998)... eee ceccssessceseseseesseeeeseeeseeeseeseeeseesaeescesaeesaesseeseesaeeeaeenes 8,9, 10
+CoStar Grp., Inc. v. LoopNet, Inc.,
+
+373 F.3d 544 (4th Cir. 2004) ooo. cccesessessceseeeseeeeeeseseseeeseeaeseecsaecseeseesaeeeaeeeseeseeeaesseesaeeaees 17
+D.C. Comics Inc. v. Mini Gift Shop,
+
+912 F.2d 29 (2d Cir. 1990)... eee ececescesccseecesecseeeeceeecseeeseceesaessaeseessaesseeeaeeeeseeeeaceecesaeeaeeaees 21
+Dam Things from Den. v. Russ Berrie & Co., Inc.,
+
+290 F.3d 548 (3d Cir. 2002)... eee eccesccsscescceeceseesceneecsceeseeeeesessaeeaecaecseeeaseeeeseeeaeeeeeaeesees 7, 10
+Davis v. Novastar Mortg., Inc.,
+
+No. 04 Civ. 00956, 408 F. Supp. 2d 811 (W.D. Mo. 2005)... cece eeeeseseeeeeceeeeeaceeeeeseseseteeees 12
+Denenberg v. LED Techs., LLC,
+
+No. 11 Civ. 3155, 2013 WL 2153290 (D. Colo. May 17, 2013)... eeesseeeteeeeeeeeeteeeeeeeees 20
+Feist Publ’ns, Inc. v. Rural Tel. Serv. Co., Inc.,
+
+A499 ULS. 340 (1991)... eee ceccseceesecseeseceseeeseeeseeeeeseessessecseesseeeaeeeeseseeeseeaeeaesenesseeeeeeaees 2, 7, 15, 16
+Field v. Google Inc.,
+
+412 F. Supp. 2d 1106 (D. Nev. 2006) 0... ce ceeceesceesceseseseeeseeseeseeeeeecaeeseceeeeseeeaeseeeaesseeseeeaees 17
+Hamilton v. Leavy,
+
+322 F.3d 776 (3d Cir. 2003)... eeesssscsscesceseeseceseceseceseeesceecesseesaesseeeaesaecseeeeeeeesseeeeeaeseaeeaees 8, 10
+
+il
+Case 1:20-cv-00613-SB Document 739 Filed 11/18/24 Page 4 of 31 PagelD #:
+211248
+
+Hitchens v. Cnty. of Montgomery,
+98 F. App’x 106 (3d Cir. 2004) .0.... ec cecccccscsseceseseeseeseesecscesesanesscaecssenssseessenecaeeneaeeaeesessnenesaeeass 6
+
+In Harper & Row, Publ’rs, Inc. v. Nation Enters.
+A471 U.S. 539 (1985)... cccccssessccsecssecscessessessecssecsnecsuesaecsuesseeeseesesscesecessesseecasecseessseneeenesseesnesanes 13
+
+John Wiley & Sons, Inc. v. Book Dog Books, LLC,
+No. 13 Civ. 816, 2016 WL 5092593 (S.D.N.Y. Sept. 19, 2016)... ceecsccsssessecssesseeseesnesenees 20
+
+Leonard v. Stemtech Int’l Inc.,
+834 F.3d 376 (3d Cir. 2016)..........ccesecsccsssesseescesscesecesesscessecssecseesssesseensseessesnecssecseeueeneeensensees 17
+
+Lewis’ Adm’r v. Glenn, Tr.,
+84 Va. 947 (1888) ...... cc eceessesscssccssesscessecsnecssessecssesnsessscessnsseuessecssecasecseessseseeecesaessnesressresaeenseenes 3
+
+Maverick Recording Co. v. Harper,
+598 F.3d 193 (Sth Cir. 2010)... .cceecessssessceccsscencesecesesecsceaccaesscesesasesesensaeenecaeeaseeeseseseeaesaneaees 20
+
+Mercer v. Richmond,
+152 Va. 736 (1929) ......cccsscssssssssscsscesecssecssessecssessecsecseessnesscesaecsssensesssesssanssecesaecseecseecssesnseneensses 3
+
+Omega S.A. v. Costco Wholesale Corp.,
+776 F.3d 692 (Oth Cir. 2015) occ cececessssesessccesesecesececesecsseaecsesseesesaeeeseneaeeeecaeeaseeeseseseeaesanenees 23
+
+Pan v. State Farm Mut. Auto. Ins. Co.,
+No. 05 Civ. 5298, 2007 WL 1674448 (N.D. Cal. June 8, 2007) 00.0... eececsessecetsecsnessnessnees 11
+
+Perfect 10, Inc. v. Giganews, Inc.,
+847 F.3d 657 (Oth Cir. 2017) ooo... cccccscssssessccssccsescecssecsnecenecsaeeeeecseessseseaaecsaeeceeeseasecsneseneeeneees 17
+
+Peter Pan Fabrics, Inc. v. Dan River Mills, Inc.,
+295 F. Supp. 1366 (S.D.N.Y. 1969)......ccccsccsssssessecsesseessecssecssecseeseeeseeseeseessnecsnessessssesesesseeseeees 14
+
+TD Bank, N.A. v. Hill,
+No. 12 Civ. 7188, 2015 WL 4523570 (D.N.J. July 27, 2015)... ceceecssecssesseessesseeesseseesesenees 15
+
+Tetris Holding, LLC v. Xio Interactive, Inc.,
+863 F. Supp. 2d 394 (D.N.J. 2012) oo. ceeeseescssssssessccssecnecseesseeseessesecssecsnecseesaseseeeseeensenssaneses 13
+
+Tobin v. Washington,
+No. 06 Civ. 5630, 2007 WL 3275073 (W.D. Wash Nov. 5, 2007) .......csesssscscessteceseceserereeens 11
+
+Transcap Assocs., Inc. v. Euler Hermes Am. Credit Indem. Co.,
+No. 08 Civ. 723, 2009 WL 3260014 (N.D. IIL. Oct. 9, 2009)... cecescssecsecssessesseeesssseesserenees 11
+
+Tseng v. Home Depot USA, Inc.,
+No. 05 Civ. 908, 2006 WL 521723 (W.D. Wash Mar. 2, 2006).......... cee ceseeseeseeecceeecesesenereeees 12
+
+ili
+Case 1:20-cv-00613-SB Document 739 Filed 11/18/24 Page 5 of 31 PagelD #:
+
+211249
+
+United States v. Kasuboski,
+
+834 F.2d 1345 (7th Cir. 1987) oo. ee ecesecseesseescesesscesevseceeeseeseesassnesaceeesaseneseesssenevasenseaeeaseas 12
+Statutes
+17 U.S.C, § 401 ee eecescesecscesecseeseeeesacsnsseesesssevasenesaeesesesasesevsesaeaeeasesassnesaseessasenesaseas 5, 19, 20
+Rules
+Fed. R. Civ. P. 56(a) ....cccccssscssecsssecsscessccesscecscecseesenecsasecsnecnessaeeccaeceaecsssseaseaessececensesaueseneceneeeaaeenes 6
+Fed. R. Civ. P. 56(C) ...ccccccccessssccsssccseccssccssceeessecssessseesseecseecaecsaeecsesceasesueseneecseesaeseeeseeeasecaeseaeeceacens 6
+Other Authorities
+Melville B. Nimmer & David Nimmer, Nimmer on Copyright ......cccccccccssccesssescestsecssesteessees 14, 22
+
+iv
+Case 1:20-cv-00613-SB Document 739 Filed 11/18/24 Page 6 of 31 PagelD #:
+211250
+
+Plaintiffs Thomson Reuters and West! submit this reply in support of their motion for
+partial summary judgment on their direct copyright infringement claim against Defendant ROSS
+Intelligence Inc. (“ROSS”), as well as ROSS’s merger, scénes a faire, innocent infringement, and
+copyright misuse defenses.
+
+SUMMARY OF THE ARGUMENT
+
+The arguments in ROSS’s Opposition* do not change what is undisputed in this case:
+ROSS stole the creative, protectable elements of Westlaw that Plaintiffs’ skilled attorney-editors
+used their judgment and training to create, which was precisely the type of quality analysis ROSS
+so desperately needed to train its own AJ model. ROSS does not deny that it was repeatedly turned
+down access to Westlaw, and then furtively and surreptitiously went to great lengths to get its
+hands on the Westlaw Content. ROSS’s litigation position that the Westlaw Content it went to
+such great lengths to obtain is not creative and not protectable belies reality, given its pre-litigation
+behavior and the many admissions of its witnesses testifying about what ROSS needed to create
+its platform. Thus, ROSS’s Opposition does not change the undisputed material facts. Controlling
+law warrants summary judgment on Plaintiffs’ direct copyright infringement claim and ROSS’s
+copyright defenses as a matter of law.
+
+First, as to copyright infringement, Plaintiffs have established they satisfy the two elements
+of a copyright claim. As to the first element—ownership—ROSS does not dispute that Plaintiffs
+have been granted numerous copyright registrations in Westlaw by the U.S. Copyright Office. Nor
+
+has ROSS rebutted the presumption of validity that attached to them.
+
+' Plaintiffs incorporate by reference shorthand definitions as defined in their Motion for Partial
+Summary Judgment on Direct Copyright Infringement and Related Defenses (“Motion” or
+“Mot.”), filed at D.I. 675.
+
+2 ROSS’s Brief in Response to Plaintiffs’ Motion for Partial Summary Judgment on Direct
+Copyright Infringement and Related Defenses (“Opposition” or “Opp.”), filed at D.I. 713.
+Case 1:20-cv-00613-SB Document 739 Filed 11/18/24 Page 7 of 31 PagelD #:
+211251
+
+As to the second element, it requires actual copying of original elements and substantial
+similarity. As to actual copying, ROSS argues that there is a genuine issue of fact. But this Court
+already found that Plaintiffs have satisfied the actual copying element as a matter of law. D.I. 547
+at 8-9. Thus, under the law of the case doctrine, the Court’s ruling remains in place and ROSS
+has not made any argument as to why the Court’s prior ruling must be overturned.
+
+As to substantial similarity, ROSS’s Opposition is replete with inapposite hypotheticals,
+but not a single one of those hypotheticals can change the fact that ROSS’s arguments as to the
+protectability of the Westlaw Content have already been rejected by this Court. D.1. 547 at 8-9.
+Thus, again, under the law of the case doctrine, the Court’s ruling remains in place. And indeed,
+it should, as ROSS does not—and cannot—dispute the creativity, judgment, and skill of Plaintiffs’
+attorney-editors that went into the editorial enhancements they created to annotate, summarize,
+synthesize, and organize the law. Instead, ROSS attempts to limit the scope of protectability to
+the entirety of the copyrighted work and even goes so far as to claim Plaintiffs are trying to
+copyright judicial opinions. However, the registrations disclaim the judicial opinions themselves.
+And ROSS did not need to copy the judicial opinions from Westlaw, as ROSS had a repository of
+cases MM. §=What ROSS wanted, and what ROSS copied, was the creative
+contributions of Plaintiffs’ attorney-editors. The creativity and judgment of Plaintiffs’ skilled
+attorney-editors creating Westlaw Content (including Headnotes, the selection and arrangement of
+those Headnotes to case passages, and the WKNS) more than meets the low bar required by Feist—
+and reflects creativity, not just effort, as ROSS claims. Opp. at 26.
+
+Moreover, Plaintiffs have shown substantial similarity with respect to the West Headnotes
+and Bulk Memo questions. ROSS’s attempt to create a genuine dispute of fact through an improper
+
+attorney declaration does not change this. For instance, ROSS argues the copyrightability example
+Case 1:20-cv-00613-SB Document 739 Filed 11/18/24 Page 8 of 31 PagelD #:
+211252
+
+used by Plaintiffs (Mot. at 2) demonstrates “that the memo question was derived from the judicial
+opinion and nof the headnote[.|” Opp. at 2-3. Yet ROSS merely isolates a portion of the judicial
+opinion and misleadingly colors text in an attempt to support its point. A proper comparison easily
+
+disproves ROSS’s theory:
+
+Corresponding passage West Headnote Bulk Memo Question
+from original judicial
+opinion
+
+Case 1:20-cv-00613-SB Document 739 Filed 11/18/24 Page 9 of 31 PagelD #:
+211253
+
+Moreover, even if this Court were to accept ROSS’s challenges, tellingly, ROSS did not even
+attempt to challenge Plaintiffs’ Motion with respect to the [J Headnotes—that amount is more
+than de minimis and sufficient for the Court to find infringement as a matter of law.
+
+In a final attempt to escape liability for copyright infringement, ROSS asserts that there
+was no volitional conduct with respect to the 500 editorially enhanced opinions in its possession
+containing West Headnotes, Key Numbers, and other content authored by Plaintiffs’ attorney-
+editors, because ROSS claims it did not ask for this content and made clear it was not wanted.
+Tellingly, ROSS did not previously raise this argument in opposition to Plaintiffs’ previous motion
+for summary judgment on copyright infringement. See D.I. 310 at 12-15. ROSS’s decision to
+only now raise this argument speaks volumes about its lack of merit. Indeed, this is not the type
+of case where the question of volitional conduct applies. As demonstrated by ROSS’s own
+authority, the question of volitional conduct arises in cases where a system, or an automated
+process, performs the act constituting infringement, i.e., the act of copying. Conversely, here, the
+record is replete with evidence of ROSS’s copying actions of iT
+the 500 editorially enhanced opinions was volitional and not simply performed as part of some
+
+automated process. ROSS hired LegalEase and paid it NM) for LegalEase to
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 10 of 31 PagelD #:
+211254
+
+surreptitiously obtain Westlaw Content I. § ROSS offers no
+
+evidence that it was otherwise.
+
+Second, because ROSS cannot dispute these material facts and the governing law
+warranting summary judgment of direct copyright infringement, its Opposition seeks to avoid
+liability by asserting a kitchen sink of other excuses. However, ROSS’s arguments as to its
+defenses confirm that—like volitional conduct—they do not apply to fact patterns like the one in
+this case.
+
+As to ROSS’s innocent infringer defense, ROSS simply cannot cast itself as, for example,
+
+an innocent downstream purchaser who had no idea it was obtaining a copyrighted work, as in the
+cases on which it relies. Moreover, in responding to Plaintiffs’ arguments, ROSS agrees that
+innocent infringement is not a defense to liability, rather, it is just a way of reducing the potential
+statutory damages that the jury may award. ROSS also does not dispute that, consistent with 17
+U.S.C. § 401, Westlaw contains a copyright notice. Indeed, in its Opposition, ROSS admits that
+“Tejlach page of a judicial opinion when printed states ‘Westlaw © [date] Thomson Reuters. No
+
+999
+
+claim to original U.S. Government Works.’” Opp. at 4. Based on that telling omission alone, and
+the statutory language of 17 U.S.C. § 401, summary judgment on ROSS’s innocent infringement
+defense is warranted. Instead of addressing that issue, ROSS argues (without foundation) that the
+statute requires that copyright notices must appear on every asserted element of the copyrighted
+work. Furthermore, although ROSS raises the immaterial issue of whether it had notice of
+
+LegalEase’s infringement and use of Westlaw, its position is belied by the undisputed evidence.
+
+As to ROSS’s copyright misuse defense, ROSS tries to claim that Thomson Reuters is
+
+trying to do more than just protect its copyright rights. Specifically, ROSS claims that Thomson
+
+Reuters’ enforcement of its copyrights violates public policy by somehow attempting to claim
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 11 of 31 PagelD #:
+211255
+
+ownership of the judicial opinions, separate and apart from the editorial enhancements added by
+West’s attorney-editors. ROSS’s argument cannot succeed. The undisputed evidence reflects that
+ROSS (and anyone else) can (and did) download the judicial opinions without Plaintiffs’
+annotations. Consistent with this, Thomson Reuters’ copyright registrations expressly disclaim
+the judicial opinions themselves, and Thomson Reuters does not claim rights to them here. Instead,
+this case concerns ROSS’s unauthorized copying of the Westlaw Content that Plaintiffs created.
+That is copyright infringement, not misuse. Moreover, ROSS’s new theory of copyright misuse
+risks opening the floodgates of misuse in litigation, as it would mean that every copyright holder
+could be accused of misuse when the scope of an asserted copyright is disputed. That is not the
+law, and merely reflects the lengths to which ROSS will go to avoid taking responsibility for its
+infringement, as well as its willingness to twist and harm copyright law to further its own
+commercial goals.
+
+For these reasons, Plaintiffs’ direct copyright infringement claims, and ROSS’s related
+defenses, should be decided on summary judgment as a matter of law.
+
+ARGUMENT
+
+Summary judgment is proper where there is “no genuine dispute as to any material fact”
+and the movant “is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a). Though “[a]
+party moving for summary judgment has the initial burden of showing the basis for its motion,”
+“To|nce the movant adequately supports its motion under Rule 56(c), the burden shifts to the
+nonmoving party to go beyond the mere pleadings and present evidence through affidavits,
+depositions, or admissions on file to show that there is a genuine issue for trial.” Hitchens v. Cnty.
+of Montgomery, 98 F. App’x 106, 110 (3d Cir. 2004) (citing Celotex Corp. v. Catrett, 477 U.S.
+
+317, 323, 324 (1986)).
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 12 of 31 PagelD #:
+211256
+
+I. ROSS IS LIABLE FOR DIRECT COPYRIGHT INFRINGEMENT AS A
+MATTER OF LAW
+
+As set forth in Plaintiffs’ Motion, “[t]o establish [copyright] infringement, two elements
+must be proven: (1) ownership of a valid copyright, and (2) copying of constituent elements of the
+work that are original.” Feist Publ’ns, Inc. v. Rural Tel. Serv. Co., Inc., 499 U.S. 340, 361 (1991).
+ROSS’s arguments in its Opposition do not change the outcome that Plaintiffs have established
+both prongs.
+
+A. ROSS Does Not Dispute That Plaintiffs Own a Valid Copyright That Is
+Entitled to a Presumption of Validity
+
+As stated in Plaintiffs’ Motion, it is undisputed that Plaintiffs have copyright registrations
+in Westlaw and are thus entitled to a presumption of validity in Westlaw. Mot. at 17-18. In its
+Opposition, ROSS nowhere disputes or otherwise rebuts this fact. But even if ROSS had addressed
+this fact, Plaintiffs provided sufficient evidence showing creativity of Westlaw as a whole. Feist,
+499 US. at 361 (finding first element satisfied and noting the “directory, considered as a whole,
+is subject to a valid copyright because it contains some foreword text, as well as original material
+in its yellow pages advertisements”).
+
+B. ROSS Copied Undisputedly Original West Headnotes
+
+The second element of copyright infringement, copying, can be broken down into two sub-
+elements: (1) actual copying and (2) substantial similarity. See Dam Things from Den. v. Russ
+Berrie & Co., Inc., 290 F.3d 548, 561-62 (3d Cir. 2002). Both sub-elements are established here
+as a matter of law.
+
+1. The Law of the Case Doctrine Applies to Protectability and Actual
+Copying
+
+As a preliminary matter, the arguments as to protectability and actual copying that ROSS
+
+seeks the Court to make, have in fact already been decided by this Court and are thus governed by
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 13 of 31 PagelD #:
+211257
+
+the law of the case doctrine. Under the law of the case doctrine, when a court “decides upon a rule
+of law, that decision should continue to govern the same issues in subsequent stages in the same
+case.” Arizona v. California, 460 U.S. 605, 618 (1983). “The doctrine is designed to protect
+traditional ideals such as finality, judicial economy and jurisprudential integrity.” Jn re City of
+Phila. Litig., 158 F.3d 711, 718 (3d Cir. 1998). Therefore, a court will not reconsider an issue
+decided earlier in the litigation unless there are “extraordinary circumstances,” such as (1) the
+availability of new evidence; (2) the announcement of a supervening new law; or (3) a clearly
+erroneous decision that would create manifest injustice. Jd. (finding law of the case doctrine
+applied to the summary judgment record of the case, as no exception applied). With respect to the
+first exception, it is well-settled that “if the evidence at the two stages of litigation is substantially
+similar, or if the evidence at the latter stage provides more support for the decision made earlier,
+the law of the case doctrine will apply.” Hamilton v. Leavy, 322 F.3d 776, 787 (3d Cir. 2003)
+(internal citations omitted).
+
+Here, ROSS attempts to re-litigate issues that this Court already decided as a matter of
+law—namely, that (1) the protection in Plaintiffs’ copyright registrations extends to the protectable
+pieces thereof, and (2) ROSS actually copied the Westlaw Content at issue. As to the former, this
+Court correctly found that “[a] copyright in a compilation extends to the copyrightable pieces of
+that compilation” and Thomson Reuters “can sue on all protected components of that one
+registration.” D.I. 547 at 5-6. And with respect to West Headnotes specifically, this Court already
+rejected ROSS’s arguments about protectability, finding that “Headnotes are just short written
+works, authored by Thomson Reuters, so they could receive standalone, individual copyright
+protection,” which “distinguishes Thomson Reuters’s copyright in its headnotes from the ‘thin,’
+
+compilation-only copyrights in Ross’s examples.” Jd. at 7. ROSS made no effort at the time of
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 14 of 31 PagelD #:
+211258
+
+this Court’s original summary judgment decision to timely move for reconsideration—this Court’s
+decision was not clearly erroneous, nor has ROSS identified any new facts or laws that warrant
+reconsideration of these findings. City of Phila., 158 F.3d at 718.
+As to actual copying, this Court already made clear that Thomson Reuters satisfied this
+element as a matter of law:
+LegalEase admitted to copying at least portions of the headnotes directly. As for
+circumstantial evidence, Ross does not dispute that LegalEase had access to
+Westlaw, which included access to headnotes. Though the similarities between
+Thomson Reuters’s and Ross’s work might not be substantial (that is a jury
+question), no reasonable jury could say that the similarities are not at least
+probative of some copying. And while Ross argues that any copying that occurred
+was miniscule in the grand scheme of the compilation, that framing misses the mark
+for the reasons given above. So Thomson Reuters has satisfied the actual
+copying element as a matter of law.
+D.I. 547 at at 8—9 (emphasis added). ROSS’s claim that Plaintiffs somehow failed to show actual
+copying as to the J West Headnotes identified by Dr. Krein—which ROSS admitted were not
+identical to the text of judicial opinions—and the J West Headnotes identified by Ms.
+Frederickson-Cross is misguided. Opp. at 28-31. It is undisputed that to create the Bulk Memos,
+LegalEase copied Westlaw Content from the Westlaw
+
+platform. See D.I. 547 at 8-9; Mot. 15-16.7_ ROSS also indisputably copied the Bulk Memos
+
+(which contain the Westlaw Content) numerous times to train its AI,* including as recognized by
+
+(Hafeez Tr.) at 34:1-3
+
+ME). 125:24-126:2
+
+> See also Exs. 84 (TR-0048632) is): 6
+a
+
+); 36 (LEGALEASE-00078065) (a
+a); 37 (LEGALEASE-00093066) QM); 25 (Krein Op.
+Rpt.) at {J 103-114; 85 (TR-0055362) (i  ); 4 (Cahn Tr.) at
+195:14 19 cr
+ee
+; ROSS claims that it did not copy any Westlaw content in training its AI model because it trained
+the model on numbers and not the text of the Bulk Memos. Opp. at 8-9. As Plaintiffs explained
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 15 of 31 PagelD #:
+211259
+
+this Court (D.I. 547 at 8-9), and as detailed in Plaintiffs’ Motion, Mot. at 16, and by ROSS’s own
+experts, Exs. 24 (Frederiksen-Cross Op. Rpt.) at 9] 25—27; 22 (Branting Op. Rpt.) at JJ 31-36,
+38.° Tellingly, ROSS does not contest this point in its Opposition. Moreover, its own authority
+supports the foregoing being sufficient to establish actual copying. Dam Things, 290 F.3d at 562
+(“The test for actual copying can be established by direct evidence or inferred by evidence of
+access and similarities [sic] that are probative of copying between the works, and expert
+testimony.”) (cleaned up).
+
+ROSS does not argue this Court’s previous findings were clearly erroneous (nor could it),
+nor does it offer new evidence or new intervening law that could warrant reconsideration of these
+issues. City of Phila., 158 F.3d at 718. If anything, the additional evidence of: (1) ROSS admitting
+a West Headnotes, which Plaintiffs contend were copied, were not identical to the text of
+judicial opinions and therefore, protectable, and (2) Dr. Krein’s supplemental expert report, which
+sho lls
+BE . “provides more support for the decision made earlier.” Hamilton, 322 F.3d at
+787. Thus, the law of the case doctrine applies, and ROSS has failed to show any reason why the
+
+Court’s previous holdings regarding protectability and copying should be revisited. Jd.
+
+in their opposition to ROSS’s motion for summary judgment on its fair use defense, this notion
+that ROSS merely used numbers to train its model is belied both by the undisputed record and
+basic principles of machine learning. D.I. 716 at 12-15.
+
+> ROSS argues that in 2015 it wanted access to Westlaw “to access a database of judicial opinions
+and conduct legal research” and “in all other instances, ROSS’s sole purpose for accessing
+Westlaw was for benchmarking or competitive purposes.” Opp. at 9-10. Not so. In 2015, ROSS
+wanted to use Westlaw to acquire the training material it needed to create a competing legal
+research platform. Mot. at 12-15. That ROSS may have also wanted access to Westlaw for
+benchmarking and competitive purposes is immaterial and, in any event, was still a violation of
+Westlaw’s terms of service, which ROSS fully understood and blatantly disregarded. Id.
+
+10
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 16 of 31 PagelD #:
+211260
+
+2. Substantial Similarity Is Satisfied
+
+ROSS’s Opposition takes a kitchen sink approach and tries to create a dispute where none
+exists. As an initial matter, ROSS attempts to create a dispute with pseudo-expert testimony
+
+masquerading as a declaration from one its attorneys—i.e., the Canter Declaration. D.I. 717
+
+(“Canter Declaration”). In this declaration, Mr. Canter and
+es. 1
+
+at 5. This is improper for several reasons. As an initial matter, an attorney declaration is not the
+appropriate vehicle for these types of facts, as Mr. Canter was not identified on ROSS’s initial
+disclosures, nor was he subject to deposition. Further, the time for expert discovery has long since
+passed and, thus, allowing ROSS to provide supplemental expert testimony under the guise of an
+attorney declaration would cause Plaintiffs extreme prejudice. Plaintiffs have had no opportunity
+to rebut this expert opinion with expert testimony of its own, nor has it been able to take discovery
+of the new opinions in the declaration.
+
+Additionally, the expert testimony attempts to relitigate issues that were already fully
+briefed—this Court previously gave ROSS a second bite at the apple when it granted its request
+for a filtration hearing; it need not, and should not, give ROSS a third bite now. Indeed, numerous
+federal courts have stricken such declarations or affidavits containing, inter alia, characterizations
+of facts, opinions, conclusory speculation, purported “expert” testimony, and/or attorney
+argument. See, e.g., Advance Am. Servicing of Arkansas v. McGinnis, 526 F.3d 1170, 1172 n.4,
+1174 (8th Cir. 2008) (refusing to rely on counsel’s declaration in determining the amount in
+controversy where the declaration contained conclusory speculation); Transcap Assocs., Inc. v.
+Euler Hermes Am. Credit Indem. Co., No. 08 Civ. 723, 2009 WL 3260014, at *2 (N.D. Ill. Oct. 9,
+2009) (striking the portions of an attorney declaration that contained legal arguments); Tobin v.
+
+Washington, No. 06 Civ. 5630, 2007 WL 3275073, at *9 (W.D. Wash Nov. 5, 2007) (striking the
+
+11
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 17 of 31 PagelD #:
+211261
+
+attorney declaration to the extent it contained testimony); Pan v. State Farm Mut. Auto. Ins. Co.,
+No. 05 Civ. 5298, 2007 WL 1674448, at 8 n.9 (N.D. Cal. June 8, 2007) (striking portions of an
+attorney declaration where the attorney was not disclosed as an expert and the declaration
+contained expert testimony); Tseng v. Home Depot USA, Inc., No. 05 Civ. 908, 2006 WL 521723,
+at *3 (W.D. Wash Mar. 2, 2006) (striking an attorney declaration because it contained conclusory
+factual statements and noting that “an attorney’s statement and argument is not evidence”); Davis
+v. Novastar Mortg., Inc., No. 04 Civ. 00956, 408 F. Supp. 2d 811, 816 (W.D. Mo. 2005) (striking
+an attorney declaration in support of a class certification motion where it contained
+“characterizations of fact or opinions”).
+
+It is also telling that the Canter Declaration attaches TE in support of
+ROSS’s various arguments. E.g., Canter Decl. Exs. C, D, F, G, and H. As detailed in Plaintiffs’
+Motion, this Court months ago explicitly directed ROSS “to submit a list of all headnotes it
+believes are verbatim quotations, or vary trivially from verbatim quotations, of judicial opinions.”
+D.L. 612 (emphasis added). ROSS subsequently excluded Jof the copied West Headnotes
+from its submission, which is a clear admission that those omitted Headnotes are not verbatim
+
+quotations, or vary more than trivially from verbatim quotations, of judicial opinions. Mot. at 19—
+
+20. ROSS cat
+200 present them as evidence in order to try to create a genuine
+
+dispute of fact—particularly when ROSS already had the chance to present “a list of all headnotes”
+
+it believed were not protectable.°®
+
+° ROSS argues that, by relying on the fact that ROSS omitted [J Headnotes from its submission
+to the Court, Plaintiffs are impermissibly shifting the burden of proof on to ROSS. Opp. at 21-22.
+This is incorrect. Much like with written discovery responses, ROSS is bound by the admissions
+it makes in materials submitted to this Court. United States v. Kasuboski, 834 F.2d 1345, 1350
+(7th Cir. 1987) (rejecting defendants’ attempt to “undo the effect of their default admissions by
+
+12
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 18 of 31 PagelD #:
+211262
+
+But even if the Court were to allow ROSS’s new expert opinion, the exhibits attached to
+the Canter Declaration do not create a genuine dispute of fact. Assuming there is no overlap in
+any of the exhibits, ROSS challenges only [ij of the J Headnotes it admits were identified
+by Plaintiffs. Notably, that leaves J Headnotes which ROSS has not belatedly attempted to
+dispute are not verbatim, or which vary more than trivially from judicial opinions—an amount that
+is more than de minimis. See, e.g., In Harper & Row, Publ’rs, Inc. v. Nation Enters., 471 U.S.
+539, 564-66 (1985) (rejecting a claim that copying 300 to 400 words of a copyrighted book was
+insubstantial and constituted fair use of the material).
+
+ROSS argues that Plaintiffs have not actually shown substantial similarity for any of the
+Headnotes it identified, but that is incorrect. Plaintiffs unquestionably met their burden of proof
+by identifying the Headnotes that ROSS copied, the Bulk Memo questions that were created by
+copying those Headnotes, and the passages of the judicial opinions with which the Headnotes are
+associated. Mot. at 25-26, Exs. 21, 27. Plaintiffs also explained, at length, how those Headnotes
+were original and protectable, both individually and in the selection and arrangement, and how
+neither the merger nor scénes a faire doctrines apply. Mot. at 19-25. It is unclear what else ROSS
+would have Plaintiffs do at this juncture to satisfy their burden of proof. See, e.g., Ass’n of Am.
+Med. Colls. v. Mikaelian, No. 83 Civ. 2745, 1986 WL 332, at *11 (E.D. Pa. Mar. 18, 1986) (finding
+substantial similarity satisfied where plaintiffs identified the copied questions and presented expert
+testimony comparing the original questions and defendant’s infringing questions); Tetris Holding,
+
+LLC y. Xio Interactive, Inc., 863 F. Supp. 2d 394, 410 (D.N.J. 2012) (granting plaintiffs motion
+
+arguing the affidavits accompanying their [opposition to summary judgment motion] raise issues
+of material fact”). This Court directed ROSS to submit a list of all Headnotes it maintained were
+not protectable, and ROSS did just that. Both the Court and Plaintiffs are permitted to rely on that
+list.
+
+13
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 19 of 31 PagelD #:
+211263
+
+for summary judgment on copyright infringement after plaintiff submitted declarations, statements
+of fact, and screen shots of its copyrighted game, such that the court performed as side-by-side
+analysis and concluded that an ordinary observed would find that “any differences between the
+two [works] are slight and insignificant”); Peter Pan Fabrics, Inc. v. Dan River Mills, Inc., 295 F.
+Supp. 1366, 1369 n.5 (S.D.N.Y. 1969), aff'd, 415 F.2d 1007 (2d Cir. 1969) (granting plaintiff's
+motion for summary judgment on copyright infringement after court compared plaintiff and
+defendant’s fabric designs, finding that “the similarities are so obvious that there can be no genuine
+issue of fact that defendant’s design was copied from plaintiffs’. In short, the similarities are so
+great that an ordinary observer would easily detect them”); see also 3 Nimmer on Copyright
+§ 12.10 (2024) (“[I|f the resemblance is so overwhelming as to mandate a finding of substantial
+similarity, the court should grant summary judgment to plaintiff.”).
+
+Nevertheless, in its previous ruling, this Court found Plaintiffs satisfied their burden of
+proof with respect to the 188 Headnotes it found were substantially similar to their associated Bulk
+Memo question. D.I. 547 at 12 (“Ross does not object to the remaining 188 entries. Though
+substantial similarity is usually a close factual question, I will not review each of the 188 entries
+and make arguments for Ross. And for the reasons above, its reliance on Westlaw’s copyright
+being solely in a compilation is misplaced. So each of these headnotes is substantially similar to
+its associated Bulk Memo question.”). The Court should do the same here with respect to the
+WM Headnotes that Plaintiffs identified as copied, that ROSS and its expert admitted were
+protectable, and to which ROSS did not object in its improper attorney declaration. As explained
+in Plaintiffs’ Motion, a side-by-side comparison of Plaintiffs’ Undisputed Headnotes and the Bulk
+Memo questions (as reflected in Ex. 27, as well as ROSS’s Undisputed Headnotes and the Bulk
+
+Memo questions (Ex. 21)), shows that the Bulk Memo questions can “at a glance be traced” to the
+
+14
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 20 of 31 PagelD #:
+211264
+
+protectable West Headnotes which they copy verbatim or nearly verbatim, readily satisfying the
+lay-observer test for substantial similarity. See Ass’n of Am. Medical Colls., 1986 WL 332, at *10
+(examining the two works at issue and finding that an ordinary observer viewing them would detect
+a substantial similarity between the two); TD Bank, N.A. v. Hill, No. 12 Civ. 7188, 2015 WL
+4523570, at *17 (D.N.J. July 27, 2015) (“A verbatim reproduction of another work, of course,
+even in the realm of nonfiction, is actionable as copyright infringement.”). The Undisputed
+Memos are thus infringing as a matter of law.
+
+ROSS grossly mischaracterizes a footnote in Plaintiffs’ opening brief, claiming that
+“Plaintiffs have disclaimed” their theory of infringement based on individual Headnotes by stating
+“the words of individual headnotes are not at issue.” Opp. at 18. This could not be further from
+the truth. The footnote that ROSS cites (Mot. at 5-6, n.3) merely states that—as ROSS’s
+Opposition also wholly ignores—the infringement here goes far beyond individual West
+Headnotes or synopses to encompass the myriad creative choices and judgment of Plaintiffs’
+attorney-editors in selecting and arranging the Headnotes, linking them to selected portions of the
+opinions, and then classifying them, which is in and of itself copyrightable expression under
+Feist. As Feist states:
+
+The compilation author typically chooses which facts to include, in what order to
+
+place them, and how to arrange the collected data so that they may be used
+
+effectively by readers. These choices as to selection and arrangement, so long as
+
+they are made independently by the compiler and entail a minimal degree of
+
+creativity, are sufficiently original that Congress may protect such compilations
+
+through the copyright laws. Thus, even a directory that contains absolutely no
+protectible written expression, only facts, meets the constitutional minimum for
+copyright protection if it features an original selection or arrangement.
+
+499 USS. at 348 (“[I]f the compilation author clothes facts with an original collocation of words,
+
+he or she may be able to claim a copyright in this written expression. Others may copy the
+
+underlying facts from the publication, but not the precise words used to present them.”). ROSS
+
+15
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 21 of 31 PagelD #:
+211265
+
+does not dispute Plaintiffs’ attorney editors make such creative choices and that fact alone is
+enough to find direct infringement of all Headnotes regardless of how they are worded.’
+
+ROSS also argues that the connections between Headnotes and passages of judicial
+opinions are not copyrightable and not infringed. Neither argument is correct. Contrary to ROSS’s
+assertion, the connections created by Plaintiffs’ attorney-editors are not “a functional tool,” but
+rather, reflect the creative choice of which passage in a judicial opinion a given Headnote is most
+relevant to, in addition to the separate creative choice of whether to have a Headnote for a legal
+point in the first place. Indeed, as anyone performing legal research could no doubt appreciate, an
+issue, fact, or point of law may be discussed numerous times throughout an opinion and, thus, there
+are different passages to which a Headnote be selected and arranged. Plaintiffs’ choice to select a
+
+particular passage is therefore creative and protectable under Feist.* And there is no dispute that
+
+these connections were infringed, as LegalEase | readily admitted that:
+
+ee ROSS claiming otherwise is simply disingenuous."!
+
+7 Indeed, as ROSS’s own expert admitted,
+
+. Ex. 7 (Leiter Tr.)
+at 38:20-39:16, 97:6—14.
+8 ROSS’s attempt to liken the connections between Headnotes and passages of judicial opinions
+to the Westlaw star page system is unavailing. Opp. at 35-36. These connections are not merely
+functional, but rather, are the result of Plaintiffs’ original selection and arrangement. Feist, 499
+US. at 348.
+
+° Exs. 37 (LEGALEASE-00093066) QM): 36 (LEGALEASE-00078065) Gj
+
+I 5° (2-1 GALE ASE-00189134)
+Exs. 87 (TR-0178588); 86 (TR-0073545); 4 (Cahn Tr.) at 159:25—160:7; 87 (TR-0178588); 86
+
+(TR-0073545).
+11 ROSS argues that LegalEase (Opp. at
+8), but the undisputed evidence and testimony clearly establishes they did. Supra n.7,n.8. ROSS
+
+16
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 22 of 31 PagelD #:
+211266
+
+For these reasons, Plaintiffs are entitled to summary judgment on direct infringement.
+
+C. ROSS’s Arguments as to Volitional Infringement Fail Because They
+Mischaracterize the Law
+
+In passing, ROSS asserts that for the 500 editorially enhanced opinions in its possession
+containing West Headnotes, Key Numbers, and other content authored by Plaintiffs’ attorney-
+editors, Plaintiffs cannot establish ROSS acted with volitional conduct as required to establish
+direct copyright infringement. Opp. at 37. Specifically, ROSS asserts that it “did not ask for this
+content [500 editorially enhanced opinions] and made clear that it was not wanted.” Jd. But this
+is not the type of case where volitional conduct is at issue. Volitional conduct “is not a judicially-
+created element of intent or knowledge; it is a basic requirement of causation.” Perfect 10, Inc. v.
+Giganews, Inc., 847 F.3d 657, 666 (9th Cir. 2017) (citations omitted). “Volitional conduct occurs
+when a party engages in ‘the act constituting infringement.’” Leonard v. Stemtech Int’l Inc., 834
+F.3d 376, 387 (3d Cir. 2016) (citing CoStar Grp., Inc. v. LoopNet, Inc., 373 F.3d 544, 551 (4th
+Cir. 2004)). Specifically, the Fourth Circuit noted that “[a]lthough copyright is a strict liability
+statute, there should still be some element of volition or causation which is lacking where a
+defendant’s system is merely used to use a copy by a third party.” CoStar, 373 F.3d at 548 (citation
+omitted). In other words, in certain types of cases where a defendant sets up a system, website, or
+other automated process that performed the copying, the question of volitional conduct becomes
+relevant to determine whether a defendant had a purposeful role in the copying actions of the
+
+automated system. !?
+
+cherry-picking snippets of documents and testimony to support its narrative, while blatantly
+ignoring the overwhelming amount of evidence that disproves it, is insufficient to create a genuine
+dispute of fact.
+
+2 ROSS’s cited authority confirms that volitional intent must apply to the act of infringement (i.e.,
+copying), and that the concept of volitional intent applies in cases where an automated system does
+the copying. See Field v. Google Inc., 412 F. Supp. 2d 1106, 1115 (D. Nev. 2006) (no volitional
+intent for automated process of presenting cached links); Cartoon Network LP, LLLP v. CSC
+
+17
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 23 of 31 PagelD #:
+211267
+
+This case is the opposite of those where volitional conduct is analyzed. Here, ROSS set
+up a plan for LegalEase to surreptitiously copy Westlaw Content and provide it to ROSS, so that
+ROSS could use that content to train its AI. That is the act of infringement, i.e., copying, in this
+case and ROSS has never disputed that it acted volitionally when doing so. Additionally, when
+
+ROSS received the 500 editorially-enhanced opinions, which it now concedes are in its possession,
+
+ROSS copied the Westlaw Content by TT
+en. Ec., Ex. 42 (ROSS-000177723) (nn
+SS 43 20SS-000179468)
+Wl); Ex. 16 (van der Heijden 30(b)(6) Tr.) at 347:13—22
+ES
+
+26 (Krein Reply Rpt.) at § 40. Contrary to the types of cases where volitional conduct is at issue,
+and as this Court has already concluded in this case, ROSS’s actions constitute copying as a matter
+of law. D.I. 547 at 9; see also supra Section 1.B.1. Therefore, ROSS’s tellingly belated arguments
+as to volitional intent do not change the outcome that a finding of direct infringement is proper.
+
+Il. ROSS’S DEFENSES TO COPYRIGHT INFRINGEMENT FAIL AS A MATTER
+OF LAW
+
+A. ROSS’s Arguments as to Innocent Infringement Misread the Statute and
+Ignore Plaintiffs’ Evidence
+
+As set forth in Plaintiffs’ Motion, ROSS’s “innocent infringer” defense fails for three
+reasons: (1) the innocent infringer defense does not prevent liability, it only limits statutory
+damages; (2) the defense is precluded when—as here—the copyrighted work bears a copyright
+
+notice; and (3) the innocent infringer defense only allows a reduction in statutory damages where
+
+Holdings, Inc., 536 F.3d 121, 131 (2d Cir. 2008) (“In determining who actually ‘makes’ a copy, a
+significant difference exists between making a request to a human employee, who then volitionally
+operates the copying system to make the copy, and issuing a command directly to a system, which
+automatically obeys commands and engages in no volitional conduct.”).
+
+18
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 24 of 31 PagelD #:
+211268
+
+a defendant has a reasonable and good-faith belief in innocence of its conduct. Mot. at 27-30.
+ROSS’s responses to each argument do not change the outcome that Plaintiffs are entitled to
+summary judgment as a matter of law, as ROSS cannot paint itself as the sort of downstream
+purchaser who had no idea the copied material was copyrighted. ROSS was comprised of a team
+of lawyers and law students who is and get copies
+of Westlaw Content it knew was copyrighted—ROSS nowhere denies that it knew Westlaw was
+copyrighted. Indeed, ROSS has not cited any case where innocent infringement existed when a
+defendant sought to obtain copyrighted material through a third-party conduit.
+
+First, ROSS agrees the defense only limits statutory damages. Opp. at 37. Thus, there is
+no dispute that ROSS cannot rely on an innocent infringer defense to avoid liability.
+
+Second, ROSS admits that Westlaw bears a copyright notice,'* but argues that “the
+copyright notice pertains to the compilation, not the headnotes, which are the subject of the
+summary judgment motion.” Opp. at 37. That makes no sense, for two reasons. As an initial
+matter, 17 U.S.C. § 401(b)(2) specifically provides “in the case of compilations . . . the year date
+of first publication of the compilation . . . is sufficient.” 17 U.S.C. § 401(a) does not, as ROSS
+argues, require that different subparts of a compilation must each bear a separate copyright notice.
+Rather, the statute merely requires that “a notice of copyright as provided by this section may be
+placed on publicly distributed copies.” That alone dispenses with ROSS’s argument.
+
+ROSS further argues that the analysis turns on whether a defendant has access to a
+
+published work, and here, ROSS claims there is no evidence that ROSS “directly” accessed
+
+13 For example, ROSS states in its Opposition that “every Westlaw printed page carries a
+disclaimed stating ‘Westlaw © [date] Plaintiffs. No claim to original U.S. Government Works.’”
+Opp. at 3; see also id. at 4 (“Each page of a judicial opinion when printed states ‘Westlaw © [date]
+Thomson Reuters. No claim to original U.S. Government Works.”).
+
+19
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 25 of 31 PagelD #:
+211269
+
+Westlaw. Opp. at 38. Again, however, the statutory text of 17 U.S.C. § 401(d) says no innocent
+infringement applies if a notice of copyright “appears on the published copy or copies to which a
+defendant in a copyright infringement suit had access... .” There is no dispute that Westlaw bears
+a copyright notice, including on every printed page. And there is no dispute ROSS had in its
+possession, Westlaw printouts bearing a copyright notice, thus the statutory language itself is
+sufficient to dispense with this argument. Tellingly, ROSS nowhere disputes that it knew Westlaw
+was copyrighted. !4
+
+In addition, ROSS’s cited cases miss the mark. In John Wiley & Sons, Inc. v. Book Dog
+Books, LLC, plaintiff moved to strike defendant’s innocent infringer defense, where defendant was
+a downstream distributor selling counterfeit copies of plaintiff's textbooks, which did not bear a
+copyright notice. No. 13 Civ. 816, 2016 WL 5092593, at *4 (S.D.N.Y. Sept. 19, 2016). Plaintiff
+asserted defendant could not be an innocent infringer, because defendant could have purchased an
+authentic copy of plaintiff's work, compared it to defendant’s counterfeit copies, and discovered
+they were counterfeit. Jd. The court declined to strike the innocent infringer defense, noting that
+a distributor who received a high-quality counterfeit may have no reason to believe the copy is not
+authentic. Jd. at *5. But here, there is no counterfeit copy of Westlaw at issue, and there is no
+question that ROSS understood that the Westlaw Content was copyrighted. Similarly, in
+Denenberg v. LED Techs., LLC, the court found issues of fact as to innocent infringement where
+the defendant asserted that a third-party marketing company sold defendant the plaintiff's
+
+copyrighted pictures as “library stock.” No. 11 Civ. 3155, 2013 WL 2153290, at *2 (D. Colo. May
+
+4 Nor could they. Setting aside that “[t]he plain language of the statute shows that the infringer’s
+knowledge or intent does not affect its application,” Maverick Recording Co. v. Harper, 598 F.3d
+193, 199 (Sth Cir. 2010), and setting aside that those working at ROSS were law students and
+lawyers with legal training, the fact remains that they had copies of Westlaw screenshots bearing
+copyright notices.
+
+20
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 26 of 31 PagelD #:
+211270
+
+17, 2013)). But here, there is no question ROSS knew LegalEase was using Westlaw materials to
+
+prepare memos for ROSS—ROSS specifically requested LegalEase do so. E.g., Ex. 71 (ROSS-
+
+01014290) (NNN
+). ROSS simply cannot cast itself as an innocent downstream purchaser
+
+who had no idea it was obtaining copyrighted work.
+Third, ROSS argues that Plaintiffs’ evidence does not show that ROSS was unaware and
+had no reason to believe its acts constituted an infringement of copyright. Opp. at 38. But ROSS’s
+
+argument ignores Plaintiffs’ cited evidence reflecting ROSS is the opposite of an innocent
+
+infringer: ROSS I ot. at 28-29, ar
+a
+
+Re fd. Inexplicably, ROSS instead suggests that evidence of “whether ROSS
+
+had knowledge of LegalEase’s alleged infringement and use of Westlaw . . . does not exist.” Opp.
+
+at 39. Not so. Plaintiffs submitted evidence that ROSS already had judicial opinions, Mot. at 12,
+
+but that was insufficient, as evidenced by it contacting LegalEasc TT
+2: ec oso id
+
+MR). Critically, ROSS fails to argue that it had any reasonable, good-faith belief for its
+actions. Nor could it, as Plaintiffs identified that ROSS had lawyers and law students who had
+received legal training. Mot. at 30. Given Plaintiffs put forth evidence that ROSS cannot show as
+a matter of law that it is an innocent infringer, and ROSS failed to present any evidence creating
+
+an issue of fact, judgment is warranted, as ROSS’s own cited authority confirms. D.C. Comics
+
+Inc. v. Mini Gift Shop, 912 F.2d 29, 35 (2d Cir. 1990) (“[I]t is not sufficient for a defendant merely
+
+21
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 27 of 31 PagelD #:
+211271
+
+to claim such innocence, and then rely upon the plaintiffs failure to disprove the claim”) (citing
+Nimmer on Copyright § 14.04[B][2][a], at 14-40 (1989)).
+
+B. ROSS Fails to Show Any Factual Dispute Precluding Summary Judgment of
+No Copyright Misuse
+
+ROSS then tries to use copyright misuse as a defense to justify its actions, by arguing that
+Thomson Reuters seeks to expand its copyright protection to the underlying judicial opinions, but
+ROSS’s characterization has no basis in Plaintiffs’ actions. As stated in Plaintiffs’ Motion:
+(1) Thomson Reuters’ registrations expressly disclaim the judicial opinions themselves, and
+Thomson Reuters does not claim rights to them here, which is confirmed by the fact that ROSS
+(and anyone else) can (and did) download the judicial opinions from other sources, !> and (2) the
+crown jewel of Thomson Reuters’ copyrighted content is the editorial content from its attorney-
+editors, including the selection and arrangement of Headnotes to corresponding case passages and
+organization of the WKNS. This is precisely the copyrighted content ROSS sought. ROSS did
+not use Westlaw to get cases. It copied to get Plaintiffs’ editorial enhancements—Plaintiffs’
+“special sauce.” This is confirmed by the fact that ROSS already had the underlying judicial
+opinions from other sources, yet it continued to concoct a scheme to obtain Thomson Reuters’
+editorial copyrighted content.!®
+
+Despite this, ROSS doubles down in its Opposition, arguing that Plaintiffs “violated public
+
+policy underlying the copyright law and federal law by extending their copyright to cover the
+
+'S For example, in its Opposition, ROSS states that [ay
+a Opp. at 5.
+M
+
+oreover, ROSS’s allegations of copyright misuse do not come close to any of the scenarios in
+which the Third Circuit has applied copyright misuse, and the fact that no misuse exists here is
+further underscored by this Court’s recent dismissal of ROSS’s antitrust claims.
+
+22
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 28 of 31 PagelD #:
+211272
+
+language in every judicial opinion found on Westlaw.”'” Opp. at 40. Again, Plaintiffs have never
+sought protection in the underlying judicial opinions,!® and ROSS fails to dispute that it in fact
+was able to obtain the judicial opinions from another source. Instead, ROSS’s dispute turns on the
+fact that it considers a smaller scope of material to be protectable than Plaintiffs. Plaintiffs
+disagree, at least for the reasons stated above, see supra Section I.B., but this is nothing more than
+a vanilla type of copyright infringement dispute, not misuse. ROSS has failed to show that its
+copyright misuse claim asserts anything more than a standard dispute regarding the proper scope
+of a copyright being enforced, which is a garden-variety issue present in nearly every copyright
+infringement case.
+
+If this Court were to adopt ROSS’s new theory that a garden-variety dispute regarding the
+proper scope of copyright protection can form the basis for a copyright misuse claim, the
+floodgates would open for every defendant in every copyright infringement case to assert misuse.
+Indeed, ROSS’s attempt to turn every copyright infringement claim into one of misuse flies in the
+face of the protections the Constitution grants to Authors and Inventors, as they could face misuse
+in every lawsuit where a defendant disputes the proper scope of copyright. See Art. I, § 8, cl. 8.
+Indeed, such unprecedented expansion of misuse would most certainly disincentivize copyright
+
+holders from protecting their rights—an outcome surely unintended by the Constitution.
+
+'7 Though ROSS in passing mentions “Thomson Reuters has a history of trying to improperly
+assert its copyrights to thwart competition,” Opp. at 40, ROSS provides no explanation, cites no
+evidence, and fails to address the dismissed antitrust claims.
+
+18 ROSS’s reliance on Omega S.A. v. Costco Wholesale Corp. is misplaced, as the concurrence in
+that case found copyright misuse where Omega leveraged its copyrighted work of a globe design,
+to control the importation of watches bearing the globe design. 776 F.3d 692, 700—01 (9th Cir.
+2015). In other words, the concurrence determined that using a copyrighted work (globe design)
+to protect an unprotected separate work (a functional watch) was copyright misuse. Here,
+Plaintiffs have registrations in Westlaw, thus, no parallel can be drawn.
+
+23
+Case 1:20-cv-00613-SB
+
+Hl. CONCLUSION
+
+Document 739
+
+Filed 11/18/24 Page 29 of 31 PagelD #:
+
+211273
+
+For the foregoing reasons, Plaintiffs respectfully request that this Court grants summary
+
+judgment in their favor on their direct copyright infringement claim, against ROSS’s merger,
+
+scénes a faire, innocent infringement, and copyright misuse defenses.
+
+OF COUNSEL:
+
+Dale M. Cendali
+
+Joshua L. Simmons
+Eric A. Loverro
+KIRKLAND & ELLIS LLP
+601 Lexington Avenue
+New York, NY 10022
+(212) 446-4800
+
+Miranda D. Means
+KIRKLAND & ELLIS LLP
+200 Clarendon Street
+Boston, MA 02116
+(617) 385-7500
+
+Daniel E. Laytin, P.C.
+Christa C. Cottrell, P.C.
+Alyssa C. Kalisky
+Cameron Ginder
+Vanessa Barsanti
+Danielle O’Neal
+Jonathan Emmanuel
+Lexi Wung
+
+Max Samels
+
+KIRKLAND & ELLIS LLP
+300 North LaSalle
+Chicago, IL 60654
+(312) 862-2000
+
+November 13, 2024
+
+Morris, NICHOLS, ARSHT & TUNNELL LLP
+
+/s/ Michael J. Flynn
+
+Michael J. Flynn (#5333)
+1201 North Market Street
+P.O. Box 1347
+
+Wilmington, DE 19899
+(302) 658-9200
+mflynn@morrisnichols.com
+
+Attorneys for Plaintiffs and
+Counterdefendants Thomson Reuters
+Enterprise Center GmbH and West Publishing
+Corporation
+
+24
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 30 of 31 PagelD #:
+211274
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that on November 13, 2024, I caused the foregoing to be electronically
+filed with the Clerk of the Court using CM/ECF, which will send notification of such filing to all
+registered participants.
+
+I further certify that I caused copies of the foregoing document to be served on November
+13, 2024, upon the following in the manner indicated:
+
+David E. Moore, Esquire VIA ELECTRONIC MAIL
+Bindu Palapura, Esquire
+
+POTTER ANDERSON & CORROON LLP
+
+Hercules Plaza, 6th Floor
+
+1313 North Market Street
+
+Wilmington, DE 19801
+
+Attorneys for Defendant and Counterclaimant
+
+Mark A. Klapow, Esquire VIA ELECTRONIC MAIL
+Lisa Kimmel, Esquire
+
+Crinesha B. Berry, Esquire
+
+Matthew J. McBurney, Esquire
+
+Keith J. Harrison, Esquire
+
+CROWELL & MORING LLP
+
+1001 Pennsylvania Avenue NW
+
+Washington, DC 20004
+
+Attorneys for Defendant and Counterclaimant
+
+Jacob Canter, Esquire VIA ELECTRONIC MAIL
+Warrington Parker, Esquire
+
+Anna Z. Saber, Esquire
+
+Beatrice B. Nguyen, Esquire
+
+CROWELL & MORING LLP
+
+3 Embarcadero Center, 26th Floor
+
+San Francisco, CA 94111
+
+Attorneys for Defendant and Counterclaimant
+
+Emily T. Kuwahara, Esquire VIA ELECTRONIC MAIL
+Jordan Ludwig, Esquire
+
+CROWELL & MORING LLP
+
+515 South Flower Street, 41st Floor
+
+Los Angeles, CA 90071
+
+Attorneys for Defendant and Counterclaimant
+Case 1:20-cv-00613-SB Document 739 _ Filed 11/18/24 Page 31 of 31 PagelD #:
+211275
+
+Ryan Henry Seewald, Esquire VIA ELECTRONIC MAIL
+
+CROWELL & MorINnG LLP
+
+1601 Wewatta Street, Suite 815
+
+Denver, CO 80202
+
+Attorneys for Defendant and Counterclaimant
+
+/s/ Michael J. Flynn
+
+Michael J. Flynn (#5333)

@@ -1,0 +1,2902 @@
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 1of 49
+
+EXHIBIT 4
+DEPOSITION OF LYON
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 2 of 49
+
+IN THE UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF GEORGIA AT ROME
+
+CHRISTOPHER MATTREW BATTEN,
+
+Plaintiff,
+
+-Vs- : NO.
+4;22-CV-OO179
+
+K-VAT-FOOD STORES, INC., d/b/a
+
+FOOD CITY,
+
+Defendant.
+
+THE VIDEOTAPED DEPOSITION OF
+SHERRELL LYON, JR.
+January 12, 2023
+
+Whitney A. Vaughn, TN LCR# 418
+Angel & Associates Court Reporting
+P.O. Box 1145
+Hixson, Tennessee 37343
+(423) 876-4435 and 800-298-DEPO (3376)
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+oO wT Hm oO
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 3 of 49
+
+2
+INDEX OF EXAMINATION
+Page
+Examination By Mr. Hargraves..........56- 6
+INDEX OF EXHIBITS
+1 Email Chain starting with 7/26/21.. 32
+2 Rmail Chain starting with 9/8/21... 34
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn
+
+Angel & Associates Court Reporting
+
+mem GW NM Fe
+
+11
+
+12
+
+13
+14
+15
+16
+17
+
+18
+19
+20
+21
+22
+23
+24
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 4 of 49
+
+APPEARANCES :
+
+Appearing for Plaintiff:
+
+R,. ETHAN HARGRAVES, ESQUIRE
+ethan@masseyattorneys.com
+Massey & Associates, P.C.
+6400 Lee Highway, Suite i101
+Chattanooga, Tennessee 37421
+(423) 697-4529
+
+Appearing for Defendant:
+
+HOWARD B. JACKSON, ESQUIRE
+hjackson@wimberlylawson.com
+
+Wimberly, Lawson, Wright, Daves & Jones,
+550 Main Avenue, Suite 900
+
+Knoxville, Tennessee 37901
+
+(865) 546-1000
+
+ALSO PRESENT: Videographer, Patrick Black
+
+PLLC
+
+(423) 876-4435 "Preserving The Record"
+Whitney Vaughn Angel & Associates Court Reporting
+
+(800) 298-3376
+
+10
+il
+12
+13
+14
+15
+16
+1?
+18
+19
+20
+21
+22
+23
+24
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 5 of 49
+
+The videotaped deposition of
+SHERRELL LYON, JR., called as a witness at the
+instance of the Plaintiff, for purposes of discovery,
+pursuant to the Federal Rules of Civil Procedure,
+taken pursuant to agreement on January 12, 2023, at
+the law offices of Massey & Associates, P.C., 6400
+Lee Highway, Suite 101, Chattanooga, Tennessee 37421,
+commencing at 12:57 p.m., before Whitney A. Vaughn,
+
+Court Reporter and Notary Public.
+
+ST IFPULATION
+
+It being agreed between counsel for
+the respective parties that Whitney A. Vaughn, Court
+Reporter and Notary Public, may swear the witness,
+take his deposition in machine shorthand, afterwards
+reducing the same to typewriting.
+
+All objections, except as to the form of
+the question and responsiveness of the answer, are
+reserved to on or before the hearing.
+
+It being further agreed that all
+formalities as to notice, caption, certificate,
+transmission, etc., are expressly waived. Signature
+
+Waived.
+
+/f
+
+{423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+193
+20
+24
+22
+23
+24
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 6 of 49
+
+THE VIDEOGRAPHER: We are now on the
+record. Today is Thursday, the i2th of January,
+2023. The time is 12:57 p.m.
+
+This is the video deposition of Sherrell
+Lyon in the matter of Christopher Matthew Batten
+versus K-VA-T Food Stores, Incorporated, doing
+business as Food City. This is case number
+4:22-cv~-00179.
+
+This deposition is being held today at the
+law offices of Massey & Associates, located at
+6400 Lee Highway, Suite 101, in Chattancoga,
+Tennessee.
+
+My mame is Patrick Black, the videographer.
+Our court reporter is Whitney Vaughn.
+
+T'li ask counsel to please introduce
+yourselves and state whom you represent.
+
+MR. HARGRAVES: Ethan Hargraves on
+behalf of the plaintiff Matthew Batten.
+
+MR. JACKSON: Howard Jackson on
+behalf of Food City.
+
+THE VIDEOGRAPHER: I'll ask the court
+reporter to swear in the witness.
+
+/f
+//
+//
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 7 of 49
+
+SHERRELL LYON, JUR.,
+called at the instance of the Plaintiff, having been
+first duly sworn, was examined and testified as
+follows:
+EXAMINATION
+
+BY MR. HARGRAVES:
+
+Q Mr. Lyon, could you just state your
+full name for the record?
+
+A My name is Sherrell Edward Lyon, Jr.
+
+Q Mr. Lyon, my name is Ethan Hargraves.
+I'm the attorney with Massey & Associates. We
+represent Mr. Batten in this case. Have you ever
+testified in a deposition before?
+IT believe so, yes.
+Do you remember when that was?
+
+Many, many, many years ago.
+
+on PF DO P
+
+Okay. Since it's been a little while,
+the first thing I like to do is kind of go over a few
+ground rules for how it's going to go so you can
+hopefully understand the process a little bit better.
+As you can tell, we're trying to make
+
+a clear record --
+
+A sure.
+
+Q -- of everything that everybody says
+
+today. That's what the court reporter is doing. And
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 8 of 49
+
+one thing we can do to make her job easier is not
+talk over each other, which it can happen very
+naturally.
+
+So if you would, do your best to let
+me finish my full question before you start to
+answer, and I'll do my best to let you finish your
+full answer before I ask another question. Sound
+fair?
+
+A sure.
+
+Q And another thing that we can do is
+keep the answers verbal. Head nods and gestures are
+difficult to write down in a transcript. Things like
+uh-huh and huh-uh can also get confused.
+
+So there may come a time when I Just
+ask to clarify is that a yes or is that no. And I'm
+not trying to be mean to you or call you out. TI just
+want to make sure that we understand what it is
+you're saying. Does that make sense?
+
+A It does.
+
+Q Okay. And if I ask you a question
+that you don't understand, whether there is a word in
+the question you don't understand or I just asked you
+a bad question, which absolutely can happen, if you
+don't understand it, just let me know and I will do
+
+my best to rephrase it so that you can understand it.
+
+(423) 876-4435 "Preserving The Record” (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+LO
+11
+12
+13
+14
+15
+16
+1?
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 9 of 49
+
+Okay?
+A
+
+Q
+all you got to
+
+Okay.
+And if you need a break at any point,
+
+do is ask and we can take a break.
+
+The only caveat I have is if I have asked a question,
+
+I will want to
+
+get an answer to that question before
+
+we take the break. Does that make sense?
+
+A
+
+FF Oo F Oo F DO F VO
+
+Q
+Did you attend
+
+A
+
+Q
+
+A
+
+It does.
+
+Mr. Lyon, where do you currently live?
+Jonesborough, Tennessee,
+
+How long have you lived there?
+Sixteen, seventeen years.
+
+That's up around Tri-Cities, isn't it?
+Tt is.
+
+Okay. That's a little bit of a drive?
+It is.
+
+Well, I appreciate you coming down.
+high school?
+
+I did.
+
+Where at?
+
+Sullivan East High School in Sullivan
+
+County, Tennessee.
+
+Q
+A
+
+Q
+
+Sullivan?
+Sullivan.
+
+Did you graduate?
+
+(423) 876-4435
+Whitney Vaughn
+
+"Preserving The Record" (800) 298-3376
+
+Ange! & Associates Court Reporting
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 10 of 49
+
+3
+
+A I did.
+
+Q And what -- did you have any college
+after that?
+
+A I did.
+
+Q What was that?
+
+A Bast Tennessee State University.
+
+Q Okay. Did you get a degree?
+
+A I did.
+
+Q And what was that in?
+
+A Business.
+
+Q Okay. Do you have any other degrees?
+
+A I do not.
+
+Q All right. Do you have any
+professional licenses or certifications?
+
+A I do not.
+
+Q Okay. Do you have any other
+professional training?
+
+A IT do not.
+
+Q Okay. Are you a member of any
+professional clubs or organizations?
+
+A No.
+
+Q Have you ever been convicted of a
+crime?
+
+A No.
+
+Q You work for K-VA-T Food Stores, Inc.;
+
+(423) 876-4435 “Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+il
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 11 of 49
+
+10
+is that right?
+
+A Yes.
+
+Q And that's commonly referred to as
+Food City?
+
+A Yes.
+
+Q What is your current position with
+Food City?
+
+A Well, it hasn't been announced yet,
+but right now I'm the vice president of human
+resources effective the 25th.
+
+Q Okay. So before moving into that
+position, which I guess hasn't been formalized yet,
+what was your position before that?
+
+A Director of human resources.
+
+Q And in the hierarchy, where do those
+two positions fall?
+
+A The vice president would be higher
+than the director.
+
+Q Okay. Assuming -- is there a
+president of human resources?
+
+A There is not.
+
+Q Okay. So is that the -- is that the
+tiptop of the human resources chain?
+
+A It would be, yes.
+
+Q Well, congratulations,
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+2i
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 12 of 49
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+11
+
+A Thank you.
+
+Q Most of what we'll be talking about
+today will have to do with your job as the director
+of HR since that was what you -~- the position you
+were in for at least most of the case that we're here
+about today.
+
+Did you have -- as the director of HR,
+I assume that was over all of the human resources
+operations at all of the Food City locations?
+
+A That's correct.
+
+Q All right. And who were the employees
+directly beneath you who answered to you?
+
+A In what time period?
+
+Q As the director of HR.
+
+A IT have -- I have several direct
+reports. I have an admin. Her name is Kim Bateman.
+Do you want the entire list or do you want --
+
+Q Ts that feasible?
+
+A Yeah, I'll try. Some of it has
+changed.
+
+Q Sure.
+
+A Kathy Jones, IS analyst; Levi Tignor,
+HR generalist; Randy Rotten, benefits manager; Sarah
+Spahr, division HR specialist; David Ellison,
+division HR specialist; Donny Rector, division HR
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+10
+Ti
+12
+13
+14
+15
+16
+17
+18
+19
+2Q
+21.
+22
+23
+24
+
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 13 of 49
+
+12
+
+specialist; Rickie Estep, office manager; three
+clerks, Natalie, Jenna, and Becky. Let's see,
+Junior clerk, Angie Botts; director of healthy
+initiatives, Laurie Hamilton. And I think that's
+all.
+
+Q Well, thank you for that. You
+mentioned one position in there, the division HR
+specialist, and you mentioned a couple of those. How
+many division HR specialists are there?
+
+A There is one for each division.
+
+Q And how many divisions are there?
+
+A Three.
+
+Q At the time of this case, which
+primarily is around August 2021, would the -- would
+two of those HR specialists have been David Ellison
+and Donny Rector?
+
+A Yes.
+
+Q Do you know who the third one would
+have been at that time?
+
+A It would still be Sarah Spahr.
+
+Q As the director of HR, would you be
+directly involved in requests for accommodation by
+employees?
+
+A Not necessarily ali requests for
+
+accommodations, no.
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+Li
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 14 of 49
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+13
+
+Q Is that something that the HR
+specialist could resolve on their own?
+
+A They absolutely could.
+
+Q So they didn't necessarily need to
+pass all of those requests for accommodation up the
+chain to you?
+
+A They would not.
+
+Q Okay. And I forgot to ask you this,
+but you were in a little bit of a transition around
+the time that this happened. So when exactly, if you
+can recall, did you step into the HR director
+position?
+
+A That would have been in the spring of
+2021, I believe. There was a transitional period
+when Donnie -- our previous vice president of human
+resources -- where we kind of overlapped, but I
+didn't really -- I was there more for observation
+than anything, so I didn't really spend a lot of
+direct time with Donnie. It was more time in the
+departments.
+
+Q Okay. So there was a transition
+period where you were working alongside or underneath
+Donnie Meadows to observe?
+
+A Departments, not necessarily Donnie.
+
+Q Oh, okay. Sure.
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+10
+il
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22,
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 15 of 49
+
+14
+
+A So spend time in benefits, time in --
+with all those different departments under HR.
+
+Q During that time, did you take part in
+any actual decision-making related to the director's
+duties?
+
+A I did not.
+
+Q Did Donnie Meadows loop you in on any
+decision-making during that time?
+
+A He did not.
+
+Q Didn't allow you to observe any
+particular decision-making?
+
+A My time was to be spent in the
+departments. I had to learn those before he exited.
+
+Qo Sure. Okay. So as of August 2021,
+Donnie Meadows would have been the one in charge of
+HR or rather he would have been the director of HR?
+
+A He would be the VP of HR at that time.
+
+Q Oh, okay. He was the VP?
+
+A Yes.
+
+Q So he actually was the head honcho
+over HR --
+
+A Yes.
+
+9 -- at that time?
+
+A Uh-huh.
+
+Q Who was the director of HR at that
+
+(423) 876-4435 "Preserving The Record” (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+1i
+12
+13
+i4
+id
+16
+i7
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 16 of 49
+
+15
+time?
+
+A We -- I don't believe we had one at
+that time. 2 don't remember exactly when I went in
+the role, but prior to the transition of me taking
+Donnie's place, there was not a director. So it was
+kind of a steppingstone to prepare me before Donnie
+left.
+
+Q So prior to that transition, there was
+one head HR position?
+
+A That's correct.
+
+Q After the transition, Donnie Meadows
+assumed the -- I guess the VP of HR?
+
+A He remained the VP. He was already a
+VP, and we didn't have a director.
+
+Q Okay. I think I got it now. They
+essentially created this new position, director of
+HR, for you?
+
+A Correct.
+
+Q What were your responsibilities as the
+director of HR and specifically as distinguished from
+the VP of HR?
+
+A Like I said, I was there to learn the
+different departments. I spent time with benefits
+because benefits is a huge piece of resources. TI
+
+spent time with the office manager. I spent time
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+AL
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 17 of 49
+
+16
+with the clerks. I spent time with the scanner
+person. I spent time with the admin. I spent time
+with everyone in HR.
+
+Q All right.
+
+A And prior to that I was a division HR
+specialist.
+
+Q Okay. So you would have been one of
+those three division positions?
+
+A Correct.
+
+Q Okay. How long had you been in that
+position?
+
+A I guess about five and a half years.
+
+Q Okay. I don't know if I asked you,
+but when did you first start with Food City?
+
+A 1988,
+
+Q Okay. What was your starting
+position?
+
+A Courtesy clerk, a bagger.
+
+Q And you worked all the way up?
+
+A A good number of years, yes.
+
+Q When did you ~-- do you remember when
+you stepped into an HR role with Food City?
+
+A I do not remember exactly. I would
+have to check.
+
+Q Okay. That's fine.
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+LO
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+295
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 18 of 49
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+17
+
+A Maybe seven years ago, something like
+that, eight years ago.
+
+Q Okay. Would that have been the
+division HR specialist position?
+
+A Yes. if think it was 2015-ish,
+somewhere around there.
+
+Q Okay. As of August 2021, who was
+responsible for making sure that Food City complied
+with federal laws and regulations?
+
+A That would be Donnie Meadows.
+
+Q Okay. Is that a duty that he retained
+as the VP or is that a duty that passed to you as the
+director of HR?
+
+A He was the vice president of human
+resources, so that would be his responsibility.
+
+Q Did you have any role in that?
+
+A Any role in...
+
+Q In ensuring Food City's compliance
+with federal laws and regulations.
+
+A I would -- for anything that was
+presented to me, absolutely.
+
+Q Okay. Does Food City provide any
+training on compliance with the ADA?
+
+A We do.
+
+Q Okay. Are you familiar with that
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+a3
+24
+
+295
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23. Page 19 of 49
+
+18
+training?
+
+A We have a training class that the
+specialists train all of our managers on when they
+assume a manager role. When I say managers, that's
+store managers.
+
+Q Is that an in-person class?
+
+A It is.
+
+Q Okay. So that's a class that one of
+the three division HR specialists teaches to store
+managers?
+
+A Recently-promoted store managers or
+assistant managers and oftentimes even department
+managers.
+
+Q Okay. Is that just a training that
+occurs at the transition point into that management
+position?
+
+A Typically, yes.
+
+Q So it's like, for lack of a better
+term, onboarding for that position?
+
+A Typically, yes.
+
+Q Okay. Do you know what's in that
+training, specifically the ADA compliance training?
+
+A Not specifically word for word what's
+in that training, no.
+
+Q Sure. Have you gone through that
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+aw Bb
+
+10
+Li
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 20 of 49
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+19
+
+specific training?
+
+A IT have.
+
+Q Do you remember when the last time was
+that you went through that specific training?
+
+A Many, many, many years ago.
+
+Q So it's a one-time thing; is that what
+you're saying?
+
+A That's correct.
+
+Q It's not a -- it's not like an annual
+thing that managers have to re-up?
+
+A Tt is not.
+
+Q And does that training course cover
+disability accommodations?
+
+A To the best of my recollection, yes,
+
+Q Okay. Does that training course cover
+the interactive exchange?
+
+A To my knowledge, yes. Again, this is
+based on memory.
+
+Q Sure. Is there anything else you
+remember about that specific training course?
+
+A Different rules, regulations,
+policies, procedures, laws. I mean, ADA Title VII.
+I mean, the whole gamut of information,
+
+Q Do you know where division HR
+specialists get the materials for that training?
+
+(423) 876-4435 “Preserving The Record" (800) 298-3376
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+al
+22
+23
+24
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 21 of 49
+
+20
+
+A They have a -- I guess a library of
+training materials.
+
+Q Is that a physical library?
+
+A To some degree, yes. There is a
+manual that they use. Like I said, I can't say that
+I know everything that's inside of that manual,
+but —--
+
+Q Sure.
+
+A -- that's the guide that they use to
+conduct those classes.
+
+Q What I'm trying to figure out is if we
+need to find that manual or if we need to find those
+materials, I'm trying to figure out where we should
+start to look. Like, who would be the person to ask
+about those?
+
+A I mean, I could definitely obtain a
+copy of those materials, I guess, if that's what
+you're asking.
+
+Q Okay.
+
+A But, again, most of the training comes
+from their experience of being an HR specialist. So
+when they conduct a classroom training, they are -~-
+they have a guide that they utilize, but then there
+is also -- like I said, it's a classroom, so it's a
+lecture-type presentation.
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+LO
+il
+12
+13
+14
+Lo
+L6
+L7
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 22 of 49
+
+ai.
+Q Okay.
+
+A It's not necessarily a book with a
+test or anything like that.
+
+Q Okay. And is that -- is that a group
+setting or do the division HR specialists do that
+training one-on-one?
+
+A it's typically a group setting like a
+classroom style.
+
+Q Okay. As a division HR specialist,
+would you expect that David Ellison would have
+conducted that course at some point?
+
+A Yes.
+
+Q Okay. Does Food City, to your
+knowledge, have any policies or procedures on
+disability accommodation?
+
+A Our policy is not to discriminate
+against anyone, that if someone has a disability and
+they need help with performing their job, that it's
+our responsibility to conduct interactive process to
+see if there is something that we can provide to help
+make it work.
+
+Q Okay. Do you know if that's part of
+the written policy to try to work to find an
+accommodation that works?
+
+A I'm not aware of a written policy.
+
+(423) 876-4435 "Preserving The Record” (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+16
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 23 of 49
+
+22
+
+Q Okay. Do you know if Food City has
+any policies or procedures on employee use of service
+animals?
+
+A To my knowledge, I'm not aware of one.
+
+Q And does Food City have any training,
+to your knowledge, on the ADA and specifically the
+use of service animals?
+
+A Not that -- not that I'm aware of.
+
+Q As the -- as the director of HR, would
+you have access to or be able to familiarize yourself
+with individual associates! training files?
+
+A Restate the question,
+
+Q sure.
+
+A Or just repeat the question.
+
+Q Sure. My question is, as the director
+of HR, would you have access to individual associate
+training files?
+
+A Indirect access, but certainly not
+direct access.
+
+Q It's not something that you would be
+reviewing in the normal course of your job?
+
+A No,
+
+Q So you wouldn't be familiar
+necessarily with Mr. Matthew Batten's training file?
+
+A No, I would not.
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+Ti
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 24 of 49
+
+23
+
+Q Okay. Do you have any direct
+knowledge of Mr. David EHilison being trained on ADA
+compliance?
+
+A {I would assume David attended the
+training class. Keep in mind, we teach numerous
+training classes. We have 18,000 associates. So
+it's really hard to remember exactly who went through
+what training class.
+
+Q Sure.
+
+A I mean, I've taught many training
+classes --
+
+Q Sure.
+
+A -~- but I can't tell you who all
+attended my training classes.
+
+Q Sure. That's fair enough.
+
+Mr. Ellison being one of the -- one of the division
+HR specialists, I think you said that you would
+expect him to have taught this ADA course; is that
+right?
+
+A Taught the leadership training course.
+It's not necessarily an ADA-specific course. It's
+generalized material for HR.
+
+2 Does that course include ADA
+compliance?
+
+A To my -- to my knowledge, there is a
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+il
+12
+13
+14
+15
+16
+17
+18
+13
+20
+21
+22
+23
+24
+
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 25 of 49
+
+24
+section on ADA accommodations and items like that,
+yes,
+
+Q So you would expect that Mr. Ellison
+at some point has taught that course?
+
+A Absolutely.
+
+Q I guess my question is, who taught the
+teachers? How did the division HR specialists -- how
+were they trained on those topics?
+
+A They would have attended another
+training class held by a division HR specialist.
+
+Q So would that have been part of their
+onboarding into the division HR specialist?
+
+A That's correct.
+
+Q Okay. That makes sense. So you would
+expect that Mr. Ellison would have had that training?
+
+A Correct.
+
+Q Do you know -- I'll ask it a couple
+different ways. Offhand, do you know if Mr. Gary
+Richards has had that specific training?
+
+A I have -- I do not know.
+
+Q And now more generally, Mr. Richards
+being a store manager, would you expect that he would
+have had that training?
+
+A IT would expect, yes.
+
+Q Does Food City have any incentives for
+
+(423) 876-4435 “Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+1i
+12
+13
+14
+15
+16
+1?
+18
+19
+20
+21
+22
+23
+24
+
+20
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 26 of 49
+
+295
+hiring employees who have disabilities?
+
+A Incentives? Not that I'm aware of.
+
+Q Are there any tax benefits that the
+company claims through that?
+
+A Not that I'm aware of. But we work
+with many organizations throughout the company, but
+not that ~~ I'm not aware of any tax benefits.
+
+Q Are you familiar with Food City's
+policy on personal leaves of absence?
+
+A I'm familiar with personal leaves of
+absences, yes.
+
+9 To your understanding, is that a
+provision in Food City's handbook that allows
+employees to request up to two 90-day slots of time
+for personal reasons?
+
+A Yes.
+
+Q That's not a -- that's not an
+FMLA-type leave, is it?
+
+A It is not.
+
+Q So it's not -- it's not job
+protection?
+
+A It is not.
+
+Q But it's something that an employee
+can request?
+
+A That's correct.
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+il
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 27 of 49
+
+26
+
+Q In your experience, is that something
+that the company can force an employee to take?
+
+A To force? TI don't know about forcing
+one, but I know of folks that have been placed ona
+personal LOA.
+
+Q And why is that?
+
+A Hither something -- some part of their
+employment has not been resolved in hopes of
+resolving it. Instead of inactivating their status,
+leaving them active as on a leave, as opposed to
+terminating their employment with deactivating them.
+
+Q Okay. Is it Food City's policy to
+provide a healthy and wholesome atmosphere?
+
+A I would say yes.
+
+Q Would you say it's Food City's policy
+to recognize the rights of each individual?
+
+A Yes.
+
+Q Would that include their associates?
+
+A i would say yes.
+
+Q Would you say that it's important for
+businesses to treat disabled employees fairly?
+
+A Yes.
+
+Q Was it Food City's policy to treat
+disabled employees fairly?
+
+A I would say yes. We want to treat
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Ange! & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+20
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 28 of 49
+
+27
+
+everyone as fair and consistent as we possibly can.
+
+Q Sure. To your knowledge, is it Food
+City's policy to provide a reasonable accommodation
+to disabled employees when it doesn't cause any undue
+burden on the company?
+
+A Absolutely.
+
+Q Do you recall if you ever met
+Mr. Matthew Batten?
+
+A Many times.
+
+Q Okay. Do you remember when you first
+met him?
+
+A Sometime after 2015. I don't know
+exactly because that's when I came -~ I was in the
+Chattanooga division for a while. He was -- I think
+he worked at the Ooltewah store.
+
+Q Do you remember anything about your
+first meeting?
+
+A I think the first time he was in an
+office with the HRC. It was more cf a hello, welcome
+aboard. If think it was Like an introduction type of
+a meeting.
+
+Q Okay. At any point did you get to
+have any more extensive conversations with him?
+
+A Not really. Just in passing, whether
+
+he was going out to the fuel center or returning from
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+Li
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 29 of 49
+
+fuel center, if I happened to be in the lobby or at
+the front side of the store or even purchasing fuel.
+IT mean, he was in the kiosk. So if you're there and
+you're buying fuel, you certainly speak, try to
+speak.
+
+Q Yeah. It was probably obvious to you
+from when you met him that he had some physical
+limitations; is that fair?
+
+A I dontt remember exactly. It seems
+like, again, maybe a limp or something. Again, it's
+been a long time.
+
+Q Sure. Do you recall that he -- he is
+missing his right axm?
+
+A I honestly don't recali, but, I mean,
+that's not something I really -~ is going to stand
+out to me. I mean, obviously, if someone is missing
+a limb -- but he was more of just an associate,
+someone that I would speak to as i walked by and just
+happy to have him as part of our family.
+
+Q Okay.
+
+A I try not to judge folks.
+
+Q Sure. Did you and he ever have a
+conversation about his wreck?
+
+A We did not.
+
+Q Okay. Did you ever learn from anyone
+
+28
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Assaciates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+24.
+22.
+23
+24
+
+209
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 30 of 49
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+29
+else about the circumstances of Mr. Batten's
+injuries?
+
+A Only from I guess the ~- I guess it
+wasn't an EROC charge, but I guess in speaking with,
+I guess, Mr. Ellison.
+
+Q Okay. Did you have the opportunity to
+evaluate Mr. Batten's performance as an employee?
+
+A Just from interactions of being a
+customer and being there in that store. From what 1
+could tell, he did a great job.
+
+Q Okay. Did you ever have any reason to
+think that he wasn't a good employee?
+
+A No, not at all.
+
+Q To your knowledge, was he ever written
+up?
+
+A To my knowledge, no.
+
+Q I know you said that you noticed he
+had a limp. Did you ever notice any other issues
+that he had?
+
+A I really did not. From the best of my
+memory, that's really ail T can remember.
+
+Q Sure. When did you first learn that
+Mr. Batten had requested an accommodation in the form
+of a service dog?
+
+A I don't -- I really don't remember.
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+10
+Lil
+i2
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 31 of 49
+
+30
+Like I said, I really wasn't involved in any of that.
+I'm sure David maybe mentioned it, but I really -- T
+really don't remember when.
+
+Q Okay.
+
+A Because like I said, at that time, I
+was really -- my responsibilities were more to learn
+than anything.
+
+Q Okay. So you think maybe you had some
+discussions with Mr. Meadows about that -- sorry --
+Mr. Ellison about that?
+
+A Typically at that time, like I said,
+anything that would have been brought to me, I would
+have taken to Donnie.
+
+Q Okay. So if this -- if this came to
+you, you would expect that you would have taken that
+to Mr. Meadows to discuss?
+
+A At that time, yes.
+
+Q Okay. And this would have been around
+July/August of 2021?
+
+A Yes.
+
+Q Do you recall having any part in the
+decision-making with regard to denying Mr. Batten's
+request for the use of a service dog?
+
+A I did not have any part in that.
+
+Q And by any part, I mean, either direct
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+Qi NS
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 32 of 49
+
+involvement in making the decision or you were privy
+to communications involving it.
+
+A I was not privy to communications.
+
+Q So you would -- would you say you had
+no role whatsoever in the decision to deny his use of
+his service dog?
+
+A I had no role whatsoever in that
+decision.
+
+Q To your knowledge, was that all Donnie
+Meadows’ decision?
+
+A I would assume, but -- because at that
+time he was the vice president. So I would assume it
+would be his decision.
+
+Q Do you have any knowledge of what, if
+anything, Mr. Meadows reviewed in making that
+decision?
+
+A I do not.
+
+Q Okay. Did you review any witness
+statements related to Mr. Batten's request for the
+use of his service dog?
+
+A I was the one that prepared the EEOC
+response, because at that time Mr. Meadows had
+already retired. So in preparation of that response,
+IT, of course, collected witness statements.
+
+Q Was that the first time that you had
+
+31
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 33 of 49
+
+32
+
+reviewed those witness statements?
+
+A Yes.
+
+Q Okay. Do you remember any of your
+conversations with Mr. Meadows about Mr. Batten's
+request for the use of his service animal?
+
+A I do not.
+
+MR. HARGRAVES: Let's mark this
+Exhibit 1. She'll put a sticker on that for us.
+(Whereupon, the document, as referred
+to above, was marked and subsequently attached hereto
+as Exhibit No. 1.)
+BY MR. HARGRAVES:
+
+Q All right. Looking at what's marked
+Exhibit 1, the Bates numbers 001078 through 1079, do
+you recognize this document? And take your time and
+look at both pages.
+
+A I don't necessarily recognize the
+document, but it appears to be an email.
+
+Q This is an email chain beginning
+July 23rd, 2021, ending July 26, 2021. It looks like
+you're included. It looks like you're cc'd on the
+last few emails in this chain. Does that appear
+correct?
+
+A Yes.
+
+Q Do you have any recollection of
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+Lid
+12
+13
+14
+15
+16
+17
+18
+19
+20
+a1
+22
+23
+24
+
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 34 of 49
+
+33
+receiving this email chain?
+
+A I do not.
+
+Q Okay.
+
+A Tt's my email address, so I'm sure I
+did, but I get a lot of emails.
+
+Q This was -- the subject is regarding
+Christopher Batten. Do you know who that is?
+
+A Yes.
+
+Q Is that Matthew Batten?
+
+A Yes.
+
+Q This is at least the last -- the email
+from David Ellison on July 26, 2021, states, "Please
+advise on associate requesting to bring service dog
+to work at Gas 'N Go at 214." That's to Donnie
+Meadows and you; is that right?
+
+A Yes.
+
+Q Did Mr. Meadows handle that -- handie
+this issue or did he bring you in on this at all?
+
+A To the best of my knowledge,
+
+Mr. Meadows handled all this. I don't remember. I
+mean, if we spoke about it, I honestly can't
+remember.
+
+Q Do you think you were included here as
+more of a courtesy since you were in that transition?
+
+A As a cc, more than likely, yes. Like
+
+(423) 876-4435 . "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+LiL
+12
+13
+14
+15
+16
+L7
+18
+19
+20
+al
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 35 of 49
+
+34
+I said, I wasn't necessarily working with Donnie hand
+in hand.
+
+MR. HARGRAVES: Let's make that
+Exhibit 2.
+
+(Whereupon, the document, as referred
+to above, was marked and subsequently attached hereto
+as Exhibit No. 2.)
+
+BY MR. HARGRAVES:
+
+Q All right. Looking at Exhibit 2,
+Bates number 001084 through 1085, do you recognize
+this document?
+
+A I do.
+
+Q Is this an email chain between you,
+Rickie Estep, and David Ellison?
+
+A Yes.
+
+Q Does this appear to be a fair and
+accurate copy of that email chain?
+
+A It does.
+
+Q And that does include an email from --
+at the beginning from Gary Richards as well; is that
+right?
+
+A Yes.
+
+Q Okay. The second email from the top
+on the first page is from David Ellison, and it says,
+"Sherrell, where do we stand with this associate? He
+
+(423) 876-4435 *Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 36 of 49
+
+35
+
+never turned in paperwork. Donnie had stated we
+would assume him to be on a personal LOA should he
+fail to do so." And it looks like you responded,
+"Please call me;" is that right?
+
+A Yes.
+
+Q What is this -- what is this about?
+
+A At -- I guess he was on a personal
+leave of absence. And typically we can -- we have
+two personal leaves at 30 days each for a total of
+180 days. But after 180 days, then we have to decide
+whether that person remains on active payroll. And
+typically if you have exhausted your leaves, then you
+move from active status to an inactive status.
+
+Q Is that the same thing as termination?
+
+A You're terminated in the system, yes.
+
+Q In response to the email from
+Mr. Ellison, you instructed Mr. Estep to call you; is
+that right?
+
+MR. JACKSON: It's Ms. Estep.
+
+MR. HARGRAVES: Ms. Estep. My
+apologies.
+
+MR. JACKSON: Rickie is confusing.
+
+THE WITNESS: She is the office
+manager.
+
+ff
+
+(423) 876-4435 "Preserving The Record” (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+13
+20
+21.
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 37 of 49
+
+BY MR. HARGRAVES:
+
+Q Did Ms. Estep call you?
+
+A T'm assuming she did. Again, I'm sure
+IT asked her to give me the rundown as to what -- you
+know, all of this information and as to decide
+whether he remained active or inactive.
+
+Q Do you remember anything about that
+conversation?
+
+A Other than making a decision to remove
+him from active status.
+
+Q Do you think you made that decision
+around September 8, 2021?
+
+A I'm assuming, but quite honestly, I'm
+not sure about the exact date.
+
+Q Were you aware that Mr. Batten had not
+requested a personal leave of absence?
+
+A Yes.
+
+Q Were you aware that he had asked to
+simply be allowed to work with his service dog?
+
+A No. This was -- this was simply
+around his ending his -- removing his status from
+active to inactive. I didn't dig into the details as
+to anything else other than Rickie, her -~ her
+responsibility is leaves. So I would have asked her
+
+why he was on leave, how he got on leave, and was his
+
+36
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+il
+12
+13
+14
+15
+16
+1?
+18
+19
+20
+21
+22
+23
+24
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 38 of 49
+
+37
+
+leave up. And if it was, should it be termed in the
+system or not.
+
+Q Do you remember if you learned at that
+time why Mr. Batten was on leave?
+
+A From the best of my memory, Rickie
+said that Donnie had asked her to place him on a
+personal leave of status because at that time no --
+nothing had been resolved. And so she placed him on
+personal leave of status and then -- for I believe
+180 days.
+
+Q And when you say nothing had been
+resolved, are you referring to the fact that he
+wanted to use the service dog and that had been
+denied?
+
+A Nothing had been resolved because
+there had been no further communications with him
+from the time he was placed on leave.
+
+Q Did you understand that his request
+for the use of his service animal had been denied?
+
+A At that time, I was aware that it was
+denied, yes.
+
+Q So if he wanted to return to work, he
+couldn't do that with the service animal?
+
+A His leave was already up. So the
+
+question to me was whether he could be termed in the
+
+(423) 876-4435 "Preserving The Record" {800} 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+Li.
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 39 of 49
+
+38
+
+system and removed from active status. My response
+to Rickie was yes.
+
+Q To your understanding, could he have
+come back at that point with his service animal?
+
+A I'm not sure, because I didn't have -~
+I didn't review that because there was no contact
+made with him after, I guess, August the 23rd.
+
+Q Okay. At that time were you aware
+that his request for the use of his service animal
+had been denied?
+
+MR. JACKSON: At what time? I'm
+sorry.
+BY MR. HARGRAVES:
+
+Q As of the date on that email,
+September 8, 2021.
+
+A What --
+
+Q As of the date on this email,
+September 8, 2021, were you aware that
+Mr, Batten's request for the use of his service dog
+had been denied?
+
+A I don't know on 8/23 of 2021.
+September 8 of 2021.
+
+On September of 2021?
+
+Yes.
+
+PO F 0
+
+I would say September, yes.
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+WwW MN Fe
+
+10
+Li
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 40 of 49
+
+39
+Q Okay. To your knowledge, had that
+
+decision changed?
+
+A To my knowledge, no.
+
+Q Okay. So as of -- as of the date that
+you were speaking with Ms. Estep, you were aware that
+Mr. Batten could not return with his service animal?
+
+A I was aware of the decision that had
+been made.
+
+Q And he -- and had been communicated to
+Mr. Batten that he could not return with his service
+animal?
+
+A At that time, yes.
+
+Q Do you know now when the decision was
+made to deny Mr. Batten's request for the use of his
+service dog?
+
+A Do I know when? I do not know when.
+
+Q Sitting here today, can you think of
+any reason why it would have been an undue burden on
+Food City to allow Mr. Batten to work as a fuel clerk
+with his service dog?
+
+A From my -- from reading the documents,
+there was options that were offered to Mr. Batten
+that would have been considered a reasonable
+accommodation including self-checkout operator inside
+
+the store, even potentially with a cane, with a
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+7
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 41 of 49
+
+stool, but I don't think that was ever reached
+because it -~ from me reading the documents, there
+was kind of a line drawn in the sand as to if I don't
+have this, I'm not going to work. If I don't have a
+service dog, I'm not going to work. So I think once
+that line was drawn in the sand, there was no further
+communication. He refused to work.
+
+Q Okay. Mr. Batten indicated that he
+was not able to work without his service animal; is
+that correct?
+
+A Not the way I understand it. From the
+way I understand -- from my interactions with David
+and writing the EEOC response, it was if I don't have
+the dog, I'm not going to work.
+
+Q Did you understand that the dog helped
+Mr. Batten with stability issues?
+
+A From the EEOC response, that
+Mr. Batten said that he had a need for an
+accommodation for stability, which could have been
+provided in many ways including a cart, a cane,
+
+There is many ways to accommodate that, but it never
+got to that point.
+
+Q In response to Mr. Batten's request
+for the use of his service animal, did Food City
+
+offer Mr. Batten a cart?
+
+40
+
+(423) 876-4435 "Preserving The Record" {800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 42 of 49
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+41
+
+A Again, I think the line was drawn in
+the sand with Mr. Batten saying if I do not have the
+dog, I'm not going to work, from the way I understood
+Mr. Ellison's —-
+
+Q I appreciate that, but I need to know
+if Food City ever offered Mr. Batten the use of a
+cart,
+
+A To my knowledge, no.
+
+Q Did Food City ever offer Mr. Batten
+the use of a cane?
+
+A To my knowledge, no.
+
+Q Now, you did mention the USCAN
+attendant position. That's the self-checkout
+attendant?
+
+A Uh-huh.
+
+Q So that is something that Food City
+offered to Mr. Batten; is that right?
+
+A To my knowledge, yes.
+
+Q Now, you did mention -- you mentioned
+a stool or a chair; is that right?
+
+A Yes.
+
+Q Food City never offered Mr. Batten the
+use of a stool in the USCAN position, did it?
+
+A I don't think they had the opportunity
+to,
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+10
+il
+12
+13
+14
+15
+16
+1?
+18
+19
+20
+21
+22
+23
+24
+20
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 43 of 49
+
+Q Did Mr. Batten prevent them from
+offering that to him?
+
+A Fowasn't at all those meetings during
+the exchange, but from the way I understand David's
+statement, no, we didn't have the opportunity to.
+
+Q What do you mean he didn't have an
+opportunity to?
+
+A From the -- from my recollection of
+the statement from David was that when he -- when he
+had his discussion with Mr. Batten, that Mr. Batten
+said that he was not going to work without the dog.
+
+Q Okay.
+
+A And that kind of ended the exchange.
+
+Q Do you know if it was ever Food City's
+intent to offer Mr. Batten the use of a stool in the
+USCAN position?
+
+A I would hope so. Our intent is always
+to try to provide an accommodaticn for someone to
+help them perform their job if it's reasonable.
+
+Q And I'm not trying to be picky, and I
+understand what you're saying. But I got to know if
+it, in fact, was Food City's -- to your knowledge, if
+it was, in fact, Food City's intent to offer
+Mr. Batten the use of a stool in the USCAN attendant
+
+position.
+
+42
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 44 of 49
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+43
+
+A I was not part of that decision, so I
+can't speak to that.
+
+Q You're not aware of it ever being Food
+City's intent to do that?
+
+A T'm not aware.
+
+Q And that's fair. Did you understand,
+at least from your review of the records, that
+Mr. Batten asserted that his service dog helped in
+part with his stability issues?
+
+A Will you repeat the question?
+
+Q Sure. Did you understand, at least
+from your review of the records, that Mr. Batten's
+position was that the service dog in part helped with
+his stability issues?
+
+A fi read that in some of the information
+that was presented to me, yes.
+
+Q The USCAN attendant position is,
+generally speaking, a standing position; is that
+fair?
+
+A Generally speaking, yes. There are
+many -- there are folks inside the company, even
+folks in a wheelchair, that operate the USCAN. We
+have one in Sevierville.
+
+Q That's the attendant who kind of hangs
+out near the self-checkout to help anybody that needs
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+25
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 45 of 49
+
+44
+help?
+
+A Yes.
+
+Q So when Mr, Batten said that he
+couldn't do that job without his dog, don't you think
+it would have been reasonable at that point to offer
+him the use of a stool or other assistive device?
+
+MR. JACKSON: Objection. Go ahead
+and answer.
+
+A I wasn't there during the
+conversation. If someone draws a line in the sand
+and says I'm not going to work without my dog, it
+kind cf -- it kind of stops the conversation.
+
+BY MR. HARGRAVES:
+
+Q So is it your position that at that
+point Food City could not have offered him anything
+else?
+
+A No. I think that further discussion
+should have been had, but I don't think that
+opportunity happened either. I think the exchange
+should have continued, but I don't think Mr. Batten
+wanted to continue the exchange.
+
+Q Do you think it was clear that
+Mr. Batten wanted some allowance for his stability
+issues?
+
+A IT think he wanted his dog.
+
+(423) 876-4435 “Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+il
+12
+13
+14
+15
+16
+17
+18
+19
+20
+24
+22
+23
+24
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 46 of 49
+
+45
+
+Q You would agree that the USCAN
+attendant position, generally speaking, is -- it's
+more standing and walking than the fuel clerk
+position?
+
+A In most cases, yes, depending upon the
+accommodation.
+
+QO Sure. The fuel clerk position,
+generally speaking, that person is sitting in the
+kiosk in the center of the gas station?
+
+A Not always. They are supposed to go
+out and clean the pumps and maintain the pumps and
+empty the trash and straighten the drinks. There is
+some responsibilities other than just inside the fuel
+center.
+
+Q Sure. That person has sitting duties
+and standing duties; is that fair?
+
+A That's correct.
+
+Q So they have the opportunity to sit
+and stand during their shift?
+
+A Yes.
+
+2 You would agree that's somewhat
+different, generally speaking, from the USCAN
+attendant position?
+
+A Generally, if there is not an
+accommodation.
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21.
+22
+23
+24
+
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 47 of 49
+
+MR. HARGRAVES: Okay. Let's go ahead
+and take a break.
+
+THE VIDEOGRAPHER: The time is 1:45,
+and we are off the record,
+
+(Whereupon, a short break was had.)
+
+THE VIDEOGRAPHER: The time is 1:48,
+and we are back on the record.
+BY MR. HARGRAVES:
+
+Q Mr. Lyon, outside of communications
+with Food City's attorneys, are there any
+communications that you had with anyone regarding
+Mr. Batten's request for the use of a service dog
+that we haven't already talked about?
+
+A To my memory, no.
+
+Q Has everything you have said here
+today been true?
+
+A Yes.
+
+Q Have you ~~ were any of my questions
+confusing to the point that you didn't understand
+them?
+
+A I don't think so, no.
+
+MR. HARGRAVES: All right. Well,
+that's all fT have for now, but Mr. Jackson may have
+some questions,
+
+MR. JACKSON: No.
+
+46
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+
+10
+Li
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21.
+22
+23
+24
+
+295
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 48 of 49
+
+THE VIDEOGRAPHER: This concludes
+this deposition. One media file was used, The t
+is 1:49, and we are off the record.
+
+FURTHER THE DEPONENT SAITH NOT.
+
+(Signature waived. )
+
+A’)
+
+ime
+
+(423) 876-4435
+Whitney Vaughn
+
+"Preserving The Record"
+Angel & Associates Court Reporting
+
+(800) 298-3376
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+29
+
+Case 4:22-cv-00179-WMR Document 29-7 Filed 04/11/23 Page 49 of 49
+
+48
+REPORTER'S CERTIFICATE
+
+STATE OF TENNESSEE
+
+COUNTY OF HAMTLTON
+
+I, Whitney A. Vaughn, Court Reporter and
+
+Notary Public, do hereby certify that the foregoing
+deposition was stenographically recorded by me as
+stated in the caption. SHERRELL LYON, JR., was duly
+sworn by me; that pages 1 to 48, inclusive, were
+reduced to typewriting under my direction and
+supervision, and the deposition is a true and correct
+record, to the best of my ability, of the
+testimony/evidence given by the deponent.
+
+I further certify that I am not a relative or
+employee or attorney or counsel of any of the parties,
+nor am I a relative or employee of such attorney or
+
+counsel, nor am I financially interested in the
+
+action. Ali rates charged are usual and customary.
+
+This is the 23rd day of January, 2023,
+
+wd oo
+
+Whitney Vaughn, TN LCR #418
+Court Reporter and Notary Public
+
+My Commission Expires 07/30/25
+
+(423) 876-4435 "Preserving The Record" (800) 298-3376
+Whitney Vaughn Angel & Associates Court Reporting
+

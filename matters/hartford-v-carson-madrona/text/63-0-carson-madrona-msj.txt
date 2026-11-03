@@ -1,0 +1,1728 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+ 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+JEAN PIERRE NOGUES (SBN 84445), jpn@msk.com 
+YAKUB HAZZARD (SBN 150242), yxh@msk.com 
+IAN T. LOGAN (SBN 328857), itl@msk.com 
+MITCHELL SILBERBERG & KNUPP LLP 
+2049 Century Park East, 18th Floor 
+Los Angeles, CA 90067-3120 
+Telephone:  (310) 312-2000 
+Facsimile:  (310) 312-3100 
+Attorneys for Defendant 
+Carson Madrona Company, LLC 
+UNITED STATES DISTRICT COURT 
+NORTHERN DISTRICT OF CALIFORNIA 
+ 
+HARTFORD FIRE INSURANCE 
+COMPANY, 
+Plaintiff, 
+v. 
+CARSON MADRONA COMPANY, LLC; 
+OHIO SECURITY INSURANCE 
+COMPANY; AMERICAN FIRE AND 
+CASUALTY COMPANY; and DOES 1 
+through 10, inclusive, 
+Defendants. 
+ 
+ 
+ 
+ 
+AND ALL RELATED COUNTERCLAIMS 
+AND THIRD PARTY COMPLAINTS 
+ 
+ 
+CASE NO. 3:23-CV-06259-SK 
+DEFENDANT, COUNTER-CLAIMANT 
+AND THIRD PARTY PLAINTIFF 
+CARSON MADRONA COMPANY, 
+LLC’S NOTICE OF MOTION AND 
+MOTION FOR PARTIAL SUMMARY 
+JUDGMENT AGAINST HARTFORD 
+FIRE INSURANCE COMPANY AND  
+ACE PROPERTY & CASUALTY 
+INSURANCE COMPANY AS TO 
+COVERAGE; NOTICE OF MOTION 
+AND MEMORANDUM OF POINTS AND 
+AUTHORITIES 
+[Declaration of Yakub Hazzard filed 
+concurrently] 
+Date:  
+February 20, 2025 
+Time:  
+10:00 AM 
+Place: 
+San Francisco Courthouse 
+ 
+Courtroom 4 – 17th Floor 
+ 
+450 Golden Gate Avenue 
+ 
+San Francisco, Ca 94102 
+ 
+Filed Date:  December 4, 2023 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 1 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+2 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+TO ALL PARTIES AND THEIR ATTORNEYS OF RECORD: 
+PLEASE TAKE NOTICE that, on February 20, 2025, in the courtroom of the Honorable 
+Vince Chhabria, of the United States District Court for the Northern District of California, San 
+Francisco Courthouse, Courtroom 4, 17th Floor, 450 Golden Gate Avenue, San Francisco, CA, 
+94102, at 10:00 AM, or as soon thereafter as the matter may be heard, Defendant, Counter-
+claimant, and Third Party Plaintiff Carson Madrona Company, LLC (“Carson Madrona”), shall 
+and hereby does move this Court, pursuant to Federal Rule of Civil Procedure 56, for an order 
+granting partial summary judgment.  
+Carson Madrona seeks an order for partial summary judgment in favor of Carson Madrona 
+that: 
+(a) 
+Insurance policy number 41 CSE S30502 issued by Plaintiff and 
+Counter-defendant Hartford Fire Insurance Company (“Hartford”) 
+provides coverage to Carson Madrona for the claims made and judgment 
+entered against it in Mountain v. DP Electric, et al., Alameda Superior 
+Court Case No. RG 17857916 (the “Underlying Lawsuit”);  
+(b) 
+Insurance policy number G27937500 001 issued by Third-Party 
+Defendant Ace Property & Casualty Insurance Company (“Ace”), 
+provides coverage to Carson Madrona for the claims made and judgment 
+entered against it, in the Underlying Lawsuit;  
+(c) 
+Hartford and Ace are required to indemnify Carson Madrona for the 
+judgment entered against it in the Underlying Lawsuit, including pre- 
+and post-judgment interest and costs; and 
+(d) 
+Because Hartford has a duty to indemnify Carson Madrona, it also had a 
+duty to defend Carson Madrona in the Underlying Lawsuit. 
+Carson Madrona also seeks a grant of summary judgment in its favor and against Hartford 
+on the First, Second and Third Claims for Relief asserted in Hartford’s First Amended Complaint, 
+each of which asserts there is no coverage and no duty to indemnify or defend Hartford with 
+respect to the claims asserted in the Underlying Lawsuit.   
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 2 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+3 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+Finally, Carson Madrona seeks judgment in its favor on the First Claim for Relief in its 
+Counterclaims against Hartford and First Claim for Relief in its Third-Party Complaint against 
+Ace, each of which seeks a declaration that Hartford and Ace have duties to defend and indemnify 
+Carson Madrona from the claims asserted against it in the Underlying Lawsuit. 
+This Motion is made on the following grounds: 
+1. 
+Under the terms of a lease between Carson Madrona and Ashley,1 Ashley was 
+required to maintain general liability insurance naming Carson Madrona as an 
+insured under such insurance; 
+2. 
+Ashley procured such insurance from Hartford and Ace; 
+3. 
+Under the express terms of that insurance, and as Ashley’s landlord, Carson 
+Madrona is an additional insured as to “liability arising out of the ownership, 
+maintenance or use of that part of the land or premises leased to” Ashley; 
+4. 
+The claims made and judgment entered against Carson Madrona in the Underlying 
+Lawsuit arose out of Ashley’s ownership, maintenance and use of the leased 
+premises; 
+5. 
+Alternatively,  Carson Madrona is an additional insured as to bodily injury and 
+property damage “caused, in whole or in part, by [Ashley’s] acts or omissions or 
+the acts or omissions of those acting on [Ashley’s] behalf: (1) In the performance 
+of [Ashley’s] ongoing operations; [or] (2) In connection with [Ashley’s] premises 
+owned by or rented to [Ashley].” 
+6. 
+The claims made in the Underlying Lawsuit asserted that the injuries to claimant 
+Perez were caused in whole or in part by the acts or omissions of Ashley or of those 
+acting on its behalf in the performance of Ashley’s operations and/or in connection 
+with the premises rented to Ashley by Carson Madrona. 
+7. 
+Because the Underlying Lawsuit is covered under the Hartford and Ace policies, 
+the insurers also had a duty to defend Carson Madrona. 
+                                                 
+1 As used in this Motion, the term “Ashley” refers collectively to Warehouse and Delivery 
+Solutions, Inc. dba Ashley Furniture, Stoneledge Furniture, LLC and Ashley Furniture Industries, 
+Inc. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 3 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+4 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+This motion is based on this Notice of Motion and Motion, the Memorandum of Points and 
+Authorities, the Declaration of Yakub Hazzard and exhibits submitted concurrently herewith, and 
+any such other evidence and argument as may be introduced at or before the time of the hearing. 
+ 
+DATED:  December 31, 2024 
+RESPECTFULLY SUBMITTED, 
+JEAN PIERRE NOGUES 
+YAKUB HAZZARD 
+IAN T. LOGAN 
+MITCHELL SILBERBERG & KNUPP LLP 
+By:  
+ 
+Yakub Hazard 
+Attorneys for Defendant 
+Carson Madrona Company, LLC
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 4 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+TABLE OF CONTENTS 
+Page 
+  
+5 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+I. 
+INTRODUCTION ............................................................................................................... 8 
+II. 
+RELEVANT FACTUAL BACKGROUND ....................................................................... 9 
+A. 
+The Lease and Relevant Insurance Policies ............................................................ 9 
+B. 
+The Accident and Underlying Lawsuit ................................................................. 13 
+C. 
+Ashley and Hartford Initially Defend, But Hartford Withdraws from the 
+Defense, and Both Hartford and Ace Refuse to Indemnify Carson Madrona 
+for Its Loss ............................................................................................................. 14 
+III. 
+ARGUMENT .................................................................................................................... 15 
+A. 
+Carson Madrona Is an Additional Insured Entitled to Coverage for the Claims 
+in the Underlying Lawsuit Under Both the Hartford and Ace Policies................. 16 
+1. 
+California Law re Interpretation of Insurance Policies ............................. 16 
+2. 
+As Ashley’s Lessor and Because It Was Required to Be Named by the 
+Lease, Carson Madrona Is an Additional Insured Under the Hartford 
+and Ace Policies as to the Claims Asserted by the Perezes in the 
+Underlying Action ..................................................................................... 17 
+3. 
+Alternatively, Because the Perez’s Injury Was Caused in Whole or in 
+Part by the Acts of Ashley or Those Acting on Its Behalf, Carson 
+Madrona Is Also Covered Under the “Catch All” Additional Insured 
+Provisions of the Hartford Policy .............................................................. 21 
+B. 
+The Post-Occurrence Lease Termination Agreement Does Not Absolve 
+Hartford or Ace from Coverage ............................................................................ 23 
+C. 
+The Insurers Had a Duty to Defend Carson Madrona ........................................... 26 
+IV. 
+CONCLUSION ................................................................................................................. 26 
+ 
+ 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 5 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+TABLE OF AUTHORITIES 
+Page(s) 
+  
+6 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+CASES 
+A.C. Label, Inc. v. Transamerica Ins. Co, 
+48 Cal. App. 4th 1188 (1996) ............................................................................................ 17, 25 
+Acceptance Ins. Co. v. Syufy Enterprises, 
+69 Cal.App.4th 321 (1999) .......................................................................................... 19, 20, 21 
+Anderson v. Liberty Lobby, Inc., 
+477 U.S. 242 (1986) ................................................................................................................ 15 
+Fireman’s Fund Ins. Cos. v. Atlantic Richfield Co., 
+94 Cal. App. 4th 842 (2001) .................................................................................................... 20 
+Garza v. Chavez, 
+2014 WL 3571721 (C.D. Cal. Mar. 4, 2014) .......................................................................... 15 
+Hartford Cas. Ins. Co. v. Travelers Indemn. Co., 
+110 Cal. App. 4th 710 (2003) .............................................................................................. 9, 20 
+Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 
+475 U.S. 574 (1986) ................................................................................................................ 15 
+Montrose Chemical Corp. v. Admiral Ins. Co., 
+10 Cal. 4th 645 (1995) ............................................................................................................. 17 
+Palmer v. Truck Ins. Exchange, 
+21 Cal.4th 1109 (1999), 90 Cal.Rptr.2d 647, 988 P.2d 568 .................................................... 20 
+Sec. & Exch. Comm’n v. Criterion Wealth Mgmt. Servs., Inc., 
+2022 WL 1215786 (C.D. Cal. Apr. 25, 2022) ......................................................................... 15 
+Truck Ins. Exch’g v. AMCO Ins. Co., 
+56 Cal. App. 5th 619 (2020) .............................................................................................. 18, 19 
+Valley Forge Ins. Co. v. Zurich Am. Ins. Co., 
+2014 WL 4980302 (N.D. Cal. Sept. 30, 2014) ........................................................................ 21 
+Vitton Constr. Co., Inc. v. Pac. Ins. Co., 
+110 Cal. App. 4th 762 (2003) .................................................................................................. 20 
+Yahoo, Inc. v. National Union Fire Ins. Co., 
+14 Cal. 5th 58 (2022) ......................................................................................................... 16, 17 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 6 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+TABLE OF AUTHORITIES 
+(continued) 
+Page(s) 
+  
+7 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+STATUTES 
+Cal. Code Civ. Proc. 
+§ 685.010 ................................................................................................................................. 23 
+OTHER AUTHORITIES 
+Fed. R. Civ. P. 
+56 ............................................................................................................................................... 2 
+56(a) ........................................................................................................................................ 15 
+ 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 7 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+8 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+MEMORANDUM OF POINTS AND AUTHORITIES 
+I. 
+INTRODUCTION 
+This case arises out of a 2016 accident in which an arc flash burned an electrician 
+performing repairs on an electrical system that arced.  That accident resulted in a lawsuit in which 
+the jury awarded the electrician and his wife $25.5 million.  Carson Madrona Company, LLC 
+(“Carson Madrona”) was an additional insured under policies issued by Hartford Fire Insurance 
+Company (“Hartford”) and Ace Property & Casualty Insurance Company (“Ace”) that cover the 
+loss incurred as a result of the accident.  While Hartford initially defended the underlying action, it 
+withdrew from the defense after the jury verdict was rendered, and both it and Ace have refused to 
+indemnify Carson Madrona for any portion of the judgment.  By this motion, Carson Madrona 
+seeks a partial summary judgment enforcing those insurance policies and requiring Hartford and 
+Ace to indemnify and defend Carson Madrona. 
+The bases for Carson Madrona’s motion are quite simple: the lease between Carson 
+Madrona and Ashley (the “Lease”),2 required that Carson Madrona be named as an insured on 
+Ashley’s general liability policies.  The general liability policy issued by Hartford (the “Hartford 
+Policy”) expressly and automatically made lessors, such as Carson Madrona, additional insureds 
+for losses arising from Ashley’s use or maintenance of the premises covered by the Lease (the 
+“Leased Premises”) whenever a lease required them to be so named.  The accident resulting in the 
+claims made and judgment entered in Mountain v. DP Electric, et al., Alameda Superior Court 
+Case No. RG 17857916 (the “Underlying Lawsuit”) indisputably arose from Ashley’s use and 
+maintenance of the Leased Premises.  In addition, the Hartford Policy made Carson Madrona an 
+additional insured as to bodily injury and property damage “caused, in whole or in part, by 
+[Ashley’s] acts or omissions or the acts or omissions of those acting on [Ashley’s] behalf: (1) In 
+the performance of [Ashley’s] ongoing operations; [or] (2) In connection with [Ashley’s] premises 
+owned by or rented to [Ashley].” 
+                                                 
+2 As used in this Motion, the term “Ashley” refers collectively to Warehouse and Delivery 
+Solutions, Inc. dba Ashley Furniture, Stoneledge Furniture, LLC and Ashley Furniture Industries, 
+Inc. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 8 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+9 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+Based on the foregoing, Hartford has a duty to defend and indemnify Carson Madrona.  
+And because Ace’s umbrella policy (the “Ace Policy”) provides “follow form” coverage for 
+additional insureds wherever the Hartford Policy provides coverage, Ace also has a duty to defend 
+and indemnify Carson Madrona. 
+Hartford and Ace have attempted to rationalize their refusal to indemnify and defend 
+Carson Madrona in two ways.  First, they claim that an agreement between Ashley and Carson 
+Madrona,  entered into in late 2017 (the “Lease Termination Agreement)—long after the accident 
+occurred and the Underlying Lawsuit was filed—absolves them of any responsibility, despite the 
+fact that nothing therein releases any insurers.  Hazzard Decl. Ex. 16 §§ 7.1, 7.2.  Second, they 
+claim that, even though the jury found that Ashley was negligent in connection with the incident, 
+it did not impose liability on Ashley, and therefore there is no coverage for Carson Madrona.   
+Hartford and Ace are wrong on both counts. The claim in the Underlying Litigation arose 
+during a period when the Lease requiring Ashley to name Carson Madrona as an additional 
+insured was in force, and therefore as Ashley’s lessor and as required by the Lease, Carson 
+Madrona was indisputably an additional insured.  The liability arose from Ashely’s use and 
+maintenance of the Leased Premises, and was caused in whole or in part by Ashley or persons 
+acting on its behalf.  And while the Lease Termination Agreement (entered into after the accident 
+occurred and the Underlying Lawsuit was filed, and coverage under the occurrence-based Hartford 
+and Ace policies attached) released Ashley, nothing in that Agreement releases Hartford, Ace or 
+any other insurer from their obligations to Carson Madrona as an additional insured.   
+II. 
+RELEVANT FACTUAL BACKGROUND 
+A. 
+The Lease and Relevant Insurance Policies 
+On or around January 17, 2012, Carson Madrona leased a portion of its warehouse located 
+at 6195 Coliseum Way, Oakland, California (the “Leased Premises”), to Warehouse and Delivery 
+Solutions, Inc., dba Ashley Furniture (“WDS”), pursuant to the Lease.  Hazzard Decl. Ex. 1.   
+Subsequently, WDS assigned the Lease to Stoneledge Furniture, LLC, dba Ashley Furniture 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 9 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+10 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+Homestore (“Stoneledge”).   Hazzard Decl. Ex. 2.  As noted above, WDS, Stoneledge, and Ashley 
+Furniture Industries, Inc. are collectively referred to as “Ashley.” 
+The Lease, among other things, required Ashley: 
+(a) 
+To maintain “electrical systems to the extent located within the [Leased Premises].” 
+Hazzard Decl. Ex. 1 at 17, § 6.2. 
+(b) 
+To defend and indemnify Carson Madrona for any claim “arising out of or in any 
+way connected with, and Landlord shall not be liable to Tenant on account of (a) 
+Tenant’s use of the Premises; [and] (b) the conduct of Tenant’s business or anything 
+else done or permitted by Tenant to be done in or about the Premises….” Id. Article 
+18. 
+(c) 
+To obtain liability insurance for “any and all liability for personal injury … arising 
+out of the operations, maintenance, use or occupancy of the [Leased Premises],” 
+which insurance must be “primary and noncontributing (meaning that Landlord may 
+look solely to the insurance provided hereunder with respect to a covered claim and 
+shall not be required to make a claim under any other insurance Landlord may 
+have).”  Id. at 27-28, § 23.1; and 
+(d) 
+To name Carson Madrona as an insured under the liability policies it was required to 
+maintain.  Id.  
+As required by the Lease, Ashely Furniture did obtain liability insurance.  The primary 
+policy applicable for the period involved in this case was the Hartford Policy issued by Hartford, 
+policy number 41 CSE S30502.  Hazzard Decl. Ex. 3.  The Hartford Policy covers the period from 
+January 1, 2016 to January 1, 2017, and includes occurrence-based Commercial General Liability 
+(“CGL”) coverage3 with a liability limit of $2 million per occurrence plus defense costs, subject to 
+a $1 million per occurrence deductible.  Id.  The Hartford Policy contains provisions which 
+automatically made any landlord of Ashley and any party whom Ashley agreed in writing to make 
+an insured under its policies additional insureds.  Id. § II.6 c and f.  Carson Madrona is an 
+                                                 
+3 The Hartford Policy and the Ace Policy discussed below cover claims, whenever made, that 
+result from occurrences during the term of the Policy, which is January 1, 2016 through January 1, 
+2017. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 10 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+11 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+additional insured under the Hartford Policy by reason of its status as Ashley’s landlord and 
+because the Lease requires that it be so named. See Hazzard Decl. Ex. 1 at 27, § 23.1. 
+With respect to Carson Madrona’s additional insured status, the Hartford Policy provides:  
+“SECTION II – WHO IS AN INSURED 
+The following person(s) or origination(s) are an additional insured 
+when you have agreed, in a written contract [or] written agreement . 
+. . that such person be added as an additional insured on your policy, 
+provided the injury or damage occurs subsequent to the execution of 
+the contract or agreement. 
+. . .  
+Each of the following is also an insured: 
+. . . 
+Additional Insureds When Required by Written Contract, 
+Written Agreement Or Permit 
+The following person(s) or organization(s) are an additional insured 
+when you have agreed, in a written contract, written agreement or 
+because of a permit issued by a state or political subdivision, that 
+such person or organization be added as an additional insured on 
+your policy, provided the injury or damage occurs subsequent to the 
+execution of the contract or agreement. 
+A person or organization is an additional insured under this 
+provision only for that period of time required by the contract or 
+agreement. 
+. . . 
+c.  Lessors of Land or Premises 
+Any person or organization from whom you lease land or premises, 
+but only with respect to liability arising out of the ownership, 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 11 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+12 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+maintenance or use of that part of the land or premises leased to 
+you.”   
+. . .  
+f.  Any Other Party 
+Any other person or organization who is not an insured under 
+Paragraphs a. through e. above, but only with respect to liability for 
+“bodily injury”, “property damage” or “personal and advertising 
+injury” caused, in whole or in part, by your acts or omissions or the 
+acts or omissions of those acting on your behalf: 
+In the performance of your ongoing operations; 
+In connection with your premises owned by or rented to you . . . . 
+Hazzard Decl. Ex. 3 at 75, § II.6.4 
+In addition, Ashley secured the Ace Policy, a Commercial Umbrella Liability policy from 
+Ace, policy number G27937500 001. The Ace Policy provides coverage for, among other things, 
+sums an insured becomes legally obligated to pay for bodily injury and property damage.  Hazzard 
+Decl. Ex. 4 at 173, § 1.A.  The Ace Policy was effective from January 1, 2016 to January 1, 2017 
+and has $25 million limit.  Hazzard Decl. Ex. 4 at 165.  The Ace Policy contains the following 
+language: 
+“II.  WHO IS AN INSURED 
+. . .  
+B. Each of the following is also an ‘insured’: 
+. . . 
+Any person or organization, if insured under the ‘underlying 
+insurance’, provided that coverage provided by this policy for any 
+                                                 
+4 The coverage grants in Sections II.6.c and II.6.f are repeated in several endorsements to the 
+Hartford Policy, none of which name Carson Madrona.  See Part III.A.3 infra for further 
+discussion. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 12 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+13 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+such insured is no broader than coverage provided by ‘underlying 
+insurance”.5   
+Ex. 4 at 174-75, § II. Thus, the Ace Policy provides that every person or entity which is an insured 
+under the Hartford Policy is also an insured under the Ace Policy.  Thus, Carson Madrona is an 
+additional insured under the Ace Policy, to the same extent it is an additional insured under the 
+Hartford Policy. 
+B. 
+The Accident and Underlying Lawsuit 
+On or about May 17, 2016, Ashley’s warehouse superintendent, Gary Mountain 
+(“Mountain”), called an electrician, David Perez (“Perez”), to make electrical repairs to address 
+flickering lights at the Leased Premises.  Hazzard Decl. Ex. 5 (“Mountain Depo.”) at 43:14-44:8, 
+80:2-9.  Perez came to the Leased Premises and visited the electrical room.  Id. at 46:19-50:2.  
+Unable to fix the problem there, Perez and Mountain went to the main electrical distribution panel 
+(“MDP”).  Id. at 47:22-28:48:23; Hazzard Decl. Ex. 6 (“Perez Depo.”) at 38:11-43:10.  The MDP 
+is located in the property’s exterior common area, outside of the Leased Premises.  Id.; Ex. 5 
+(Mountain Depo.) at 88:12-89:12.   
+Without contacting Carson Madrona to obtain permission to access the MDP, Mountain 
+and Perez accessed the MDP.  Id.  Perez pulled out a bolt switch inside the MDP and began testing 
+fuses.  Hazzard Decl. Ex. 6 (Perez Depo.) at 44:4-20; 45:8-25.  He noticed that one fuse inside the 
+switch was broken and replaced it with a spare fuse he found inside the cabinet.  Id. 46:2-47:13; 
+54:12-18.  At that point, Mr. Perez said, “I hate this part,” and reinserted the bolt switch into the 
+MDP.  Hazzard Decl. Ex. 5 (“Mountain Depo.”) at 51:17-52:17.  Suddenly, an arc flash explosion 
+occurred.  Id.  Both Mountain and Perez suffered severe burn injuries in the arc flash incident.  Id.; 
+Ex. 6 (Perez Depo.) at 56:1-3. 
+On or about April 24, 2017, Mountain and his wife filed suit against Perez and Carson 
+Madrona.  Hazzard Decl. Ex. 7.  The Mountains’ suit against Perez and Carson Madrona settled 
+prior to trial.  Hazzard Decl. ¶ 21.  However, Perez and his wife, Donna, filed a cross-complaint 
+                                                 
+5 The Ace Policy lists the Hartford Policy as one of the “underlying insurance” policies.  Hazzard 
+Decl. Ex. 4 at 168. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 13 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+14 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+(and shortly thereafter, an amended cross-complaint) against Ashley, Stoneledge, Carson 
+Madrona, Carson Madrona’s property manager—Diane Pregerson Glazer as Trustee of the Diane 
+Pregerson Glazer Survivor’s Trust dba SanOak Management Company (“SanOak”), and SanOak’s 
+property manager, Jeremy Blanchard.  Hazzard Decl. Exs. 8 and 9.  The gist of the Perezes’ 
+negligence theory against Carson Madrona and SanOak was that they had illegally installed, or 
+failed to inspect and replace, an under-rated bolt switch in the MDP.  The MDP was rated for 480 
+volts but the bolt switch was rated for 240 volts.  According to the Perezes, the under-rated bolt 
+switch caused an arc flash explosion. Id.  
+On July 10, 2023, a jury awarded $20,500,000 to David Perez and $5,000,000 to Donna 
+Perez (for loss of consortium), assigning fault for the arc flash incident to Carson Madrona and 
+San Oak, and finding that Ashley Furniture was negligent in connection with the incident.  
+Hazzard Decl. Ex. 10.6  Thereafter, Judgment was entered on the verdict, and Carson Madrona, 
+SanOak and the Perezes appealed.  Hazzard Decl. ¶ 18.  During the appeal, the parties settled their 
+dispute.  Id. 
+C. 
+Ashley and Hartford Initially Defend, But Hartford Withdraws from the 
+Defense, and Both Hartford and Ace Refuse to Indemnify Carson Madrona 
+for Its Loss  
+Carson Madrona initially tendered the underlying lawsuit to Ashley to defend and 
+indemnify pursuant to the terms of the Lease.  ECF 8 (Hartford FAC) ¶ 23.  Ashley initially 
+accepted the tender but then in or about December 2019, Ashley withdrew from the defense of 
+Carson Madrona asserting that the Underlying Lawsuit did not allege claims within the scope of 
+the defense/indemnity provision of the Lease.  Hazzard Decl. Ex. 11.  In addition, Carson 
+Madrona’s liability insurance carrier, Ohio Security Insurance Company, tendered the Underlying 
+Lawsuit to Hartford to defend and indemnify Carson Madrona pursuant to the terms of the 
+Hartford Policy.  Ashley’s insurer, Hartford, thereafter agreed to defend Carson Madrona.  
+                                                 
+6 The jury found that Blanchard was not negligent. Hazzard Decl. Ex. 10 at 339. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 14 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+15 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+Hazzard Decl. Ex. 12.7  However, after the jury returned its verdict, Hartford withdrew from its 
+defense of Carson Madrona, and refused to defend Carson Madrona in appealing the judgment.  
+Hazzard Decl. Exs. 13, 14.  Moreover, Hartford and Ace have both refused to indemnify Carson 
+Madrona for the judgment it has suffered.  Hazzard Decl. ¶ 19. 
+III. 
+ARGUMENT 
+A moving party is entitled to summary judgment “if the movant shows that there is no 
+genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.”  
+Fed. R. Civ. P. 56(a).  If the moving party sustains this burden, the nonmoving party must then 
+identify specific facts that demonstrate a dispute exists as to material facts.  Id. at 56(c).  Although 
+a court must construe all facts and draw all reasonable inferences therefrom in the light most 
+favorable to the non-moving party, the non-movant must show sufficient evidence to create a 
+genuine issue of material fact.  Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 
+574, 585-87 (1986).  A party cannot avoid summary judgment on an issue if its “evidence is 
+merely colorable.”  Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 249-50 (1986).  Indeed, “[t]he 
+mere existence of a scintilla of evidence . . . will be insufficient.”  Id. at 252.   
+Moreover, “conclusory, speculative testimony in affidavits and deposition testimony that is 
+unsupported by specific facts is insufficient to raise genuine issues of fact and defeat summary 
+judgment.”  Garza v. Chavez, 2014 WL 3571721, at *9, n.10 (C.D. Cal. Mar. 4, 2014); Sec. & 
+Exch. Comm’n v. Criterion Wealth Mgmt. Servs., Inc., 2022 WL 1215786, at *8 (C.D. Cal. Apr. 
+25, 2022) (“‘uncorroborated and self-serving’ testimony will not create a genuine issue of material 
+fact”) (quoting Villiarimo v. Aloha Island Air, Inc., 281 F.3d 1054, 1061 (9th Cir. 2002)). 
+Here, there can be no doubt that Carson Madrona is an additional insured under the 
+Hartford and Ace Policies, or that the claims asserted against it in the Underlying Lawsuit are 
+covered.  Nor is there any basis for the insurers’ assertion that the Lease Termination Agreement 
+                                                 
+7 In late December 2017, more than 18 months after the incident, Ashley and Carson Madrona 
+terminated the Lease.  Hazzard Decl. Ex. 15.  In the Termination Agreement, the parties released 
+one another from all obligations under the Lease except for specified obligations not relevant here.  
+Id. at 369, §§ 7.1, 7.2.   
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 15 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+16 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+somehow absolves them from providing defense and indemnity coverage to Carson Madrona as an 
+additional insured. 
+A. 
+Carson Madrona Is an Additional Insured Entitled to Coverage for the Claims 
+in the Underlying Lawsuit Under Both the Hartford and Ace Policies 
+1. 
+California Law re Interpretation of Insurance Policies 
+In response to a certified question from the Ninth Circuit, the California Supreme Court 
+recently summarized the law concerning how insurance policies are to be interpreted and applied 
+in Yahoo, Inc. v. National Union Fire Ins. Co., 14 Cal. 5th 58 (2022): 
+“The relevant principles are well settled. In Palmer v. Truck Ins. 
+Exchange, we said: ‘While insurance contracts have special features, 
+they are still contracts to which the ordinary rules of contractual 
+interpretation apply.’ [Citation.] Thus, ‘the mutual intention of the 
+parties at the time the contract is formed governs interpretation. 
+[Citation.] If possible, we infer this intent solely from the written 
+provisions of the insurance policy. [Citation.] If the policy language 
+is clear and explicit, it governs.’ (Palmer v. Truck Ins. 
+Exchange (1999) 21 Cal.4th 1109, 1115, 90 Cal.Rptr.2d 647, 988 
+P.2d 568 (Palmer).) Similarly, in Boghos v. Certain Underwriters at 
+Lloyd’s of London, we said: ‘Our goal in construing insurance 
+contracts, as with contracts generally, is to give effect to the parties’ 
+mutual intentions. [Citations.] If contractual language is clear and 
+explicit, it governs. [Citations.] If the terms are ambiguous [i.e., 
+susceptible of more than one reasonable interpretation], we interpret 
+them to protect ‘the objectively reasonable expectations of the 
+insured. [Citations.] Only if these rules do not resolve a claimed 
+ambiguity do we resort to the rule that ambiguities are to be resolved 
+against the insurer.’ Boghos v. Certain Underwriters at Lloyd’s of 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 16 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+17 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+London (2005) 36 Cal.4th 495, 501, 30 Cal.Rptr.3d 787, 115 P.3d 
+68.)” 
+Id. at 67 (brackets and emphasis in original; internal quotation marks removed). 
+Carson Madrona submits that under the clear and explicit language of the Hartford and Ace 
+Policies, and given the undisputed facts in the Underlying Lawsuit, there is coverage for the 
+injuries suffered and claims asserted by the Perezes.  While Hartford submits there is no need to 
+look beyond the language of the policies here, interpreting the Policies to provide coverage also 
+protects Carson Madrona’s reasonable expectations of coverage in such circumstances.  And, of 
+course, any unresolved ambiguities must be interpreted against Hartford and Ace and in favor of 
+coverage. 
+2. 
+As Ashley’s Lessor and Because It Was Required to Be Named by the 
+Lease, Carson Madrona Is an Additional Insured Under the Hartford 
+and Ace Policies as to the Claims Asserted by the Perezes in the 
+Underlying Action 
+It is undisputed that Carson Madrona was Ashley’s lessor under the Lease.  Hazzard Decl. 
+Ex. 1.  Nor is there any dispute that the Lease was in effect as of May 17, 2016, the date on which 
+the accident in which Mountain and Perez were injured occurred.  It also is undisputed that the 
+Lease required Ashley to name Carson Madrona as an insured under the policies Ashley was 
+required to maintain under the Lease.  Id. at 27-28, § 23.1.  Thus, it is indisputable that under the 
+plain language of the Hartford Policy Section II.6.c, and Ace Policy Section III.B quoted above, 
+Carson Madrona was an additional insured entitled to coverage under the Hartford and Ace 
+Policies for liability “arising” on May 17, 20168 “out of the ownership, maintenance or use of that 
+part of the land or premises leased to” Ashley.  Hazzard Decl. Ex. 1 at 27-28, § 23.1; Ex. 3 at 76, § 
+II.6.c; Ex. 4 at 174, § II.B.   
+                                                 
+8 As discussed at greater length in part III.B below, because the Hartford and Ace Policies are both 
+occurrence based, “coverage…is established at the time the complaining party was actually 
+damaged.”  Montrose Chemical Corp. v. Admiral Ins. Co., 10 Cal. 4th 645, 669-70 (1995); A.C. 
+Label, Inc. v. Transamerica Ins. Co, 48 Cal. App. 4th 1188, 1192 (1996).  The injury or loss is the 
+triggering event under such policies, and an insurer whose policy is in force at that time is 
+responsible for indemnifying and defending the insured, regardless of when any claim for the loss 
+is made. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 17 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+18 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+Nor can there be any question that the accident and the resulting injuries and liability arose 
+out of Ashley’s maintenance or use of the premises leased to it.  Ashley called Perez to address a 
+flickering light problem in its Leased premises.  Perez attempted to fix the problem by first 
+checking the electrical service within Ashley’s Leased Premises.  When that did not resolve the 
+problem, Perez and Gary Mountain of Ashley (without Carson Madrona’s permission) opened the 
+MDP to address the flickering light problem in Ashley’s premises.  The arc flash occurred while 
+they were attempting to repair the flicker problem occurring in Ashley’s premises.  Plainly, then, 
+Perez’s injuries and Carson Madrona’s liability arose from Ashley’s use and maintenance of the 
+leased premises. 
+Cases like Truck Ins. Exch’g v. AMCO Ins. Co., 56 Cal. App. 5th 619 (2020), make this 
+clear.  In that case, a vehicle crashed through a restaurant, injuring two patrons.  The patrons sued 
+the restaurant and the landlords for the restaurant, alleging that the property lacked safety 
+measures that would have protected the patrons.  Summary judgment was granted for the 
+restaurant owner but denied for the landlords, who knew a similar accident had occurred years 
+earlier but failed to implement safety measures to prevent a recurrence. The landlords settled the 
+action with the restaurant patrons. 
+The landlords’ insurer, respondent Truck Insurance Exchange, then sued the restaurant’s 
+insurer, appellant AMCO Insurance Company, for equitable contribution, asserting that AMCO 
+wrongfully denied Truck’s request that AMCO defend and indemnify the landlords.  Like the 
+Lease in this case, the restaurant lease required that the restaurant name landlords as additional 
+insureds under the restaurant’s liability policies.  Id. at 624.  The restaurant obtained liability 
+insurance under which the landlords were additional insureds.  That policy provided, in part, that 
+“[a]ny person…from whom you [restaurant] lease premises is an additional insured, but only with 
+respect to their liability arising out of your use of the premises leased to you.”  Id.  AMCO 
+asserted, similar to the insurers here, that the loss did not arise out of the restaurant’s use or 
+occupancy of the premises, citing the summary judgment in favor of the restaurant in the 
+underlying case.  Id. at 622. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 18 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+19 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+Both the trial and appellate courts rejected AMCO’s assertion, and found that indeed there 
+was coverage under the restaurant’s policy.  In affirming the trial court’s decision,9 the court of 
+appeal concluded that “[t]he phrase ‘arising from’ in a general liability insurance policy requires 
+only a minimal causal connection, which existed here, and the respective liability of the parties is 
+irrelevant to the additional insured provision.”  Id.  It explained: 
+“‘California courts have consistently given a broad interpretation to 
+the terms “arising out of” or “arising from” in various kinds of 
+insurance provisions. It is settled that this language does not import 
+any particular standard of causation or theory of liability into an 
+insurance policy. Rather, it broadly links a factual situation with the 
+event creating liability, and connotes only a minimal causal 
+connection or incidental relationship.’” 
+Id. at 630, quoting Acceptance Ins. Co. v. Syufy Enterprises, 69 Cal.App.4th 321, 328 (1999) 
+(“Syufy”).  In holding that such a connection existed, it noted that the patrons were present on the 
+premises because of the restaurant; had the restaurant not been in use, the patrons would not have 
+been sitting there when the car crashed through the building.  Truck Ins. Exch’g, 56 Cal. App. 5th 
+at 631. 
+Similarly here, Perez was invited to the premises by Ashley; he would have not been there 
+had it not been for Ashley’s use of and maintenance of the Leased Premises; he engaged in the 
+repair activity that resulted in his injuries at Ashley’s request and for the benefit of its use of the 
+Leased Premises.  In short, Perez would not have been injured but for Ashley’s use and 
+maintenance of the leased premises.  That suffices to meet the minimal connection or incidental 
+relationship test for “arising under” coverage.  Id. at 630. 
+Syufy confirms this point.  In that case, Syufy hired contractor CC to upgrade lighting and 
+temperature controls at one of its theaters.  CC had a general liability policy which named Syufy 
+as an additional insured with respect to any liability “arising out of” CC’s work.  A CC employee 
+                                                 
+9 The trial court decided the coverage issue in a bench trial based on stipulated facts and the 
+parties’ briefs.  Id. at 622. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 19 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+20 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+had a finger severed by a roof hatch that fell as he climbed down from the roof.  He sued Syufy on 
+the theory that it had failed to maintain a safe closing mechanism on the hatch and had failed to 
+warn him of its defective condition.  69 Cal. App. 4th 321, 324-25.  CC’s insurer provided a 
+defense to Syufy, and funded a $400,000 settlement.  The insurer thereafter sued Syufy and 
+Syufy’s insurer claiming that there was no coverage under the CC policy and seeking 
+indemnification and contribution.  Id. at 325.  The trial court granted summary judgment in favor 
+of Syufy and its insurer, and CC’s insurer appealed. 
+The court of appeal affirmed the summary judgment noting the broad interpretation of 
+“arising from” and “arising out of” as quoted above, calling it a “common-sense approach” to 
+interpretation of general liability policies.  Id. at 328.10  Finding the relationship between the injury 
+and CC’s work to be “more than incidental,” the court held that “[t]he fact that the defect was 
+attributable to Syufy’s negligence is irrelevant, since the policy language does not purport to 
+allocate coverage according to fault.”  Id. at 328-29. 
+So too here.  Neither the Hartford Policy nor the Ace Policy conditions additional insured 
+coverage for a landlord on Ashley being liable for the injury or loss.  They only require that a 
+minimal connection or incidental relationship between the loss and Ashley’s use or maintenance 
+of the Leased Premises to trigger coverage.  And as cases like Truck and Syufy demonstrate, such a 
+connection exists here.  See also Hartford Cas. Ins. Co. v. Travelers Indemn. Co., 110 Cal. App. 
+4th 710, 716 (2003) (Hartford concedes landlord would be covered as additional insured for 
+wrongful death of tenant employee who fell from deck outside leased premises under policy using 
+“arising under” language; court finds coverage under arguably more restrictive policy); Vitton 
+Constr. Co., Inc. v. Pac. Ins. Co., 110 Cal. App. 4th 762, 768 (2003) (where policy “grants 
+coverage for liability ‘arising out of’ the named insured’s work, the additional insured is covered 
+without regard to whether injury was caused by the named insured or the additional insured”); 
+Fireman’s Fund Ins. Cos. v. Atlantic Richfield Co., 94 Cal. App. 4th 842 (2001) (contractor’s 
+                                                 
+10 The court also held that even if the term “arising from” or “arising out of” were ambiguous and 
+not already repeatedly construed by California (and other) courts, construction rules requiring that 
+insurance contract be construed in accordance with an insured’s reasonable expectations or 
+coverage and resolving ambiguities in favor of coverage would lead to the same result.  69 Cal. 
+App. 4th at 327. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 20 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+21 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+employee injured by defective step in ARCO plant; ARCO entitled to coverage as additional 
+insured under policy providing such coverage for liability “arising out of” contractor’s work); 
+Valley Forge Ins. Co. v. Zurich Am. Ins. Co., 2014 WL 4980302 (N.D. Cal. Sept. 30, 2014) (court 
+followed Syufy to find contractor’s policy provided additional insured coverage to owner for injury 
+to contractor employees due to collapse of owner’s deteriorated roof system; injuries “arose out 
+of” contractor’s work).  The Policies clearly provide coverage to Carson Madrona as Ashley’s 
+lessor for both indemnity and defense with respect to the claims and loss in the Underlying 
+Lawsuit. 
+3. 
+Alternatively, Because the Perez’s Injury Was Caused in Whole or in 
+Part by the Acts of Ashley or Those Acting on Its Behalf, Carson 
+Madrona Is Also Covered Under the “Catch All” Additional Insured 
+Provisions of the Hartford Policy 
+In a futile effort to avoid coverage, Hartford and Ace appear to take the position that 
+Section II.6.c does not provide additional insurance to Carson Madrona, even though Carson 
+Madrona plainly is a lessor who is required to be an additional insured pursuant to the terms of the 
+Lease.   Instead, the insurers appear to claim that the only additional insured provision that might 
+conceivably apply to Carson Madrona is contained in an additional insured endorsement located at 
+page 9 of Exhibit 3.  See ECF 8 ¶ 31; ECF 41(Ace Answer), 9th, 10th and 13th Affirmative 
+Defenses. 
+The relevant language in that endorsement is: 
+“A. Section II – Who Is An Insured is amended to include as an 
+additional insured the person(s) or organization(s) shown in the 
+Schedule, but only with respect to liability for “bodily injury’, 
+“property damage” or “personal and advertising injury” caused, in 
+whole or in part, by your acts or omissions or the acts or omissions 
+of those acting on your behalf: 
+1. 
+In the performance of your ongoing operations; or 
+2. 
+In connection with your premises owned or rented to you.” 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 21 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+22 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+Although several copies of this endorsement are attached to the Hartford Policy, none of them 
+names Carson Madrona.  See Ex. 3 at 104, 105, 106, 107.11  Moreover, the coverage language of 
+the endorsement is nearly identical to the coverage provided under Section II.6.f of the main body 
+of the Policy, quoted above. 
+Carson Madrona submits that because it was Ashley’s lessor and because the Lease 
+required that it be named on Ashley’s insurance Policies, it is an additional insured under 
+Section II.6.c.  Because it is an additional insured under II.6.c, it cannot be an additional insured 
+under the catch all provision of II.6.f, which only applies if a party is not an additional insured 
+under another provision of the Hartford Policy.  Because it is an additional insured under II.6.c 
+and because none of the additional insured endorsements name Carson Madrona, none of the 
+endorsements apply either. 
+However, even if Carson Madrona for some reason does not qualify as a lessor additional 
+insured under Section II.6.c. of the Hartford Policy, it would qualify as an additional insured under 
+the catch-all additional insured provision found in Section II.6.f and the endorsements, also quoted 
+above.12  Under that provision, Carson Madrona would be entitled to coverage for the Perez claims 
+and judgment because the Perezes’ injuries were “caused, in whole or in part, by [Ashley’s] acts or 
+omissions or the acts or omissions of those acting on [Ashley’s] behalf . . .[i]n the performance of 
+[Ashley’s] ongoing operations [or] [i]n connection with [Ashley’s] premises owned by or rented to 
+[Ashley].” 
+As noted above, there is no dispute that Perez was asked by Ashley to fix the flickering 
+lights in the premises leased to Ashley.  He was clearly acting on Ashley’s behalf in doing so.  It is 
+also indisputable that Perez’s repair activities were performed “in connection with” Ashley’s 
+premise.  Moreover, Perez claimed that Ashley’s conduct was a cause of his injury, Ex. 8 (cross-
+                                                 
+11 Similarly, multiple copies of an endorsement that essentially repeats the language of § II.6.c are 
+also attached.  Hazzard Decl. Ex. 3 at 155, 161. None names Carson Madrona. 
+12  The Hartford Policy provides that Section II.6.f, the “catch-all” additional insured provision, 
+only applies if one of the specific additional insured provisions, including the provision covering 
+lessors of real property, does not apply.  Hazzard Decl. Ex. 3.  The follow form language of the 
+Ace Policy makes Carson Madrona an additional insured thereunder to the same extent it is an 
+additional insured under the Hartford Policy.  Hazzard Decl. Ex. 4 § II at 174-75. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 22 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+23 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+complaint), and the jury found that Ashley was negligent in connection with the accident that 
+injured Perez.  Hazzard Decl. Ex. 9.  However, it did not award damages against it because it 
+concluded that Ashley’s negligence was not a “substantial factor” in causing Perez’s injuries.13  Id. 
+Ashley’s undisputed actions and negligence were, at least in part, a cause of the accident.  
+Ashley called Perez to fix their flickering light problem, directed him to fix it, and led him to both 
+the internal Ashley panel and the MDP, where the accident occurred.  Similarly, the actions of 
+Perez, who was acting at Ashley’s request and on Ashley’s behalf, was also at least in part a cause 
+of the accident and his own injuries.  He was, after all, the person who removed the switch, 
+replaced the fuse and reinserted the switch resulting in the arc flash.  Thus, if for some reason, the 
+lessor additional insured provision of the Hartford Policy does not apply, Carson Madrona is still 
+an additional insured as to the Perez claims under the catch-all additional insured provision, 
+Section II.6.f, of the Hartford Policy and the Additional Insured provision, Section II, of the Ace 
+Policy. 
+B. 
+The Post-Occurrence Lease Termination Agreement Does Not Absolve 
+Hartford or Ace from Coverage   
+It is undisputed that the accident resulting in Perez’s injuries occurred on May 17, 2016.  
+Mountain Depo. at 80:2-9.  It is undisputed that the Lease was in effect as of that date. Ex. 1.  It 
+was not terminated until December 21, 2017, 19 months after the accident occurred.  Hazzard 
+Decl. Ex. 15 ¶ 1.  It is thus indisputable that as of the date of the accident, Ashley had an 
+obligation to name Carson Madrona as an additional insured under its liability insurance policies.  
+Hazzard Decl. Ex. 1 at 27-28, § 23.1.  And, as discussed at length above, it is similarly 
+indisputable that Carson Madrona was an additional insured under the Hartford Policy and the Ace 
+Policy as of that date. 
+                                                 
+13 Carson Madrona appealed that decision, seeking a reversal and new trial.  Hazzard Decl. ¶ 18.  
+But Hartford prematurely dropped its defense of Carson Madrona, and Hartford and Ace both 
+denied coverage after the judgment was entered.  Id. ¶ 19.  At the same time, Carson Madrona’s 
+own insurers, Ohio Security Insurance Company and American Fire and Casualty Company, 
+tendered their policy limits of $1 million and $10 million, respectively, to Carson Madrona after 
+entry of the judgment, which left Carson Madrona on its own with respect to the remainder of the 
+judgment and 10% per annum interest (approximately $3.56 million per year).  Cal. Code Civ. 
+Proc. § 685.010; Hazzard Decl. ¶ 20.  Carson Madrona was forced to settle with the Perez’s to 
+avoid the possibility of having to pay millions more in interest to the Perezes.  Hazzard Decl. ¶ 20. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 23 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+24 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+Hartford and Ace contend that, notwithstanding these undisputed and indisputable facts, 
+they were released from their coverage and defense obligations by the Lease Termination 
+Agreement entered into at the end of 2017.  That agreement terminated the Lease, and contains the 
+following release language: 
+“7.1 
+Landlord’s Release of Tenant.  Upon receipt of the early 
+termination fee, Landlord, on behalf of itself, and its and their 
+respective members, managers, officers, principals, shareholders, 
+subsidiaries, employees, agents, representatives, predecessors, 
+successors and assigns (collectively, the “Landlord Releasing 
+Parties”), hereby fully and unconditionally waives, releases, remises 
+and forever discharges Tenant and it Tenant Affiliates, and its and 
+their respective officers, directors, members, managers, principals, 
+shareholders, parents, subsidiaries, employees, agents, 
+representatives, successors and assigns (collectively, the “Tenant 
+Released Parties”) from any and all obligations, claims, demands, 
+losses, damages, liabilities, debts, dues, accounts, controversies, 
+actions or causes of action, whether known or unknown, direct or 
+indirect, foreseen or unforeseen, contingent or actual, liquidated or 
+unliquidated, suspected or claimed, which the Landlord Releasing 
+Parties ever had, now has, or may hereafter have or claim to have 
+had against the Tenant Released Parties arising directly or indirectly 
+out of, based upon, or related in any way to the Premises or the 
+Lease (collectively, the “Landlord Released Claims”, but 
+specifically excepting and excluding from Landlord Released 
+Claims those Tenant obligations, if any, which result from Lease 
+Section 5.6 and Section 6.5 and any New damage as set forth in 
+Section 4.6 above.” 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 24 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+25 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+Ex. 15 at 369, § 7.1. The Lease Termination Agreement also contains the following language: 
+“Except as and to the extent expressly otherwise provided in this Agreement, the Lease shall 
+continue in full force and effect in accordance with the terms and provisions thereof.”  Id. at 368, § 
+6.  The Lease Termination Agreement also contains an integration clause.  Id. at 369-70, § 9.  
+Nothing in the Lease Termination Agreement purports to release any insurer of any obligation it 
+may have to Carson Madrona.  Indeed, the word “insurer” does not appear in the long list of 
+persons and entities who were released by Carson Madrona.  Insurers do not logically fit into any 
+of the categories of Tenant Released Parties. 
+The Hartford and Ace Policies are “occurrence” policies—they cover “‘bodily injury’ or 
+‘property damage’ [which] occurs during the policy period.”  Ex. 3 at 66, § I.A.1.b(2); Ex. 4 at 
+172, § I.A.b.  With respect to occurrence-based policies like these, “California courts have long 
+established that coverage in the context of a liability policy is established at the time the 
+complaining party was actually damaged.”  A. C. Label Co. v. Transamerica Ins. Co., 48 Cal. 
+App. 4th 1188, 1192 (1996) (quoting Montrose Chem. Corp. v. Admiral Ins. Co., 10 Cal.4th 645, 
+669 (1995)) .  The loss is the triggering event under such policies, and an insurer whose policy is 
+in force at that time is responsible for indemnifying and defending the insured, regardless of when 
+any claim for the loss is made.  Id.  “Coverage questions arising under a CGL occurrence policy 
+must be resolved based on the facts in existence at the time that the damage occurred.”  Id. 
+On May 17, 2016, the Lease requiring that Carson Madrona be named as an insured under 
+Ashley’s policies was in effect.  On that date, the Hartford and Ace Policies were in effect.  On 
+that date, Carson Madrona was an additional named insured under the terms of the Policies.  On 
+that date, the accident occurred and Perez was injured.  Under the longstanding California 
+authorities discussed above, on that date, Hartford’s and Ace’s obligations to defend and 
+indemnify Carson Madrona as an additional insured were triggered and fixed.   
+That should be the end of the story, for the release of Ashley that took place 19 months 
+later does not purport to affect Hartford’s and Ace’s obligation to defend and indemnify Carson 
+Madrona.  Despite broad release language covering the parties to the lease and their officers, 
+directors, shareholders, agents, successors, etc., insurers were not included in the release.  Nothing 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 25 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+26 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+in the release language indicates any intent to release the insurers from obligations that had 
+already been triggered under policies that were in force at a time when Ashley was required to 
+provide additional insured coverage to Carson Madrona.  The Lease Termination Agreement is 
+unambiguous in this regard—Ashley was released of various obligations, but the insurers, who 
+were not even parties to the Agreement, were not.14 
+C. 
+The Insurers Had a Duty to Defend Carson Madrona   
+Both the Hartford and the Ace Policies require that the insurers defend Carson Madrona 
+from covered claims.  Hazzard Decl. Ex. 3 at 66, § I.A.1 (Hartford has “duty to defend the insured  
+against any ‘suit’” seeking covered damages); Ex. 4 at 172, § I.A. (Ace has duty to defend if 
+underlying policy is exhausted of where coverage provided under Ace policy but not underlying 
+policy).  Because there is coverage under both policies, there is also a duty to defend under both 
+policies.  
+IV. 
+CONCLUSION 
+For all of the reasons set forth above, the Court should grant partial summary judgment, 
+and issue an order stating: 
+(a) 
+That insurance policy number 41 CSE S30502 issued by Plaintiff and Counter-
+defendant Hartford Fire Insurance Company provides coverage to Carson Madrona 
+for the claims made and judgment entered against it in the Underlying Lawsuit;  
+(b) 
+That insurance policy number G27937500 001 issued by Third-Party Defendant 
+Ace Property & Casualty Insurance Company , provides coverage to Carson 
+Madrona for the claims made and judgment entered against it, in the Underlying 
+Lawsuit;  
+                                                 
+14 Despite extensive research, Carson Madrona’s counsel has been unable to find any authority for 
+the proposition that under California law, a termination of a lease and releases given in connection 
+therewith that do not even mention an insurer can relieve that insurer from additional insured 
+coverage and defense obligations that had previously been triggered by an occurrence. 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 26 of 27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+ 
+ 
+  
+27 
+CARSON MADRONA COMPANY, LLC’S MOTION FOR PARTIAL SUMMARY JUDGMENT 
+(c) 
+That Hartford and Ace are required to indemnify Carson Madrona for the judgment 
+entered against it the Underlying Lawsuit, including pre- and post-judgment 
+interest and costs;  
+(d) 
+That because Hartford has a duty to indemnify Carson Madrona, it also had a duty 
+to defend Carson Madrona in the Underlying Lawsuit; 
+(e) 
+In favor of Carson Madrona and against Hartford on the First, Second and Third 
+Claims for Relief asserted in Hartford’s First Amended Complaint; and 
+(f) 
+In favor of Carson Madrona on the First Claim for Relief in its Counterclaims 
+against Hartford and First Claim for Relief in its Third-Party Complaint against 
+Ace, each of which seeks a declaration that Hartford and Ace have duties to defend 
+and indemnify Carson Madrona from the claims asserted against it in the 
+Underlying Lawsuit. 
+DATED:  December 31, 2024 
+RESPECTFULLY SUBMITTED, 
+MITCHELL SILBERBERG & KNUPP LLP  
+JEAN PIERRE NOGUES 
+YAKUB HAZZARD 
+IAN T. LOGAN 
+By:  
+ 
+Yakub Hazzard 
+Attorneys for Defendant 
+Carson Madrona Company, LLC 
+Case 3:23-cv-06259-VC     Document 63     Filed 12/31/24     Page 27 of 27

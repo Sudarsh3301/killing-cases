@@ -1,0 +1,5799 @@
+EXHIBIT 1  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 1 of 255 PageID #:
+208106
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 2 of 255 PageID #:
+208107
+1
+1      IN THE UNITED STATES DISTRICT COURT
+2       FOR THE DISTRICT OF DELAWARE
+3
+4  ___________________________
+5  THOMSON REUTERS ENTERPRISE )
+6  CENTRE GMBH and WEST    )
+7  PUBLISHING CORPORATION,   )
+8        Plaintiffs and ) C.A. No. 20-613
+9      Counterdefendants  ) (LPS)
+10  v.             )
+11  ROSS INTELLIGENCE, INC.,  ) HIGHLY CONFIDENTIAL
+12        Defendant and  )
+13       Counterclaimant. )
+14  ___________________________)
+15
+16
+17  ---  This is the transcript of the videotaped
+18  Deposition of,  JIMOH OVBIAGELE, taken at the
+19  offices of Regus - Toronto Airport Corporate
+20  Centre, Mississauga, Ontario, Canada, on the
+21  12th day of April, 2022.
+22           ------------
+23
+24  REPORTED BY:  Helen Martineau, CSR
+25  VIDEOGRAPHER:  Bruno Silva
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 3 of 255 PageID #:
+208108
+2
+1  A P P E A R A N C E S:
+2  FOR THE PLAINTIFF:
+3  KIRKLAND & ELLIS LLP
+4  PER:  Joshua L. Simmons, Esq.
+5  & Eric Loverro, Esq.
+6  601 Lexington Avenue
+7  New York, New York
+8  Tel. (212) 446-4989
+9  Email:   joshua.simmons@kirkland.com
+10       eric.loverro@kirkland.com
+11
+12  FOR THE DEFENDANT:
+13  CROWELL & MORING LLP
+14  PER:  Warrington Parker, Esq.
+15  & Jacob Canter, Esq.
+16  3 Embarcadero Center, 26th Floor
+17  San Francisco, California
+18  94111
+19  Tel.  (415) 365-7234
+20  Email:   wparker@crowell.com
+21       jcanter@crowell.com
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 4 of 255 PageID #:
+208109
+3
+1          INDEX OF EXHIBITS
+2  NO./ DESCRIPTION               PAGE
+3  1   Plaintiff's 30(b)(6) Notice to      11
+4     ROSS.
+5  2   Document entitled "Statement of     115
+6     Work II of ROSS bulk memos";
+7     Bates numbered TR-0000568 to
+8     581.
+9  3   Slack conversation, dated        147
+10     June 15th, 2017; Bates numbered
+11     ROSS-009637399 to 7400.
+12  4   Email exchange, top email from      150
+13     Thomas Van Der Heijden to Andrew
+14     Arruda, and others, dated
+15     September 15th, 2017; Bates
+16     numbered ROSS-009558474 to 8475.
+17  5   Email exchange, top email from      175
+18     Jimoh Ovbiagele to Andrew
+19     Arruda, and others, dated August
+20     4, 2017; Bates numbered
+21     ROSS-003537612 to 7613.
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 5 of 255 PageID #:
+208110
+THOMSON REUTERS vs
+ROSS INTELLIGENCE
+Highly Confidential
+Jimoh Ovbiagele
+www.LexitasLegal.com/Premier
+Lexitas
+4
+1          INDEX OF EXHIBITS
+2  NO./ DESCRIPTION               PAGE
+3  6   Email exchange, to email from      196
+4     Andrew Arruda to Thomas
+5     Hamilton, and others, dated
+6     July 29th, 2015; Bates numbered
+7     ROSS-003334354.
+8  7   Email exchange, top email from      199
+9     Thomas Hamilton to Shazina
+10     Razeen, dated September 20,
+11     2015; Bates numbered
+12     ROSS-003610162 to 0165.
+13  8   Slack Notifications from the       203
+14     ROSS Inc. team for February 16,
+15     2015; Bates numbered
+16     ROSS-003391075.
+17  9   Email from Asana to Jimoh        207
+18     Ovbiagele, dated June 6, 2015,
+19     re: Updated tasks; Bates
+20     numbered ROSS-009585472.
+21  10  Email exchange, top email from      213
+22     Thomas Hamilton to Andre Arruda,
+23     and others, dated
+24     September 25th, 2015; Bates
+25     numbered ROSS-003389728 to 9730.
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 6 of 255 PageID #:
+208111
+THOMSON REUTERS vs
+ROSS INTELLIGENCE
+Highly Confidential
+Jimoh Ovbiagele
+www.LexitasLegal.com/Premier
+Lexitas
+5
+1          INDEX OF EXHIBITS
+2  NO./ DESCRIPTION               PAGE
+3  11  Email exchange, top email from      215
+4     Thomas Hamilton to Andrew
+5     Arruda, dated September 29,
+6     2015; Bates numbered
+7     ROSS-010164415 to 4417.
+8  12  Slack conversation dated May 17,     228
+9     2019; Bates numbered
+10     ROSS-003718400 to 8406.
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 7 of 255 PageID #:
+208112
+THOMSON REUTERS vs
+ROSS INTELLIGENCE
+Highly Confidential
+Jimoh Ovbiagele
+www.LexitasLegal.com/Premier
+Lexitas
+6
+1        PRODUCTION REQUESTS
+2
+3   PRODUCTION REQUESTS are denoted by P/R
+4  and are found on the following Page/Line:
+5           94/12;
+6           100/23;
+7           109/14;
+8           232/17.
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 8 of 255 PageID #:
+208113
+THOMSON REUTERS vs
+ROSS INTELLIGENCE
+Highly Confidential
+Jimoh Ovbiagele
+www.LexitasLegal.com/Premier
+Lexitas
+7
+1  --  Upon commencing at 9:20 a.m.
+2       THE VIDEOGRAPHER:  Good morning.  We
+3  are going on the record at 9:20 a.m. on
+4  April 12th, 2022.  This is media unit number one
+5  of the video deposition of Jimoh Ovbiagele in
+6  the matter of Thomson Reuters Enterprise Centre
+7  GmbH et al. versus ROSS Intelligence Inc., case
+8  number CA-20-613(LPS), filed in the United
+9  States District Court of Delaware.
+10       This deposition is being held at
+11  Regus, Toronto Airport Corporate Centre, 2425
+12  Matheson, 8th Floor, Mississauga, Ontario, L4W
+13  5K4.
+14       My name is Bruno Silva, CLVS, on
+15  behalf of Philadelphia, and I am a videographer.
+16  The court reporter is Helen Martineau on behalf
+17  of Philadelphia.
+18       Will counsel please introduce
+19  yourselves followed by the court reporter
+20  swearing in the witness.
+21       MR. SIMMONS:  Joshua Simmons from
+22  Kirkland & Ellis, and with me is Eric Loverro.
+23  We represent the plaintiffs in this matter.
+24       MR. PARKER:  And I'm Warrington Parker
+25  and with me is Jacob Canter and we represent the
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 9 of 255 PageID #:
+208114
+THOMSON REUTERS vs
+ROSS INTELLIGENCE
+Highly Confidential
+Jimoh Ovbiagele
+www.LexitasLegal.com/Premier
+Lexitas
+8
+1  defendant.
+2       THE VIDEOGRAPHER:  Would the court
+3  reporter please swear in the witness.
+4       JIMOH OVBIAGELE:  AFFIRMED.
+5       CROSS-EXAMINATION BY MR. SIMMONS:
+6       Q.  Good morning, from Ovbiagele.
+7  Would you please state your address for the
+8  record?
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 10 of 255 PageID #:
+208115
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 11 of 255 PageID #:
+208116
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 12 of 255 PageID #:
+208117
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 13 of 255 PageID #:
+208118
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 14 of 255 PageID #:
+208119
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 15 of 255 PageID #:
+208120
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 16 of 255 PageID #:
+208121
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 17 of 255 PageID #:
+208122
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 18 of 255 PageID #:
+208123
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 19 of 255 PageID #:
+208124
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 20 of 255 PageID #:
+208125
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 21 of 255 PageID #:
+208126
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 22 of 255 PageID #:
+208127
+241
+1         REPORTER'S CERTIFICATE
+2
+3       I, HELEN MARTINEAU, CSR, Certified
+4  Shorthand Reporter, certify;
+5       That the foregoing proceedings were
+6  taken before me at the time and place therein
+7  set forth, at which time the witness was put
+8  under oath by me;
+9       That the testimony of the witness and
+10  all objections made at the time of the
+11  examination were recorded stenographically by me
+12  and were thereafter transcribed;
+13       That the foregoing is a true and
+14  accurate transcript of my shorthand notes so
+15  taken.  Dated this 19th day of April, 2022.
+16
+17
+18       ______________________________
+19       PER:  HELEN MARTINEAU
+20       CERTIFIED SHORTHAND REPORTER
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 23 of 255 PageID #:
+208128
+Signature and Errata Sheet
+April 12, 2022 Deposition of Jimoh Ovbiagele
+Thomson Reuters Enterprise Centre GMBH and West Publishing Corporation v. ROSS
+Intelligence Inc.
+I, Jimoh Ovbiagele, have reviewed the attached transcript of my April 12, 2022
+deposition testimony, and certify, pursuant to 28 U.S.C. § 1746 that the attached transcript is my
+true and correct testimony during that deposition, subject to the corrections shown below.
+Page/Line
+Now Reads
+Correction
+Reason
+15:14
+did
+didn’t
+Transcription error
+15:22
+Ross
+ROSS
+Correct spelling
+21:02
+“sic”
+Delete “sic”
+Transcription error
+21:24
+“about”
+“about what”
+Transcription error
+23:18
+and
+of
+Transcription error
+26:08
+“your”
+Delete “your”
+Clarification
+28:05
+Ross
+ROSS
+Correct spelling
+32:01
+Hayden
+Heijden
+Correct spelling
+32:05
+Hayden
+Heijden
+Correct spelling
+32:08
+Hayden
+Heijden
+Correct spelling
+32:11
+Hayden
+Heijden
+Correct spelling
+32:16
+Ross
+ROSS
+Correct spelling
+32:23
+Ross
+ROSS
+Correct spelling
+35:19
+Ross
+ROSS
+Correct spelling
+52:25
+That
+where
+Clarification
+55:09
+Ross
+ROSS
+Correct spelling
+56:02
+Ross
+ROSS
+Correct spelling
+61:24
+starts
+start
+Transcription error
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 24 of 255 PageID #:
+208129
+81:09
+Ross
+ROSS
+Correct spelling
+109:14-17
+Bolded text
+Text should not be
+bold
+Bold text indicates
+deponent speaking
+but that is not the
+case
+157:03
+Thomas
+Tomas
+Correct spelling
+215:10
+if
+is
+Transcription error
+Executed on May 25, 2022, at 579 Transversal 1a 501, Bogotá, Bogotá 110231, Colombia.
+________________
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 25 of 255 PageID #:
+208130
+EXHIBIT 2  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 26 of 255 PageID #:
+208131
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 27 of 255 PageID #:
+208132
+1
+               VOLUME 1
+               PAGES:  1-311
+               EXHIBITS:  See Index
+     UNITED STATES DISTRICT COURT
+     FOR THE DISTRICT OF DELAWARE
+____________________________
+              )
+THOMSON REUTERS ENTERPRISE  )
+CENTRE GMBH and WEST     )
+PUBLISHING CORPORATION,   )
+              )
+    Plaintiffs and    ) C.A. No. 20-613 (LPS)
+    Counterdefendants,  )
+              )
+ v.            )  HIGHLY CONFIDENTIAL
+              )
+ROSS INTELLIGENCE, INC.,   )
+              )
+    Defendant and    )
+    Counterclaimant.   )
+              )
+____________________________)
+   VIDEOTAPED DEPOSITION of ANDREW ARRUDA
+    - CONDUCTED BY VIDEOCONFERENCE -
+      Wednesday, March 30, 2022
+     9:06 a.m. Pacific Daylight Time
+      Michelle Keegan, RMR, CRR
+           Lexitas
+    508-478-9795 ~ 508-478.0595 (Fax)
+       www.LexitasLegal.com
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 28 of 255 PageID #:
+208133
+2
+A P P E A R A N C E S:
+ KIRKLAND & ELLIS LLP
+ By:  Dale Cendali, Esq.
+ By:  Eric Loverro, Esq.
+ 601 Lexington Avenue
+ New York, New York 10022
+ Phone:  (212) 226-4800
+ Email:  dale.cendali@kirkland.com
+ Email:  eric.loverro@kirkland.com
+ Counsel for Plaintiffs Thomson Reuters and West
+ Publishing
+ CROWELL & MORING LLP
+ By:  Warrington Parker, Esq.
+ 3 Embarcadero Center, 26th Floor
+ San Francisco, California 94111
+ Phone:  (415) 986-2800
+ Email:  wparker@crowell.com
+ Counsel for Defendant ROSS Intelligence, Inc.
+ CROWELL & MORING LLP
+ By:  Crinesha B. Berry, Esq.
+ 1001 Pennsylvania Avenue NW
+ Washington, D.C. 20004
+ Phone:  (202) 624-2500
+ Email:  cberry@crowell.com
+ Counsel for Defendant ROSS Intelligence, Inc.
+Also Present:
+ Adrian Beltran, Videographer
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 29 of 255 PageID #:
+208134
+www.LexitasLegal.com/Premier
+Lexitas
+3
+          I N D E X
+Videotaped Deposition of:           Page
+ANDREW ARRUDA
+ By Ms. Cendali                 9
+         E X H I B I T S
+No.                      Page
+Exhibit 1  [Proposed] Stipulated Protective   17
+      Order, in USDC, District of
+      Delaware, 20-613 (LPS), 27 pages
+      without Bates numbering
+Exhibit 2  Andrew Arruda LinkedIn profile    26
+      pages
+Exhibit 3  December 2018 and January 2019    71
+      e-mail chain, Bates-numbered
+      ROSS-003487472 through -7474
+Exhibit 4  Document titled "Powered by IBM   102
+      Watson Application
+      Executive Summary,"
+      Bates-numbered ROSS-003705907
+      through -5908
+Exhibit 5  Declaration of Andrew Arruda, in  113
+      USDC, District of Minnesota,
+      18-cv-01445, three pages without
+      Bates numbering
+Exhibit 6  Facebook pages, Bates-numbered   115
+      TR-0001119 through -1122
+Exhibit 7  Andrew Arruda tweet,        122
+      Bates-numbered TR-0001735
+Exhibit 8  Document titled "The Death of    126
+      Westlaw Contracts and Pricing,"
+      Bates-numbered TR-0000695
+      through -696
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 30 of 255 PageID #:
+208135
+www.LexitasLegal.com/Premier
+Lexitas
+4
+       EXHIBITS (continued)
+Exhibit 9  ROSS tweet, Bates-numbered     128
+      TR-0001253
+Exhibit 10  Andrew Arruda tweet,        129
+      Bates-numbered TR-0001733
+Exhibit 11  Andrew Arruda tweet,        131
+      Bates-numbered TR-0001734
+Exhibit 12  ROSS Intelligence, Inc. Detailed  133
+      Capitalization Table, 13 pages,
+      each Bates-numbered
+      ROSS-010106819
+Exhibit 13  1/7/20 e-mail, Bates-numbered    135
+      ROSS-009584733 through -4735
+Exhibit 14  Reprint of PowerPoint slides    150
+      titled "ROSS Board Meeting,
+      January 14, 2020,"
+      Bates-numbered ROSS-003715393
+      through -5406
+Exhibit 15  April 2020 e-mail chain,      184
+      Bates-numbered FASTCASE_084268
+      through -84270
+Exhibit 16  ROSS document, "Announcement By   217
+      The Founders," Bates-numbered
+      TR-0037677 through -37680
+Exhibit 17  "[Slack] Notifications from the   225
+      Ross Inc team for Feb 16th,
+      2015," Bates-numbered
+      ROSS-003391075
+Exhibit 18  6/6/15 e-mail, Bates-numbered    226
+      ROSS-009585472
+Exhibit 19  October 2015 e-mail chain,     231
+      Bates-numbered ROSS-003390881
+      through -0884
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 31 of 255 PageID #:
+208136
+www.LexitasLegal.com/Premier
+Lexitas
+5
+       EXHIBITS (continued)
+Exhibit 21  "Terms of Service, ROSS       235
+      Intelligence Inc, Last Modified:
+      April 28, 2020," Bates-numbered
+      TR-0001142 through -1153
+Exhibit 22  "Terms of Service, ROSS       241
+      Intelligence Inc, Last Modified:
+      June 15, 2020," Bates-numbered
+      TR-0001154 through -1165
+Exhibit 24  August 2015 e-mail chain,      246
+      Bates-numbered ROSS-009559997
+      through -9998
+Exhibit 25  September 2015 e-mail chain,    251
+      Bates-numbered ROSS-003389728
+      through -9730
+Exhibit 26  September 2015 e-mail chain,    256
+      Bates-numbered ROSS-010164415
+      through -4417
+Exhibit 27  October 2015 e-mail chain,     269
+      Bates-numbered ROSS-000203449
+      through -3467
+Exhibit 29  Document with heading        304
+      "mpdm-thomas--findingjimoh--
+      maxisakov--tomasvdh-1:
+      2016-12-26," Bates-numbered
+      ROSS-009637509
+Exhibit 31  September 2015 e-mail chain,    298
+      Bates-numbered ROSS-003610162
+      through -0165
+Exhibit 32  10/11/15 e-mail, Bates-numbered   301
+      ROSS-003610547
+Exhibit 34  "Westlaw is Suing Us.  Our     274
+      Response:" Bates-numbered
+      TR-0000587 through -590
+Exhibit 39  September 2015 e-mail chain,    260
+      Bates-numbered ROSS-009547818
+      through -7823
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 32 of 255 PageID #:
+208137
+www.LexitasLegal.com/Premier
+Lexitas
+6
+       EXHIBITS (continued)
+Exhibit 41  September 2015 e-mail chain,    265
+      Bates-numbered ROSS-023018635
+Exhibit 48  8/14/20 e-mail, Bates-numbered   188
+      ROSS-010186032 through -033
+Exhibit 49  Reprint of PowerPoint slides,    198
+      titled "ROSS Q3 Board Meeting,"
+      Bates-numbered ROSS-010106832
+      through -6840
+Exhibit 50  Undated redlined "Letter of     209
+      Intent for the Acquisition of
+      ROSS Intelligence, Inc.,"
+      Bates-numbered ROSS-010272041
+      through -046
+   REQUESTS FOR INFORMATION FROM WITNESS
+         Page   Line
+         195    21
+       REQUESTS FOR PRODUCTION
+         Page   Line
+          13    23
+          17     4
+          21     5
+          24    25
+          29     2
+          48     8
+          71     9
+          80    13
+          92     8
+         110    24
+         125     2
+         125    22
+         127    15
+         134    22
+         160     5
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 33 of 255 PageID #:
+208138
+www.LexitasLegal.com/Premier
+Lexitas
+7
+REQUESTS FOR PRODUCTION (continued)
+     Page   Line
+     169    11
+     195    22
+     203    25
+     208    17
+     211    12
+     217     5
+     231    23
+     245    14
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 34 of 255 PageID #:
+208139
+www.LexitasLegal.com/Premier
+Lexitas
+8
+       P R O C E E D I N G S
+   THE VIDEOGRAPHER:  Good morning, everyone.
+We are on the record on March 30, 2022, at
+approximately 9:06 a.m. Pacific Time, for the
+remote video deposition of Andrew Arruda in the
+matter of Thomson Reuters Enterprise Centre, GmbH,
+et al., versus ROSS Intelligence, Inc.
+   My name is Adrian Beltran, and I am the
+videographer for today.
+   Will counsel please introduce themselves
+for the record, beginning with the party noticing
+this proceeding.
+   MS. CENDALI:  I'm Dale Cendali of
+Kirkland & Ellis.  And with me is my colleague,
+Eric Loverro, also from Kirkland & Ellis.  We are
+counsel for Thomson Reuters and West Publishing.
+   MR. PARKER:  This is Warrington Parker
+appearing on behalf of ROSS Intelligence.
+   THE VIDEOGRAPHER:  Thank you, counsel.  If
+that is all -- I forgot to mention also I will be
+the document technician for today's deposition.
+   Now will the court reporter please swear
+in the witness.
+   MS. CENDALI:  Just to be clear, is there
+anyone else present on the line or video?
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 35 of 255 PageID #:
+208140
+www.LexitasLegal.com/Premier
+Lexitas
+9
+   MR. PARKER:  Crinesha Berry from Crowell &
+Moring is on the line.  She is not going to say
+anything at all.  She is just watching the
+deposition.
+   THE VIDEOGRAPHER:  Okay.  Thank you.  Now
+will the court reporter swear in the witness,
+please.  Thank you all.
+         ANDREW ARRUDA,
+having been satisfactorily identified and duly
+sworn by the Notary Public, was examined and
+testified as follows:
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 36 of 255 PageID #:
+208141
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 37 of 255 PageID #:
+208142
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 38 of 255 PageID #:
+208143
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 39 of 255 PageID #:
+208144
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 40 of 255 PageID #:
+208145
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 41 of 255 PageID #:
+208146
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 42 of 255 PageID #:
+208147
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 43 of 255 PageID #:
+208148
+SFACTIVE-906583926.1 
+Signature and Errata Sheet 
+March 30, 2022 Deposition of Andrew Arruda 
+Thomson Reuters Enterprise Centre GMBH and West Publishing Corporation v. ROSS 
+Intelligence Inc. 
+I, Andrew Arruda, have reviewed the attached transcript of my March 30, 2022 
+deposition testimony and certify, pursuant 28 U.S.C. § 1746 that the attached transcript is my 
+true and correct testimony during that deposition, subject to the corrections shown below. 
+Page/Line 
+Now Reads 
+Correction 
+Reason 
+23:17 
+any 
+anything 
+Transcription error 
+50:15 
+co. 
+company 
+Transcription error 
+51:15 
+“how.” 
+“how?” 
+Transcription error 
+53:21 
+ROSS 
+results 
+Transcription error 
+81:2 
+hard 
+all 
+Transcription error 
+164:4 
+would it look if 
+would it look like if 
+Clarification 
+171:24 
+“$MB ARR to +1M.” 
+“SMB ARR to +1M.” 
+Transcription error 
+210:12 
+MR. PARKER 
+MS. CENDALI 
+Transcription error 
+Executed on May , 2022, at San Francisco, CA. 
+ /s/
+ 
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 44 of 255 PageID #:
+208149
+310
+       STATE OF CALIFORNIA
+ I, Michelle Keegan, Registered Merit Reporter
+and Certified Shorthand Reporter for the State of
+California, do hereby certify that ANDREW ARRUDA,
+the witness whose deposition is hereinbefore set
+forth, was duly sworn by me and that such
+deposition is a true record, to the best of my
+ability, of the testimony given by the witness.
+ I further certify that I am neither related to
+or employed by any of the parties in or counsel to
+this action, nor am I financially interested in
+the outcome of this action.
+ In witness whereof, I have hereunto set my hand
+and seal this 11th day of April, 2022.
+        ______________________________
+        Michelle Keegan, CSR No. 13632
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 45 of 255 PageID #:
+208150
+EXHIBIT 3  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 46 of 255 PageID #:
+208151
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 47 of 255 PageID #:
+208152
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 48 of 255 PageID #:
+208153
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 49 of 255 PageID #:
+208154
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 50 of 255 PageID #:
+208155
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 51 of 255 PageID #:
+208156
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 52 of 255 PageID #:
+208157
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 53 of 255 PageID #:
+208158
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 54 of 255 PageID #:
+208159
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 55 of 255 PageID #:
+208160
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 56 of 255 PageID #:
+208161
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 57 of 255 PageID #:
+208162
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 58 of 255 PageID #:
+208163
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 59 of 255 PageID #:
+208164
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 60 of 255 PageID #:
+208165
+EXHIBIT 4  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 61 of 255 PageID #:
+208166
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 62 of 255 PageID #:
+208167
+1
+           HIGHLY CONFIDENTIAL
+1       IN THE UNITED STATES DISTRICT COURT
+         FOR THE DISTRICT OF DELAWARE
+2
+3
+4  IN RE MATTER OF:      )
+               )
+5  THOMSON REUTERS      )  C.A. No. 20-613(LPS)
+  ENTERPRISE CENTRE GMBH   )
+6  and WEST PUBLISHING    )
+  CORPORATION,        )
+7               )
+    Plaintiffs and     )
+8    Counterdefendants,   )
+               )
+9  VS.            )
+               )
+10  ROSS INTELLIGENCE,     )
+  INC.,           )
+11               )
+    Defendant and      )
+12    Counterclaimant.    )
+               )
+13
+14
+15        ORAL AND VIDEOTAPED DEPOSITION
+               OF
+16             TARIQ HAFEEZ
+             MAY 26, 2022
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 63 of 255 PageID #:
+208168
+2
+1
+2
+3       ORAL AND VIDEOTAPED DEPOSITION OF
+4  TARIQ HAFEEZ, produced as a witness at the
+5  instance of the Plaintiff and
+6  Counterdefendants and duly sworn, was taken in
+7  the above-styled and numbered cause on
+8  May 26, 2022, from 9:07 a.m. to 4:11 p.m.,
+9  before KATERI A. FLOT-DAVIS, CSR, CCR, in and
+10  for the State of Texas, reported by machine
+11  shorthand, pursuant to the Federal Rules of
+12  Civil Procedure and the provisions stated on
+13  the record herein.
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 64 of 255 PageID #:
+208169
+3
+1        A P P E A R A N C E S
+2
+3  FOR THE PLAINTIFF:
+4  JOSHUA SIMMONS, ESQ
+  ERIC LOVERRO, ESQ.
+5  Kirkland & Ellis LLP
+  601 Lexington Avenue
+6  New York, New York 10077
+  joshua.simmons@kirkland.com
+7  eric.loverro@kirkland.com
+8
+9  FOR THE DEFENDANT:
+10  WARRINGTON PARKER, ESQ.
+  CRINISHA BERRY, ESQ.
+11  GABRIEL RAMSEY, ESQ.
+  Crowell & Moring LLP
+12  3 Embarcadero Center
+  26th Floor
+13  San Francisco, California 94111
+  wparker@crowell.com
+14  cberry@crowell.com
+  gramsey@crowell.com
+15
+16
+  FOR THE WITNESS TARIQ HAFEEZ:
+17
+  TARIK D. TURFE, ESQ.
+18  Hammoud Dakhlallah & Associates
+  6050 Greenfield
+19  Ste. 201
+  Dearborn, Michigan 48126
+20  tt@hdalawgroup.com
+21
+22
+  Also Present:
+23  Kimberly Villalobos, Videographer
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 65 of 255 PageID #:
+208170
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+4
+1            INDEX
+2
+                       PAGE
+3
+4
+5  Appearances........................     3
+6
+7
+8  TARIQ HAFEEZ
+9
+10    Examination by Mr. Simmons..........   20
+11    Examination by Mr. Parker...........  181
+12    Examination by Mr. Simmons..........  322
+13    Examination by Mr. Parker...........  353
+14    Examination by Mr. Simmons..........  357
+15
+16
+17
+  Signature and Changes...................  359
+18
+  Reporter's Certificate..................  361
+19
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 66 of 255 PageID #:
+208171
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+5
+1            EXHIBITS
+2
+  NO.      DESCRIPTION         PAGE
+3
+4
+  Exhibit 1   Subpoena to Testify at
+5         Deposition in a Civil
+         Action for LegalEase
+6         Solutions, LLC c/o
+         Tariq Hafeez............    22
+7
+8
+  Exhibit 2   Settlement Agreement,
+9         Bates Stamped
+         TR-0035897..............    35
+10
+11
+  Exhibit 3   Best Practices Guide for
+12         ROSS Intelligence,
+         last revised on
+13         September 18, 2017
+         Bates Stamped
+14         LEGALEASE-00078065.......    57
+15
+16  Exhibit 4   Email from Adityka
+         Lokanandi to Teri
+17         Whitehead, et al., dated
+         July 20, 2017, Subject:
+18         Ross Bulk Memo Production
+         Metrics - Update - July 19,
+19         Bates Stamped
+         R-LEGALEASE-00050718......   73
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 67 of 255 PageID #:
+208172
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+6
+1
+2
+3  Exhibit 5   Email from Teri Whitehead
+         to Saloni Agari
+4         Dwarakanath, dated
+         10/24/2017, Subject:
+5         Good/Great Quotes
+         Bates Stamped
+6         TR-0073545.................   82
+7
+8  Exhibit 6   Morae Global Project Rose
+         Project Protocol, updated
+9         November 19, 2017,
+         Bates Stamped
+10         TR-0178604................   91
+11
+12  Exhibit 7   Email from Merin Sony to
+         Tario Cameron, dated
+13         August 21, 2017, Subject:
+         WL Registration Keys,
+14         Bates Stamped
+         LEGALLEASE-00067320.......   94
+15
+16
+  Exhibit 8   Consent Judgment and
+17         Stipulated Permanent
+         Injunction................   116
+18
+19
+  Exhibit 9   Letter to Tariq Akbar from
+20         Andrew Arruda, Re: Notice
+         of Indemnifiable Claim and
+21         Demand for Indemity from
+         LegalEase Solutions LLC,
+22         Bates Stamped
+         LEGALEASE-00171823........   123
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 68 of 255 PageID #:
+208173
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+7
+1
+2
+3  Exhibit 10  Email from Tariq Hafeez
+         to KD; MN, dated June 9,
+4         2021, Subject: LegalEase
+         Position on Indemnification
+5         Request, Bates Stamped
+         LEGALEASE-00171828.......   126
+6
+7
+  Exhibit 11  Email from Akash Venkat to
+8         Thomas, dated September 21,
+         2015, Subject: Legal
+9         Research Inquiry,
+         Bates Stamped
+10         ROSS-003277880...........   140
+11
+12  Exhibit 12  Email from Tariq Hafeez to
+         Teri Whitehead, dated
+13         January 17, 2018, Subject:
+         Westlaw Termination,
+14         Bates Stamped
+         R-LEGALEASE-00101636.....   145
+15
+16
+  Exhibit 13  Email from Tomas
+17         Van der Heijden to Teri
+         Whitehead, dated
+18         September 12, 2017,
+         Subject: Sample Memos +
+19         SOW, Bates Stamped
+         ROSS-000176146............   164
+20
+21
+  Exhibit 14  Email from Tomas van der
+22         Heijden to Teri Whitehead,
+         dated November 13, 2017,
+23         Subject: Lengthy
+         Paragraphs-ROSS Bulk Memos,
+24         Bates Stamped
+         ROSS-000204366.............  169
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 69 of 255 PageID #:
+208174
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+8
+1
+2
+3  Exhibit 15   Email from Teri Whitehead
+         to Tomas van der Heijden,
+4         Dated December 22, 2017,
+         Subject: Classifier
+5         Part II, Bates Stamped
+         ROSS-000197949............  174
+6
+7
+  Exhibit 16   Email from Thomas Hamilton
+8         to Tariq Hafeez, dated
+         July 15, 2015, Subject:
+9         Outsourcing Legal
+         Research, Bates Stamped
+10         ROSS-02301823.............  180
+11
+12  Exhibit 17   Master Service Agreement,
+         dated October 15, 2015,
+13         Bates Stamped
+         TR-0038909................  185
+14
+15
+  Exhibit 18   Statement of Work, dated
+16         October 15, 2015,
+         Bates Stamped
+17         TR-0038921................  187
+18
+19  Exhibit 19   Email from Thomas Hamilton
+         to Andrew Arruda, dated
+20         January 4, 2016, Subject:
+         Questions for January,
+21         Bates Stamped
+         ROSS-010157007............  189
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 70 of 255 PageID #:
+208175
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+9
+1
+2
+3  Exhibit 20   Email from Andrew Arruda
+         to Tariq Hafeez, dated
+4         April 21, 2016, Subject:
+         ROSS/LegalEase,
+5         Bates Stamped
+         ROSS-000201544...........   190
+6
+7
+  Exhibit 21   Email from Teri Whitehead
+8         to Tomas van der Heijden,
+         dated July 24, 2016,
+9         Subject: Revised Memos
+         977, 1032, 1091, 1208, 1336,
+10         1391, 1422, 1471, 1486,
+         1492, 1234, Bates Stamped
+11         ROSS-000176798...........   194
+12
+13  Exhibit 22   Memorandum #1234,
+         Bates Stamped
+14         ROSS-000176800...........   194
+15
+16  Exhibit 23   Email from Andrew Arruda to
+         Teri Whitehead, dated
+17         September 14, 2016, Subject:
+         Ross, Bates Stamped
+18         ROSS-000197791...........   196
+19
+20  Exhibit 24   Email from Andrew Arruda to
+         Teri Whitehead, dated
+21         February 10, 2017, Subject:
+         LegalEase Solutions and
+22         ROSS-Q1 2017 Meeting,
+         Bates Stamped
+23         ROSS-000201630.............  199
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 71 of 255 PageID #:
+208176
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+10
+1
+2
+3  Exhibit 25  Email from Teri Whitehead to
+         Tomas van der Heijden, dated
+4         June 13, 2017, Subject:
+         ROSS Scale-Up Query,
+5         Bates Stamped
+         ROSS-000197671..............  204
+6
+7
+  Exhibit 26  Email from Teri Whitehead to
+8         Tomas van der Heijden, dated
+         June 23, 2017, Subject:
+9         LegalEase ROSS RFP,
+         Bates Stamped
+10         ROSS-000304847..............  209
+11
+12  Exhibit 27  Email from Teri Whitehead to
+         Tomas van der Heijden,
+13         dated June 27, 2017, Subject:
+         Revised Proposal,
+14         Bates Stamped
+         ROSS-000176758..............  211
+15
+16
+  Exhibit 28  Response to Ross Request for
+17         Proposal, LegalEase
+         Solutions June 27, 2017,
+18         ROSS-000176759..............  211
+19
+20  Exhibit 29  Email from Teri Whitehead to
+         Andrew Arruda, et al.,
+21         dated July 7, 2017, Subject:
+         LegalEase Quality Control
+22         Guide for ROSS Bulk Memos,
+         Bates Stamped
+23         ROSS-000176768..............  213
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 72 of 255 PageID #:
+208177
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+11
+1
+2
+3  Exhibit 30  Quality Control Guide for
+         ROSS Intelligence,
+4         Bates Stamped
+         ROSS-000176770.............  213
+5
+6
+  Exhibit 31  Email from Aditya
+7         Lokanandi to Teri Whitehead
+         dated July 20, 2017,
+8         Subject: Ross Bulk Memo
+         Production Metrics-Update
+9         July 19, Bates Stamped
+         TR-0039879.................  220
+10
+11
+  Exhibit 32  Excel spreadsheet
+12         Bates Stamped
+         R-LEGALEASE-00140064.......  221
+13
+14
+  Exhibit 33  Email from Merin Sony to
+15         Rejitha R, dated July 20,
+         2017, Subject: ROSS Bulk
+16         Memo-July 21, 2017,
+         Bates Stamped
+17         R-LEGALEASE-00050673.......  225
+18
+19  Exhibit 34  Email from Aditya
+         Lokanandi to Tariq Akbar,
+20         dated July 26, 2017,
+         Subject: MOM-Discussion on
+21         ROSS Activity Automation,
+         Bates Stamped
+22         R-LEGALEASE-00067492.......  229
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 73 of 255 PageID #:
+208178
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+12
+1
+2
+3  Exhibit 35  Email from Merin Sony to
+         Muhammed Ansad, dated
+4         July 31, 2017, Subject:
+         ROSS Process Automation
+5         Meeting with Ansad,
+         Bates Stamped
+6         R-LEGALEASE-00067463.......  231
+7
+8  Exhibit 36  Strategic Alliance
+         Agreement Between LegalEase
+9         and Morae Global
+         Corporation, dated August
+10         31, 2017, Bates Stamped
+         TR-0039933.................  236
+11
+12
+  Exhibit 37  Email from Aditya
+13         Lokanandi to Muhammed Ansad,
+         dated September 6, 2017,
+14         Subject: Activity
+         Automation Tool Updated,
+15         Bates Stamped
+         R-LEGALEASE-00067493.......  239
+16
+17
+  Exhibit 38  Email from Tomas van der
+18         Heijden to Teri Whitehead,
+         dated September 15, 2017,
+19         Subject: Final SOW,
+         Bates Stamped
+20         ROSS-000304769..............  242
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 74 of 255 PageID #:
+208179
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+13
+1
+2
+3  Exhibit 39  Email from Tomas van der
+         Heijden to Teri Whitehead,
+4         dated September 22, 2017,
+         Subject: Questions
+5         Variation Task,
+         Bates Stamped
+6         ROSS-000198151............   243
+7
+8  Exhibit 40  Email from Keerthi
+         Ravindran to Ansad, dated
+9         September 24, 2017, Subject:
+         ROSS Bulk Tool/Zoho,
+10         Bates Stamped
+         R-LEGALEASE-00049399.....   245
+11
+12
+  Exhibit 41  Best Practices Guide for
+13         ROSS Intelligence, last
+         Revised on September 18,
+14         2017, Bates Stamped
+         TR-0039860................   247
+15
+16
+  Exhibit 42  Email from Muhammed Ansad to
+17         Aditya Lokanandi, et al.,
+         dated September 26, 2017,
+18         Subject: Technical
+         Understanding of the Tool,
+19         Bates Stamped
+         TR-0039885................   248
+20
+21
+  Exhibit 43  LegalEase Login webpage,
+22         Bates Stamped
+         R-LEGALEASE-00154874......   249
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 75 of 255 PageID #:
+208180
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+14
+1
+2
+3  Exhibit 44  Email from Rohit Baben to
+         Merin Sony, dated
+4         November 9, 2017, Subject:
+         Framing Questions using
+5         Lexis headnotes,
+         Bates Stamped
+6         R-LEGALEASE-00067565.....   268
+7
+8  Exhibit 45  Email from Teri Whitehead to
+         Christopher Cahn, dated
+9         10/3/2017, Subject: Clutch
+         Topics, Bates Stamped
+10         TR-0048605...............   270
+11
+12  Exhibit 46  Email from Teri Whitehead to
+         Christopher Cahn, dated
+13         10/3/2017, Subject: Bulk
+         Project-Macro Enabled
+14         Templates, Bates Stamped
+         TR-0048620...............   273
+15
+16
+  Exhibit 47  Email from Moon Saleh to
+17         Christopher Cahn, dated
+         10/4/2017, Subject: Best
+18         Practices Guide-Minimum
+         Topics, Bates Stamped
+19         TR-0048725...............   274
+20
+21  Exhibit 48  Westlaw webpage,
+         Bates Stamped
+22         TR-0048727...............   274
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 76 of 255 PageID #:
+208181
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+15
+1
+2
+3  Exhibit 49  Statement of Work II for
+         Bulk Memos Project,
+4         Bates Stamped
+         R-LEGALEASE-00048772......   283
+5
+6
+  Exhibit 50  Kelly Services, Inc.,
+7         Frame Agreement, dated
+         October 11, 2017,
+8         Bates Stamped
+         R-LEGALEASE-00048728......   284
+9
+10
+  Exhibit 51  LegalEase Solutions
+11         Appropriate Use of Westlaw
+         Accounts/User Agreement,
+12         dated October 4, 2017,
+         Bates Stamped
+13         TR-0049195................   285
+14
+15  Exhibit 52  Email from Leo Kuriakose to
+         Tariq Akbar, dated
+16         October 26, 2017, Subject:
+         Ross-Tool-Update 10.07.2017,
+17         Bates Stamped
+         R-LEGALEASE-00028693......   287
+18
+19
+  Exhibit 53  Email from Leo Kuriakose to
+20         Tariq Akbar, dated October
+         16, 2017, Subject: Drafting
+21         Tool Update:10.14.2017,
+         Bates Stamped
+22         R-LEGALEASE-00029691.......  288
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 77 of 255 PageID #:
+208182
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+16
+1
+2
+3  Exhibit 54  Email from Rejitha R to
+         Gayathri Rajeev, dated
+4         October 20, 2017,
+         Bates Stamped
+5         R-LEGALEASE-00048928.....   290
+6
+7  Exhibit 55  Email from Leo Kuriakose
+         to Ansad, dated October
+8         26, 2017, Subject:
+         Minutes of the Meeting
+9         Held on 10.26.2017
+         Regarding ROSS Tool,
+10         Bates Stamped
+         R-LEGALEASE-00067404......   290
+11
+12
+  Exhibit 56  Email from Rejitha R to
+13         Leo Kuriakose, dated
+         November 1, 2017, Subject:
+14         Concerns Regarding
+         Ross Tool, Bates Stamped
+15         R-LEGALEASE-00048929.....   291
+16
+17  Exhibit 57  Email from Leo Kuriakose
+         to Anjusha Puthanpurayil,
+18         Dated November 8, 2017,
+         Subject: Framing Questions
+19         Using Lexis headnotes,
+         Bates Stamped
+20         R-LEGALEASE-00049260.....   292
+21
+22  Exhibit 58  Best Practices Guide for
+         ROSS Intelligence,
+23         Bates Stamped
+         R-LEGALEASE-00049652.....   292
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 78 of 255 PageID #:
+208183
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+17
+1
+2
+3  Exhibit 59  Email from Jyothi to Chad
+         Fennell, dated 11/11/2017,
+4         Subject: Additional topics,
+         Bates Stamped
+5         TR-0091408................   297
+6
+7  Exhibit 60  Email from Merin Sony to
+         SHaris Forward, dated
+8         11/15/2017, Subject: ROSS
+         Tool Update 11.14.2017,
+9         Bates Stamped
+         TR-0098206................   300
+10
+11
+12  Exhibit 61  Statement of Work for ROSS
+         Classifier, dated October
+13         15, 2015, Bates Stamped
+         LEGALEASE-00108391........   303
+14
+15
+  Exhibit 62  Email from Teri Whitehead
+16         to Joy Saphla, dated
+         12/7/2017, Subject: ROSS
+17         Report, Bates Stamped
+         TR-0135110................   305
+18
+19
+  Exhibit 63  LegalEase Solutions LLC
+20         Phase I Legal ArReas
+         Covered document,
+21         Bates Stamped
+         TR-0135113................   305
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 79 of 255 PageID #:
+208184
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+18
+1
+2
+3  Exhibit 64  Email from Tomas van der
+         Heijden to Teri Whitehead,
+4         dated December 14, 2017,
+         Subject: ROSS Classifier
+5         Update, Bates Stamped
+         ROSS-000235965...........   310
+6
+7
+  Exhibit 65  Email from Tomas van der
+8         Heijden to Teri Whitehead,
+         dated April 10, 2018,
+9         Subject: SOW, Bates Stamped
+         ROSS-000247118............   311
+10
+11
+  Exhibit 66  LegalEase Solutions LLC,
+12         Statement of Work, dated
+         October 15, 2015,
+13         Bates Stamped
+         ROSS-000247119.............  312
+14
+15
+  Exhibit 67  LegalEase Statement LLC
+16         Statement of Work,
+         dated October 15, 2015,
+17         Bates Stamped
+         ROSS-000241438.............  314
+18
+19
+  Exhibit 68  Memorandum #1234,
+20         Bates Stamped
+         ROSS-000176800.............  335
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 80 of 255 PageID #:
+208185
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+19
+1     P R O C E E D I N G S
+2
+3     THE VIDEOGRAPHER:  We are on the
+4  record on May 26th, 2022, at 9:07 a.m.,
+5  Eastern Time, for the remote video
+6  deposition of Mr. Tariq Hafeez, in the
+7  matter of Thomson Reuters Enterprise
+8  Centre GMBH, et al., versus ROSS
+9  Intelligence, Incorporated.
+10     My name is Kimberly Villalobos and
+11  I am the videographer and document tech.
+12     All present will be noted on the
+13  stenographic record.
+14     Will the court reporter please
+15  swear in the witness.
+16     (Witness sworn.)
+17     MR. SIMMONS:  So let's start by
+18  getting appearances on the record.
+19     I'm Joshua Simmons from Kirkland &
+20  Ellis.  I represent the plaintiffs.
+21     And along with me is Eric Loverro
+22  from our offices, as well.
+23     MR. PARKER:  Warrington Parker,
+24  representing ROSS Intelligence.
+25     With me is Crinisha Berry.
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 81 of 255 PageID #:
+208186
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+20
+1        MR. TURFE:  And Tarik Turfe
+2     representing the witness, Mr. Tariq
+3     Hafeez.
+4
+5          TARIQ HAFEEZ,
+6  having been first duly sworn, testified as
+7  follows:
+8
+9           EXAMINATION
+10  BY MR. SIMMONS:
+11     Q.  Mr. Hafeez, could you state your
+12  full name for the record.
+13     A.  Sure.  My name is Tariq, middle
+14  name is Saadain, S-a-a-d-a-i-n, last name is
+15  Hafeez.
+16     Q.  And what is your address?
+17     A.  My home address or business
+18  address?
+19     Q.  We can start with your business
+20  address.
+21     A.  Sure.  Business address is 2723
+22  South State Street, Suite 150, Ann Arbor,
+23  Michigan 48014.
+24     Q.  And do you live in Ann Arbor
+25  Michigan?
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 82 of 255 PageID #:
+208187
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 83 of 255 PageID #:
+208188
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 84 of 255 PageID #:
+208189
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 85 of 255 PageID #:
+208190
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 86 of 255 PageID #:
+208191
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 87 of 255 PageID #:
+208192
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 88 of 255 PageID #:
+208193
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 89 of 255 PageID #:
+208194
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 90 of 255 PageID #:
+208195
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 91 of 255 PageID #:
+208196
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 92 of 255 PageID #:
+208197
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 93 of 255 PageID #:
+208198
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 94 of 255 PageID #:
+208199
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 95 of 255 PageID #:
+208200
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 96 of 255 PageID #:
+208201
+361
+1       IN THE UNITED STATES DISTRICT COURT
+         FOR THE DISTRICT OF DELAWARE
+2
+3
+4  IN RE MATTER OF:      )
+               )
+5  THOMSON REUTERS      )  C.A. No. 20-613(LPS)
+  ENTERPRISE CENTRE GMBH   )
+6  and WEST PUBLISHING    )
+  CORPORATION,        )
+7               )
+    Plaintiffs and     )
+8    Counterdefendants,   )
+               )
+9  VS.            )
+               )
+10  ROSS INTELLIGENCE,     )
+  INC.,           )
+11               )
+    Defendant and      )
+12    Counterclaimant.    )
+               )
+13
+14
+          REPORTER'S CERTIFICATION
+15             DEPOSITION
+               OF
+16             TARIQ HAFEEZ
+             MAY 24, 2022
+17
+18
+19          I, Kateri A. Flot-Davis, Certified
+20    Shorthand Reporter in and for the State of
+21    Texas, hereby certify to the following:
+22      That the witness, TARIQ HAFEEZ, was duly
+23    sworn by the officer and that the transcript
+24    of the oral deposition is a true record of the
+25    testimony given by the witness;
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 97 of 255 PageID #:
+208202
+362
+1    There was a request for examination and
+2  signature of the witness to the deposition
+3  transcript.  The original transcript was sent
+4  for review on ____________________ to the
+5  witness or to the attorney for the witness for
+6  examination, signature and return to me by
+7  ____________________;
+8    I further certify that I am neither counsel
+9  for, related to, nor employed by any of the
+10  parties or attorneys in the action in which
+11  this proceeding was taken, and further that I
+12  am not financially or otherwise interested in
+13  the outcome of the action.
+14    Certified to by me this ___ of __________
+15  ,_____.
+16
+17
+  _________________________________
+18  Kateri A. Flot-Davis
+  Texas CSR No. 8462
+19  Expiration Date: 12-31-22
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 98 of 255 PageID #:
+208203
+Thomson Reuters vs
+Ross Intelligence
+Highly Confidential
+Tariq Hafeez
+www.LexitasLegal.com/Premier
+Lexitas
+EXHIBIT 5  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 99 of 255 PageID #:
+208204
+Page 1
+1       IN THE UNITED STATES DISTRICT COURT
+        FOR THE DISTRICT OF DELAWARE
+2
+  THOMSON REUTERS ENTERPRISE CENTRE  §
+3  GMBH and WEST PUBLISHING      §
+  CORPORATION,            §
+4                    §  C.A. No. 20-613-SB
+    Plaintiffs/Counterdefendants,  §
+5                    §
+  vs.                 §
+6                    §
+  ROSS INTELLIGENCE, INC.,      §
+7                    §
+    Defendant/Counterclaimant,   §
+8
+9
+10           HIGHLY CONFIDENTIAL
+11        PURSUANT TO PROTECTIVE ORDER
+12
+13       VIDEO-RECORDED ORAL DEPOSITION OF
+14           CHRISTOPHER CAHN
+15        AS CORPORATE REPRESENTATIVE OF
+16         MORAE GLOBAL CORPORATION
+17            Houston, Texas
+18          Thursday, May 12, 2022
+19           (REPORTED REMOTELY)
+20
+21
+22
+23   REPORTED BY:
+24   Linda Russell, CSR
+25   JOB NO:  210749
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 100 of 255 PageID #:
+208205
+Page 2
+1          CAHN - MORAE GLOBAL
+2
+3
+4        May 12, 2022
+5        9:06 a.m.
+6
+7
+8     DEPOSITION OF CHRISTOPHER CAHN, conducted
+9  via Zoom, taken before Linda Russell, Certified
+10  Court Reporter No. 2965, pursuant to the Federal
+11  Rules of Civil Procedure for the United States
+12  District Court pertaining to the taking of
+13  depositions, in the City of Houston, Texas,
+14  commencing at 9:06 a.m. Central Time, on
+15  May 12, 2022.
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 101 of 255 PageID #:
+208206
+HIGHLY CONFIDENTIAL PURSUANT TO PROTECTIVE ORDER
+TSG Reporting - Worldwide· · 877-702-9580
+Page 3
+1          CAHN - MORAE GLOBAL
+2  A P P E A R A N C E S
+3  (All parties appearing remotely)
+4
+5  ON BEHALF OF PLAINTIFFS/COUNTERDEFENDANTS:
+    ERIC LOVERRO, ESQ.
+6    MIRANDA MEANS, ESQ.
+    Kirkland & Ellis
+7    601 Lexington Avenue
+    New York, New York 10022
+8
+9
+  ON BEHALF OF DEFENDANT/COUNTERCLAIMANT:
+10    WARRINGTON PARKER, ESQ.
+    JACOB CANTER, ESQ.
+11    GABRIEL RAMSEY, ESQ.
+    Crowell & Moring
+12    3 Embarcadero Center
+    San Francisco, California 94111
+13
+14
+15  ON BEHALF OF THE WITNESS:
+    MONIKA DZIEMIANCZUK, ESQ.
+16    Locke Lord
+    2800 JPMorgan Chase Tower
+17    600 Travis
+    Houston, Texas 77002
+18
+19
+  ALSO PRESENT:
+20    Darryl Russell, Videographer
+    Bill Thomas, Exhibit Operator
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 102 of 255 PageID #:
+208207
+HIGHLY CONFIDENTIAL PURSUANT TO PROTECTIVE ORDER
+TSG Reporting - Worldwide· · 877-702-9580
+Page 4
+1              I N D E X
+2                          Page
+  CHRISTOPHER CAHN
+3     BY MR. PARKER                 10
+     BY MR. LOVERRO                127
+4     BY MR. PARKER                219
+     BY MR. LOVERRO                229
+5  CERTIFICATE                    232
+  ERRATA SHEET                   234
+6
+7
+            EXHIBITS MARKED
+8
+    No.     Description            Page
+9
+   Exhibit 1   Defendant ROSS Intelligence,    12
+10          Inc.'s Notice of Deposition
+          Subpoena to Morae Global
+11          Corporation
+12   Exhibit 2   Statement of Work II for Bulk    24
+          Memos Project - MORAE_00012755
+13
+   Exhibit 3   Email - MORAE_00003043       33
+14
+   Exhibit 4   Email - MORAE_00032863       36
+15
+   Exhibit 5   Email - MORAE_00025712       40
+16
+   Exhibit 6   Email - MORAE_00025351       43
+17
+   Exhibit 7   ROSS Bulk Instructions &      44
+18          Checklist - Bulk Memos - 6
+          quotes.  MORAE_00025374
+19
+   Exhibit 8   Quality Control Guide for ROSS   52
+20          Intelligence, Quality Control
+          Procedures in Drafting
+21          Questions, and Preparing
+          Responsive Memorandum -
+22          MORAE_0045723
+23   Exhibit 9   Best Practices Guide for ROSS    59
+          Intelligence, Drafting
+24          Questions, Preparing Responsive
+          Memorandum, and Quality Control
+25          Procedures - MORAE_00025353
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 103 of 255 PageID #:
+208208
+HIGHLY CONFIDENTIAL PURSUANT TO PROTECTIVE ORDER
+TSG Reporting - Worldwide· · 877-702-9580
+Page 5
+1  Exhibit 10   Email - MORAE_00025100       71
+2  Exhibit 11   Email - MORAE_00011538       74
+3  Exhibit 12   Email - MORAE_00025035       76
+4  Exhibit 13   Email - MORAE_00001938       80
+5  Exhibit 14   Email - MORAE _00027590       82
+6  Exhibit 15   Email - MORAE_00024969       83
+7  Exhibit 16   Email - MORAE_00033849       84
+8  Exhibit 17   Email - MORAE_00012097       90
+9  Exhibit 18   Email - MORAE_00012630       92
+10  Exhibit 19   Email - MORAE_00001622       94
+11  Exhibit 20   Appropriate Use of Westlaw     94
+         Accounts/User Agreement -
+12         MORAE_00001625
+13  Exhibit 21   Exhibit A-User Agreement -     96
+         MORAE_00032612
+14
+  Exhibit 22   Email - MORAE_00030511       97
+15
+  Exhibit 23   Excel spreadsheet that was     97
+16         attached to Exhibit 22
+17  Exhibit 24   Email - MORAE _00027350      102
+18  Exhibit 25   Excel spreadsheet that was     102
+         attached to Exhibit 24
+19
+  Exhibit 26   Email - MORAE_00024599       103
+20
+  Exhibit 27   Email - MORAE_00030402       104
+21
+  Exhibit 28   Email - MORAE_00000845       105
+22
+  Exhibit 29   Excel spreadsheet         106
+23
+  Exhibit 30   Email - MORAE _00002170      108
+24
+  Exhibit 31   Excel spreadsheet, Project Rose  108
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 104 of 255 PageID #:
+208209
+HIGHLY CONFIDENTIAL PURSUANT TO PROTECTIVE ORDER
+TSG Reporting - Worldwide· · 877-702-9580
+Page 6
+1  Exhibit 32   Email - MORAE _00015346      110
+2  Exhibit 33   Excel Spreadsheet         111
+3  Exhibit 34   Email - MORAE_00014065       112
+4  Exhibit 35   Excel spreadsheet         112
+5  Exhibit 36   Excel spreadsheet         113
+6  Exhibit 37   Email - MORAE _00014058      113
+7  Exhibit 38   Email - MORAE-0038838       115
+8  Exhibit 39   Email - MORAE_00002677       116
+9  Exhibit 40   Email - MORAE_00000606       117
+10  Exhibit 41   Document beginning with Phase I  118
+         Legal Areas covered -
+11         MORAE_00000609
+12  Exhibit 42   Email - MORAE _00000404      119
+13  Exhibit 43   Excel spreadsheet that's      121
+         attached to Exhibit 42
+14
+  Exhibit 44   MP4 file              122
+15
+  Exhibit 45   Email - MORAE_00000855       123
+16
+  Exhibit 46   -Document with Title        124
+17         "International Law" -
+         MORAE_00000863
+18
+  Exhibit 47   Email - MORAE_00030575       125
+19
+  Exhibit 48   Memorandum #2 - MORAE_00030600   126
+20
+  Exhibit 49   Email - MORAE_00024996       147
+21
+  Exhibit 50   Statement of Work II for Bulk   154
+22         Memos Project - MORAE_00024891
+23  Exhibit 51   Email - LEGALEASE-00093075     167
+24  Exhibit 52   Project Rose -- Project      168
+         Protocol - LEGALEASE-00093076
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 105 of 255 PageID #:
+208210
+HIGHLY CONFIDENTIAL PURSUANT TO PROTECTIVE ORDER
+TSG Reporting - Worldwide· · 877-702-9580
+Page 7
+1  Exhibit 53   Email - MORAE_00003413       178
+2  Exhibit 54   Memorandum #537 -         182
+         ROSS-003300843
+3
+  Exhibit 55   Republic of Philippines v.     185
+4         Marcos, 818 F.2d 1473 (1987) -
+         TR-0549927
+5
+  Exhibit 56   Email - LEGALEASE-00098288     202
+6
+  Exhibit 57   Letter re: LegalEase Solutions,  205
+7         LLC Bulk Memo Status Report -
+         MORAE_00002664
+8
+  Exhibit 58   Email - MORAE_00002662       206
+9
+  Exhibit 59   Excel spreadsheet         210
+10
+  Exhibit 60   Excel spreadsheet         211
+11
+  Exhibit 61   Excel spreadsheet         213
+12
+  Exhibit 62   Excel spreadsheet         213
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 106 of 255 PageID #:
+208211
+HIGHLY CONFIDENTIAL PURSUANT TO PROTECTIVE ORDER
+TSG Reporting - Worldwide· · 877-702-9580
+Page 8
+1          CAHN - MORAE GLOBAL
+2         P-R-O-C-E-E-D-I-N-G-S
+3        THE VIDEOGRAPHER:  My name is Darryl
+4  Russell, I am the legal videographer in
+5  association with TSG Reporting, Incorporated.
+6        Due to the severity of COVID-19, and
+7  following the practice of social distancing, I
+8  will not be in the same room with the witness,
+9  instead I will record this videotaped deposition
+10  remotely.  The reporter, Linda Russell, also will
+11  not be in the same room and will swear the
+12  witness remotely.
+13        Do all parties stipulate to the
+14  validity of this video-recording and remote
+15  swearing and that it will be admissible in the
+16  courtroom as if it had been taken following
+17  Rule 30 of the Federal Rules of Civil Procedures
+18  and in the State's rules where this case is
+19  pending?
+20        Counsel, please state your name for
+21  the record, whom you represent, and that you
+22  agree.
+23        MR. PARKER:  Warrington Parker on
+24  behalf of ROSS Intelligence.  So stipulated.
+25        MR. LOVERRO:  Eric Loverro on behalf
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 107 of 255 PageID #:
+208212
+HIGHLY CONFIDENTIAL PURSUANT TO PROTECTIVE ORDER
+TSG Reporting - Worldwide· · 877-702-9580
+Page 9
+1          CAHN - MORAE GLOBAL
+2  of Plaintiffs.  So stipulated.
+3        THE VIDEOGRAPHER:  Thank you.
+4        This is the start of media labeled
+5  Number 1 of the video-recorded 30(b)(6)
+6  deposition of Christopher Cahn in the matter of
+7  Thomson Reuters Enterprise Centre GmbH, et al.
+8  versus ROSS Intelligence, Incorporated, in the
+9  United States District Court, District of
+10  Delaware, Number 20-613.
+11        This deposition is being held
+12  remotely on May 12th, 2022.  The time is
+13  approximately 9:06 a.m.  My name is Darryl
+14  Russell, I am the legal video specialist with
+15  TSG Reporting, Incorporated, New York.  The court
+16  reporter is Linda Russell, in association with
+17  TSG Reporting.  The exhibit operator is Bill
+18  Thomas, also with TSG Reporting.
+19        Will the court reporter please swear
+20  in the witness.
+21          CHRISTOPHER CAHN,
+22   having sworn or affirmed to tell the
+23   truth, the whole truth and nothing but the
+24   truth was examined and testified as
+25   follows:
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 108 of 255 PageID #:
+208213
+HIGHLY CONFIDENTIAL PURSUANT TO PROTECTIVE ORDER
+TSG Reporting - Worldwide· · 877-702-9580
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 109 of 255 PageID #:
+208214
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 110 of 255 PageID #:
+208215
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 111 of 255 PageID #:
+208216
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 112 of 255 PageID #:
+208217
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 113 of 255 PageID #:
+208218
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 114 of 255 PageID #:
+208219
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 115 of 255 PageID #:
+208220
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 116 of 255 PageID #:
+208221
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 117 of 255 PageID #:
+208222
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 118 of 255 PageID #:
+208223
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 119 of 255 PageID #:
+208224
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 120 of 255 PageID #:
+208225
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 121 of 255 PageID #:
+208226
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 122 of 255 PageID #:
+208227
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 123 of 255 PageID #:
+208228
+Page 232
+1            CERTIFICATE
+2
+  STATE OF TEXAS  )
+3           )
+  COUNTY OF HARRIS )
+4
+5     I, LINDA RUSSELL, a Certified Court
+6  Reporter within and for the State of Texas, do
+7  hereby certify:
+8     That CHRISTOPHER CAHN, the witness whose
+9  deposition is hereinbefore set forth, was duly
+10  sworn by me and that such deposition is a true
+11  record of the testimony given by such witness.
+12     I certify that review of the transcript by
+13  the deponent was not requested.
+14     I certify that the amount of time used by
+15  each party at the deposition is as follows:
+16     MR. PARKER   -   02:53:47
+17     MR. LOVERRO  -   01:44:53
+18     I further certify that I am not related to
+19  any of the parties to this action by blood or
+20  marriage; and that I am in no way interested in
+21  the outcome of this matter.
+22       (Signature on following page)
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 124 of 255 PageID #:
+208229
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 125 of 255 PageID #:
+208230
+HIGHLY CONFIDENTIAL PURSUANT TO PROTECTIVE ORDER
+TSG Reporting - Worldwide· · 877-702-9580
+EXHIBIT 6  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 126 of 255 PageID #:
+208231
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 127 of 255 PageID #:
+208232
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 128 of 255 PageID #:
+208233
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 129 of 255 PageID #:
+208234
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 130 of 255 PageID #:
+208235
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 131 of 255 PageID #:
+208236
+EXHIBIT 7  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 132 of 255 PageID #:
+208237
+Page 1
+1     IN THE UNITED STATES DISTRICT COURT
+2       FOR THE DISTRICT OF DELAWARE
+3
+4  THOMSON REUTERS ENTERPRISE
+5  CENTRE GMBH and WEST PUBLISHING
+6  CORPORATION,
+7        Plaintiffs/Counterdefendants,
+8
+9     vs.      C.A. No.  20-613-LPS
+10
+11  ROSS INTELLIGENCE, INC.,
+12        Defendant/Counterclaimant.
+13  _______________________________________
+14
+15         HIGHLY CONFIDENTIAL
+16       PURSUANT TO PROTECTIVE ORDER
+17
+18      VIDEOTAPED AND VIDEOCONFERENCE
+19       DEPOSITION OF TERI WHITEHEAD
+20
+21         Monday, April 18, 2022
+22
+23  Reported by:
+24  Denise M. Kizy, RPR, CRR, CSR-2466
+25  JOB NO. 208941
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 133 of 255 PageID #:
+208238
+Page 2
+1
+2
+3
+4           April 18, 2022
+5           9:04 a.m.
+6
+7
+8     Deposition of TERI WHITEHEAD, held
+9  via videoconference, before Denise M. Kizy,
+10  RPR, CRR, CSR-2466, a Notary Public of the
+11  State of Michigan.
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 134 of 255 PageID #:
+208239
+Highly Confidential
+TSG Reporting - Worldwide· · 877-702-9580
+Page 3
+1  APPEARANCES:
+2
+3     Kirkland & Ellis LLP
+4     Attorneys for Plaintiffs/Counterdefendants
+5        601 Lexington Avenue
+6        New York, New York 10022
+7     BY:  JOSHUA SIMMONS, ESQ.
+8        JENNIFER GIBBINS, ESQ.
+9
+10     Crowell & Moring LLP
+11     Attorneys for Defendant/Counterclaimant
+12        3 Embarcadero Center
+13        San Francisco, California 94111
+14     BY:  WARRINGTON PARKER, ESQ.
+15        CRINESHA BERRY, ESQ.
+16
+17
+18
+19
+20
+21
+22  ALSO PRESENT:
+23  Brandon Vosburgh - Video Technician
+24  Alexandra Teves - Exhibit Operator
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 135 of 255 PageID #:
+208240
+Highly Confidential
+TSG Reporting - Worldwide· · 877-702-9580
+Page 4
+1             TABLE OF CONTENTS
+2  WITNESS                     PAGE
+3  TERI WHITEHEAD
+4
+5  EXAMINATION
+6  BY MR. PARKER                  11
+7  EXAMINATION
+8  BY MR. SIMMONS                 179
+9
+10               EXHIBITS
+11  EXHIBIT                     PAGE
+12  EXHIBIT 1   Defendant and Counterclaimant   12
+13         ROSS Intelligence Inc.'s
+14         Amended Notice of Deposition
+15         Subpoena to Teri Whitehead
+16  EXHIBIT 2   Master Services Agreement     30
+17  EXHIBIT 3   Statement of Work         32
+18  EXHIBIT 4   First Amendment to Statement    35
+19         of Work
+20  EXHIBIT 5   [Proposed] Stipulated       35
+21         Protective Order
+22  EXHIBIT 6   E-mail chain            39
+23  EXHIBIT 7   E-mail chain            43
+24  EXHIBIT 8   E-mail chain            45
+25  EXHIBIT 9   E-mail               47
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 136 of 255 PageID #:
+208241
+Highly Confidential
+TSG Reporting - Worldwide· · 877-702-9580
+Page 5
+1  EXHIBIT 10   Memorandum #570          49
+2  EXHIBIT 11   Document which begins:       53
+3         "Issue:  Can res judicata bar
+4         a fraudulent transfer claim
+5         under section of 548 of the
+6         bankruptcy code where the debt
+7         has been satisfied pursuant to
+8         a stay relief order?"
+9  EXHIBIT 12   E-mail chain            54
+10  EXHIBIT 13   E-mail               56
+11  EXHIBIT 14   E-mail               56
+12  EXHIBIT 15   E-mail chain            63
+13  EXHIBIT 16   E-mail chain            67
+14  EXHIBIT 17   E-mail chain            69
+15  EXHIBIT 18   E-mail chain            71
+16  EXHIBIT 19   E-mail chain            74
+17  EXHIBIT 20   E-mail               79
+18  EXHIBIT 21   Response to ROSS Request For    80
+19         Proposal, LegalEase Solutions,
+20         June 23, 2017
+21  EXHIBIT 22   E-mail               84
+22  EXHIBIT 23   Response to ROSS Request For    84
+23         Proposal, LegalEase Solutions,
+24         June 27, 2017
+25  EXHIBIT 24   E-mail               86
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 137 of 255 PageID #:
+208242
+Highly Confidential
+TSG Reporting - Worldwide· · 877-702-9580
+Page 6
+1  EXHIBIT 25   Quality Control Guide For ROSS   86
+2         Intelligence
+3  EXHIBIT 26   E-mail chain            95
+4  EXHIBIT 27   E-mail              102
+5  EXHIBIT 28   Memorandum #364          105
+6  EXHIBIT 29   E-mail chain           106
+7  EXHIBIT 30   Statement of Work II For ROSS   109
+8         Bulk Memos
+9  EXHIBIT 31   E-mail              114
+10  EXHIBIT 32   Memorandum #           117
+11  EXHIBIT 33   Memorandum #           117
+12  EXHIBIT 34   ROSS Bulk Instructions &     118
+13         Checklist
+14  EXHIBIT 35   Quality Control Guide for ROSS  119
+15         Intelligence
+16  EXHIBIT 36   Best Practices Guide For ROSS   123
+17         Intelligence
+18  EXHIBIT 37   E-mail chain           134
+19  EXHIBIT 38   E-mail chain           138
+20  EXHIBIT 39   Reciprocal Non-Disclosure,    139
+21         Non-Circumvention Agreement
+22  EXHIBIT 40   E-mail chain           144
+23  EXHIBIT 41   ROSS Bulk Daily Report, dated   146
+24         9/20/17
+25  EXHIBIT 42   E-mail              148
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 138 of 255 PageID #:
+208243
+Highly Confidential
+TSG Reporting - Worldwide· · 877-702-9580
+Page 7
+1  EXHIBIT 43   Best Practices Guide For ROSS   150
+2         Intelligence
+3  EXHIBIT 44   E-mail              151
+4  EXHIBIT 45   ROSS Bulk Instructions &     152
+5         Checklist
+6  EXHIBIT 46   Statement of Work II For Bulk   154
+7         Memos Project
+8  EXHIBIT 47   Kelly Services, Inc. Frame    155
+9         Agreement
+10  EXHIBIT 48   E-mail chain           156
+11  EXHIBIT 49   Document which begins       157
+12         "International Law"
+13  EXHIBIT 50   Document which begins       159
+14         "Education"
+15  EXHIBIT 51   Document which begins       160
+16         "Pretrial Procedure"
+17  EXHIBIT 52   Statement of Work For ROSS    160
+18         Variation
+19  EXHIBIT 53   E-mail              161
+20  EXHIBIT 54   Interpretive Degrees Project   161
+21  EXHIBIT 55   E-mail chain           163
+22  EXHIBIT 56   Statement of Work For ROSS    165
+23         Classifier
+24  EXHIBIT 57   E-mail chain           166
+25  EXHIBIT 58   E-mail chain           168
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 139 of 255 PageID #:
+208244
+Highly Confidential
+TSG Reporting - Worldwide· · 877-702-9580
+Page 8
+1  EXHIBIT 59   E-mail chain           169
+2  EXHIBIT 60   Document which begins "Phase I  169
+3         Legal Areas Covered"
+4  EXHIBIT 61   E-mail              171
+5  EXHIBIT 62   Letter to Tomas van der      171
+6         Heijden from Teri Whitehead,
+7         dated December 7, 2017, Re:
+8         LegalEase Solutions, LLC Bulk
+9         Memo Status Report"
+10  EXHIBIT 63   Document with Bates stamp     173
+11         R-LEGALEASE-00154874
+12  EXHIBIT 64   E-mail              174
+13  EXHIBIT 65   Statement of Work - ROSS     175
+14         Review
+15  EXHIBIT 66   Statement of Work - ROSS     176
+16         Nuance
+17  EXHIBIT 67   E-mail              177
+18  EXHIBIT 68   Metadata for Exhibit 28      206
+19
+20
+21
+22
+23
+24
+25
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 140 of 255 PageID #:
+208245
+Highly Confidential
+TSG Reporting - Worldwide· · 877-702-9580
+Page 9
+1        TERI WHITEHEAD
+2     VIDEO TECHNICIAN:  Good morning.  My
+3  name is Brandon Vosburgh.  I'm the legal
+4  videographer in association with TSG
+5  Reporting, Incorporated.
+6     Due to the severity of COVID-19 and
+7  following the practice of social
+8  distancing, I will not be in the same room
+9  with the witness; instead, I will record
+10  this deposition remotely.
+11     Our certified court stenographer,
+12  Denise Kizy, will also be in a separate
+13  room and will swear in the witness
+14  remotely.
+15     Do all the parties stipulate to the
+16  validity of this video recording and remote
+17  swearing, and that it will be admissible in
+18  the courtroom as if it had been taken
+19  following Rule 30 of the Federal Rules of
+20  Civil Procedures and the state's rules
+21  where this case is pending?
+22     Your answers, please.
+23     MR. PARKER:  Yes.
+24     MR. SIMMONS:  It's okay from the
+25  plaintiff's perspective as well.
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 141 of 255 PageID #:
+208246
+Highly Confidential
+TSG Reporting - Worldwide· · 877-702-9580
+Page 10
+1        TERI WHITEHEAD
+2     VIDEO TECHNICIAN:  Thank you for
+3  your answers.
+4     Today is Monday, April 18, 2022, and
+5  the time is 9:05 a.m. Eastern Standard
+6  Time.
+7     This is media unit number one of the
+8  video-recorded deposition of Teri Whitehead
+9  in the matter of Thomson Reuters Enterprise
+10  Centre GmbH, et al. versus ROSS
+11  Intelligence, Incorporated.
+12     Will counsel please identify
+13  yourselves for the record and then we'll
+14  have our court stenographer swear in the
+15  witness.
+16     THE COURT REPORTER:  Counsel, please
+17  identify yourselves.
+18     MR. PARKER:  This is Warrington
+19  Parker appearing on behalf of ROSS
+20  Intelligence, defendants in the case.  With
+21  me is Crinesha Berry.
+22     MR. SIMMONS:  My name is Joshua
+23  Simmons.  With me is Jennifer Gibbins.
+24  We're from Kirkland & Ellis representing
+25  the plaintiffs.
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 142 of 255 PageID #:
+208247
+Highly Confidential
+TSG Reporting - Worldwide· · 877-702-9580
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 143 of 255 PageID #:
+208248
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 144 of 255 PageID #:
+208249
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 145 of 255 PageID #:
+208250
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 146 of 255 PageID #:
+208251
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 147 of 255 PageID #:
+208252
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 148 of 255 PageID #:
+208253
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 149 of 255 PageID #:
+208254
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 150 of 255 PageID #:
+208255
+EXHIBIT 8  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 151 of 255 PageID #:
+208256
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Best Practices Guide for ROSS Intelligence 
+ 
+Drafting Questions, Preparing Responsive Memorandum, and Quality Control 
+Procedures 
+ 
+Last revised on September 18, 2017. 
+LEGALEASE-00078065
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 152 of 255 PageID #:
+208257
+ 
+ 
+2 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review : 09.18.2017 
+Revision No 
+: 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+Part I ............................................................................................................................................... 3 
+Overview .................................................................................................................................................. 3 
+Introduction ............................................................................................................................................. 3 
+Audience .................................................................................................................................................. 3 
+Objectives ................................................................................................................................................ 3 
+Legal Disclaimer ....................................................................................................................................... 4 
+Part II .............................................................................................................................................. 4 
+Framing Questions .................................................................................................................................. 4 
+1. 
+West Law ..................................................................................................................................... 4 
+2. 
+Lexis: ............................................................................................................................................ 9 
+Part III ........................................................................................................................................... 13 
+I. 
+Standards & Best Practices for ROSS Memos Drafting .................................................................. 13 
+Attorney - ROSS Intelligence Checklist .............................................................................................. 15 
+Sample Memo ................................................................................................................................... 16 
+II. 
+Standards & Best Practices for ROSS Memos Review ................................................................... 18 
+Review Attorney - ROSS Intelligence Checklist.................................................................................. 18 
+III. 
+Standards & Best Practices for ROSS Portal Upload ..................... Error! Bookmark not defined. 
+Portal Upload - ROSS Intelligence Checklist ......................................... Error! Bookmark not defined. 
+ 
+LEGALEASE-00078066
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 153 of 255 PageID #:
+208258
+ 
+ 
+3 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part I 
+ 
+Overview 
+The LegalEase Solutions Best Practices Guide aims to set out the quality assurance 
+process followed by the LegalEase team to ensure delivery of memos that meet the 
+standards and requirements of ROSS Intelligence. 
+ 
+Introduction 
+The LegalEase Solutions Best Practices Guide is the primary quality assurance resource 
+and playbook for our attorneys.  This Practice Guide provides all the tools and 
+resources needed for the drafting and delivery of ROSS Intelligence memos.  
+ 
+Audience 
+The intended audience for this guide is our full-‐ time, part-time, and 
+subcontracted attorneys who prepare Ross memos. Additionally, this guide may 
+be utilized by ROSS to review our internal process. 
+ 
+Objectives 
+This guide: 
+ Identifies clear guidelines for attorneys to follow when designing, developing, 
+researching, drafting, and delivering ROSS memos. 
+ Promotes uniformity of the process to be followed by the team. 
+ Lay out checklists to ensure quality assurance of the memos at different stages. 
+ Describes best practices and standards for ROSS memos. 
+ 
+LEGALEASE-00078067
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 154 of 255 PageID #:
+208259
+ 
+ 
+4 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+Legal Disclaimer 
+This Best Practices Guide includes proprietary, confidential, and/or trade secret 
+information. LegalEase considers this information to be a trade secret not subject to 
+disclosure.    
+ 
+ 
+ 
+ 
+ 
+ 
+Part II 
+ 
+Framing Questions 
+You may be assigned a West Law (WL)/Lexis topic to frame questions. An easy way of 
+framing questions is to rely on the head notes. However, note that the head notes are 
+proprietary and you should not copy paste them in the question. 
+Given below are screenshots to frame questions using WL and Lexis: 
+ 
+1. West Law 
+ 
+1) Headnote Search   - Click on the Key Numbers. You will be assigned a number which is 
+available under the Key Numbers.  
+ 
+LEGALEASE-00078068
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 155 of 255 PageID #:
+208260
+ 
+ 
+5 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+ 
+ 
+ 
+ 
+ 
+Here, the Key Number assigned is 1 and the topic is Abandoned and Lost Property. 
+ 
+ 
+ 
+THOMSON REUTERS
+WESTLAW
+Enter terms, citations
+>, databases, anything
+Browse
+All Content
+Federal Materials
+State Matenats
+Practice Areas
+Tools
+Cases
+Forms
+@= Key Numbers
+Briefs
+Trial Court Orders
+Statutes & Court Rules
+Regulations
+Administrative Decisions & Guidance
+Home
+West Key Numbe
+Trial Court Documents
+Expert Materials
+Jury Verdicts & Settlements
+Proposed & Enacted Legislation
+r Syste
+Add to Favorites
+Search for Key Numbers relevant to your issue
+Enter terms
+landlord duty of care to trespassers
+Jurisdiction selected: All Federal
+Change Jurisdiction
+1
+ABANDONED AND LOST PROPERTY
+EASEMENTS
+2
+ABATEMENT AND REVIVAL
+141E EDUCATION
+=
+ABORTION AND BIRTH CONTROL
+142
+EJECTMENT
+5
+ABSENTEES
+142T ELECTION LAW
+6
+ABSTRACTS OF TITLE
+143
+ELECTION OF RE
+7
+ACCESSION
+145
+ELECTRICITY
+ACCADNM AKIN CATICOCAMTION
+448
+CARADOC TTI CAACKIT
+LEGALEASE-00078069
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 156 of 255 PageID #:
+208261
+ 
+ 
+6 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+2) Click on a key number topic. The best practice is to begin from the top (sub topic 
+number 1) and follow the pattern.
+ 
+3) Clicked on #4 Evidence and questions for jury.  
+ 
+ 
+4) Got this…  
+Home > West Key Number System
+1 ABANDONED AND LOST PROPERTY
+ABANDONMENT, k1-k9
+1 Nature and elements
+4 Evidence and questionsforjury
+5 Operation and effect
+Il. FINDING LOST GOODS, k10-k13
+10 In general: loss of property
+11 Rights and liabilities of finder as to owner
+12 Title and rights of finder as to third persons
+@ 13 Title and rights of finders inter se
+|. ABANDONMENT, k1-k9
+1 Nature and elements
+@= 4 Evidence and questions for jury
+@= 5 Operation and effect
+Il. FINDING LOST GOODS, k10-k13
+10 In general; loss of property
+11 Rinhte and liahilities nf finder ac tn muwner
+LEGALEASE-00078070
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 157 of 255 PageID #:
+208262
+ 
+ 
+7 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5) Clicked on Cheffins case.  
+tay
+@ 4 Evidence and questions for jury (78)
+Add to Favorites
+Jurisdiction: All Federal
+Change
+1-78
+Sort by:|Topic then Date
+v
+|| Selectallitems
+No items selected
+1 ABANDONED AND LOST PROPERTY 415
+-
+Abandonment
+290
+‘moms
+Evidence and questions for jury 78
+1. Cheffins v. Stewart
+United States Court ofAppeals, Ninth Circuit,
+June
+Headnote: Under Nevada law, abandonment of property may be inferred from acts done.
+Document Preview: COPYRIGHTS - Art and Architecture. Mobile replica of 16th-century Spanish galleon was not protected b
+2. Recovery Ltd. Partnership v. Wrecked and Abandoned Vessel, $.S. CENTRAL AMERICA
+United States District Court, E.D. Virginia, Norfolk Division.
+August
+| 120 F.Supp.3d 500
+Headnote: In order for the lawoffinds to be applied to property lost at sea, the treasure-hunter must establish abandonment oft
+bar to proving such abandonmentis high.
+Document Preview: MARITIME LAW - Salvage. Law ofsalvage applied to artifacts recovered from historic shipwreck.
+LEGALEASE-00078071
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 158 of 255 PageID #:
+208263
+ 
+ 
+8 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+ 
+ 
+6) WhiĐh pulls up the eǆaĐt headŶote oŶ poiŶt. As ǁell as toŶ of others…  
+ 
+7) From that headnote, make the statement a question.  
+So – headnote 12  - “Under Nevada law, abandonment of property may be inferred from 
+acts done.”  
+Convert to a question, “May abandonment of property under Nevada Law be inferred 
+from acts done?”  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+78
+1 ABANDONED AND LOSI PROPERLY 415
+Abandonment 290
+Loewe 10=4 Evidence and questions for jury 78
+1. Cheffins v. Stewart
+United States Court ofAppeals, Ninth Circuit.
+June
+Headnote: Under Nevada law, abandonmentofproperty may be inferred from acts done.
+Document Preview: COPYRIGHTS - Art and Architecture. Mobile replica of 16th-century Spanish galleon was not pr
+2. Recovery Ltd. Partnership v. Wrecked and Abandoned Vessel, $.S. CENTRAL AM
+United States District Court, E.D. Virginia, Norfolk Division.
+August
+120 F.Supp.3d 500
+Headnote: In order for the law offinds to be applied to property lost at sea, the treasure-hunter must establish abandor
+Abandoned and Lost Property
+“Under Nevada law, abandonment of property may be inferred from acts
+done.
+43.
+Federal Courts
+Any error was harmless as to district court's failure to give jury instruction:
+lost profits and punitive damages. which failure was based on district cour
+determination that such damages were unduly speculative, in action for
+conversion under Nevada law, relating to destruction of mobile replica of
+16th-century Spanish galleon, built from used school bus, where jury foun
+favor of defendant on the conversion claim brought by mobile replica's
+creators, so that there were no damages to be awarded.
+LEGALEASE-00078072
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 159 of 255 PageID #:
+208264
+ 
+ 
+9 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+ 
+2. Lexis: 
+ 
+1) Log on to your account and go to the main screen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2) Select Search By Topic or Headnote. 
+Lexis:
+By Topic or Headnote
+Minnesota
+Geta Document
+Y> Shepard's®
+More
+¥
+Legal
+|
+|
+Bde eat
+F subtsb:
+Sources
+All
+(Default Subtab)
+Legal
+Cases
+- U.S,
+Court Records, Briefs and Filings
+Expert Witness Analysis, Jury Verdicts & Settlements
+Federal Legal
+- U.S.
+States Legal
+- U.S,
+Legistation & Politics
+- U.S, & U.K.
+Area of Law
+- By Topic
+Secondary Legal
+Lega! News
+Reference
+Find Laws by Country or Region
+LexisNexis(R) Information & Training
+Help
+News & Business
+News
+Market & Industry
+Science & Technology
+Country & Region (excluding U.S.)
+Featured Content & Services
+Individuai Publications
+Company & Financial
+Public Records
+Find a Person
+Find a Business
+Find Filings
+Find Environmental Site Records
+Public Records
+Recently Used Sources
+ots)
+|
++ Combined Source Set4-...
+v
+Edit Sources
+Go
+Quick Tools
+ols)
+|Enter
+citation or term
+Bet
+che anticee!
+WEN!
+eiemwtel
+Soo Shepardizes
+seited
+Quick Search
+Lexis Advance®
+Sign in to Lexis Advance
+Ree smo mee gore tele) od
+Help
+[Select Topic
+Don't see the topic you need?
+View more
+LEGALEASE-00078073
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 160 of 255 PageID #:
+208265
+ 
+ 
+10 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document
+Shepard's@ |
+More
+Minnesota
+Legal
+“Sq/Edt
+All Top’
+Look for a Legal Topic
+Option 1: Find a Legal Topic
+Find in:
+@
+Administrative Law
+©
+All Topics
+Option 2: Explore Lega! Topics
+Administrative Law
+[i| General Overview
+[a] Agency Adjudication
+[i] General Overview
+[i] Alternative Dispute Resolution (Related Topics...)
++) [i] Decisions
++) [fi Hearings
++) [i] Impartiality
+[i] Prehearing Activity
++
+Presiding Officers
+1
+Review of Initial Decisions
++)
+Agency Investigations
++
+Agency Rulemaking
++ li. Governmental Information
+[a] Informa! Agency Actions
++)
+Judicial Review (Related Topics...)
++)
+Separation of Powers
+Sovereign Immunity
+LEGALEASE-00078074
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 161 of 255 PageID #:
+208266
+ 
+ 
+11 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+3) Select Option 2 – Search by Headnote. 
+ 
+ 
+4) Select the Jurisdiction and date from the drop-down. TrǇ searĐhiŶg for ͞Preǀious ϭϬ 
+Ǉears͟ iŶ the drop doǁŶ.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.
+Switcn Cent
+|
+P
+Lexis?
+My Lexis™
+|
+Tore
+Get a Document nd| Shepard’s®
+More
+|
+Add/Edit
+By Topic or Headnote
+Bitters
+| Legal
+|
+ Subtbs
+All Topics > Administrative Law > Agency Adjudication > Alternative Dispute Resolution
+(Browse topic index)
+Option 1
+- Search across Sources
+View Tutorials
+| Help
+‘Gatton 2
+- Search by Headnote
+Retrieve all headnotes and additional cases on ‘Alternative Di
+ute Resolution’
+Search for ‘Alternative Dispute Resolution’ across Cases, Statutes, Analysis and
+more...
+Jurisdiction
+Jurisdiction
+|Federal
+Y |Select Multiple...
+(2)
+Sources
+Select Sources.
+@
+Search Terms (Optional)
+Date(Optiona!)
+® |NoDateRestrictions ¥
+|
+From
+|
+To
+|
+Date Formats...
+Terms and Connectors
+Natural Language
+What's this?
+Ea
+Retrieve all headnotes classified to the topic or cases that discuss the topic, even if there isn’t a specific
+headnote,
+Suggest Terms
+for My Search
+Lexis
+Switch Client
+|
+Preferences
+| Help | Sign Out
+My Lexis™
+cua
+Geta Document
+Shepard's®
+More
+¥
+History
+PAC accie®
+Minnesota
+Legal
+|
+4
+All Topics >
+Law > Agency
+Adjudication
+>
+Dispute
+i
+o
+n
+(Browse topic index)
+Option 1
+- Search across Sources
+View Tutorials | Help
+Option 2
+- Search by Headnote
+Help
+scuieve all
+and
+cases on’
+i
+v
+e
+Dispute
+Search for ‘Alternative Dispute Resolution’ across Cases, Statutes, Analysis and
+more:
+Jurisdiction
+Federal and State Cases, Selected Administrative... ¥
+Jurisdiction
+|
+Federal
+¥ |Select Multiple...
+R
+Date(Optiona!)
+|Previous 5 Years
+Fi
+To|
+@
+Search Terms (Optiona!)
+fom|__]e
+Date Formats...
+@ Terms and Connectors
+Natural Language
+What
+—
+Ey
+Retrieve all headnotes classified to the topic or cases that discuss the topic, even if there isn't a specific
+headnote,
+Suggest Terms
+for My Search
+Search Connectors
+How Do
+and
+and
+LEGALEASE-00078075
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 162 of 255 PageID #:
+208267
+ 
+ 
+12 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+ 
+ 
+5) WheŶ the Đases are displaǇed, seleĐt ͞“hoǁ HeadŶotes OŶlǇ͟ optioŶ. 
+ 
+ 
+6) We ŵaǇ ďe aďle to fiŶd ŵore Đases ďǇ ĐliĐkiŶg ͞More Like This HeadNote͟ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ar
+LexIs°
+MyLexis™| Search
+GetaDocument
+Shepard's®
+More
+Focus™Terms|
+| Search Within| Original Results (1
+- 1619)
+¥
+we
+Advanced...
+View| Digest
+of 1619 >
+Sort By | Court/Date
+|
+What's this?
+Edit Request | Show Headnotes Only | In-Depth Discussi
+a
+@
+3. Marlow v. New Food Guy, Inc., 2017 U.S. App. LEXIS 11678 (10th Cir., June 30;
+;
+OVERVIEW: An employer did not violate the FLSA tip-credit restrictions in 29 U.S.C.S. § 203(m) when it retained tips paid
+wage greater than the minimum wage and the U.S. Department of Labor did not have the authority to promulgate 29
+weer
+wee
+wan
+Re
+Reet
+et
+Switch Client | Preferences | Help | Sign Out
+Lexise
+My Lexis™Search
+Get aDocument
+Shepard's®
+More
+History
+alerts
+FOCUS™Terms
+Search Within Original Results (1
+- 1619)
+¥
+Advanced...
+View Tutorial
+View
+[Digest
+0f 14>
+Sort By| Court/Date
+What'sthis?
+Edit Request | In-Depth Discussions
+Topic:
+All Topics > Adwainistrouive Law > Agency Adjudication > Alternative Dispute Resolution|+li Federal and State Cases, Selected Administrative Law Materi
+Request:
+all
+on
+Dispute
+and date geq (07/18/2012) (Exit Headnotes Only)
+Select for FOCUS™or Delivery
+A
+1. Commun. Constr. Servs. v. United States, 116 Fed. Cl. 233, 2014 U.S. Claims LEXIS 449 (Ct. Cl., April 30, 2014, 1Filed1 The Court issued this opinion under seal on April 30, 2014, and
+directed the parties to file proposed redactions by May 14, 2014. The Court publishes this opinion adopting the proposed redactions. Redactions are indicated by brackets "[
+* * * ].")
+OVERVIEW: Bid protester waived its 10 U.S.C.S, § 2492a and organizational conflict of interest {OCI} claims because it knew grounds for those claims prior to award but failed to
+timely raise them, and even if conflict of interest claim had not been waived, protester failed to show that either OCI or appearance of impropriety tainted competitive process.
+HNG - The Administrative Dispute Resolution Act provides for judicial resolution of all bid protests in a single court, the Court of Federal Claims, under the standard of review
+enunciated in the Administrative Procedure Act (APA). Pub. L. No. 104-320, 110 Stat. 3870 (codified as amended at 28 U.S.C.S. § 1491(b)). Under these APA standards, the court shall
+hold unlawful and set aside agency action, findings,
+and conclusions found to be, (A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; (B) contrary
+to constitutional right, power,privilege,
+or immunity; (C) in excess of statutory jurisdiction, authority, or limitations, or short of statutory right; (D) without observance of procedure
+required by law. In ees
+the fore
+GA
+2.FCN, Inc. VU
+CECI, March 14, 2014, Filed)
+OVERVIEW: Agency actedarbitrarily and capriciously, and violated 5 U.S.C.S. § 706(2)(A), by neglecting to investigate or understand whether government-furnished property was
+ilable
+for use or
+available
+in
+qi
+ities
+indicatedin
+bidder's and redacted proposals before awarding contract to bidder, and protester was prejudiced.
+HN2 - The Administrative Dispute Resolution Act of 1996, Pub. L. No. 104-320, §§ 12(a), 12(b), 110 Stat. 3870, 3874 (1996) (codified at 28 U.S.C.S. § 1491(b)(1)-(4) (Supp. V
+2011)), amended the Tucker Act to establish a statutory basis for bid protests in the United States Court of Federal Claims. The statute provides that protests of agency procurement
+decisions are to be reviewed under Administrative Procedure Act standards, making
+licable
+the
+dards
+outlinedin
+Li
+and the line of cases following that
+decision.
+More Like This Headnote
+LEGALEASE-00078076
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 163 of 255 PageID #:
+208268
+ 
+ 
+13 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+ 
+Part III 
+ 
+I. 
+Standards & Best Practices for ROSS Memos Drafting 
+1. The whole memo is drafted in Times New Roman, with font size 12 and single 
+spaced.  
+ 
+2. File name convention: ͞TopiĐ No. – sub topic no.  - Memo # – [associate initials] - 
+[date]. 
+3. Building and formatting the memo. 
+a. Opening the ROSS template, use the save as option and rename the template 
+following the naming convention mentioned above. 
+  
+b. Begin by researching the question from head notes. 
+ 
+c. There should be no jurisdictional filtering for the questions. This means the 
+questions should not be state specific. 
+ 
+d. Enter the questions framed from the assigned topic in the Smartsheet (SS). 
+ 
+e. Each Memo shall include a Question and a Reference list (RL) with a target of at 
+least 2 and no more than 6 cases.  
+ 
+f. The most relevant paragraph of the case would be entered in the memo as 
+Quote 1. Do not add more than 1 quote from a case. 
+ 
+g. Copy paste the entire paragraph of the case that answers the question. 
+ 
+h. When using WL Next to "Copy with reference" BE SURE the format it copies with 
+is "Standard."  That should automatically give you a good cite when you paste it. 
+ 
+i. The first 2- 4 cases of the memo must provide an independent answer to the 
+legal research question.  
+ 
+j. These quotes shall ďe laďelled ͞Great͟ or ͞Good͟ depeŶdiŶg oŶ the releǀaŶĐǇ of 
+the quote to the question. 
+ 
+k. When the excerpts hit on all essential elements of the question, they will be 
+laďelled ͞great.͟ If theǇ hit on most essential elements of the question they will 
+ďe laďelled ͞good.͟ 
+ 
+l.  
+  
+LEGALEASE-00078077
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 164 of 255 PageID #:
+208269
+ 
+ 
+14 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+m. Associate shall strive for 4 great/good quotes per question. However, if the 
+Associate is only able to find 1, 2 or 3 cases, they shall only provide 1, 2 or 3 
+cases.  
+ 
+n. Associate shall aim for more number of great quotes (maximum 4) for each 
+memo. 
+ 
+o. In addition to the 2-4 cases/quotes to each research question, we will draft one 
+'topical' quote and one 'irrelevant' quote. 
+ 
+p. A topical quote is a case with a quote that hits on aspect of the question, but 
+does not answer any part of the question. For example: Question: 'Are oil and gas 
+leases executory contracts?' 
+Answer: 'There are no published opinions construing this language. However, by its 
+terms, the paragraph deals with interests of the debtor in 'gaseous hydrocarbons' and 
+not contract rights like the ones involved here. (The legislative history of § 541(b)(4) 
+indicates that it was enacted to address questions related to the transfer of rights 
+in [[oil and gas leases]].' 
+ 
+q.  An irrelevant quote has some keywords in it from the question but completely 
+missed the mark.  For example, if the question is '[a]re oil and gas leases 
+executory contracts?' a bad answer may contain key words like 'olive oil" or 
+"residential leases' but nothing else relevant about the question. 
+ 
+r. Associate shall rank the cases in order of relevance, with the first-ranked case in 
+a Memo being the best answer to the Memo question and the last-ranked case 
+being the worst answer to the Memo question.  
+ 
+s. Associate shall also bold the relevant parts of each Quote that answer the 
+relevant Memo question and put them in double brackets. The topical and 
+irrelevant quotes must also have the required portion in bold and double 
+brackets. 
+ 
+t. A bracketed excerpt can be up to the length of one paragraph, provided there 
+isn't too much unnecessary filler. If need be, you can double bracket separate 
+sentences/sections of the same paragraph/quote if that leads to a fuller answer 
+to the question. 
+ 
+u. Associate shall label the quotes as great, good, topical, and irrelevant. 
+ 
+v. Note that pinpoint citation is not used in ROSS memo. For e.g. In re Story, 536 
+B.R. 279, 283 (Bankr. E.D. Mo. 2015) will be entered as In re Story, 536 B.R. 279.  
+ 
+ 
+  
+LEGALEASE-00078078
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 165 of 255 PageID #:
+208270
+ 
+ 
+15 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+w. In the RL section, while the quotes are copy-pasted, make sure the page 
+numbers and footnotes in the judgment are deleted.  
+ 
+x. Check over the entire memo to make sure that there are no stray lines or odd 
+spaces. 
+ 
+y. Complete all Smartsheet fields. This include entering the associate initials, 
+question drafted, date, number of quotes, date of QC, initials of QC associate, 
+Notes, and saved file name. 
+ 
+Attorney - ROSS Intelligence Checklist 
+Description 
+Completed 
+1. Draft ROSS questions following 
+LegalEase Creative Process. 
+ 
+2. Research questions using online 
+resources and accounts.   
+ 
+3. Label the quotes as great, good, 
+topical, and irrelevant. 
+ 
+4. Confirm that great, and good 
+quotes 
+answer 
+the 
+question 
+directly. 
+ 
+5. Add topical and irrelevant quotes. 
+ 
+6. Confirm 
+that 
+the 
+topical 
+and 
+irrelevant cases meet the criteria. 
+ 
+7. Confirm 
+grammar 
+correct 
+throughout memo. 
+ 
+8. Confirm the font and space of the 
+memo. 
+ 
+9. Follow file name convention. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEGALEASE-00078079
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 166 of 255 PageID #:
+208271
+ 
+ 
+16 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+Sample Memo 
+MEMORANDUM # 
+ 
+1. Question 
+  
+ 
+What is implied actual notice? 
+ 
+2. Reference List 
+Issue: What is implied actual notice? 
+ 
+Case 1: Symons Corp. v. Tartan-Lavers Delray Beach, Inc., 456 So. 2d 1254. 
+Great Quote 1: Notice is of two kinds, actual and constructive. Sapp v. Warner, 105 Fla. 
+245, 141 So. 124, aff'd, 143 So. 648 (1932). Actual notice is itself comprised of two 
+types: (1) express, based on direct information; and (2) implied, which includes notice 
+inferred from the fact that a person had the means of knowledge, which it was his duty to 
+use. Id. [[Implied actual notice is an inference of fact. Id.; see also, Reinhart v. 
+Phelps, 150 Fla. 382, 7 So.2d 783 (1942). Implied actual notice, being an inference of 
+fact, may be drawn by the court as a matter of law when warranted by the 
+circumstances of the particular case calling for its application in order to grant 
+equitable relief.]] Sapp v. Warner, supra. United Contractors, Inc. v. United Constr. 
+Corp., 187 So.2d 695 (Fla. 2d DCA 1966). 
+ 
+Case 2: Sapp v. Warner, 105 Fla. 245. 
+Great Quote 1: Notice is of two kinds, actual and constructive. ‘Constructive notice’ has 
+been defined as notice imputed to a person not having actual notice; for example, such as 
+would be imputed under the recording statutes to persons dealing with property subject to 
+those statutes. [[‘Actual notice’ is also said to be of two kinds: (1) Express, which 
+includes what might be called direct information; and (2) implied, which is said to 
+include notice inferred from the fact that the person had means of knowledge, which 
+it was his duty to use and which he did not use, or, as it is sometimes called, ‘implied 
+actual notice.’]] Cooper v. Flesner, 24 Okl. 47, 103 P. 1016, 23 L. R. A. (N. S.) 1180, 20 
+Ann. Cas. 29; Simmons Creek Coal Co. v. Doran, 142 U. S. 417, 12 S. Ct. 239, 35 L. Ed. 
+1063; Hoy v. Bramhall, 19 N. J. Eq. 563, 97 Am. Dec. 687; Acer v. Westcott, 46 N. Y. 
+384, 7 Am. Rep. 355. [[Constructive notice is a legal inference, while implied actual 
+notice is an inference of fact]], but the same facts may sometimes be such as to prove 
+both constructive and implied actual notice. Knapp v. Bailey, 79 Me. 195, 9 A. 122, 1 
+Am. St. Rep. 295. 
+ 
+Case 3: Rinehart v. Phelps, 150 Fla. 382. 
+Good Quote 1: [[Constructive notice is a legal inference, while implied actual notice 
+is an inference of fact, but the same facts may sometimes be such as to prove both 
+constructive and implied actual notice]]. Knapp v. Bailey, 79 Me. 195, 9 A. 122, 1 
+Am.St. Rep. 295; 105 Fla. 245, 141 So. page 127. 
+ 
+ 
+ 
+ 
+Case 4: Knapp v. Bailey, 79 Me. 195. 
+LEGALEASE-00078080
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 167 of 255 PageID #:
+208272
+ 
+ 
+17 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+Good Quote 1: There is a conflict in the cases and among writers as to what is actual 
+notice. Much of the difference is said to be verbal only,–– more apparent than real. 
+Certain propositions, however, are quite well agreed upon by a majority of the 
+authorities. Notice does not mean knowledge; actual knowledge is not required. Mr. 
+Wade describes the modes of proving actual notice as of two kinds. One he denominates 
+express notice, and the other implied. [[“Implied, which imputes knowledge to the 
+party because he is shown to be anxious of having the means of knowledge, though 
+he does not use them; in other words, where he chooses to remain voluntarily 
+ignorant of the fact, or is grossly negligent in not following up the inquiry which the 
+known facts suggest.” Wade, Notice, (2d Ed.) § 5. Some writers use the word 
+“implied” as meaning constructive, and would regard what is here described to be 
+implied actual notice as constructive notice merely]]. As applicable to actual notice, 
+such as is required by the sections of the statute under consideration, we think the 
+classification of the author whom we quote is satisfactory. The author further explains the 
+distinction by adding that “notice by implication differs from constructive notice, with 
+which it is frequently confounded, and which it greatly resembles, with respect to the 
+character of the inference upon which it rests; constructive notice being the creature of 
+positive law, or resting upon strictly legal inference, while [[implied notice arises from 
+inference of fact.” It amounts substantially to this: that actual notice may be proved 
+by direct evidence, or it may be inferred or implied (that is, proved) as a fact from 
+indirect evidence,––by circumstantial evidence]]. A man may have notice or its legal 
+equivalent. He may be so situated as to be estopped to deny that he had actual notice. We 
+are speaking of the statutory notice required under the conveyances act. A higher grade of 
+evidence may be necessary to prove actual notice appertaining to commercial paper. 
+Kellogg v. Curtis, 69 Me. 212. The same facts may sometimes be such as to prove both 
+constructive and actual notice; that is, a court might infer constructive notice, and a jury 
+infer actual notice, from the facts. There may be cases where the facts show actual, when 
+they do not warrant the inference of constructive, notice; as where a deed is not regularly 
+recorded, and not giving constructive notice, but a second purchaser sees it on the 
+records, thereby receiving actual notice. Hastings v. Cutler, 24 N. H. 481. 
+ 
+Case 5: Hagan v. Sabal Palms, Inc., 186 So. 2d 302. 
+Topical Quote 1: [[The principle applied in cases of alleged implied actual notice is 
+that a person has no right to shut his eyes or ears to avoid information, and then say 
+that he has no notice]]; that it will not suffice the law to remain willfully ignorant of a 
+thing readily ascertainable by whatever party puts him on inquiry, when the means of 
+knowledge is at hand. (cases cited).’ (Emphasis supplied). 
+ 
+Case 6: Hopkins v. McCarthy, 121 Me. 27. 
+Irrelevant Quote 1: Inquiry was not necessary, because the plaintiff saw the defendant in 
+possession. [[Possession alone is not implied notice.]] Hanly v. Morse, 32 Me. 287. But 
+inquiry became highly important when he had found out that the man was in possession 
+under a contract of lease. Then a prudent man would have inquired, and, inquiring, would 
+have learned. Then, to excerpt from Birdsall v. Russell, 29 N. Y. 220, there was “such a 
+connection between the fact discovered and the further facts to be discovered as to 
+furnish a clue–a reasonable and natural clue–to the latter.” Notice of a lease will be notice 
+of its contents (Story's Eq. Jur. § 400), which is but another way of saying that notice 
+may become the equivalent of knowledge, and that he who is put upon inquiry must 
+exercise good faith, proper diligence, and reasonable care in following up the inquiry. 
+The underlying and ruling principle is that of common prudence, or, better still, that of 
+LEGALEASE-00078081
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 168 of 255 PageID #:
+208273
+ 
+ 
+18 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+common honesty. “Whatever puts a party upon inquiry amounts in judgment of law to 
+notice, provided the inquiry becomes a duty and would lead to the knowledge of the 
+requisite fact by the exercise of ordinary diligence and understanding,” is a commendable 
+syllabus condensed into small space. Lodge v. Simonton, 2 Pen. & W (Pa.) 439, 23 Am. 
+Dec. 36. Mr. Justice Strong says: 
+“Wherever inquiry is a duty, the party bound to make it is affected with knowledge of all 
+that which he would have discovered had he performed the duty.” Cordova v. Hood, 17 
+Wall. 1, 21 L. Ed. 587. 
+ 
+II. 
+Standards & Best Practices for ROSS Memos Review 
+a. Check the question for grammatical errors using 
+https://www.grammarly.com/i?breadcrumbs=true&page=install or 
+https://www.grammarly.com/office-addin/windows 
+ 
+b. Validate the cites quoted in the case. 
+ 
+c. Validate if the highlighted portions answer the question correctly. 
+ 
+d. Make sure that the Memo has 4 independent quotes. If it lacks 4 quotes, note 
+the concern in the SS. 
+ 
+e. Validate the formatting, and alignment. 
+ 
+f. If the memo requires substantial rework return to the associate. 
+ 
+g. OŶĐe fiŶalized, saǀe the fiŶal eliŵiŶatiŶg assoĐiate’s iŶitials aŶd date. 
+ 
+h. Tab time for review of each memo. 
+ 
+ 
+Review Attorney - ROSS Intelligence Checklist 
+ 
+ 
+Description 
+QC 1 
+QC 2 
+ 
+Question should not be state specific.   
+ 
+ 
+ 
+Grammar check of question.   
+ 
+ 
+ 
+Quotes to be labeled correctly.  
+GREAT – must contain all essential elements of the question. 
+GOOD – contains most of the essential elements of the 
+question. 
+TOPICAL – foundation quote, background information. 
+  
+  
+LEGALEASE-00078082
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 169 of 255 PageID #:
+208274
+ 
+ 
+19 
+ 
+ 
+Document ID 
+: ROSS Bulk 
+Date of Issue 
+: 08.07.17 
+Periodic Review 
+: 09.14.2017 
+Revision No            : 4 
+ 
+IRRELEVANT– has no reference or relevance. 
+ 
+ 
+Should label as Great Quote 1, Great Quote 2, Topical Quote 1, 
+and Irrelevant Quote 1. 
+ 
+ 
+ 
+Bracketed language must answer question.  
+Bracketed language may be up to a paragraph.  
+If necessary, you can double bracket separate sentences.  
+Bracketed language must be a sentence. Not just two words.  
+ 
+ 
+ 
+Double Brackets, and Content in Bold.   
+ 
+ 
+ 
+No red squiggly line.  
+ 
+ 
+ 
+Confirm reference quote.  Ensure Topical quote and Irrelevant 
+quotes are added. 
+ 
+ 
+ 
+Smartsheet updates.  
+ 
+ 
+ 
+Double check the Form - Double Brackets for Quotes.  No 
+highlights.  
+ 
+ 
+ 
+Memo number.  
+ 
+ 
+ 
+ 
+Memo saved in correct format – naming convention.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEGALEASE-00078083
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 170 of 255 PageID #:
+208275
+EXHIBIT 9  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 171 of 255 PageID #:
+208276
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 172 of 255 PageID #:
+208277
+1
+      UNITED STATES DISTRICT COURT
+      FOR THE DISTRICT OF DELAWARE
+THOMSON REUTERS ENTERPRISE  )
+CENTRE GMBH and WEST     )
+PUBLISHING CORPORATION,    )
+              )
+     Plaintiffs and   )
+     Counterdefendants,)
+              )
+              )
+ vs.             )  C.A. No. 20-613 (LPS)
+              )
+ROSS INTELLIGENCE, INC.,   )
+              )
+     Defendant and   )
+     Counterplaintiff. )
+              )
+_____________________________)
+        **HIGHLY CONFIDENTIAL**
+   VIDEOTAPED 30(b)(6) DEPOSITION OF DEFENDANT,
+    by and through its corporate designee
+        TOMAS VAN DER HEIJDEN,
+     (also in his individual capacity)
+      London, England, United Kingdom
+       Thursday, March 17, 2022
+Pages: Pages 1 - 443
+Reported stenographically by:
+LEAH M. WILLERSDORF, RPR-CRR-FBIVR-ACR-QRR2-CLR
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 173 of 255 PageID #:
+208278
+2
+       Thursday, March 17, 2022
+           09:29 a.m.
+        (Greenwich Mean Time)
+   Videotaped 30(b)(6) deposition of Defendant, by
+and through its corporate representative Tomas van der
+Heijden, as well as in his individual capacity, held
+at the offices of Kirkland & Ellis International LLP,
+30 St. Mary Axe, London EC3A 8AF, England, United
+Kingdom, before Leah Willersdorf, Registered
+Professional Reporter and Certified Realtime Reporter
+with the US National Court Reporters Association,
+and Accredited Court Reporter, Qualified Realtime
+Reporter (Level 2) and Fellow of the British Institute
+of Verbatim Reporters, and Certified LiveNote
+Reporter.
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 174 of 255 PageID #:
+208279
+www.LexitasLegal.com/Premier
+Lexitas
+3
+        A P P E A R A N C E S
+On behalf of Plaintiffs and Counterdefendants:
+   KIRKLAND & ELLIS, LLP
+     601 Lexington Avenue
+     New York, New York 10022
+     (212) 446 4800
+   BY:  JOSHUA L. SIMMONS, ESQ.
+     JENNIFER GIBBINS, ESQ.
+     joshua.simmons@kirkland.com
+     jennifer.gibbins@kirkland.com
+On behalf of Defendant and Counterplaintiff:
+   CROWELL & MORING, LLP
+     3 Embarcadero Center
+     26th Floor
+     San Francisco, CA 94111
+     (415) 986 2800
+   BY:  KAYVAN M. GHAFFARI, ESQ.
+     kghaffari@crowell.com
+ALSO PRESENT:
+   Linda Fleet  -  Videographer
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 175 of 255 PageID #:
+208280
+www.LexitasLegal.com/Premier
+Lexitas
+4
+         WITNESS INDEX
+Witness:                   Page
+TOMAS VAN DER HEIJDEN
+  Examination by Mr. Simmons         15
+  Examination by Mr. Ghaffari        387
+  Further Examination by Mr. Simmons     420
+       REQUEST FOR PRODUCTION
+                  Line   Page
+  Document request         19    104
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 176 of 255 PageID #:
+208281
+www.LexitasLegal.com/Premier
+Lexitas
+5
+         EXHIBITS INDEX
+van der Heijden    Description       Page
+Exhibit No.
+Exhibit 1   Plaintiffs and           18
+      Counterdefendants Thomson
+      Reuters Enterprise Centre
+      GmbH and West Publishing
+      Corporation's Notice of
+      30(b)(6) Deposition of
+      Defendant Ross Intelligence
+      Inc.
+      (13 pages, no Bates)
+Exhibit 2   Email string, with the most    18
+      recent being from Kayvan
+      Ghaffari to Miranda Means,
+      et al., dated March 11, 2022
+      (1 page, no Bates)
+Exhibit 3   Document entitled "Powered     71
+      by IBM Watson Application -
+      Executive Summary," with
+      metadata attached
+      (ROSS-003705907 - 908)
+      [Highly Confidential -
+      Attorneys' Eyes Only]
+Exhibit 4   ROSS Intelligence Terms of     87
+      Service, with a Last
+      Modified date of April 28,
+      2020
+      (TR-0001142 - 153)
+Exhibit 5   Email string, with the most    100
+      recent being from Andre
+      Garber to Andrew Arruda,
+      dated October 19, 2015
+      (ROSS-003390881 - 884)
+      [Highly Confidential]
+Exhibit 6   Thomson Reuters General      103
+      Terms and Conditions, as of
+      July 2015
+      (WPC-0001475 - 476)
+      [Highly Confidential]
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 177 of 255 PageID #:
+208282
+www.LexitasLegal.com/Premier
+Lexitas
+6
+       EXHIBITS INDEX
+van der Heijden   Description        Page
+Exhibit No.
+Exhibit 7   Email from Akash Venkat to    141
+       Jimoh Ovbiagele, dated
+       February 26, 2015
+       (ROSS-003390586 - 587)
+       [Highly Confidential]
+Exhibit 8   Slack communication between    145
+       Jimoh Ovbiagele and Andrew
+       Arruda, dated February 17,
+       2015, headed "[Slack]
+       Notifications from the Ross
+       Inc team for Feb 16th, 2015"
+       [Highly Confidential]
+Exhibit 9   Email string, with the most    149
+       recent being from Thomas
+       Hamilton to Andrew Arruda,
+       dated May 11, 2015
+       (ROSS-003390869 - 871)
+       [Highly Confidential]
+Exhibit 10   Email string, with the most    152
+       recent being from Andrew
+       Arruda to Thomas Hamilton,
+       et al., dated August 6, 2015
+       (ROSS-003389778 - 779)
+       [Highly Confidential]
+Exhibit 11   Email string, with the most    155
+       recent being from Thomas
+       Hamilton to Andrew Arruda,
+       et al., dated September 25,
+       2015
+       (ROSS-003389728 - 730)
+       [Confidential]
+Exhibit 12   Email string, with the most    158
+       recent being from Will Webb
+       to Mahesh Krishnan, et al.,
+       dated November 23, 2016
+       (ROSS-003390101 - 105)
+       [Highly Confidential]
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 178 of 255 PageID #:
+208283
+www.LexitasLegal.com/Premier
+Lexitas
+7
+       EXHIBITS INDEX
+van der Heijden   Description        Page
+Exhibit No.
+Exhibit 13   Email from Thomas Hamilton    163
+       to John Fernandez, dated
+       August 2015
+       (ROSS-003390233)
+       [Highly Confidential]
+Exhibit 14   Email string, with the most    165
+       recent being from David
+       Houlihan to Tomas van der
+       Heijden, et al., dated
+       December 14, 2016
+       (ROSS-003390050 - 052)
+       [Highly Confidential]
+Exhibit 15   Slack conversation between    169
+       Tomas van der Heijden and
+       Thomas Hamilton, headed
+       "D1NFRAAUS: 2016-12-05"
+       (ROSS-010241185 - 191)
+       [Confidential]
+Exhibit 16   Slack conversation between    171
+       Tomas van der Heijden and
+       Sean Semmler, headed
+       "D5A76KC75: 2017-06-29"
+       (ROSS-010361787 - 789)
+       [Highly Confidential -
+       Attorneys' Eyes Only]
+Exhibit 17   Email string, with the most    175
+       recent being from Tomas van
+       der Heijden to Rohit
+       Jayawardhan, dated
+       October 23, 2017
+       (ROSS-003389945 - 946)
+       [Highly Confidential]
+Exhibit 18   Email string, with the most    179
+       recent being from Tomas van
+       der Heijden to Rohit
+       Jayawardhan, dated
+       October 27, 2017
+       (ROSS-003389960 - 61)
+       [Highly Confidential]
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 179 of 255 PageID #:
+208284
+www.LexitasLegal.com/Premier
+Lexitas
+8
+       EXHIBITS INDEX
+van der Heijden   Description        Page
+Exhibit No.
+Exhibit 19   Screenshot of the Practice    179
+       Areas section of the Thomson
+       Reuters Westlaw website, and
+       is attachment to an email in
+       Exhibit 18
+       (ROSS-009706035)
+       [Confidential]
+Exhibit 20   Email string, with the most    184
+       recent being from Tomas van
+       der Heijden to Ashley
+       Stenning, dated November 21,
+       2017
+       (ROSS-003390062 - 065)
+       [Highly Confidential]
+Exhibit 21   Email exchange between      189
+       Charles Von Simson and Tomas
+       van der Heijden, dated
+       May 24, 2018
+       (ROSS-009601555)
+       [Highly Confidential -
+       Attorneys' Eyes Only]
+Exhibit 22   Email string, with the most    194
+       recent being from Sean
+       Shafik to Tomas van der
+       Heijden, dated May 25, 2018
+       (ROSS-003390073 - 075)
+       [Highly Confidential]
+Exhibit 23   Email string, with the most    204
+       recent being from Tomas van
+       der Heijden to Charles von
+       Simson, dated May 28, 2018
+       (ROSS-003390071 - 072)
+       [Highly Confidential]
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 180 of 255 PageID #:
+208285
+www.LexitasLegal.com/Premier
+Lexitas
+9
+       EXHIBITS INDEX
+van der Heijden   Description        Page
+Exhibit No.
+Exhibit 24   Thomson Reuters NACI (New     206
+       Account/Credit Increase)
+       Form, with the subscriber
+       being Charles von Simson,
+       dated May 30, 2018
+       (ROSS-003390024 - 025)
+       [Highly Confidential]
+Exhibit 25   Email from Charles        208
+       von Simson to Tomas van der
+       Heijden, et al., dated
+       June 5, 2018
+       (ROSS-003389931)
+       [Highly Confidential]
+Exhibit 26   Document entitled "List of    208
+       20 items from Charles von
+       Simson All History," which
+       is the attachment to
+       Exhibit 25, with metadata
+       attached
+       (ROSS-003389932 - 935)
+       [Highly Confidential]
+Exhibit 27   Email from Charles von      210
+       Simson to Thomas Hamilton,
+       et al., dated November 15,
+       2018
+       (ROSS-003389911)
+       [Highly Confidential]
+Exhibit 28   Thomson Reuters order form    215
+       for Westlaw Edge, with the
+       account address of Charles
+       von Simson
+       (ROSS-003389928 - 930)
+       [Highly Confidential]
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 181 of 255 PageID #:
+208286
+www.LexitasLegal.com/Premier
+Lexitas
+10
+       EXHIBITS INDEX
+van der Heijden   Description        Page
+Exhibit No.
+Exhibit 29   Slack conversation between    217
+       various people, dated
+       December 5, 2018, headed
+       "Product Feedback:
+       2018-12-05"
+       (ROSS-009731365 - 369)
+       [Highly Confidential -
+       Attorneys' Eyes Only]
+Exhibit 30   Slack conversation between    220
+       Tomas van der Heijden and
+       Andrew Arruda, dated May 31,
+       2019, headed "mpdm-tomasvdh-
+       findingjimoh-andrewarruda-
+       sean.s-1: 2019-05-31"
+       (ROSS-023018772)
+       [Confidential]
+Exhibit 31   Slide deck entitled        231
+       "Mini-Project 1: Legal
+       Research Software Market,"
+       with metadata attached
+       (ROSS-003386670 - 683)
+       [Confidential]
+Exhibit 32   Email string, with the most    234
+       recent being from Akash
+       Venkat to Jimoh Ovbiagele,
+       et al., dated October 27,
+       2015
+       (ROSS-023018166 - 167)
+       [Confidential]
+Exhibit 33   Email string, with the most    243
+       recent being from Sean
+       Shafik to Andrew Arruda,
+       et al., dated September 17,
+       2018
+       (ROSS-010151565 - 570)
+       [Confidential]
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 182 of 255 PageID #:
+208287
+www.LexitasLegal.com/Premier
+Lexitas
+11
+       EXHIBIT INDEX
+van der Heijden   Description        Page
+Exhibit No.
+Exhibit 34   Email string, with the most    256
+       recent being from Scott
+       Sperling to Thomas Hamilton,
+       dated June 22, 2018
+       (ROSS-003390234 - 236)
+       [Highly Confidential]
+Exhibit 35   Document entitled "ROSS v.    259
+       Westlaw - Results Compared,"
+       with metadata attached
+       (ROSS-003419039 - 041)
+       [Highly Confidential -
+       Attorneys' Eyes Only]
+Exhibit 36   Email from Tomas van der     266
+       Heijden to maxim@
+       rossintelligence.com, dated
+       January 15, 2019
+       (ROSS-003268059)
+       [Confidential]
+Exhibit 37   Slide deck entitled        276
+       "Judicial Interpretations of
+       Statutes and Regulations
+       (JI)," with metadata
+       attached
+       (ROSS-023018710 - 736)
+       [Confidential]
+Exhibit 38   Email string, with the most    291
+       recent being from Thomas
+       Hamilton to Tariq Hafeez,
+       et al., dated October 14,
+       2015
+       (ROSS-000271277 - 302)
+       [Confidential]
+Exhibit 39   Slide deck entitled        299
+       "Memoranda workflow - ROSS,"
+       produced in native format,
+       with metadata attached
+       (ROSS-000061913 - 61913.16)
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 183 of 255 PageID #:
+208288
+www.LexitasLegal.com/Premier
+Lexitas
+12
+       EXHIBITS INDEX
+van der Heijden   Description        Page
+Exhibit No.
+Exhibit 40   Email from Sean Shafik to     304
+       Tomas van der Heijden, dated
+       April 5, 2019
+       (ROSS-009603341)
+       [Highly Confidential -
+       Attorneys' Eyes Only]
+Exhibit 41   Statement of Work pursuant    308
+       to the Master Services
+       Agreement, dated October 15,
+       2015
+       (ROSS-000251670 - 671)
+       [Confidential]
+Exhibit 42   Email string, with the most    312
+       recent being from Jimoh
+       Ovbiagele to Tomas van der
+       Heijden, dated December 22,
+       2017
+       (ROSS-003276744 - 745)
+       [Confidential]
+Exhibit 43   Email string, with the most    313
+       recent being from Thomas
+       Hamilton to David McElhoe,
+       dated October 30, 2015
+       (ROSS-003343202 - 207)
+       [Attorneys' Eyes Only]
+Exhibit 44   Document headed "Memorandum    333
+       #5"
+       (LEGALEASE-00069484 - 487)
+Exhibit 45   Email string, with the most    340
+       recent being from Tomas van
+       der Heijden to Teri
+       Whitehead, et al., dated
+       November 13, 2017
+       (ROSS-000204366 - 367)
+       [Confidential]
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 184 of 255 PageID #:
+208289
+www.LexitasLegal.com/Premier
+Lexitas
+13
+       EXHIBITS INDEX
+van der Heijden   Description        Page
+Exhibit No.
+Exhibit 46   Email string, with the most    347
+       recent being from Teri
+       Whitehead to Tomas van der
+       Heijden, et al., dated
+       December 22, 2017
+       (ROSS-000204216 - 218)
+       [Confidential]
+Exhibit 47   License Agreement between     353
+       Lawriter LLD and ROSS
+       Intelligence, Inc.,
+       effective as of October 1,
+       2016
+       (ROSS-023018180 - 183)
+       [Confidential]
+Exhibit 48   Document re Fastcase       358
+       potentially acquiring ROSS,
+       headed "Audience," with
+       metadata attached
+       (ROSS-003695819 - 824)
+       [Confidential]
+Exhibit 49   Third-party ROSS         368
+       Intelligence, Inc.'s
+       Opposition to Plaintiff's
+       Motion to Compel Production
+       of Documents in Response to
+       Subpoena in the West
+       Publishing Corporation vs.
+       LegalEase case
+       (ROSS-001782470 - 489)
+Exhibit 50   Email string, with the most    374
+       recent being from Graham
+       Toppin to Tomas van der
+       Heijden, et al., dated
+       February 5, 2018
+       (ROSS-023018279 - 281)
+       [Confidential]
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 185 of 255 PageID #:
+208290
+www.LexitasLegal.com/Premier
+Lexitas
+14
+      (On the record at 9:29 a.m.)
+      THE VIDEOGRAPHER:  We are now on the
+record.  My name is Linda Fleet.  I am a videographer
+retained by Philadelphia.
+      This is a video deposition for the United
+States District Court for the District of Delaware.
+      Today's date is March 17, 2022, and the
+video time is 9:30 a.m.
+      This deposition is being held at Kirkland
+& Ellis, 30 St. Mary Axe, London EC3A 8AF, United
+Kingdom, in the matter of Thomson Reuters Enterprise
+Centre GmbH, versus ROSS Intelligence, Inc.
+      The deponent is Tomas van der Heijden.
+      Would all counsel please voice-identify
+themselves.
+      MR. SIMMONS:  This is Joshua Simmons from
+Kirkland & Ellis.  With me is Jennifer Gibbins who is
+also from Kirkland & Ellis.  We are here on behalf of
+the plaintiffs.
+      MR. GHAFFARI:  My name is Kayvan Ghaffari
+of Crowell & Moring, LLP, here on behalf of the
+witness and defendant/counterplaintiff ROSS
+Intelligence, Inc.
+      THE VIDEOGRAPHER:  The court reporter is
+Leah Willersdorf and will now swear in the witness.
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 186 of 255 PageID #:
+208291
+www.LexitasLegal.com/Premier
+Lexitas
+15
+        TOMAS VAN DER HEIJDEN,
+       having been duly sworn,
+    was examined and testified as follows:
+       EXAMINATION ON BEHALF OF
+      PLAINTIFFS/COUNTERDEFENDANTS
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 187 of 255 PageID #:
+208292
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 188 of 255 PageID #:
+208293
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 189 of 255 PageID #:
+208294
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 190 of 255 PageID #:
+208295
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 191 of 255 PageID #:
+208296
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 192 of 255 PageID #:
+208297
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 193 of 255 PageID #:
+208298
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 194 of 255 PageID #:
+208299
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 195 of 255 PageID #:
+208300
+445
+        REPORTER CERTIFICATE
+I, LEAH M. WILLERSDORF, Registered Professional
+Reporter, Certified Realtime Reporter, Fellow of the
+British Institute of Verbatim Reporters, Qualified
+Realtime Reporter Level 2, and Certified LiveNote
+Reporter, do hereby certify that:
+     TOMAS VAN DER HEIJDEN appeared before me on
+Thursday, March 17, 2022, was sworn by me, and was
+thereupon examined by counsel; that the testimony of
+said witness was taken and reduced to stenotype
+writing before me; that the foregoing is a true and
+accurate record to the best of my knowledge, skill and
+ability; that I am neither a relative nor employee of
+any party to the action in which this deposition was
+taken; nor am I a relative nor employee of any
+attorney or counsel employed by any party thereto;
+and, further, I am not financially or otherwise
+interested in the outcome of the action.
+   IN WITNESS WHEREOF I have hereunto set my hand
+this 28th of March 2022.
+       ___________________________
+         LEAH M. WILLERSDORF
+       RPR-CRR-FBIVR-ACR-QRR2-CLR
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 196 of 255 PageID #:
+208301
+EXHIBIT 10  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 197 of 255 PageID #:
+208302
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 198 of 255 PageID #:
+208303
+EXHIBIT 11  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 199 of 255 PageID #:
+208304
+Message 
+To: 
+Steven Babb [/o=ExchangeLabs/ou=Exchange Administrative Group 
+(FYDIBOHF23SPDLT)/cn=Recipients/cn=130c1dae44c146418234024addc5cbd9-steven.babb]; Suryad Pai 
+[/o=ExchangeLabs/ou=Exchange Administrative Group 
+(FYDIBOHF23SPDLT)/cn=Recipients/cn=ba832f782d6142928d718f0936e1b211-suryad.pai]; Eric Schramm 
+[/o=ExchangeLabs/ou=Exchange Administrative Group 
+(FYDIBOHF23SPDLT)/cn=Recipients/cn=c5cb8b9660ab44eda37462185ec2572f-Eric.Schram] 
+CC. 
+Jyothi Prasad Bislehalli [/o=FxchangeLabs/ou=Fxchange Administrative Group 
+(FYDIBOHF23SPDLT)/cn=Recipients/cn=b084de6a39b54c4889a7fb1bce0df289-prasad.bisl]; Priti Parekh 
+[/o=ExchangeLabs/ou=Exchange Administrative Group 
+(FYDI BOHF23SPDLT)/cn=Recipients/cn=6e699571f00c454e968d7f96 19e9af7b-Priti.Parek]; Joy Saphla 
+[
+/
+o
+=
+E
+x
+c
+h
+a
+n
+g
+e
+L
+a
+b
+s
+/
+o
+u
+=
+E
+x
+c
+h
+a
+n
+g
+e
+ 
+Administrative Group 
+(FYDIBOHF23SPDLT)/cn=Recipients/cn=e7e4f5e01dab4995ab831eba5d9fde6c-joy.saphla] 
+Subject: 
+WestLaw logins 
++Joy 
+HI All, 
+Please find below a summary of our conversation: 
+We don't believe that there will be any legal issues with the Ross project for the following reasons: 
+1. 
+We've spoken to LegalEase and they will be providing Westlaw accounts to all of our team members under their 
+own names. 
+2. 
+Also, there will be no copy/paste of WestLaw proprietary information. We will be copy/pasting directly from 
+court cases that are available to the public only. 
+Joy, Priti, Jyothi, and I have a call at 7am CST to discuss what approach we would like to take in regards to the WestLaw 
+logins. They've asked whether we'd prefer to procure logins on our own or if they should. The catch with Westlaw is 
+that they are looking for a minimum one year subscription. 
+Joy, could you please send across a copy of the SOW to this group today? Eric is going on leave shortly and should see it 
+to provide his thoughts. 
+Regards, 
+Chad 
+Bangalore, India 
+From: Steven Babb 
+Sent: Thursday, September 28, 2017 2:29 PM 
+To: Suryad Pai <suryad.pai@clutchgroup.com>; Chad Fennell <chad.fennell@clutchgroup.com>; Eric Schramm 
+<Eric.Schramm @clutchgroup.com> 
+Cc: Jyothi Prasad Bislehalli <prasad.bislehalli@clutchgroup.com>; Priti Parekh <Priti.Parekh@clutchgroup.com> 
+Subject: RE: FW: Sales Pitch 
++ Eric 
+I'll get to this later today and will then ask Eric to cast his eye over it from a legal perspective. 
+So just to be clear, we are confident that we are not in breach of the Westlaw conditions of service? Whilst LegalEase 
+are providing us with user id's in our own names, we are still a separate legal entity. Eric, I'd appreciate your 
+perspective on this point also. 
+Confidential 
+MORAE_00033849 
+TR-0047926 
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 200 of 255 PageID #:
+208305
+Regards, Steven 
+Steven Babb / Global Director of Information Security 
+steven.babb@dutchgroup.c:om / 0: +44 203 744 7560 / C: +44 7977 995321 
+Cki tch Group 
+A.O0.AE GLOMI SUSNESS 
+www.clutchgroup.com I www.moraeglobal.com 
+ct.UTC$1 RUVP 
+MOM tit 
+From: Suryad Pai 
+Sent: 28 September 2017 07:29 
+To: Chad Fennell <chad.fennell@clutchgroup.com>
+Cc: Jyothi Prasad Bislehalli <prasadbislehalli@clutchgroup.com>; Priti Parekh <Priti.Parekh@clutchgroup.com>; Steven 
+Babb <steven.babb@a clutch rou .com> 
+Subject: RE: FW: Sales Pitch 
++ Steven 
+Apologies, forgot to loop Steven in my earlier response. I think Steven is best placed to respond to this, since it 
+seems like there has been a further development in terms agreed with 1,eagalFase. 
+Steven, l: can also drop a line to Eric to confirm this. 
+Regards, 
+Suryad Pal / Manager — InfoSec & QMS 
+0: +91 (80) 3040 4425 / C: +91 7760 72 72 62 
+kite Group 
+A MORAE GLOBAL B S9; 
+SS 
+www.clutchgroup.com I www.morae lobal.com 
+From: Chad Fennell 
+Sent: Thursday, September 28, 2017 10:48 AM 
+To: Suryad Pai <suryad.pai@clutchgroup.com>
+Cc: Jyothi Prasad Bislehalli <prasadbislehalli@clutchgroup.com>; Priti Parekh <Priti.Parekh@clutchgroup.com>
+Subject: RE: FW: Sales Pitch 
++Looping in Priti 
+Hi Suryad, 
+Confidential 
+MORAE_00033850 
+TR-0047927 
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 201 of 255 PageID #:
+208306
+There shouldn't be any pending legal issues. 
+We've spoken to LegalEase and they will be providing Westlaw accounts to all of our team members under their own 
+names. 
+Also, there will be no copy/paste of WestLaw proprietary information. We will be copy/pasting directly from court cases 
+that are available to the public only. 
+Regards, 
+Chad 
+Bangalore, India 
+Confidential 
+MORAE_00033851 
+TR-0047928 
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 202 of 255 PageID #:
+208307
+EXHIBIT 12  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 203 of 255 PageID #:
+208308
+ 
+ 
+Project Rose – Project Protocol 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Rose 
+Project Protocol 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Updated 
+19 November 2017 
+Version 
+1.1 Working 
+Document Classification 
+RESTRICTED  
+Status 
+Draft/Working 
+Author 
+Christopher Cahn 
+ 
+ 
+All rights reserved.  No part of this document may be reproduced, stored in a retrieval 
+system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, 
+recording, or otherwise, without the prior written permission of Morae Global. 
+GLOBAL
+loniting BusinesPerformance
+is
+MORAE
+LEGALEASE-00093066
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 204 of 255 PageID #:
+208309
+  
+ 
+Project Rose – Project Protocol 
+ 
+ 
+2 
+Table of Contents 
+1. 
+INTRODUCTION ....................................................................................................................................3 
+1.1 
+BACKGROUND ................................................................................................................................................ 3 
+1.2 
+ORDER OF REVIEW ......................................................................................................................................... 3 
+1.3 
+QUESTION FORMATION .................................................................................................................................. 3 
+1.4 
+QUESTION RESPONSES ................................................................................................................................... 3 
+1.5 
+FORMATTING ................................................................................................................................................. 5 
+2. 
+EXAMPLE MEMO ............................................................................................................................... 87 
+MORAE
+GLOBAL
+LEGALEASE-00093067
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 205 of 255 PageID #:
+208310
+  
+ 
+Project Rose – Project Protocol 
+ 
+ 
+3 
+1. INTRODUCTION 
+ 
+1.1 
+BACKGROUND  
+Our client is assisting an artificial intelligence company train its system to identify and 
+distinguish quality legal cases without the need significant intervention from human end 
+users.  
+We will formulate questions based upon Westlaw headnotes and provide sample 
+responses in a pre-determined format. The questions and responses will subsequently be 
+“processed” by a computer so proper formatting is of critical importance.  
+1.2 
+ORDER OF REVIEW 
+Topics will be assigned based upon the Westlaw key system. At the top level will be the 
+Westlaw key topic e.g. 298 Perpetuities. Within each key will be individual keys and within 
+each key will be a list of cases that each have headnotes. We will prepare a memo for 
+every unique headnote that appears under a given Westlaw Key. 
+For example, for topic 298 Perpetuities, Key 2- “What law Governs” there are 42 cases with 
+headnotes so we would prepare 42 memos.  
+Never select a resource that is labelled as “Out of Plan”. 
+1.3 
+QUESTION FORMATION  
+Initially questions are formulated based upon the Westlaw headnote. For example, the 
+below headnote: 
+ 
+Headnote: The common law rule against perpetuities is in force in Oregon. 
+Might lead to the question, “Is the common law rule against perpetuities in force?” 
+Once memo drafting beings, it is permissible to change the question to better suit the 
+cases found but, each question must be unique.   
+ 
+Additional requirements for questions: 
+ Questions must not start with the word, “may” 
+ Questions must not be state specific (but answers can be state specific) 
+ Questions should be based upon headnotes but framed to be concise. If the 
+question runs more than 2 lines it is probably too long.  
+1.4 
+QUESTION RESPONSES 
+For each question, we will provide quotes that respond to the question. Memos are being 
+used to train a computer system rather than for actual legal research. Negative treatment 
+of a case - whether distinguished or overturned - is not relevant. Overturned cases can still 
+be quoted and the fact that it is overturned need not be mentioned. Please also note that 
+question responses are judged by whether they contain the same keywords as the 
+question. Synonyms for the keywords and responses that answer substantive issue but do 
+not contain the same keywords are not consider acceptable substitutes for the actual 
+keywords.  
+MORAE
+GLOBAL
+LEGALEASE-00093068
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 206 of 255 PageID #:
+208311
+  
+ 
+Project Rose – Project Protocol 
+ 
+ 
+4 
+ 
+Quotes are classified in four ways, great, good, topical and irrelevant.  
+ 
+Each memo will contain at least one “great” quote.  
+ 
+Memos will also contain exactly one topical and one irrelevant quote 
+ 
+Memos must contain 4- 6 quotes in total.  
+o Never less than 4 and never more than 6.  
+o 5-6 quotes is optimal.  
+ 
+The entire paragraph should be copied into the memo but the actual quote should 
+not be overly wordy. Try to be surgical; if your quote is more than two lines it is 
+probably too long 
+ 
+Paragraphs should not be overly lengthy. If a paragraph runs more than 10 lines, it 
+is too long and an alternate quote should be found.  
+ 
+Great, Good and Topical quotes should be substantive rather than factual 
+ 
+“Great” quote – Answers every aspect of the question using the same keywords.  
+Question: "Are oil and gas leases executory contracts?"  
+ 
+Answer: "Any party to an ‘executory contract,’ such as a long-term supply contract or an oil 
+and gas operating agreement, may similarly obtain from the debtor full performance plus 
+additional ‘ assurance’ as the quid pro quo for continued dealings." ) King v. Baer, 482 F.2d 
+552 (10th Cir.1973) (emphasis mine). [[Other courts have considered an oil and gas 
+lease a transfer of an interest in real property and therefore not an executory 
+contract]]." 
+ 
+“Good” quote - Should answer the most essential element of the question and contain all 
+but one keyword 
+ 
+Question: “Does a person commit forgery by opening an account and signing checks in an 
+assumed name?” 
+ 
+Answer: One cannot conclude that the defendant in this case committed forgery as defined 
+in Susalla. There may have been a litany of offenses committed, but not forgery. The check 
+given by defendant did not purport to be anything other than a personal check drawn by the 
+person who presented it on an account that that person had opened. [[The 
+misrepresentation of identity to the bank in opening the account did not make the 
+creation of a draft on that account a forgery when presented to pay for the 
+television.]] See, Rapp v. State, 274 So.2d 18 (Fla.App., 1973), Smith v. State, 379 
+S.W.2d 326 (Tex.Cr.App., 1964). 
+ 
+"Topical" and "Irrelevant" quote. 
+ 
+In addition to the 2-4 great or good answers (quotes) to each research question, we will 
+need one “topical” quote and one “irrelevant” quote.  
+ 
+“Topical” quote 
+ A topical quote is a quote that hits on limited aspects of the question, but does not answer 
+any essential part of the question. Examples of good topical quotes are a definition of one 
+of the key words or background of the law.  
+ 
+For example:  
+Comment [MS1]: The rule of entire para had 
+been revised by the client, and intimated to 
+Clutch on Nov. 14, 2017. 
+MORAE
+GLOBAL
+LEGALEASE-00093069
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 207 of 255 PageID #:
+208312
+  
+ 
+Project Rose – Project Protocol 
+ 
+ 
+5 
+Question: 'Are oil and gas leases executory contracts?' 
+ 
+Answer: 'There are no published opinions construing this language. However, by its terms, 
+the paragraph deals with interests of the debtor in 'gaseous hydrocarbons' and not contract 
+rights like the ones involved here. [[The legislative history of § 541(b)(4) indicates that 
+it was enacted to address questions related to the transfer of rights in oil and gas 
+leases.’]] 
+ 
+The easiest way to find topical cases is to look for cases within the case cited...as they are 
+citing law. This will provide a foundation.  And, by clicking on a case within one of your 
+cited cases, you will save time.   
+ 
+ 
+Touches on the elements of the question 
+ 
+Does not answer the question 
+ 
+May contain a limited component of the question  
+ 
+Not necessary to have a key word of the question 
+ 
+“Irrelevant” quote: 
+An irrelevant quote has some keywords in it from the question but completely missed the 
+mark. An easy way to find irrelevant quotes is to search a keyword, pick any case, and use 
+a quote from the facts or body with the key word. This quote is not at all on topic and will 
+likely only contain one essential word. The easiest way to locate a good irrelevant quote is 
+to pick a key word from the question, search only that word in WestLaw/Lexis, find a case 
+with that word in the facts with little to no other words from the question, bracket and bold 
+the sentence with the word.   
+  
+For example, if the question is “[a]re oil and gas leases executory contracts?” an 
+answer may contain key words like “olive oil" or "residential leases” but nothing else 
+relevant regarding the question. 
+The easiest way to locate a good irrelevant quote is to pick a key word from the question, 
+search only that word in WestLaw, find a case with that word in the facts with little to no 
+other words from the question, bracket and bold the sentence with the word.   
+An Irrelevant quote: 
+ 
+One or two matching words with the question, but completely unrelated. 
+ 
+Has key word but not within realm of the issue presented (example question on oil 
+and gas lease, irrelevant quote about olive oil).  
+1.5 
+FORMATTING 
+Memos will be machine read which means that formatting is of critical importance. At the 
+most basic level the memos must conform to the below: 
+ 
+ 
+Single Spaced 
+ 
+Left Justified 
+ 
+Times New Roman, Font 12 
+ 
+No italics 
+ 
+Eliminate Special characters and other formatting issues (eliminate *,¶ , unusual 
+spaces, footnotes, unwanted squiggly lines).  
+ 
+No underlining 
+MORAE
+GLOBAL
+LEGALEASE-00093070
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 208 of 255 PageID #:
+208313
+  
+ 
+Project Rose – Project Protocol 
+ 
+ 
+6 
+ 
+Cases Sequentially Numbers (i.e. Case 1, Case 2, Case 3, etc) 
+ 
+Check if Great, Good, Topical and Irrelevant are in order and properly titled.  
+ 
+Check if the memo number in the file name is unique and that it matches the 
+number in the body of the memo. 
+More broadly, the memos will conform to the following:  
+ 
+Issue 
+Description 
+1 
+Draft questions following Creative Process. 
+ Questions must not start with the word, “may” 
+ Questions must not be state specific 
+ Questions should be based upon headnotes but framed to be concise. If the 
+question runs more than 2 lines it is probably too long. 
+ Is the question grammatically correct? 
+2 
+Research questions using online resources and accounts.   
+Only a basic case cite should be provided – No pin point or alternate cites 
+Kirquel Dev., Ltd. v. Planning Bd. of Town of Cortlandt, 96 A.D.3d 754. 
+3 
+Memo title and number centered and bold.  
+MEMORANDUM # 23 
+4 
+Left justify the balance of the memo 
+5 
+Confirm the font and spacing of the memo is appropriate. Nothing should be 
+italicized or underlined. 
+7 
+Does the memo number at the top of the memo match the number in the file 
+name?  
+8 
+The Issue and the quotes must be in bold. No other text should be in bold. 
+9 
+Quotes are to be in double brackets, all punctuation inside of the brackets, and 
+bold font. No highlighting. The end of the quote must include punctuation and cites 
+should not be included in the quote UNLESS it is required in order to have the 
+quote end with punctuation. 
+[[This result would present due process concerns and is clearly not what the 
+Legislature intended.]] 
+10 
+All quotes must be identical to the one found in the case unless otherwise noted 
+here, no stray words, missing punctuation, or carriage returns. 
+*Westlaw internal page numbers must be eliminated.  
+11 
+Ensure bracket spacing is correct, before and after brackets, and bold font is 
+limited to the bracketed quote. No highlighting. 
+12 
+Quotes should not all be from the same ruling or case. 
+13 
+Bracketed language must be a full sentence. Not just two words. 
+14 
+Label quotes as great (1-4), good (2-3), topical (1), and irrelevant (1) for a total of 
+4-6 quotes. 
+Case 4: Winston v. Freshwater Wetlands Appeals Bd., 254 A.D.2d 363. 
+Good Quote 1: text text text 
+15 
+GREAT –The bracketed language must answer question and must contain all the 
+essential keywords of the question. Note: Synonyms are not considered the same 
+key word 
+16 
+GOOD – The bracketed language must answer question and must contain most of 
+the the essential keywords of the question. 
+17 
+TOPICAL – foundation quote, background information. 
+18 
+IRRELEVANT– has no reference or relevance but includes one key word from the 
+Comment [MS2]: Identical in the way it 
+appears in WL; do not use identical quotes 
+(where all the quotes of the memo are 
+identical). 
+b
+MORAE
+GLOBAL
+IgnitingBusinessPerformance
+LEGALEASE-00093071
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 209 of 255 PageID #:
+208314
+  
+ 
+Project Rose – Project Protocol 
+ 
+ 
+7 
+question. 
+19 
+Memo saved in correct format – naming convention (Topic – Memo # - C (for 
+clutch) - associate initials). When saving after review include your initials. 
+Venue – Memo # 23 – C - AA 
+20 
+Tracker Updated  
+21 
+Watch out for 
+1: Grammar – question, missing period 
+2: Format – bold, spacing, pagination 
+3: Great/Good – quote mislabelled 
+4: Topical – quote should not answer the question but should provide background 
+knowledge 
+5: Irrelevant – quote is irrelevant 
+ 
+b
+MORAE
+GLOBAL
+IgnitingBusinessPerformance
+LEGALEASE-00093072
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 210 of 255 PageID #:
+208315
+  
+ 
+Project Rose – Project Protocol 
+ 
+ 
+8 
+2. EXAMPLE MEMO 
+ 
+MEMORANDUM # 57 
+ 
+1. Question 
+Is equitable relief a cause of action? 
+ 
+2. Reference List 
+Issue: Is equitable relief a cause of action? 
+ 
+Case 1: Hendrix v. Napolitano, 77 F. Supp. 3d 188. 
+Great Quote 1: Mr. Hendrix asserts a claim for equitable relief in Count V. [[Equitable relief, 
+however, is a form of relief and not a cause of action.]] Since the Court grants the motion for 
+summary judgment as to Count IV, there is no cause of action in this matter upon which it could 
+grant any equitable relief. The Court, therefore, dismisses Count V for failure to state a claim upon 
+which relief can be granted. 
+ 
+Case 2: Eisenberg v. City of Miami Beach, 1 F. Supp. 3d 1327. 
+Great Quote 1: [[The equitable relief Plaintiffs seek is a remedy, not a separate cause of 
+action.]] See Perret v. Wyndham Vacation Resorts, Inc., 889 F.Supp.2d 1333, 1346 (S.D.Fla.2012) 
+(dismissing count pleading injunctive and declaratory relief for failure to state a separate cause of 
+action); Tara Prods., Inc. v. Hollywood Gadgets, Inc., No. 09–CV–61436, 2010 WL 1531489, at 
+(S.D.Fla. Apr. 16, 2010) (dismissing count pleading remedy of equitable lien for failure to state 
+separate cause of action); see also Alabama v. U.S. Army Corps of Eng'rs, 424 F.3d 1117, 1127 
+(11th Cir.2005) (“[A]ny motion or suit for either a preliminary or permanent injunction must be 
+based upon a cause of action ... There is no such thing as a suit for a traditional injunction in the 
+abstract.”) (internal quotation marks and citation omitted). Moreover, “[A] court should not entertain 
+an action for declaratory relief when the issues are properly raised in other counts of the pleadings 
+and are already before the court.” Perret, 889 F.Supp.2d at 1346 (citation omitted). Plaintiffs already 
+seek equitable relief in the other counts of the Complaint. Accordingly, Count VII is dismissed. 
+ 
+Case 3: Crown Const. Co. v. Huddleston, 961 S.W.2d 552. 
+Topical Quote 1: In this case, the evidence, other than whether the notice was taped to Huddleston's 
+door on June 2, 1996, is undisputed. Crown acknowledges that it was aware, prior to June 2, 1996, 
+that the option expired on that date. It also acknowledges that after it allegedly taped the notice to 
+Huddleston's office door, it did not attempt to contact Huddleston again until June 12, 1996. Then, 
+on June 12, 1996, Crown delivered notice in writing to Huddleston's agent. Crown never confirmed 
+receipt of the June 2 notice. [[In the face of undisputed facts, the propriety 
+of equitable relief is a question of law for the court, subject to an abuse of discretion standard 
+of review on appeal. Fontenot, 919 S.W.2d at 715.]] Because the facts surrounding Crown's 
+equitable argument are undisputed, Crown's third point of error alleging that a fact issue exists 
+regarding whether equity should be applied in this case is overruled. We must now consider, 
+whether the trial court erred in finding that Crown was not entitled to equitable relief as a matter of 
+law. 
+ 
+ 
+Case 4: Beard v. Glickman, 189 F. Supp. 2d 994. 
+Irrelevant Quote 1: In their Reply, the Beards argue that if we accept Defendant's interpretation, the 
+Agency can completely undermine an appellant's right to appeal a denial of equitable relief by 
+simply failing to recommend such relief to the Administrator. We disagree. 
+[[There can only be a denial of equitable relief if the party in question has the authority to 
+MORAE
+GLOBAL
+LEGALEASE-00093073
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 211 of 255 PageID #:
+208316
+  
+ 
+Project Rose – Project Protocol 
+ 
+ 
+9 
+actually grant equitable relief.]] Under the construction of the relevant statutes and regulations, 
+only certain Administrators within the FSA (the head Administrator, Associate Administrator and 
+Deputy Administrator) and the Director of the NAD, as well as, of course, the Secretary of 
+Agriculture, have the authority to grant equitable relief. Thus there could be no denial 
+of equitable relief appealed to the NAD Director in cases where, as here, the appellants chose to 
+bypass the intermediate options of Agency review before appealing directly to the NAD. Therefore, 
+accepting Defendant's interpretation does not undermine an appellant's right to appeal a denial 
+of equitable relief. 
+ 
+ 
+-- End of Document -- 
+MORAE
+GLOBAL
+LEGALEASE-00093074
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 212 of 255 PageID #:
+208317
+EXHIBIT 13  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 213 of 255 PageID #:
+208318
+Birrecia!
+\
+Saeurake
+x
+Amazon
+x\(0) Hafeez
+x
+OnyxPre \ffl) Projecn
+x\
+Legalca:
+x
+intoxi@
+x\ FE}Rosso:
+x\
+mail-t2 x\
+Ally-tac:
+x\ [EB]MoRAE: x
+Westtke
+x
+8
+€
+| @ Secure
+|
+https://1.nect.westlaw.com/B
+unit
+Quid=l4S1d744
+nsitionType=D
+LGLES
+v
+im Folders
+Beas)todd
+yes
+Mist
+ATV
+me
+Rem)
+FORGERY
+Search 18
+Home
+Key Number System
+181 FORGERY
+Add to Favorites
+Copy link
+Specify Content to Search
+Expand All
+1 Nature of offense in general
+@= 2 Statutory provisions
+@ 3 Elements of offenses
+@ 15 False entries or records, and alteration of entries or records
+16 Uttering or publishing forged instrument
+@» 17 Possession of forged instrument or of means of forgery
+18 Degrees
+19 Attempts
+& 20 Defenses
+21 Persons liable
+ew 22 Jurisdiction
+@ 23 Venue
+24 Preliminary proceedings in prosecution
++ @ 25 Indictment or information
+35 Presumptions and burden of proof
+@ 36 Admissibility of evidence
++) o 44 Weight and sufficiency of evidence
++)
+45 Trial
+§1 Sentence and punishment
+Brefeences
+94 My Contac
+TransferMy Data
+R-LEGALEASE-00189134
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 214 of 255 PageID #:
+208319
+Ey Precaica,
+x
+Gias
+(2 Sakure
+@
+Amazon
+x
+NARROW:
+Select Multiple Filters.
+Search within results
+Key Number
+Jurisdiction
+Federal
+Siste
+Select Multiple Filters
+other sources:
+History
+Dee
+Nature of offense
+Home
+lest
+K
+e
+y
+Numbe
+GERY
+© 1 Nature of offense in general (293)
+Copy link
+Jurisdiction: All State & Federal
+Change
+4-100»
+Sort by:| Topicthen Date
+=
+ct all items|No items selected
+181 FORGERY (Up to 10,000)
+L..
+Nature of offense in general 293
+48
+>
+1. People v. Carian
+245
+Colorado Court of Appeals,
+Div.
+|
+.
+|August 10,2017
+Headnote: As
+matter of jaw, the crime of forgary is complete
+when
+ct and guilty knowledge coincide with the intent to defraud
+§ 18-5-102(1)(d)
+Document Preview: CRIMINAL JUSTICE- Forgery. Probationer's urinalysis reports were nat “required by law to be filed” or “legal fileable,” as required for forgery conviction
+2, People v. Pinkney
+Court of Appeals of Michigan.
+July 26.2016
+316 Mich App. 450
+Headnote: The substantive offense of election forgery is created by the statute providing that any person found guilty af forgery under the provisions of the Clection Lew shall be
+punished by a fine, imprisonment,
+or both,
+MC
+Document Preview: CRIMINAL JUSTICF
+- Flectinn Forgery Thereis a criminal offanse of alertion forgery
+3, People v. Pinkney
+Court of Appeals of Michigan. | July 26.2076
+316 Mich App. 450
+Headnote:
+Thecommon-law definition of forgery”
+applies to the offense of siection forgery.
+M.0.L
+Document Preview: CRIMINAL JUSTICE
+- Election Forgery. There is a criminal offanse of election forgery.
+4. Alvarez v. Lynch
+United States Court of Appeats, Fourth Circuit.
+July 7, 2016
+828 F3d 288
+Headnote: For common-law forgery, forged documents or instruments must be invalid or
+fod, mere falsiti
+sent in or an the document or instrument will not sum
+ly Oxi
+Document Preview: IMMIGRATION- Deportation ar Removal. Virginia conviction for forging
+public record was generic forgery.
+Alvarez v. Lynch
+United States Court of Appea:
+Fourth Circuit.
+July
+| 828 F.3d 288
+Headnote: Un
+W
+.
+“forgery”
+ts the faise making or matenally altering with intent to defraud. of any writing which.if genuine, might apparent
+fleg
+cy, or the
+R-LEGALEASE-00189135
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 215 of 255 PageID #:
+208320
+Collapses3 Elements of offenses
+o~ 3 Elements of offensess=_3 Elements of offenses
+ome > West Key Number System > 181 FORGERY > G=_3 Elements of offenses
+4—In general(325)
+R-LEGALEASE-00189136
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 216 of 255 PageID #:
+208321
+Nature of offense in general
+2 Statutory provisionsse= 2 Statutory provisions
+Collapses 3 Elements of offenses
+a= 3 Elements of offensese=- 3 Elements of offenses
+¢
+—In generale= 4 —In general
+¢
+5 —Intenti 5 —Intent
+¢
+§ —Want of authoritye= 6 —VVant of authority
+Expandé» 7 —Nature of instrument
+7 —Nature of instrumente= 7 —Nature of instrument
+¢
+¢» 8 —Name or signature used@ 8 —Name or signature used
+¢
+9 —Making false instrument or signatureo= 9 —Making false instrument or signature
+*
+—Alteration or destruction of instrumente= 10 —Alteration or destruction of instrument
+¢
+11 —Similitude of false instrument or signature to genuines= 11 —Similitude of false instrument or signature to genuine
+¢
+Expandé»
+—Apparent legal efficacy or operation of instrument
+12 —Apparent legal efficacy or operationof instruments» 12 —Apparent legal efficacy or operation of instrument
+¢
+13 —Fraudulent use of instrument 13 —Fraudulent useof instrument
+¢
+14 —Injury from forgerya=- 14 —Injury from forgery
+@~ 15 False entries or records, and alteration of entries or recordse= 15 False entries or records, and alteration
+of
+entries or records
+é= 16 Uttering or publishing forged instrumente= 16 Uttering or publishing forged instrument
+a 17 Possession of forged instrument or of means of forgeryi= 17 Possession of forged instrument or of means of
+forgery
+18 Degreese= 18 Degrees
+a= 19 Attemptse= 19 Attempts
+20 Defenses 20 Defenses
+a= 21 Persons liablec= 21 Persons liable
+22 Jurisdictione= 22 Jurisdiction
+R-LEGALEASE-00189137
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 217 of 255 PageID #:
+208322
+a= 23 Venues 23 Venue
+24 Preliminary proceedings in prosecutions= 24 Preliminary proceedings in prosecution
+Collapses= 25 Indictment or information
+é= 25 Indictment or informations 25 Indictment or information
+¢
+26 —In generalé= 26—In general
+¢
+27 —Intenté= 27 —Intent
+Expande= 28 —Description of or setting forth instrument
+= 28 —Description of or setting forth instrumenta= 28 —Description of or setting forth instrument
+¢
+Expandé= 29 —Facts extrinsic to instrument in general
+@= 29 —Facts extrinsic to instrument in generalé= 29 —Facts extrinsic to instrument in general
+30 —Making or alteration of instrumente« 30 —Making or alteration of instrument
+¢
+31 —Falsification of entries or records@= 31 —Falsification of entries or records
+¢
+32 —Uttering or publishing forged instrumente= 32 —Uttering or publishing forged instrument
+¢
+33 —Possession of forged instrument or of means of forgerya= 33 —Possession of forged instrument or of means of forgery
+Expande= 34 —Issues, proof, and variance
+34 —lssues, proof, and variancee= 34 —lssues, proof, and variance
+e= 35 Presumptions and burden of proofe= 35 Presumptions and burden of proof
+Collapses= 36 Admissibility of evidence
+36 Admissibility of evidences» 36 Admissibility of evidence
+*
+27 —In general@= 37 —In general
+¢
+38 —Intent and knowledge*= 38 —Intent and knowledge
+¢
+39 —Making or alteration of instrument, signature, or entrya= 39 —Making or alteration of instrument, signature, or entry
+¢
+40 —Uttering or publishing forged instrumenté~ 40 —Uttering or publishing forged instrument
+¢
+= 41 —Possession of forged instrument or of means of forgerys=
+41—Possession of forged instrument or of means of forgery
+¢
+42 —Incriminating circumstances®=
+42 —Incriminating circumstances
+§ 43 —Matters of defensed= 43 —Matters of defense
+Collapses= 44 Weight and sufficiency of evidence
+o~ 44 Weight and sufficiency of evidences 44 Weight and sufficiency of evidence
+(.5) In general(.5) In general
+¢
+Fraudulent intent and knowledge(1) Fraudulent intent and knowledge
+R-LEGALEASE-00189138
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 218 of 255 PageID #:
+208323
+¢
+Making false instrument or signature and forged character of paper(2) Making false instrument or signature and forged character of
+paper
+¢
+(3) Uttering false instrument and alteration of instrument(3) Uttering false instrument and alteration of instrument
+Collapses= 45 Trial
+@= 45 Triale= 45 Trial
+¢
+46 —In general 46 —In general
+¢
+47 —Questionsfor jury@= 47 —Questions for jury
+¢
+48 —Instructionse= 48 —Instructions
+49 —Verdicto= 49 —Verdict
+@= 51 Sentence and punishmente= 51 Sentence and punishment
+Home > West Key Number System > 181 FORGERY
+@ 15 False entries or records, and alteration of entries or records(154)
+R-LEGALEASE-00189139
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 219 of 255 PageID #:
+208324
+EXHIBIT 14  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 220 of 255 PageID #:
+208325
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 221 of 255 PageID #:
+208326
+TR-0073546
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 222 of 255 PageID #:
+208327
+EXHIBIT 15  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 223 of 255 PageID #:
+208328
+HIGHLY CONFIDENTIAL
+1
+           IN THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF DELAWARE
+2
+________________________________________________________
+3
+THOMSON REUTERS ENTERPRISE
+CENTRE GMBH and WEST
+4
+PUBLISHING CORPORATION,
+5
+                   Plaintiffs,
+6
+vs.                                C.A. NO. 20-613-LPS
+7
+ROSS INTELLIGENCE INC.,
+8
+                   Defendant.
+________________________________________________________
+9
+10
+11
+         VIDEOTAPED VIDEOCONFERENCE DEPOSITION OF
+12
+     ISABELLE MOULINIER, 30(b)(6) REPRESENTATIVE FOR
+13
+          THOMSON REUTERS ENTERPRISE CENTRE GMBH
+14
+                   HIGHLY CONFIDENTIAL
+15
+16
+17
+DATE:   July 1, 2022
+18
+TIME:   9:07 a.m.
+19
+PLACE:  150 South Fifth Street, Suite 1775
+        Minneapolis, MN 55402
+20
+21
+JOB NO.:  SF 5264242
+22
+23
+24
+25
+REPORTED BY: Dawn Workman Bounds, CSR
+Page 1
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 224 of 255 PageID #:
+208329
+HIGHLY CONFIDENTIAL
+1
+                  A  P  P  E  A  R  A  N  C  E  S
+2
+O N  B E H A L F  O F  P L A I N T I F F S  a n d  W I T N E S S :
+3
+     J O S H U A  S I M M O N S ,  E S Q U I R E
+     R O M A  L O P E S ,  E S Q U I R E
+4
+     K i r k l a n d  &  E l l i s
+     6 0 1  L e x i n g t o n  A v e n u e
+5
+     N e w  Y o r k ,  N Y  1 0 0 2 2
+     2 1 2 . 4 4 6 . 4 8 0 0
+6
+     j o s h u a . s i m m o n s @ k i r k l a n d . c o m
+     r o m a . l o p e s @ k i r k l a n d . c o m
+7
+8
+O N  B E H A L F  O F  D E F E N D A N T :
+9
+     G A B R I E L  M .  R A M S E Y ,  E S Q U I R E
+     K E V I N  C A C A B E L O S ,  E S Q U I R E
+1 0
+     C r o w e l l  &  M o r i n g  L L P
+     3  E m b a r c a d e r o  C e n t e r ,  2 6 t h  F l o o r
+1 1
+     S a n  F r a n c i s c o ,  C A   9 4 1 1 1
+     4 1 5 . 9 8 6 . 2 8 0 0
+1 2
+     g r a m s e y @ c r o w e l l . c o m
+     k c a c a b e l o s @ c r o w e l l . c o m
+1 3
+1 4
+A L S O  P R E S E N T :
+1 5
+     B R I A N  C I C C O N E ,  V I D E O G R A P H E R
+1 6
+1 7
+1 8
+1 9
+2 0
+2 1
+2 2
+2 3
+2 4
+2 5
+Page 2
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 225 of 255 PageID #:
+208330
+HIGHLY CONFIDENTIAL
+1
+                        I N D E X
+2
+WITNESS:  ISABELLE MOULINIER                         PAGE
+3
+EXAMINATION BY MR. RAMSEY..........................     5
+4
+EXAMINATION BY MR. SIMMONS.........................   143
+5
+EXHIBITS MARKED/REFERRED TO
+6
+Exhibit 1  Defendant Ross Intelligence Inc.'s
+           Amended Notice of 30(b)(6) Deposition
+7
+           to Plaintiff Thomson Reuters Enterprise
+           Centre GMBH................................     6
+8
+Exhibit 2  Master Thesis "Explaining Relationships
+9
+           Between Entities"..........................    87
+10
+Exhibit 3  Dynamic_System_Overview.pdf................   109
+11
+12
+13
+14
+15
+TIME ON THE RECORD:
+16
+Mr. Ramsey - 3 hours, 8 minutes
+Mr. Simmons - 1 minute
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Page 3
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 226 of 255 PageID #:
+208331
+HIGHLY CONFIDENTIAL
+1
+                  P R O C E E D I N G S
+2
+               THE VIDEOGRAPHER:  Good morning.  We are
+3
+going on the record at 9:07 a.m. Central Daylight Time on
+4
+July 1, 2022.  This is Media Unit Number 1 of the
+5
+video-recorded deposition of Isabelle Moulinier, taken by
+6
+counsel for defendant in the matter of Thomson Reuters
+7
+Enterprise, et al. versus Ross Intelligence Inc., filed
+8
+in the United States District Court for the District of
+9
+Delaware, Case Number 20-613-LPS.
+10
+               This deposition is being taken in
+11
+Minneapolis, Minnesota.  My name is Brian Ciccone
+12
+representing Veritext Legal Solutions, and I am the
+13
+videographer.  The court reporter is Dawn Bounds also
+14
+from Veritext Legal Solutions.
+15
+               Will the attorneys please note their
+16
+appearances for the record.
+17
+               MR. RAMSEY:  This is Gabriel Ramsey joined
+18
+by my colleague Kevin Cacabelos of Crowell & Moring.  We
+19
+represent the Defendant Ross Intelligence.
+20
+               MR. SIMMONS:  I am Joshua Simmons.  With
+21
+me is Roma Lopes.  We're from Kirkland & Ellis, and we
+22
+represent the Plaintiffs as well as the witness.
+23
+               THE VIDEOGRAPHER:  Thank you.
+24
+               Will the court reporter please swear in
+25
+the witness.
+Page 4
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 227 of 255 PageID #:
+208332
+HIGHLY CONFIDENTIAL
+1
+               (Witness sworn.)
+2
+               THE VIDEOGRAPHER:  You may proceed.
+3
+                   ISABELLE MOULINIER,
+4
+having been first duly sworn, testified as follows:
+5
+                       EXAMINATION
+Page 5
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 228 of 255 PageID #:
+208333
+HIGHLY CONFIDENTIAL
+Page 12
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 229 of 255 PageID #:
+208334
+HIGHLY CONFIDENTIAL
+Page 13
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 230 of 255 PageID #:
+208335
+HIGHLY CONFIDENTIAL
+Page 14
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 231 of 255 PageID #:
+208336
+HIGHLY CONFIDENTIAL
+Page 15
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 232 of 255 PageID #:
+208337
+HIGHLY CONFIDENTIAL
+Page 61
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 233 of 255 PageID #:
+208338
+HIGHLY CONFIDENTIAL
+Page 62
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 234 of 255 PageID #:
+208339
+HIGHLY CONFIDENTIAL
+Page 71
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 235 of 255 PageID #:
+208340
+HIGHLY CONFIDENTIAL
+Page 72
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 236 of 255 PageID #:
+208341
+HIGHLY CONFIDENTIAL
+Page 74
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 237 of 255 PageID #:
+208342
+HIGHLY CONFIDENTIAL
+Page 75
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 238 of 255 PageID #:
+208343
+HIGHLY CONFIDENTIAL
+Page 76
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 239 of 255 PageID #:
+208344
+HIGHLY CONFIDENTIAL
+Page 77
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 240 of 255 PageID #:
+208345
+HIGHLY CONFIDENTIAL
+Page 78
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 241 of 255 PageID #:
+208346
+HIGHLY CONFIDENTIAL
+Page 88
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 242 of 255 PageID #:
+208347
+HIGHLY CONFIDENTIAL
+Page 126
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 243 of 255 PageID #:
+208348
+HIGHLY CONFIDENTIAL
+Page 127
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 244 of 255 PageID #:
+208349
+HIGHLY CONFIDENTIAL
+Page 128
+Veritext Legal Solutions
+866 299-5127
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 245 of 255 PageID #:
+208350
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 246 of 255 PageID #:
+208351
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 247 of 255 PageID #:
+208352
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 248 of 255 PageID #:
+208353
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 249 of 255 PageID #:
+208354
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 250 of 255 PageID #:
+208355
+ 
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 251 of 255 PageID #:
+208356
+EXHIBIT 16  
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 252 of 255 PageID #:
+208357
+9/26/2024
+https://blog.rossintelligence.com/post/how-natural-language-search-changing-face-of-legal-research
+1/3
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 253 of 255 PageID #:
+208358
+9/26/2024
+https://blog.rossintelligence.com/post/how-natural-language-search-changing-face-of-legal-research
+2/3
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 254 of 255 PageID #:
+208359
+9/26/2024
+https://blog.rossintelligence.com/post/how-natural-language-search-changing-face-of-legal-research
+3/3
+Case 1:20-cv-00613-SB     Document 728-1     Filed 11/06/24     Page 255 of 255 PageID #:
+208360

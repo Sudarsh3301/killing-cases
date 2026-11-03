@@ -1,0 +1,18 @@
+{
+  "case": "Hartford Fire Insurance Company v. Carson Madrona Company, LLC",
+  "docket": "3:23-cv-06259 (N.D. Cal.)",
+  "courtlistener_docket": "https://www.courtlistener.com/docket/68059903/hartford-fire-insurance-company-v-carson-madrona-company-llc/",
+  "court": "U.S. District Court for the Northern District of California",
+  "courtListenerCourtId": "cand",
+  "circuit": "9th Cir.",
+  "judge": "Vince Chhabria",
+  "side": "third-party defendant / insurer (Ohio Security Insurance Co. and American Fire and Casualty Co.)",
+  "motionRole": "movant",
+  "proceeding": "summary_judgment",
+  "motion": "Ohio Security and American Fire's motion for partial summary judgment (D.I. 64)",
+  "nature": "Insurance coverage: which of 4 insurers owes defense and indemnity for a judgment against their common insured",
+  "notes": "4 cross-motions decided together. Oppositions to D.I. 64 are inside Hartford's cross-motion (67) and Ace's motion (68). D.I. 79 is a tentative order; D.I. 81 is final.",
+  "brief": "Ohio Security and American Fire's notice of motion and memorandum (D.I. 64), filed 2025-01-02",
+  "filingDate": "2025-01-02",
+  "outcome": "Lost. Hartford's and Ace's motions granted in part; Carson Madrona's and the Liberty parties' (Ohio Security, American Fire) denied (D.I. 81). Endorsement governs, not the coverage form; 'caused, in whole or in part' means proximate cause. Tentative order D.I. 79 said the same."
+}

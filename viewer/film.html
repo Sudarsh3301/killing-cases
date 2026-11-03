@@ -1,0 +1,377 @@
+<title>Matter Twin Replay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* Layout: a 16:9 film stage. Words from documents live in the left column, in serif; the argument's structure lives on the right. One fixed look, chosen for recording. */
+:root {
+	--bg:#f2f4f1; --card:#fbfcfa; --ink:#18212c; --muted:#5f6a76; --rule:#cdd3d6;
+	--hold:#2e6b5c; --weak:#b07517; --broken:#b3261e; --contest:#5c4e9e; --idle:#a2aab2;
+	--serif:"Newsreader", Georgia, serif; --sans:"Public Sans", system-ui, sans-serif;
+	color-scheme:light;
+}
+* { box-sizing:border-box; }
+body { background:var(--bg); color:var(--ink); font:14px/1.5 var(--sans); padding-block:12px; padding-left:max(16px, env(safe-area-inset-left, 0px)); padding-right:max(16px, env(safe-area-inset-right, 0px)); }
+button { font:inherit; color:inherit; cursor:pointer; }
+:focus-visible { outline:2px solid var(--ink); outline-offset:2px; }
+.frame { width:100%; max-width:1600px; margin:0 auto; aspect-ratio:16 / 9; position:relative; overflow:hidden; border:1px solid var(--rule); border-radius:6px; background:var(--bg); }
+.stage { position:absolute; left:0; top:0; width:1600px; height:900px; transform-origin:0 0; }
+.stage svg { position:absolute; inset:0; }
+
+.cap { position:absolute; left:56px; top:44px; width:860px; }
+.cap .no { font:600 15px var(--sans); color:var(--muted); }
+.cap h2 { font:500 46px/1.12 var(--serif); margin:6px 0 10px; letter-spacing:-.01em; text-wrap:balance; }
+.cap p { font:400 19px/1.45 var(--sans); color:var(--muted); margin:0; max-width:760px; }
+.count { position:absolute; right:56px; top:52px; text-align:right; }
+.count b { display:block; font:500 64px/1 var(--serif); font-variant-numeric:tabular-nums; }
+.count span { font-size:15px; color:var(--muted); }
+
+.card { position:absolute; left:56px; top:300px; width:430px; background:var(--card); border:1px solid var(--rule); border-radius:4px; padding:20px 22px; opacity:0; }
+.card .src { font:600 13px var(--sans); color:var(--muted); margin-bottom:10px; }
+.card .q { font:400 22px/1.42 var(--serif); }
+.card .q + .src { margin-top:18px; }
+.card .small { font-size:14px; color:var(--muted); margin-top:14px; line-height:1.45; }
+.ghostcard { border:2px dashed var(--broken); background:var(--card); }
+.ghostcard .q { font-style:italic; font-size:20px; }
+mark { background:color-mix(in srgb, var(--weak) 28%, transparent); color:inherit; padding:0 1px; }
+.order { position:absolute; left:56px; top:296px; width:520px; background:var(--card); border:1px solid var(--rule); border-radius:3px; padding:20px 22px 12px; opacity:0; box-shadow:0 18px 40px rgb(24 33 44 / .14); }
+.order .src, .otitle { margin-right:150px; }
+.order .src { font:600 13px var(--sans); color:var(--muted); }
+.otitle { font:500 24px/1.25 var(--serif); margin-top:4px; margin-bottom:14px; padding-bottom:12px; }
+.order ol { border-top:1px solid var(--rule); }
+.stamp { position:absolute; right:24px; top:26px; font:700 30px/1 var(--sans); letter-spacing:.12em; text-transform:uppercase; color:var(--broken); border:4px solid var(--broken); border-radius:4px; padding:8px 14px; opacity:0; }
+.reasons { margin:0; padding:0 0 0 24px; font:400 17px/1.3 var(--serif); }
+.reasons li { height:62px; display:flex; align-items:center; justify-content:space-between; gap:14px; border-bottom:1px solid var(--rule); opacity:0; }
+.reasons li:last-child { border-bottom:0; }
+.reasons .hit { font:700 14px var(--sans); color:var(--card); background:var(--broken); border-radius:3px; padding:3px 8px; white-space:nowrap; }
+.reasons .miss { font:600 14px var(--sans); color:var(--muted); border:1px solid var(--rule); border-radius:3px; padding:2px 8px; white-space:nowrap; }
+.score { position:absolute; right:56px; top:52px; text-align:right; opacity:0; width:360px; }
+.score b { display:block; font:500 64px/1 var(--serif); color:var(--broken); font-variant-numeric:tabular-nums; }
+.score span { font-size:15px; color:var(--muted); }
+.stats { display:flex; gap:64px; justify-content:center; margin:30px 0 34px; }
+.stats div { text-align:center; }
+.stats b { display:block; font:500 58px/1 var(--serif); color:var(--broken); }
+.stats span { display:block; font-size:16px; color:var(--muted); max-width:220px; margin-top:8px; }
+.flag { display:inline-block; font:600 13px var(--sans); color:var(--broken); margin-top:6px; }
+.chain { list-style:none; margin:0; padding:0; }
+.chain li { display:flex; justify-content:space-between; gap:12px; font:400 19px/1.3 var(--serif); padding:9px 0; border-bottom:1px solid var(--rule); opacity:0; }
+.chain.top li { opacity:1; }
+.chain.top li span, .chain.top li span:last-child { font:400 17px/1.35 var(--serif); color:var(--ink); }
+.chain li span:last-child { font:600 14px var(--sans); color:var(--broken); }
+.del { text-decoration:line-through; text-decoration-color:var(--broken); color:var(--muted); }
+.ins { background:color-mix(in srgb, var(--hold) 14%, transparent); }
+.tag { position:absolute; left:56px; top:252px; font:600 14px var(--sans); color:var(--card); background:var(--ink); padding:5px 10px; border-radius:3px; opacity:0; }
+.intro, .end { position:absolute; inset:0; display:grid; place-content:center; text-align:center; background:var(--bg); opacity:0; pointer-events:none; }
+.intro, .end { padding:0 160px; }
+.intro h3, .end h3 { font:500 64px/1.1 var(--serif); margin:0 0 18px; text-wrap:balance; }
+.intro p, .end p { font-size:19px; color:var(--muted); margin:4px auto; max-width:900px; }
+.kicker { font:600 17px var(--sans); color:var(--muted); margin-bottom:14px; }
+.intro { opacity:1; }
+.lbl { font:500 15px var(--sans); fill:var(--ink); paint-order:stroke; stroke:var(--bg); stroke-width:5px; stroke-linejoin:round; }
+.lbl.relief { font:600 19px var(--serif); }
+.rank { font:700 13px var(--sans); fill:var(--broken); }
+
+.controls { max-width:1600px; margin:12px auto 0; display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+.controls button { border:1px solid var(--rule); background:var(--card); border-radius:4px; padding:5px 12px; }
+#play { background:var(--ink); color:var(--card); border-color:var(--ink); min-width:80px; }
+.chapters { display:flex; gap:6px; flex-wrap:wrap; }
+.chapters button[aria-current="true"] { border-color:var(--ink); font-weight:600; }
+#scrub { flex:1; min-width:180px; accent-color:var(--ink); }
+#clock { color:var(--muted); font-variant-numeric:tabular-nums; min-width:64px; }
+</style>
+
+<div class="frame" id="frame"><div class="stage" id="stage">
+	<svg id="svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Argument graph of the motion"></svg>
+	<div class="cap"><div class="no" id="no"></div><h2 id="title"></h2><p id="sub"></p></div>
+	<div class="count"><b id="secure"></b><span>of 14 claims secure</span></div>
+
+	<div class="card" id="c-brief">
+		<div class="src">Ohio Security’s brief, page 20 of 29</div>
+		<div class="q">“Coverage under the Hartford policy for Carson Madrona does not require proof of liability”</div>
+		<div class="small">The twin reads the whole brief and the record filed with it, and types every part: claims, reasoning steps, premises, and the burden on each claim.</div>
+	</div>
+	<div class="card ghostcard" id="c-ghost">
+		<div class="src">Unstated premise, found via the graph</div>
+		<div class="q">Carson Madrona’s insured status is governed by the Lessors of Land clause, not by the policy’s blanket endorsement, which covers only injury “caused, in whole or in part, by your acts or omissions.”</div>
+		<div class="small">The no-fault argument only works if this is true. The brief never says it.</div>
+	</div>
+	<div class="card" id="c-top" style="padding-block:10px">
+		<ul class="chain top">
+			<li><span>#1 The withdrawal letter gave three grounds; the brief answers one</span></li>
+			<li><span>#2 The policy removes Lessors of Land status from anyone insured by an endorsement</span></li>
+			<li><span>#3 Case law: the endorsement displaces the general clause</span></li>
+			<li><span>#4 The brief’s no-fault cases involve endorsements that do not allocate by fault</span></li>
+			<li><span>#5 The jury found the tenant 0% at fault</span></li>
+			<li><span>#6 “Caused, in whole or in part” means proximate cause</span></li>
+		</ul>
+	</div>
+	<div class="card" id="c-policy">
+		<div class="src">Hartford policy, page 27 (filed with the motion)</div>
+		<div class="q">“However, no such person or organization is an insured under this provision <mark>if such person or organization is included as an insured by an endorsement</mark> issued by us…”</div>
+		<div class="src">Endorsement CG 20 26, page 59</div>
+		<div class="q">“BLANKET WHERE REQUIRED BY WRITTEN CONTRACT OR AGREEMENT … liability … <mark>caused, in whole or in part, by your acts or omissions</mark>”</div>
+	</div>
+	<div class="card" id="c-chain" style="padding-block:10px">
+		<ul class="chain" id="chain"></ul>
+	</div>
+	<div class="tag" id="revealed">The court’s order, 20 March 2025. The twin never saw it.</div>
+	<div class="order" id="c-order">
+		<div class="src">United States District Court, Northern District of California</div>
+		<div class="otitle">Order on cross-motions for summary judgment</div>
+		<div class="stamp" id="stamp">Denied</div>
+		<ol class="reasons" id="reasons"></ol>
+	</div>
+	<div class="score" id="score"><b id="scoreN">0</b><span>of 7 decisive reasons flagged before filing</span></div>
+	<div class="card" id="c-red">
+		<div class="src">15 edits applied after the exchange, for example</div>
+		<div class="q" style="font-size:19px"><span class="del">a $25,500,000 judgment against Carson Madrona</span> <span class="ins">a $25,500,000 verdict, on which a several judgment of $12,750,000 was entered against Carson Madrona</span></div>
+		<div class="small">Each edit fixes a fact. None can change the policy wording.</div>
+	</div>
+	<div class="intro" id="intro">
+		<div class="kicker">Matter twin</div>
+		<h3>Attack your brief before the other side does.</h3>
+		<p>A replay of a real summary-judgment motion that lost. The twin takes the losing side and sees only what that side had on the day it filed.</p>
+	</div>
+	<div class="end" id="end">
+		<div class="kicker">Matter twin</div>
+		<h3>Attack your brief before the other side does.</h3>
+		<div class="stats">
+			<div><b>24</b><span>premises the brief relied on without stating them</span></div>
+			<div><b>47</b><span>verified attacks, ranked on filing day</span></div>
+			<div><b>6 of 7</b><span>of the court’s decisive reasons flagged before it ruled</span></div>
+		</div>
+		<p>Harden the brief, or change the strategy. Before filing, not after the order.</p>
+		<p style="font-size:15px;margin-top:22px">Hartford v. Carson Madrona, N.D. Cal. No. 23-cv-06259-VC. Public court records. The twin was frozen at the filing date; the court’s order was used only to score it.</p>
+	</div>
+</div></div>
+<div class="controls">
+	<button id="play">Play</button>
+	<div class="chapters" id="chapters"></div>
+	<input type="range" id="scrub" min="0" step="0.01" value="0" aria-label="Timeline">
+	<span id="clock"></span>
+</div>
+
+<script>
+const D = {"claims":[{"id":"relief-psj","label":"Partial summary judgment","level":"relief","parent":null,"s0":"exposed","s2":"lost"},{"id":"el-hartford-duty-to-defend","label":"Hartford owed a defence","level":"element","parent":"relief-psj","s0":"exposed","s2":"lost"},{"id":"sub-ai-status-hartford","label":"Carson is an additional insured","level":"sub_issue","parent":"el-hartford-duty-to-defend","s0":"secure","s2":"exposed"},{"id":"sub-no-fault-requirement","label":"No fault needed","level":"sub_issue","parent":"el-hartford-duty-to-defend","s0":"secure","s2":"lost"},{"id":"sub-breach-withdrawal","label":"Withdrawal was a breach","level":"sub_issue","parent":"el-hartford-duty-to-defend","s0":"exposed","s2":"exposed"},{"id":"el-recovery-defense-amounts","label":"Ohio Security recovers its outlay","level":"element","parent":"relief-psj","s0":"exposed","s2":"lost"},{"id":"sub-defense-fees","label":"Appellate fees","level":"sub_issue","parent":"el-recovery-defense-amounts","s0":"exposed","s2":"lost"},{"id":"sub-costs","label":"Costs","level":"sub_issue","parent":"el-recovery-defense-amounts","s0":"exposed","s2":"exposed"},{"id":"sub-post-judgment-interest","label":"Post-judgment interest","level":"sub_issue","parent":"el-recovery-defense-amounts","s0":"exposed","s2":"lost"},{"id":"el-ace-additional-insured","label":"Carson is insured under Ace","level":"element","parent":"relief-psj","s0":"secure","s2":"secure"},{"id":"el-priority-of-coverage","label":"Order of coverage","level":"element","parent":"relief-psj","s0":"exposed","s2":"lost"},{"id":"sub-hartford-primary","label":"Hartford pays first","level":"sub_issue","parent":"el-priority-of-coverage","s0":"secure","s2":"secure"},{"id":"sub-ohio-second","label":"Ohio Security second","level":"sub_issue","parent":"el-priority-of-coverage","s0":"exposed","s2":"exposed"},{"id":"sub-ace-before-american-fire","label":"Ace before American Fire","level":"sub_issue","parent":"el-priority-of-coverage","s0":"secure","s2":"lost"}],"infs":[{"id":"el-hartford-duty-to-defend/i1-ai-written-contract","to":"sub-ai-status-hartford","from":["el-hartford-duty-to-defend/p-text-ai-written-contract","el-hartford-duty-to-defend/p-text-lessors-of-land","el-hartford-duty-to-defend/p-fact-lease","el-hartford-duty-to-defend/p-fact-assignment","el-hartford-duty-to-defend/imp-lessee-is-named-insured","el-hartford-duty-to-defend/imp-lease-written-contract","el-hartford-duty-to-defend/p-text-lease-insurance","el-hartford-duty-to-defend/imp-occurrence-in-period","el-hartford-duty-to-defend/p-fact-hartford-policy"],"s0":"weak","s2":"weak"},{"id":"el-hartford-duty-to-defend/i1-ai-arising-out-of","to":"sub-ai-status-hartford","from":["el-hartford-duty-to-defend/p-rule-arising-out-of","el-hartford-duty-to-defend/p-holding-truck-use","el-hartford-duty-to-defend/p-holding-hartford-casualty","el-hartford-duty-to-defend/p-holding-syufy","el-hartford-duty-to-defend/p-fact-ashley-employee-called","el-hartford-duty-to-defend/p-fact-use-reason-present","el-hartford-duty-to-defend/p-fact-mdp-supplied-ashley","el-hartford-duty-to-defend/p-fact-mdp-central","el-hartford-duty-to-defend/p-fact-incident","el-hartford-duty-to-defend/p-fact-arc-flash","el-hartford-duty-to-defend/imp-mdp-within-use"],"s0":"weak","s2":"weak"},{"id":"el-hartford-duty-to-defend/i1-ai-lease-consistent","to":"sub-ai-status-hartford","from":["el-hartford-duty-to-defend/p-text-lease-indemnity","el-hartford-duty-to-defend/p-text-lease-electrical","el-hartford-duty-to-defend/p-text-lessors-of-land"],"s0":"holds","s2":"undercut"},{"id":"el-hartford-duty-to-defend/i1-ai-hartford-admission","to":"sub-ai-status-hartford","from":["el-hartford-duty-to-defend/p-fact-tender","el-hartford-duty-to-defend/p-fact-ror-2020","el-hartford-duty-to-defend/p-fact-ror-2022","el-hartford-duty-to-defend/p-fact-hartford-defended"],"s0":"weak","s2":"weak"},{"id":"el-hartford-duty-to-defend/i1-nofault-rule","to":"sub-no-fault-requirement","from":["el-hartford-duty-to-defend/p-holding-vitton","el-hartford-duty-to-defend/p-holding-truck-fault","el-hartford-duty-to-defend/p-holding-american-casualty","el-hartford-duty-to-defend/p-holding-syufy"],"s0":"holds","s2":"undercut"},{"id":"el-hartford-duty-to-defend/i1-nofault-analogy","to":"sub-no-fault-requirement","from":["el-hartford-duty-to-defend/p-holding-truck-use","el-hartford-duty-to-defend/p-fact-verdict-ashley","el-hartford-duty-to-defend/p-fact-verdict-carson","el-hartford-duty-to-defend/p-text-lessors-of-land","el-hartford-duty-to-defend/imp-not-fault-based-endorsement"],"s0":"weak","s2":"undercut"},{"id":"el-hartford-duty-to-defend/i1-breach","to":"sub-breach-withdrawal","from":["el-hartford-duty-to-defend/p-rule-duration","el-hartford-duty-to-defend/p-rule-defend-all","el-hartford-duty-to-defend/p-fact-judgment","el-hartford-duty-to-defend/p-fact-withdrawal","el-hartford-duty-to-defend/p-fact-withdrawal-reason","el-hartford-duty-to-defend/p-fact-appeal","el-hartford-duty-to-defend/p-fact-settlement","el-hartford-duty-to-defend/imp-not-exhausted","el-hartford-duty-to-defend/imp-appeal-is-defense","el-hartford-duty-to-defend/imp-potential-persisted"],"s0":"weak","s2":"weak"},{"id":"el-hartford-duty-to-defend/i1-element","to":"el-hartford-duty-to-defend","from":["sub-ai-status-hartford","sub-no-fault-requirement","sub-breach-withdrawal","el-hartford-duty-to-defend/p-rule-broad-duty","el-hartford-duty-to-defend/p-rule-potential-test","el-hartford-duty-to-defend/p-rule-insured-burden","el-hartford-duty-to-defend/p-text-insuring-agreement","el-hartford-duty-to-defend/p-fact-allegations","el-hartford-duty-to-defend/p-fact-shared-control","el-hartford-duty-to-defend/imp-lease-in-force"],"s0":"weak","s2":"weak"},{"id":"el-recovery-defense-amounts/i2-fees","to":"sub-defense-fees","from":["el-hartford-duty-to-defend","el-recovery-defense-amounts/p-fact-withdrawal","el-recovery-defense-amounts/p-fact-os-funded-appeal","el-recovery-defense-amounts/p-fact-os-defended","el-recovery-defense-amounts/imp-fees-reasonable","el-recovery-defense-amounts/imp-reimbursement-right"],"s0":"weak","s2":"weak"},{"id":"el-recovery-defense-amounts/i2-costs-law","to":"sub-costs","from":["el-recovery-defense-amounts/p-holding-prichard","el-recovery-defense-amounts/p-holding-mintarsih","el-recovery-defense-amounts/p-rule-supp-defense"],"s0":"weak","s2":"weak"},{"id":"el-recovery-defense-amounts/i2-costs-apply","to":"sub-costs","from":["el-recovery-defense-amounts/p-text-supp-intro","el-recovery-defense-amounts/p-text-supp-costs","el-hartford-duty-to-defend","el-recovery-defense-amounts/p-fact-costs-memo","el-recovery-defense-amounts/p-fact-costs-order","el-recovery-defense-amounts/p-fact-os-paid-costs","el-recovery-defense-amounts/imp-supp-despite-withdrawal","el-recovery-defense-amounts/imp-reimbursement-right"],"s0":"weak","s2":"undercut"},{"id":"el-recovery-defense-amounts/i2-pji","to":"sub-post-judgment-interest","from":["el-recovery-defense-amounts/p-text-supp-pji","el-recovery-defense-amounts/p-rule-pji-rate","el-recovery-defense-amounts/p-fact-judgment-date","el-recovery-defense-amounts/p-fact-offer-limits","el-recovery-defense-amounts/p-fact-pji-paid","el-recovery-defense-amounts/imp-hartford-no-offer","el-recovery-defense-amounts/imp-supp-despite-withdrawal","el-recovery-defense-amounts/imp-pji-amount-matches","el-hartford-duty-to-defend"],"s0":"weak","s2":"weak"},{"id":"el-recovery-defense-amounts/i2-element","to":"el-recovery-defense-amounts","from":["sub-defense-fees","sub-costs","sub-post-judgment-interest","el-recovery-defense-amounts/imp-reimbursement-right"],"s0":"weak","s2":"weak"},{"id":"el-ace-additional-insured/i3-read-clause","to":"el-ace-additional-insured","from":["el-ace-additional-insured/p-text-ace-who-insured","el-ace-additional-insured/p-text-ace-schedule","el-ace-additional-insured/p-fact-ace-policy"],"s0":"holds","s2":"holds"},{"id":"el-ace-additional-insured/i3-reliance","to":"el-ace-additional-insured","from":["el-ace-additional-insured/p-holding-reliance","el-ace-additional-insured/imp-ace-follow-form","el-ace-additional-insured/imp-ace-no-contrary"],"s0":"weak","s2":"weak"},{"id":"el-ace-additional-insured/i3-apply","to":"el-ace-additional-insured","from":["sub-ai-status-hartford","el-ace-additional-insured/p-fact-certificate","el-ace-additional-insured/p-text-ace-who-insured","el-ace-additional-insured/imp-no-broader","el-ace-additional-insured/imp-ace-occurrence-in-period"],"s0":"weak","s2":"weak"},{"id":"el-priority-of-coverage/i4-h-rossmoor","to":"sub-hartford-primary","from":["el-priority-of-coverage/p-holding-rossmoor"],"s0":"holds","s2":"holds"},{"id":"el-priority-of-coverage/i4-h-analogy","to":"sub-hartford-primary","from":["el-priority-of-coverage/p-holding-rossmoor","el-priority-of-coverage/p-text-lease-indemnity","el-priority-of-coverage/p-text-lease-insurance","sub-ai-status-hartford","el-priority-of-coverage/imp-indemnity-covers-claim","el-priority-of-coverage/imp-lease-in-force"],"s0":"weak","s2":"weak"},{"id":"el-priority-of-coverage/i4-h-lease-primary","to":"sub-hartford-primary","from":["el-priority-of-coverage/p-text-lease-primary","el-priority-of-coverage/imp-hartford-own-other-insurance"],"s0":"weak","s2":"undercut"},{"id":"el-priority-of-coverage/i4-h-consistent","to":"sub-hartford-primary","from":["el-priority-of-coverage/p-fact-certificate","el-priority-of-coverage/p-text-os-excess","el-priority-of-coverage/p-fact-hartford-limits"],"s0":"weak","s2":"undercut"},{"id":"el-priority-of-coverage/i4-o-horizontal","to":"sub-ohio-second","from":["el-priority-of-coverage/p-rule-horizontal-padilla","el-priority-of-coverage/p-rule-horizontal-community","el-priority-of-coverage/p-holding-reliance-exhaustion","el-priority-of-coverage/p-holding-jpi-inequitable","el-priority-of-coverage/p-fact-os-concedes","el-priority-of-coverage/p-fact-os-policy","el-priority-of-coverage/p-fact-os-limits","el-priority-of-coverage/p-text-os-insuring","el-priority-of-coverage/p-text-ace-insuring","el-priority-of-coverage/p-text-ace-defense","el-priority-of-coverage/p-text-af-coverage","el-priority-of-coverage/imp-ace-excess-over-os"],"s0":"weak","s2":"weak"},{"id":"el-priority-of-coverage/i4-a-same-level","to":"sub-ace-before-american-fire","from":["el-priority-of-coverage/p-holding-rossmoor-same-level","el-priority-of-coverage/p-holding-rossmoor"],"s0":"holds","s2":"holds"},{"id":"el-priority-of-coverage/i4-a-rossmoor-analogy","to":"sub-ace-before-american-fire","from":["el-priority-of-coverage/p-holding-rossmoor","el-priority-of-coverage/p-fact-ace-policy","el-priority-of-coverage/p-text-ace-schedule","el-priority-of-coverage/p-fact-af-policy","el-priority-of-coverage/p-text-lease-indemnity","el-priority-of-coverage/p-text-ace-other-insurance","el-priority-of-coverage/p-text-af-other-insurance","el-priority-of-coverage/imp-competing-excess-clauses"],"s0":"weak","s2":"weak"},{"id":"el-priority-of-coverage/i4-a-jpi","to":"sub-ace-before-american-fire","from":["el-priority-of-coverage/p-holding-jpi","el-priority-of-coverage/p-text-lease-insurance","el-ace-additional-insured","el-priority-of-coverage/imp-competing-excess-clauses"],"s0":"weak","s2":"undercut"},{"id":"el-priority-of-coverage/i4-element","to":"el-priority-of-coverage","from":["sub-hartford-primary","sub-ohio-second","sub-ace-before-american-fire","el-priority-of-coverage/imp-carson-covered-each"],"s0":"weak","s2":"weak"}],"prem":{"el-hartford-duty-to-defend/p-rule-broad-duty":["supported","supported",0],"el-hartford-duty-to-defend/p-rule-potential-test":["supported","supported",0],"el-hartford-duty-to-defend/p-rule-insured-burden":["supported","supported",0],"el-hartford-duty-to-defend/p-rule-duration":["supported","supported",0],"el-hartford-duty-to-defend/p-rule-defend-all":["supported","supported",0],"el-hartford-duty-to-defend/p-text-insuring-agreement":["supported","supported",0],"el-hartford-duty-to-defend/p-fact-hartford-policy":["supported","supported",0],"el-hartford-duty-to-defend/p-text-ai-written-contract":["supported","supported",0],"el-hartford-duty-to-defend/p-text-lessors-of-land":["supported","supported",0],"el-hartford-duty-to-defend/p-fact-lease":["unanchored","unanchored",0],"el-hartford-duty-to-defend/p-fact-assignment":["supported","supported",0],"el-hartford-duty-to-defend/p-text-lease-electrical":["supported","supported",0],"el-hartford-duty-to-defend/p-text-lease-indemnity":["supported","supported",0],"el-hartford-duty-to-defend/p-text-lease-insurance":["supported","supported",0],"el-hartford-duty-to-defend/p-fact-incident":["supported","supported",0],"el-hartford-duty-to-defend/p-fact-arc-flash":["supported","supported",0],"el-hartford-duty-to-defend/p-fact-allegations":["unanchored","unanchored",0],"el-hartford-duty-to-defend/p-fact-ashley-employee-called":["unanchored","unanchored",0],"el-hartford-duty-to-defend/p-fact-use-reason-present":["unanchored","unanchored",0],"el-hartford-duty-to-defend/p-fact-mdp-supplied-ashley":["sealed","sealed",0],"el-hartford-duty-to-defend/p-fact-mdp-central":["sealed","sealed",0],"el-hartford-duty-to-defend/p-fact-shared-control":["sealed","sealed",0],"el-hartford-duty-to-defend/p-fact-tender":["unanchored","unanchored",0],"el-hartford-duty-to-defend/p-fact-ror-2020":["supported","supported",0],"el-hartford-duty-to-defend/p-fact-ror-2022":["supported","supported",0],"el-hartford-duty-to-defend/p-fact-hartford-defended":["unanchored","unanchored",0],"el-hartford-duty-to-defend/p-fact-verdict-carson":["supported","supported",0],"el-hartford-duty-to-defend/p-fact-verdict-ashley":["supported","supported",0],"el-hartford-duty-to-defend/p-fact-judgment":["unanchored","unanchored",0],"el-hartford-duty-to-defend/p-fact-withdrawal":["supported","supported",0],"el-hartford-duty-to-defend/p-fact-withdrawal-reason":["unanchored","unanchored",0],"el-hartford-duty-to-defend/p-fact-appeal":["unanchored","unanchored",0],"el-hartford-duty-to-defend/p-fact-settlement":["supported","supported",0],"el-hartford-duty-to-defend/p-rule-arising-out-of":["unchecked","unchecked",0],"el-hartford-duty-to-defend/p-holding-vitton":["supported","supported",0],"el-hartford-duty-to-defend/p-holding-truck-fault":["unchecked","unchecked",0],"el-hartford-duty-to-defend/p-holding-american-casualty":["supported","supported",0],"el-hartford-duty-to-defend/p-holding-truck-use":["unchecked","unchecked",0],"el-hartford-duty-to-defend/p-holding-hartford-casualty":["supported","supported",0],"el-hartford-duty-to-defend/p-holding-syufy":["supported","supported",0],"el-hartford-duty-to-defend/imp-lessee-is-named-insured":["unanchored","contested",1],"el-hartford-duty-to-defend/imp-lease-written-contract":["supported","supported",1],"el-hartford-duty-to-defend/imp-occurrence-in-period":["supported","supported",1],"el-hartford-duty-to-defend/imp-mdp-within-use":["unanchored","contested",1],"el-hartford-duty-to-defend/imp-not-fault-based-endorsement":["unanchored","undermined",1],"el-hartford-duty-to-defend/imp-lease-in-force":["unanchored","contested",1],"el-hartford-duty-to-defend/imp-not-exhausted":["supported","supported",1],"el-hartford-duty-to-defend/imp-appeal-is-defense":["unanchored","unanchored",1],"el-hartford-duty-to-defend/imp-potential-persisted":["unanchored","contested",1],"el-recovery-defense-amounts/p-fact-withdrawal":["supported","supported",0],"el-recovery-defense-amounts/p-fact-os-funded-appeal":["unanchored","unanchored",0],"el-recovery-defense-amounts/p-fact-os-defended":["supported","supported",0],"el-recovery-defense-amounts/p-text-supp-intro":["supported","supported",0],"el-recovery-defense-amounts/p-text-supp-costs":["supported","supported",0],"el-recovery-defense-amounts/p-rule-supp-defense":["unanchored","unanchored",0],"el-recovery-defense-amounts/p-holding-prichard":["supported","supported",0],"el-recovery-defense-amounts/p-holding-mintarsih":["supported","supported",0],"el-recovery-defense-amounts/p-fact-costs-memo":["unanchored","unanchored",0],"el-recovery-defense-amounts/p-fact-costs-order":["unanchored","unanchored",0],"el-recovery-defense-amounts/p-fact-os-paid-costs":["supported","undermined",0],"el-recovery-defense-amounts/p-text-supp-pji":["supported","supported",0],"el-recovery-defense-amounts/p-rule-pji-rate":["unchecked","unchecked",0],"el-recovery-defense-amounts/p-fact-judgment-date":["supported","supported",0],"el-recovery-defense-amounts/p-fact-offer-limits":["supported","supported",0],"el-recovery-defense-amounts/p-fact-pji-paid":["supported","supported",0],"el-recovery-defense-amounts/imp-reimbursement-right":["unanchored","undermined",1],"el-recovery-defense-amounts/imp-fees-reasonable":["unanchored","undermined",1],"el-recovery-defense-amounts/imp-supp-despite-withdrawal":["unanchored","unanchored",1],"el-recovery-defense-amounts/imp-hartford-no-offer":["unanchored","unanchored",1],"el-recovery-defense-amounts/imp-pji-amount-matches":["unanchored","undermined",1],"el-ace-additional-insured/p-fact-ace-policy":["supported","supported",0],"el-ace-additional-insured/p-text-ace-schedule":["supported","supported",0],"el-ace-additional-insured/p-text-ace-who-insured":["supported","supported",0],"el-ace-additional-insured/p-fact-certificate":["supported","supported",0],"el-ace-additional-insured/p-holding-reliance":["supported","supported",0],"el-ace-additional-insured/imp-ace-follow-form":["unanchored","unanchored",1],"el-ace-additional-insured/imp-ace-no-contrary":["unanchored","unanchored",1],"el-ace-additional-insured/imp-no-broader":["unanchored","unanchored",1],"el-ace-additional-insured/imp-ace-occurrence-in-period":["supported","supported",1],"el-priority-of-coverage/p-holding-rossmoor":["supported","supported",0],"el-priority-of-coverage/p-holding-rossmoor-same-level":["supported","supported",0],"el-priority-of-coverage/p-text-lease-indemnity":["supported","supported",0],"el-priority-of-coverage/p-text-lease-primary":["supported","supported",0],"el-priority-of-coverage/p-text-lease-insurance":["supported","supported",0],"el-priority-of-coverage/p-fact-certificate":["unanchored","unanchored",0],"el-priority-of-coverage/p-text-os-excess":["supported","supported",0],"el-priority-of-coverage/p-fact-hartford-limits":["supported","supported",0],"el-priority-of-coverage/p-fact-os-policy":["unanchored","unanchored",0],"el-priority-of-coverage/p-fact-os-limits":["supported","supported",0],"el-priority-of-coverage/p-text-os-insuring":["supported","supported",0],"el-priority-of-coverage/p-fact-os-concedes":["unanchored","unanchored",0],"el-priority-of-coverage/p-rule-horizontal-padilla":["supported","supported",0],"el-priority-of-coverage/p-rule-horizontal-community":["supported","supported",0],"el-priority-of-coverage/p-holding-reliance-exhaustion":["supported","supported",0],"el-priority-of-coverage/p-holding-jpi-inequitable":["supported","supported",0],"el-priority-of-coverage/p-fact-ace-policy":["supported","supported",0],"el-priority-of-coverage/p-text-ace-schedule":["supported","supported",0],"el-priority-of-coverage/p-text-ace-insuring":["supported","supported",0],"el-priority-of-coverage/p-text-ace-defense":["supported","supported",0],"el-priority-of-coverage/p-text-ace-other-insurance":["supported","supported",0],"el-priority-of-coverage/p-fact-af-policy":["supported","supported",0],"el-priority-of-coverage/p-text-af-coverage":["supported","supported",0],"el-priority-of-coverage/p-text-af-other-insurance":["supported","supported",0],"el-priority-of-coverage/p-holding-jpi":["supported","supported",0],"el-priority-of-coverage/imp-hartford-own-other-insurance":["unanchored","undermined",1],"el-priority-of-coverage/imp-indemnity-covers-claim":["unanchored","contested",1],"el-priority-of-coverage/imp-lease-in-force":["unanchored","undermined",1],"el-priority-of-coverage/imp-ace-excess-over-os":["unanchored","unanchored",1],"el-priority-of-coverage/imp-competing-excess-clauses":["unanchored","unanchored",1],"el-priority-of-coverage/imp-carson-covered-each":["unanchored","unanchored",1]},"atk":[[1,"el-hartford-duty-to-defend/i1-element","undercut"],[2,"el-hartford-duty-to-defend/imp-not-fault-based-endorsement","undermine"],[3,"el-hartford-duty-to-defend/imp-not-fault-based-endorsement","undermine"],[4,"el-hartford-duty-to-defend/i1-nofault-analogy","undercut"],[5,"sub-no-fault-requirement","rebut"],[6,"sub-no-fault-requirement","rebut"],[7,"el-hartford-duty-to-defend/imp-lease-in-force","undermine"],[8,"el-hartford-duty-to-defend/imp-mdp-within-use","undermine"],[9,"el-hartford-duty-to-defend/i1-nofault-rule","undercut"],[10,"el-hartford-duty-to-defend/i1-ai-arising-out-of","undercut"],[11,"el-hartford-duty-to-defend/i1-ai-lease-consistent","undercut"],[12,"el-hartford-duty-to-defend/i1-breach","undercut"],[13,"el-recovery-defense-amounts/imp-reimbursement-right","undermine"],[14,"el-priority-of-coverage/imp-hartford-own-other-insurance","undermine"],[15,"el-hartford-duty-to-defend/i1-nofault-analogy","undercut"],[16,"el-priority-of-coverage/i4-h-lease-primary","undercut"],[17,"el-hartford-duty-to-defend/i1-element","undercut"],[18,"el-hartford-duty-to-defend/i1-ai-arising-out-of","undercut"],[19,"el-ace-additional-insured/i3-apply","undercut"],[20,"el-priority-of-coverage/imp-lease-in-force","undermine"],[21,"el-hartford-duty-to-defend/imp-potential-persisted","undermine"],[22,"el-recovery-defense-amounts/i2-costs-law","undercut"],[23,"sub-ace-before-american-fire","rebut"],[24,"el-priority-of-coverage/i4-a-rossmoor-analogy","undercut"],[25,"el-hartford-duty-to-defend/imp-lease-in-force","undermine"],[26,"el-hartford-duty-to-defend/i1-ai-lease-consistent","undercut"],[27,"el-recovery-defense-amounts/imp-reimbursement-right","undermine"],[28,"el-priority-of-coverage/i4-a-jpi","undercut"],[29,"el-hartford-duty-to-defend/imp-lessee-is-named-insured","undermine"],[30,"el-priority-of-coverage/i4-a-same-level","undercut"],[31,"el-priority-of-coverage/i4-element","undercut"],[32,"el-hartford-duty-to-defend/i1-ai-hartford-admission","undercut"],[33,"el-recovery-defense-amounts/i2-costs-apply","undercut"],[34,"el-priority-of-coverage/imp-indemnity-covers-claim","undermine"],[35,"el-hartford-duty-to-defend/i1-ai-hartford-admission","undercut"],[36,"el-recovery-defense-amounts/imp-fees-reasonable","undermine"],[37,"relief-psj","rebut"],[38,"el-recovery-defense-amounts/i2-costs-apply","undercut"],[39,"el-recovery-defense-amounts/p-fact-os-paid-costs","undermine"],[40,"el-recovery-defense-amounts/imp-pji-amount-matches","undermine"],[41,"el-hartford-duty-to-defend/p-fact-judgment","undermine"],[42,"el-priority-of-coverage/i4-h-consistent","undercut"],[43,"el-ace-additional-insured/i3-read-clause","undercut"],[44,"el-hartford-duty-to-defend/p-holding-american-casualty","undermine"],[45,"el-hartford-duty-to-defend/i1-ai-hartford-admission","undercut"],[46,"el-recovery-defense-amounts/imp-pji-amount-matches","undermine"],[47,"el-priority-of-coverage/i4-h-analogy","undercut"]]};
+const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const NS = "http://www.w3.org/2000/svg";
+const clamp = (v) => Math.max(0, Math.min(1, v));
+const ramp = (t, a, b) => clamp((t - a) / (b - a));
+const ease = (x) => 1 - Math.pow(1 - x, 3);
+const TONE = { secure: "--hold", supported: "--hold", holds: "--hold", exposed: "--weak", weak: "--weak", unanchored: "--weak", contested: "--contest", lost: "--broken", undercut: "--broken", undermined: "--broken", contradicted: "--broken", sealed: "--idle", unchecked: "--idle" };
+const hex = (s) => css(TONE[s] ?? "--idle");
+const mix = (a, b, f) => { const p = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16)); const A = p(a), B = p(b); return `rgb(${A.map((v, i) => Math.round(v + (B[i] - v) * f)).join(",")})`; };
+
+/* ---------- scenes ---------- */
+const SCENES = [
+	{ at: 0, end: 11, title: "Frozen at the filing date", sub: "The twin reads only what Ohio Security had on 2 January 2025, and converts its 29-page brief into a typed inference graph: 14 claims, 25 inferences and 110 premises. Colour shows how well each part holds." },
+	{ at: 11, end: 22, title: "The premise the brief never states", sub: "The twin, via the graph, finds out the premises the brief relies on without stating them: 24 of the 110. One of them carries the whole duty-to-defend branch." },
+	{ at: 22, end: 38, title: "Red team", sub: "Three attacker agents, for authority, the record and structure, work through the open critical questions. 47 attacks survive verification. The top 6 all hit this branch; numbers 2 and 3 hit the unstated premise, quoting the policy itself." },
+	{ at: 38, end: 50, title: "The exchange", sub: "The blue team answers each attack, opposing counsel counters, and a judge persona rules: closed, contested or open. The unstated premise stays open, and what rests on it falls with it." },
+	{ at: 50, end: 63, title: "Reveal the ruling", sub: "77 days after filing, the court denied the motion. 6 of its 7 decisive reasons were already on the twin’s list, ranked on the day the brief was filed." },
+	{ at: 63, end: 80, title: "Hardened replay", sub: "The defence’s redline is applied and the court’s 7 decisive reasons are replayed against it. All 7 still defeat it. No edit could have saved this motion." },
+];
+const END = 80, INTRO = 4, TOTAL = END + INTRO;
+
+/* ---------- layout: relief on the right, premises on the left ---------- */
+const C = new Map(D.claims.map((c) => [c.id, c]));
+const I = new Map(D.infs.map((i) => [i.id, i]));
+// Column = depth in the dependency graph, so every edge runs left to right.
+const depth = new Map();
+const dep = (id) => {
+	if (depth.has(id)) return depth.get(id);
+	depth.set(id, 0); // guards a cycle
+	let d = 0;
+	if (I.has(id)) d = 1 + Math.max(0, ...I.get(id).from.filter((f) => C.has(f)).map(dep));
+	else { const ins = D.infs.filter((i) => i.to === id).map((i) => i.id), kids = D.claims.filter((c) => c.parent === id && !D.infs.some((i) => i.from.includes(c.id))).map((c) => c.id); d = 1 + Math.max(0, ...[...ins, ...kids].map(dep)); }
+	depth.set(id, d); return d;
+};
+D.claims.forEach((c) => dep(c.id)); D.infs.forEach((i) => dep(i.id));
+const maxD = Math.max(...depth.values());
+const colX = (d) => 700 + (d - 1) * ((1460 - 700) / (maxD - 1));
+const rows = [];
+(function walk(id) { D.claims.filter((c) => c.parent === id).forEach((c) => walk(c.id)); D.infs.filter((i) => i.to === id).forEach((i) => rows.push(i)); })(D.claims.find((c) => !c.parent).id);
+const Y0 = 290, Y1 = 860, step = (Y1 - Y0) / (rows.length - 1);
+rows.forEach((i, k) => { i.y = Y0 + k * step; i.x = colX(depth.get(i.id)); i.prem = i.from.filter((f) => D.prem[f]); });
+const subtreeRows = (id) => [...D.infs.filter((i) => i.to === id), ...D.claims.filter((c) => c.parent === id).flatMap((c) => subtreeRows(c.id))];
+D.claims.forEach((c) => { const r = subtreeRows(c.id); c.x = colX(depth.get(c.id)); c.y = r.reduce((a, i) => a + i.y, 0) / r.length; });
+const PW = 9; // width of one premise segment
+rows.forEach((i) => { i.bx = i.x - 26 - i.prem.length * PW; });
+const GHOST = "el-hartford-duty-to-defend/imp-not-fault-based-endorsement";
+const ghostInf = rows.find((i) => i.prem.includes(GHOST));
+const ghostPos = () => ({ x: ghostInf.bx + ghostInf.prem.indexOf(GHOST) * PW + PW / 2, y: ghostInf.y });
+
+/* dependency chain upward from the unstated premise, in order */
+const chain = [];
+(function () {
+	const seen = new Set(), q = [GHOST];
+	while (q.length) {
+		const id = q.shift();
+		const ups = D.prem[id] ? rows.filter((i) => i.prem.includes(id)).map((i) => i.id)
+			: rows.find((i) => i.id === id) ? [rows.find((i) => i.id === id).to]
+			: [...rows.filter((i) => i.from.includes(id)).map((i) => i.id), ...(C.get(id).parent && !rows.some((i) => i.from.includes(id)) ? [C.get(id).parent] : [])];
+		ups.forEach((u) => { if (!seen.has(u)) { seen.add(u); chain.push(u); q.push(u); } });
+	}
+})();
+const onChain = new Set([GHOST, ...chain]);
+const COLLAPSE = 39.5, CSTEP = 0.55;
+const swTime = (id) => id === GHOST ? COLLAPSE : chain.includes(id) ? COLLAPSE + 0.6 + chain.indexOf(id) * CSTEP : 46;
+
+/* ---------- build the svg ---------- */
+const svg = document.getElementById("svg");
+const el = (tag, attrs, parent = svg) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); parent.appendChild(e); return e; };
+const gE = el("g", {}), gN = el("g", {}), gA = el("g", {}), gL = el("g", {});
+const curve = (x1, y1, x2, y2) => { const m = (x1 + x2) / 2; return `M${x1},${y1}C${m},${y1} ${m},${y2} ${x2},${y2}`; };
+const edges = [];
+rows.forEach((i) => {
+	const c = C.get(i.to);
+	edges.push({ e: el("path", { d: curve(i.x + 9, i.y, c.x - 12, c.y), fill: "none" }, gE), a: i.id, b: i.to, build: 3.4 });
+	i.from.filter((f) => C.has(f)).forEach((f) => { const s = C.get(f); edges.push({ e: el("path", { d: curve(s.x + 12, s.y, i.x - 9, i.y), fill: "none" }, gE), a: f, b: i.id, build: 3.4 }); });
+	if (i.prem.length) edges.push({ e: el("path", { d: `M${i.x - 26},${i.y}L${i.x - 9},${i.y}`, fill: "none" }, gE), a: i.prem.includes(GHOST) ? GHOST : null, b: i.id, build: 4.4 });
+});
+D.claims.filter((c) => c.parent && !D.infs.some((i) => i.from.includes(c.id))).forEach((c) => { const p = C.get(c.parent); edges.push({ e: el("path", { d: curve(c.x + 12, c.y, p.x - 14, p.y), fill: "none" }, gE), a: c.id, b: p.id, build: 2.6 }); });
+const diamonds = rows.map((i) => ({ i, e: el("path", { d: "M0,-9L9,0L0,9L-9,0Z", transform: `translate(${i.x},${i.y})` }, gN) }));
+const segs = rows.flatMap((i) => i.prem.map((p, k) => ({ id: p, i, e: el("rect", { x: i.bx + k * PW + 1, y: i.y - 6, width: PW - 2, height: 12, rx: 1.5 }, gN) })));
+const circles = D.claims.map((c) => ({ c, e: el("circle", { cx: c.x, cy: c.y, r: c.level === "relief" ? 20 : c.level === "element" ? 13 : 9 }, gN) }));
+const labels = D.claims.map((c) => ({ c, e: Object.assign(el("text", { x: c.x, y: c.level === "relief" ? c.y + 46 : c.y - 18, "text-anchor": "middle", class: "lbl" + (c.level === "relief" ? " relief" : "") }, gL), { textContent: c.label }) }));
+const ghostRing = el("rect", { fill: "none", "stroke-dasharray": "3 3", "stroke-width": 2, rx: 3 }, gN);
+
+/* attacks: the top 6 fly in; the other 41 appear as short marks at their targets */
+const pos = (id) => {
+	if (D.prem[id]) { const i = rows.find((r) => r.prem.includes(id)); return { x: i.bx + i.prem.indexOf(id) * PW + PW / 2, y: i.y }; }
+	const i = rows.find((r) => r.id === id); if (i) return { x: i.x, y: i.y };
+	const c = C.get(id); return { x: c.x, y: c.y };
+};
+const per = {};
+const attacks = D.atk.map(([rank, target, type], k) => {
+	const p = pos(target), n = (per[target] = (per[target] ?? -1) + 1), top = rank <= 6;
+	const rest = top ? { x: p.x + 14, y: p.y - 24 - n * 22 } : { x: p.x + 12 + n * 6, y: p.y + 13 };
+	return { rank, target, type, top, p, rest, start: top ? 23 + (rank - 1) * 0.85 : 28.6 + (k - 6) * 0.06,
+		e: el("path", { d: top ? "M0,-9L8,6L-8,6Z" : "M0,-4L3.5,3L-3.5,3Z" }, gA),
+		line: el("line", { "stroke-width": top ? 1.6 : 1, "stroke-dasharray": { undermine: "", undercut: "5 3", rebut: "1.5 3" }[type] }, gA),
+		lbl: top ? Object.assign(el("text", { class: "rank" }, gA), { textContent: `#${rank}` }) : null };
+});
+
+/* court connectors */
+const REASONS = [
+	{ text: "The endorsement governs, not the coverage form", node: GHOST, rank: 2 },
+	{ text: "“Caused, in whole or in part” means proximate cause: no indemnity", node: "sub-no-fault-requirement", rank: 3 },
+	{ text: "No indemnity, so no post-judgment interest", node: "sub-post-judgment-interest", rank: null },
+	{ text: "Ohio Security’s policy applies before Hartford’s", node: "sub-hartford-primary", rank: 14 },
+	{ text: "With Ohio Security primary, fees and costs fail", node: "sub-defense-fees", rank: 13 },
+	{ text: "American Fire applies before Ace", node: "sub-ace-before-american-fire", rank: 23 },
+	{ text: "The lease does not set priority", node: "el-priority-of-coverage", rank: 7 },
+];
+const RV = 52, RSTEP = 1.15; // first reason, gap between reasons
+document.getElementById("reasons").innerHTML = REASONS.map((r) => `<li><span>${r.text}</span>${r.rank ? `<span class="hit">Twin #${r.rank}</span>` : `<span class="miss">Missed</span>`}</li>`).join("");
+const conn = REASONS.map((r, k) => ({ r, k, line: el("path", { fill: "none", "stroke-width": 1.6 }, gA), ring: el("circle", { fill: "none", "stroke-width": 2.5 }, gA) }));
+
+/* chain list */
+const chainItems = [GHOST, ...chain.filter((id) => C.has(id))].map((id) => {
+	const name = id === GHOST ? "The unstated premise" : C.get(id).label;
+	const s = id === GHOST ? D.prem[GHOST][1] : C.get(id).s2;
+	return { id, html: `<li><span>${name}</span><span style="color:${hex(s)}">${s}</span></li>` };
+});
+document.getElementById("chain").innerHTML = chainItems.map((c) => c.html).join("");
+
+/* ---------- render one moment ---------- */
+const $ = (id) => document.getElementById(id);
+const show = (id, a, b, t) => { const e = $(id), f = ramp(t, a, a + 0.6) * (1 - ramp(t, b - 0.6, b)); e.style.opacity = f; e.style.transform = `translateY(${(1 - ease(ramp(t, a, a + 0.6))) * 14}px)`; return f; };
+const colorOf = (id, s0, s2, t) => mix(hex(s0), hex(s2), ramp(t, swTime(id), swTime(id) + 0.6));
+let now = 0;
+function render(T) {
+	now = T;
+	$("intro").style.opacity = 1 - ramp(T, INTRO - 0.8, INTRO);
+	const t = Math.max(0, T - INTRO);
+	const sc = SCENES.findLastIndex((s) => t >= s.at), S = SCENES[sc];
+	$("no").textContent = `${sc + 1} of ${SCENES.length}`; $("title").textContent = S.title; $("sub").textContent = S.sub;
+	const capIn = ramp(t, S.at, S.at + 0.5); document.querySelector(".cap").style.opacity = capIn;
+	document.querySelectorAll("#chapters button").forEach((b, k) => b.setAttribute("aria-current", String(k === sc)));
+
+	const focus = ramp(t, 12, 13.2) * (1 - ramp(t, 49, 50.5)); // dim what is not on the chain
+	const reveal = ramp(t, 50.2, 50.9) * (1 - ramp(t, 62.3, 62.9));
+	const dimmed = (id) => (onChain.has(id) ? 1 : 1 - 0.75 * focus) * (1 - 0.55 * reveal);
+	const ink = css("--ink"), rule = css("--rule"), broken = css("--broken");
+
+	circles.forEach(({ c, e }) => {
+		const appear = { relief: 0.4, element: 1.2, sub_issue: 2 }[c.level];
+		e.style.opacity = ramp(t, appear, appear + 0.5) * dimmed(c.id); e.setAttribute("fill", colorOf(c.id, c.s0, c.s2, t));
+	});
+	labels.forEach(({ c, e }) => { const appear = { relief: 0.6, element: 1.4, sub_issue: 2.2 }[c.level]; e.style.opacity = ramp(t, appear, appear + 0.5) * dimmed(c.id); });
+	diamonds.forEach(({ i, e }) => { e.style.opacity = ramp(t, 3 + rows.indexOf(i) * 0.05, 3.5 + rows.indexOf(i) * 0.05) * dimmed(i.id); e.setAttribute("fill", colorOf(i.id, i.s0, i.s2, t)); });
+	segs.forEach(({ id, i, e }) => {
+		const [s0, s2, imp] = D.prem[id], c = colorOf(id, s0, s2, t);
+		e.style.opacity = ramp(t, 4.2 + rows.indexOf(i) * 0.06, 4.8 + rows.indexOf(i) * 0.06) * (id === GHOST ? 1 : dimmed(i.id) * (onChain.has(i.id) ? 1 : 1));
+		e.setAttribute("fill", imp ? "none" : c); e.setAttribute("stroke", c); e.setAttribute("stroke-width", imp ? 1.5 : 0);
+	});
+	edges.forEach(({ e, a, b, build }) => {
+		const hot = onChain.has(a) && onChain.has(b), load = hot ? ramp(t, 14, 16) * (1 - ramp(t, 62, 63)) : 0;
+		const fall = hot && t >= swTime(b) ? ramp(t, swTime(b), swTime(b) + 0.6) : 0;
+		e.style.opacity = ramp(t, build, build + 0.8) * (hot ? 1 : 1 - 0.7 * focus);
+		e.setAttribute("stroke", fall ? mix(ink.length === 7 ? ink : "#18212c", broken, fall) : load ? ink : rule);
+		e.setAttribute("stroke-width", 1.2 + load * 3.3);
+	});
+	const g = ghostPos(), gp = ramp(t, 12.4, 13.2);
+	ghostRing.setAttribute("x", g.x - 7 - gp * 3); ghostRing.setAttribute("y", g.y - 10 - gp * 3);
+	ghostRing.setAttribute("width", 14 + gp * 6); ghostRing.setAttribute("height", 20 + gp * 6);
+	ghostRing.setAttribute("stroke", broken); ghostRing.style.opacity = gp;
+
+	attacks.forEach((a) => {
+		const p = ease(ramp(t, a.start, a.start + (a.top ? 0.75 : 0.3)));
+		const from = a.top ? { x: 1640, y: a.rest.y - 60 } : a.rest;
+		const x = from.x + (a.rest.x - from.x) * p, y = from.y + (a.rest.y - from.y) * p;
+		const vis = (t >= a.start ? (a.top ? 1 : 0.55 * p) : 0) * (a.top ? 1 : 1 - 0.75 * focus * (onChain.has(a.target) ? 0 : 1)) * (1 - ramp(t, 76, 77));
+		a.e.setAttribute("transform", `translate(${x},${y}) rotate(${a.top ? -90 + Math.atan2(a.p.y - y, a.p.x - x) * 180 / Math.PI + 90 : 0})`);
+		a.e.setAttribute("fill", broken); a.e.style.opacity = vis;
+		a.line.setAttribute("x1", x); a.line.setAttribute("y1", y); a.line.setAttribute("x2", a.p.x); a.line.setAttribute("y2", a.p.y);
+		a.line.setAttribute("stroke", broken); a.line.style.opacity = vis * (a.top ? ramp(t, a.start + 0.5, a.start + 0.8) : 0.6);
+		if (a.lbl) { a.lbl.setAttribute("x", x + 10); a.lbl.setAttribute("y", y - 8); a.lbl.style.opacity = vis * ramp(t, a.start + 0.6, a.start + 0.9); }
+	});
+
+	show("c-brief", 1, 10.6, t); show("c-ghost", 12.8, 21.6, t); show("c-top", 22.6, 29.2, t); show("c-policy", 29.5, 37.6, t);
+	show("c-chain", 38.6, 49.6, t);
+	chainItems.forEach((c, k) => { const li = $("chain").children[k]; li.style.opacity = ramp(t, swTime(c.id), swTime(c.id) + 0.4); });
+	show("revealed", 50.2, 62.8, t);
+	const sheet = $("c-order"), sIn = ramp(t, 50.4, 51.1), sOut = 1 - ramp(t, 62.3, 62.9);
+	sheet.style.opacity = sIn * sOut; sheet.style.transform = `translateY(${(1 - ease(sIn)) * 60}px)`;
+	const st = ramp(t, 51.2, 51.45); $("stamp").style.opacity = st; $("stamp").style.transform = `rotate(-8deg) scale(${1.8 - 0.8 * ease(st)})`;
+	let score = 0;
+	conn.forEach(({ r, k, line, ring }) => {
+		const at = RV + k * RSTEP, on = ramp(t, at, at + 0.35), live = on * sOut;
+		$("reasons").children[k].style.opacity = on;
+		if (r.rank && t >= at + 0.35) score++;
+		const p = pos(r.node), sr = stage.getBoundingClientRect(), lr = $("reasons").children[k].getBoundingClientRect(), y0 = (lr.top + lr.height / 2 - sr.top) / (sr.width / 1600);
+		line.setAttribute("d", curve(576, y0, p.x - 14, p.y)); line.setAttribute("stroke", r.rank ? broken : rule);
+		line.style.opacity = r.rank ? live * ramp(t, at + 0.1, at + 0.45) : 0;
+		const pulse = ramp(t, at + 0.3, at + 0.9);
+		ring.setAttribute("cx", p.x); ring.setAttribute("cy", p.y); ring.setAttribute("r", 10 + 14 * ease(pulse));
+		ring.setAttribute("stroke", broken); ring.style.opacity = r.rank ? live * (1 - 0.6 * pulse) : 0;
+	});
+	const sc5 = ramp(t, 51.5, 52) * sOut;
+	$("score").style.opacity = sc5; $("scoreN").textContent = score;
+	document.querySelector(".count").style.opacity = 1 - sc5;
+	show("c-red", 63.6, 71, t);
+	const endF = ramp(t, 71.5, 73); $("end").style.opacity = endF;
+
+	const secure = D.claims.filter((c) => (t >= swTime(c.id) + 0.3 ? c.s2 : c.s0) === "secure").length;
+	$("secure").textContent = t < 0.4 ? "" : secure; $("secure").style.color = secure < 5 ? broken : ink;
+
+	$("scrub").value = T; $("clock").textContent = `${Math.floor(T)}s / ${TOTAL}s`;
+}
+
+/* ---------- playback ---------- */
+const frame = $("frame"), stage = $("stage");
+const fit = () => (stage.style.transform = `scale(${frame.clientWidth / 1600})`);
+new ResizeObserver(fit).observe(frame); fit();
+$("scrub").max = TOTAL;
+$("chapters").innerHTML = SCENES.map((s, k) => `<button data-t="${s.at + INTRO}">${k + 1}. ${s.title}</button>`).join("");
+let playing = false, last = 0;
+function tick(ts) { if (!playing) return; const dt = last ? (ts - last) / 1000 : 0; last = ts; render(Math.min(TOTAL, now + dt)); if (now >= TOTAL) return setPlaying(false); requestAnimationFrame(tick); }
+function setPlaying(p) { playing = p; last = 0; $("play").textContent = p ? "Pause" : now >= TOTAL ? "Replay" : "Play"; if (p) { if (now >= TOTAL) render(0); requestAnimationFrame(tick); } }
+$("play").onclick = () => setPlaying(!playing);
+$("scrub").oninput = (e) => { setPlaying(false); render(+e.target.value); };
+$("chapters").onclick = (e) => { const b = e.target.closest("button"); if (b) { setPlaying(false); render(+b.dataset.t + 0.01); setPlaying(true); } };
+document.addEventListener("keydown", (e) => { if (e.key === " " && e.target === document.body) { e.preventDefault(); setPlaying(!playing); } });
+const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+document.fonts.ready.then(() => render(now));
+render(reduce ? INTRO + 10.5 : 0); if (!reduce) setPlaying(true);
+</script>

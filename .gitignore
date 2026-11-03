@@ -1,0 +1,6 @@
+out/
+matters/*/raw/
+matters/*.log
+matters/*.err
+node_modules/
+.env

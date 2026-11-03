@@ -1,0 +1,149 @@
+ 
+ 
+ 
+ 
+UNITED STATES DISTRICT COURT 
+NORTHERN DISTRICT OF CALIFORNIA 
+ 
+HARTFORD FIRE INSURANCE 
+COMPANY, 
+Plaintiff, 
+v. 
+ 
+CARSON MADRONA COMPANY, LLC, 
+et al., 
+Defendants. 
+Case No.  23-cv-06259-VC    
+ 
+ 
+ORDER ON CROSS-MOTIONS FOR 
+SUMMARY JUDGMENT 
+Re: Dkt. Nos. 63, 64, 67, 68 
+ 
+ 
+ 
+Hartford’s and Ace’s motions for summary judgment are granted in part and denied in 
+part, and Carson Madrona’s and the Liberty parties’ are denied. This order assumes the reader’s 
+familiarity with the facts, governing legal standards, and arguments made by the parties. 
+1. The endorsement, not the coverage form, governs coverage under the Hartford policy. 
+The coverage form says that it does not apply to any entity that is made an insured by an 
+endorsement. The blanket endorsement to the Hartford policy says that it applies “where required 
+by written contract or agreement.” So because the lease required Ashley to get commercial 
+general liability insurance and add Carson Madrona as an additional insured, Carson Madrona is 
+an insured under the endorsement (and not the coverage form). Even if the coverage form didn’t 
+expressly say that endorsements applied over it, under California law, the language of an 
+“endorsement prevails over the general language contained in the body of the policy if the 
+language of the endorsement is free from ambiguity.” Jane D. v. Ordinary Mutual, 32 Cal. App. 
+4th 643, 651 (1995). 
+Case 3:23-cv-06259-VC     Document 81     Filed 03/20/25     Page 1 of 5
+ 
+2 
+None of Carson Madrona’s or Liberty’s counterarguments succeed. There is no reason to 
+think that the endorsement needed to identify Carson Madrona by name: The endorsement says 
+that the declarations will include any information required to complete the endorsement’s 
+coverage schedule if that information is not shown. But the endorsement does show all the 
+information necessary to complete its coverage schedule because it says it applies wherever 
+“required by written contract or agreement.” The rule that contractual ambiguities should be 
+resolved against the drafter doesn’t apply because the endorsement isn’t ambiguous. The rule 
+that specific provisions govern over general ones doesn’t mean that the coverage form applies 
+because the coverage form—which Carson Madrona and Liberty say is the more specific 
+provision—says it doesn’t apply where an endorsement does. Moreover, in insurance contracts, 
+that rule means that (as noted above) unambiguous endorsements govern over the body of the 
+policy. Applying the endorsement doesn’t turn the coverage form into surplusage because, again, 
+the coverage form expressly says that it doesn’t apply when an endorsement does. Finally, 
+Hartford’s letters do not change this because they also include the language about the 
+endorsement and otherwise reserve Hartford’s right to deny coverage based on the policy terms. 
+2. Under the endorsement, Hartford had no duty to indemnify Carson Madrona. The 
+better read of the endorsement’s coverage of liability “caused, in whole or in part,” by Ashley’s 
+acts or omissions is that the policy only provides for coverage where Ashley was a proximate 
+cause of the loss. See, e.g., Burlington Insurance Co. v. NYC Transit Authority, 79 N.E.3d 477, 
+482–84 (N.Y. 2017); Dale Corp. v. Cumberland Mutual Fire Insurance Co., 2010 WL 4909600, 
+at *4–7 (E.D. Pa. Nov. 30, 2010). The endorsement’s reference to “liability” indicates a concern 
+with legal causation. And to interpret the language as providing for coverage wherever Ashley 
+was a but-for cause in a long chain of events that caused injury would create absurd results. 
+Moreover, the “history and purpose of” the policy—which “may properly be used” as “an aid to 
+discern the meaning of” disputed policy language—confirms this reading. MacKinnon v. Truck 
+Insurance Exchange, 31 Cal. 4th 635, 653 (2003). That history indicates that the “caused, in 
+whole or in part” language was adopted to narrow coverage and require something more than 
+Case 3:23-cv-06259-VC     Document 81     Filed 03/20/25     Page 2 of 5
+ 
+3 
+but-for causation. See Dale, 2010 WL 4909600, at *5–6.  
+Based on the jury finding that Ashley was a zero percent substantial factor in causing 
+Perez’s injuries, the loss was not “caused, in whole or in part,” by Ashley. So the loss was not 
+covered under the endorsement. And because Hartford had no duty to indemnify Carson 
+Madrona, it also did not owe any post-judgment interest (under the terms of the Hartford policy).  
+But Hartford and Ace may still have had a duty to defend Carson Madrona on appeal. 
+Under California law, the duty to defend applies to claims that are “potentially covered,” and 
+only ends when “the action is concluded” or when it is evident that “the potential for coverage 
+which previously appeared cannot possibly materialize.” Scottsdale Insurance Co. v. MV 
+Transportation, 36 Cal. 4th 643, 657 (2005). Because Carson Madrona’s appeal could have 
+resulted in a new trial—which could have resulted in a jury finding that Ashley was a proximate 
+cause of the loss—there was still some potential for coverage. So while it’s appropriate to grant 
+summary judgment on the issue of Hartford’s and Ace’s duty to indemnify, it’s not possible to 
+do so regarding their duty to defend.1 
+3. The Ohio Security policy applies before the Hartford policy. The Ohio policy says that 
+it is primary except that it is excess over other applicable primary policies. The Hartford policy 
+says that it is excess over other policies except when those policies are “purchased specifically to 
+apply in excess of” it. Because the Ohio policy was not purchased specifically to apply in excess 
+of the Hartford policy, the Hartford policy is not primary here, which means that the Ohio policy 
+is.2 
+ 
+1 It’s not clear from the parties’ presentations whether Hartford and Ace satisfied any duty to 
+defend they might still have had. But the parties indicated at the hearing that this issue would be 
+mooted by this order’s ruling on priority of coverage. So it’s unnecessary to address the issue 
+further in this order. 
+2 At the hearing, Liberty’s lawyer argued that the Hartford policy was primary because that was 
+the “nature of the policy.” But under California law, “if the meaning a layperson would ascribe 
+to the language of a contract of insurance is clear and unambiguous,” that meaning controls. 
+Grange Insurance Association v. Lintott, 77 F. Supp. 3d 926, 934 (N.D. Cal. 2015). An insurance 
+expert might understand the Hartford policy to be primary by its nature. But a layperson would 
+interpret its clear statement that it is excess (except when another policy is purchased specifically 
+to apply in excess of it) to mean that it is excess (except when another policy is purchased 
+specifically to apply in excess of it). 
+Case 3:23-cv-06259-VC     Document 81     Filed 03/20/25     Page 3 of 5
+ 
+4 
+The American Fire policy applies before the Ace policy. The American Fire policy says 
+that it will pay the amount of loss in excess of the “Underlying Limits of Insurance.” The 
+“Underlying Limits of Insurance” is defined as the limits of “all applicable ‘underlying 
+insurance’ stated in Item 5 of the declarations.” And Item 5 of the declarations lists only the Ohio 
+policy. So the American Fire policy attaches upon exhaustion of the Ohio policy. The Ace 
+policy, by contrast, only pays loss in excess of the “retained limit,” which is defined as the “total 
+applicable limits of ‘underlying insurance’ and any applicable limit of ‘other insurance.’” And 
+“other insurance” is defined to include any insurance policy “providing coverage for damages 
+covered in whole or in part by this policy” (unless purchased specifically to be in excess of the 
+Ace policy). So the Ace policy doesn’t attach until all other applicable insurance is exhausted—
+meaning that it wouldn’t apply until after the American Fire policy is exhausted. 
+Liberty’s counterarguments fail. Even assuming that Liberty did not forfeit this argument 
+by not raising it in its briefs, the other insurance clauses in the Hartford and Ace policies are not 
+disfavored escape clauses. These clauses do not say that the insurers are not liable for any loss 
+covered by other insurance, only that the policies are excess to that other insurance. See 
+Underwriters of Interest Subscribing to Policy Number A15274001 v. ProBuilders Specialty 
+Insurance Co., 241 Cal. App. 4th 721, 729 n.5 (2015). 
+Nor is Liberty right that Ashley’s lease determines priority of coverage. “There is nothing 
+that can make any of the policies at issue subject to the contractual obligations to which these 
+carriers were not parties.” Reliance National Indemnity Co. v. General Star Indemnity Co., 72 
+Cal. App. 4th 1063, 1072 (1999). Unlike Rossmoor Sanitation, Inc. v. Pylon, Inc., this case does 
+not involve a subrogated indemnity claim, and not all parties to the indemnity agreement are 
+present. See 13 Cal. 3d 622, 627–34 (1975); see also Reliance, 72 Cal. App. 4th at 1079–83 
+(distinguishing Rossmoor). It therefore “looks more like the typical dispute between insurance 
+carriers, which should be governed by general principles governing the interpretation and 
+enforcement of ‘other insurance’ clauses between insurers.” Travelers Casualty & Surety Co. v. 
+American Equity Insurance Co., 93 Cal. App. 4th 1142, 1152–58 (2001).  
+Case 3:23-cv-06259-VC     Document 81     Filed 03/20/25     Page 4 of 5
+ 
+5 
+* * * 
+ 
+It wasn’t entirely clear from the parties’ presentations what claims and defenses this order 
+resolves. A case management conference is set for April 25 to clarify that issue as necessary and 
+to set a schedule for the rest of the case. A case management statement with a proposed schedule 
+is due April 18. If the parties are able to resolve the remaining issues informally, they can file a 
+stipulated dismissal before that, and the case management conference will be vacated. 
+IT IS SO ORDERED. 
+Dated: March 20, 2025 
+______________________________________ 
+VINCE CHHABRIA 
+United States District Judge 
+Case 3:23-cv-06259-VC     Document 81     Filed 03/20/25     Page 5 of 5

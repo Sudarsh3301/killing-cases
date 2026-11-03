@@ -1,0 +1,878 @@
+ 
+ 
+Gary R. Selvin  
+Cal. Bar No. 112030 
+Selvin Wraith LLP 
+6250 Claremont Avenue, Suite 200 
+Oakland, CA 94618 
+Telephone No.: 510.874.1814  
+Facsimile No.:  510.465.8976 
+gselvin@selvinwraith.com 
+ 
+Ezra S. Gollogly 
+admitted pro hac vice 
+Joseph Dudek,  
+admitted pro hac vice 
+Kramon & Graham, P.A. 
+7500 East Pratt St., Suite 1100 
+Baltimore, MD 21202 
+Telephone No.: 410.752.6030 
+Facsimile No.:  410.361.8233 
+egollogly@kg-law.com 
+jdudek@kg-law.com 
+ 
+In the United States District Court 
+for the Northern District of California 
+Hartford Fire Insurance 
+Company, 
+ 
+ 
+Plaintiff, 
+ 
+v. 
+Carson Madrona Company, LLC  
+et alia, 
+ 
+ 
+Defendants. 
+No. 3:23-cv-06259 
+Hartford Fire Insurance Company’s 
+Cross-Motion for Full or Partial 
+Summary Judgment and Opposition to 
+Pending Motions for Summary 
+Judgment 
+Date: February 20, 2025 
+Time: 10:00 a.m. 
+Place: Courtroom 4 on the 17th Floor 
+ 
+450 Golden Gate Avenue 
+ 
+San Francisco, California 94102 
+Judge: Vince Chhabria 
+Filed: December 4, 2023 
+Trial: not scheduled 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 1 of 28
+ 
+2 
+Hartford’s Cross-Motion for Summary Judgment 
+Notice of Motion 
+ 
+On February 20, 2025 at 10:00 a.m., Hartford Fire Insurance Company (“Hartford”) will 
+move under Federal Rule of Civil Procedure 56 for an order granting full or partial summary 
+judgment to Hartford at the following location: 
+Courtroom 4 on the 17th Floor 
+450 Golden Gate Avenue 
+San Francisco, California 94102 
+The motion will seek entry of summary judgment on the following issues: 
+ 
+1. This Court should enter summary judgment on Hartford’s third cause of action, 
+declaring that Hartford had no duty to indemnify Defendant Carson Madrona Company, LLC 
+(“Carson Madrona”) under a policy of insurance that Hartford issued to Ashley Furniture 
+Industries Inc. with policy number 41 CSE S30502 and a policy term January 1, 2016 to January 1, 
+2017 (the “Hartford Policy”) against the settlement that ultimately resolved the case captioned 
+Mountain v. DP Elec., No. RG 17857916 (Cal. Sup. Ct. Alameda County) (the “Underlying 
+Lawsuit”).  
+ 
+2. This Court should enter partial summary judgment on Hartford’s first, fourth, fifth, 
+and sixth causes of action, holding and declaring that (a) Defendant Ohio Security Insurance 
+Company (“Ohio Security”) was the true primary insurance issued to Carson Madrona, such 
+that (b) Ohio Security had the primary duty to defend and indemnify Carson Madrona against 
+the Underlying Lawsuit; and that (c) Ohio Security breached its duty to defend Carson Madrona, 
+such that (d) Ohio Security owes Hartford the cost of defending Carson Madrona against the 
+Underlying Lawsuit. If Hartford prevails on this issue, it may seek further relief under 28 U.S.C. 
+§ 2202 to establish the amount that Ohio Security owes Hartford. 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 2 of 28
+ 
+3 
+Hartford’s Cross-Motion for Summary Judgment 
+ 
+3. This Court should enter summary judgment on Hartford’s second cause of action, 
+declaring that after the jury verdict in the Underlying Lawsuit, Hartford had no duty to defend 
+Carson Madrona any further or, in the alternative, that Hartford satisfied any duty it had to 
+Carson Madrona after the jury verdict was entered.   
+ 
+4. This Court should enter summary judgment in Hartford’s favor on Carson Madrona’s 
+and Ohio Security’s requests for declaratory relief, declaring that Hartford owes no money to 
+Ohio Security or Defendant American Fire and Casualty Company (“American Fire”) under the 
+“supplementary payments” provisions in the Hartford Policy. 
+ 
+Hartford’s motion will be based on this Notice; the below memorandum of points and 
+authorities; the exhibits to Ohio Security’s motion for summary judgment; the declarations of 
+Joseph Dudek and Timothy Bailey; all pleadings and other papers on file with this Court; and 
+such other argument or evidence as may be presented at the hearing. 
+ 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 3 of 28
+ 
+4 
+Hartford’s Cross-Motion for Summary Judgment 
+Table of Contents 
+Introduction .................................................................................. 7 
+Background ................................................................................... 8 
+The Lease................................................................................................................................8 
+The Incident ...........................................................................................................................8 
+Carson Madrona’s Defense .................................................................................................... 9 
+The Trial and the Appeal ...................................................................................................... 10 
+This Coverage Action ........................................................................................................... 11 
+Legal Standard ............................................................................ 12 
+Argument ...................................................................................... 12 
+I. 
+An endorsement to the Hartford policy, not the coverage form, controls 
+Carson Madrona’s status as an additional insured. ..................................................... 12 
+II. 
+Hartford has no duty to indemnify Carson Madrona, because Ashley did not 
+cause Perez’s injuries. .................................................................................................. 15 
+III. Ohio Security breached its duty to defend Carson Madrona for years, and it 
+owes Hartford some or all of the cost of defending Carson Madrona. ....................... 20 
+A. 
+Ohio Security had a duty to defend Carson Madrona. ........................................ 21 
+B. 
+Ohio Security wrongly refused to participate in Carson Madrona’s 
+defense. .............................................................................................................. 22 
+IV. Hartford never breached a duty to defend Carson Madrona. ...................................... 23 
+A. 
+After the jury determined that Ashley did not cause Perez’s injuries, 
+Hartford had no duty to defend Carson Madrona. ............................................. 23 
+B. 
+Hartford never withdrew its defense, so Hartford satisfied any post-
+verdict duty to defend Carson Madrona. ........................................................... 24 
+V. 
+Hartford does not owe Ohio Security for defense fees, costs, or interest. ................... 25 
+VI. Carson Madrona would be entitled to no coverage under the Hartford Policy 
+even under the coverage-form provisions. .................................................................. 28 
+VII. Conclusion .................................................................................................................. 28 
+ 
+ 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 4 of 28
+ 
+5 
+Hartford’s Cross-Motion for Summary Judgment 
+Table of Authorities 
+Cases 
+Burlington Ins. v. N.Y.C. Transit Auth. (2017) 29 N.Y.3d 313 ........................................................ 18 
+Celotex Corp. v. Catrett (1986) 477 U.S. 317 ................................................................................... 12 
+Century Sur. Co. v. United Pac. Ins. (2003) 109 Cal. App. 4th 1246 ............................................... 21 
+Certain Underwriters at Lloyd's of London v. Am. Safety Ins. Svcs., Inc. (C.D. Cal. 2010) 
+702 F. Supp. 2d 1169 .................................................................................................................. 14 
+Cont’l Cas. Co. v. Phoenix Const. Co. (1956) 46 Cal. 2d 423 ........................................................... 12 
+Espinosa v. Little Co. of Mary Hosp. (1995) 31 Cal. App. 4th 1304 .................................................. 16 
+Fageol Truck & Coach v. Pac. Indem. (1941) 18 Cal. 2d 731 ............................................................. 13 
+Hartford Cas. Ins. v. Travelers Indem. (2003) 110 Cal. App. 4th 710 .............................................. 21 
+Haskel, Inc. v. Superior Court (1995) 33 Cal. App. 4th 963 ............................................................ 24 
+Haynes v. Farmers Ins. Exch. (2004) 32 Cal. 4th 1198 ..................................................................... 13 
+Montrose Chem. Corp. v. Superior Ct. (1993) 6 Cal. 4th 287 ........................................................... 24 
+People v. ConAgra Grocery Prods. Co. (2017) 17 Cal. App. 5th 51 .................................................... 16 
+Reliance Nat. Indem. v. Gen. Star Indem. (1999) 72 Cal. App. 4th 1063 .......................................... 19 
+Rossmoor Sanitation v. Pylon, Inc. (1975) 13 Cal. 3d 622 ................................................................ 22 
+Saarman Constr., Ltd. v. Ironshore Specialty Ins. (N.D. Cal. 2017) 
+230 F. Supp. 3d 1068 ................................................................................................................. 24 
+Secci v. United Indep. Taxi Drivers, Inc. (2017) 8 Cal. App. 5th 846 ............................................... 17 
+State Farm Gen. Ins. v. Mintarsih (2009) 175 Cal. App. 4th 274 ........................................ 20, 25, 26 
+Travelers Cas. & Sur. v. Century Sur. (Ct. App. 2004) 13 Cal. Rptr. 3d 526 ................................. 22 
+United States ex rel. Welch v. My Left Foot Child. Therapy, LLC (9th Cir. 2017) 
+871 F.3d 791................................................................................................................................ 13 
+Vitton Constr. Co. v. Pac. Ins. (2003) 110 Cal. App. 4th 762 .......................................................... 24 
+Voyager Indem. Ins. v. Zalman N., Inc. (C.D. Cal. 2023) 668 F. Supp. 3d 990 ............................... 14 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 5 of 28
+ 
+6 
+Hartford’s Cross-Motion for Summary Judgment 
+Yanez v. Plummer (2013) 221 Cal. App. 4th 180 ............................................................................. 16 
+Other Authorities 
+Liberty Mutual Group, Statement as of June 30, 2024: Schedule Y - Part 1 - Organizational 
+Chart, https://tinyurl.com/LiMuOrg (accessed December 30, 2024) ..................................... 11 
+ 
+ 
+ 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 6 of 28
+ 
+7 
+Hartford’s Cross-Motion for Summary Judgment 
+Introduction 
+ 
+The Perez family sought millions in damages because Mr. Perez was injured by a 
+dangerously defective electrical system, one that Carson Madrona was legally obligated to 
+maintain. Yet for five years, Carson Madrona’s insurer, Ohio Security, refused to defend its 
+insured. Carson Madrona instead turned to its tenant and eventually its tenant’s insurer 
+(Hartford) for a defense. There were good reasons to believe that Mr. Perez was not injured by 
+the tenant, yet Hartford defended Carson Madrona under the tenant’s policy. Sure enough, a 
+jury apportioned 0% fault to the tenant for Mr. Perez’s injuries and awarded tens of millions of 
+dollars against Carson Madrona and its property manager. Only then did Ohio Security (and its 
+excess insurer) acknowledge its duty to defend and indemnify Carson Madrona. Ohio Security, 
+Carson Madrona, and Carson Madrona’s property manager took an appeal and then settled. 
+ 
+Ohio Security and Carson Madrona now want to make Hartford pay for the settlement. 
+They lack even a colorable claim that Hartford should pay any portion of the settlement 
+attributable to the underlying judgment. A jury rendered its verdict that the tenant was a 0% 
+substantial factor in Perez’s injuries, i.e., that Perez’s injuries were not caused, whole or in part, 
+by Hartford’s insured. Carson Madrona’s coverage under the Hartford Policy requires this causal 
+connection. Carson Madrona and Ohio Security brush that aside, hiding the part of the Hartford 
+Policy that depends on causation with ellipses. ECF No. 63 at 11; ECF No. 64 at 6. Their other 
+arguments about appellate fees or supplementary payments fail for the same reason. 
+ 
+Instead, Ohio Security owes Hartford for the defense that Ohio Security refused for years 
+to provide its insured. This Court should say so, declaring that Ohio Security’s primary 
+insurance policy issued to Carson Madrona had a primary duty to defend Carson Madrona. 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 7 of 28
+ 
+8 
+Hartford’s Cross-Motion for Summary Judgment 
+Background 
+The Lease 
+ 
+Carson Madrona owned real estate on San Leandro Bay, and nonparty SanOak 
+Management Company (“SanOak”)1 was Carson Madrona’s property manager. In 2012, Carson 
+Madrona leased commercial space within that real estate to Warehouse and Delivery Solutions, 
+Inc. (“WDS”).2 In April 2016, WDS assigned its lease to Defendant Stoneledge Furniture, LLC 
+(“Stoneledge”) with Carson Madrona’s blessing.3 The lease would later be terminated, and the 
+parties to the lease would fully release one another.4 
+The Incident 
+ 
+A month into its tenancy, a Stoneledge assistant manager (Gary Mountain)5 and an 
+electrician (David Luis Perez) were injured while Perez was attempting electrical repairs in a 
+common area outside Stoneledge’s leased space. Mountain and his wife sued Perez, Perez’s 
+business, SanOak, and others, seeking damages for his injuries. Perez, who was also injured,6 
+crossclaimed with his wife against Carson Madrona (the owner), SanOak (the property manager), 
+WDS (the original lessee), Stoneledge (the current lessee), Ashley Furniture Industries, Inc. 
+ 
+1 SanOak’s full legal name is “Diane Pregerson Glazer as Trustee of the Diane Pregerson Glazer 
+Survivor’s Trust d/b/a SanOak Management Company.” 
+2 Lease Agreement (ECF No. 64-7). Any citation in this motion to a filed document by “ECF” 
+number refers to the court-applied pagination (the blue page numbers at the top), not to the 
+party-applied pagination (the black page numbers at the bottom). 
+3 Lease Assignment (ECF No. 64-8). 
+4 Lease Termination (ECF No. 63-16). 
+5 Ex. 1, Tr. 9619:25 (June 7, 2023). 
+6 Ex. 1, Tr. 11425:1 (June 15, 2023). 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 8 of 28
+ 
+9 
+Hartford’s Cross-Motion for Summary Judgment 
+(“AFI”) (a Stoneledge affiliate), and others. This motion refers to Stoneledge and AFI together 
+as “Ashley.” 
+Carson Madrona’s Defense 
+ 
+Mountain’s claim and Perez’s crossclaim presented a question at the core of this 
+declaratory judgment action: Who should defend Carson Madrona? Under the assigned lease, 
+Ashley had promised to defend Carson Madrona under certain circumstances: “against any and 
+all … suits … arising out of or in any way connected with” Ashley’s “use of the” leased 
+premises.7 At first, Ashley funded Carson Madrona’s defense itself (alongside its own defense) to 
+satisfy its obligations under the lease.8 Ashley withdrew its defense of Carson Madrona in 
+December 2019, because “[t]he incident … did not arise from [Ashley’s] use of the Premises, the 
+conduct of [Ashley’s] business in the Premises, or any breach or default of [Ashley] under the 
+Lease.” Ex. 2.  
+ 
+Carson Madrona then sought a defense directly from Hartford under the Hartford Policy. 
+In March 2020, Hartford agreed to defend Carson Madrona against the Mountain and Perez 
+claims “subject to a full reservation of [Hartford’s] rights to deny or limit coverage,” including if 
+Hartford “determine[s] that there is no coverage for the claims.”9 Hartford explained that 
+Carson Madrona might be an additional insured under Ashley’s insurance policy, depending on 
+the relationship between Mountain’s and Perez’s injuries, on one hand, and Ashley’s leased 
+premises, on the other hand. 
+ 
+7 Lease Agreement (ECF No. 64-7) at 20, art. 18. 
+8 The Hartford Policy has a $1 million deductible. ECF No. 64-10 at 113. 
+9 Letter from Antanik Thompson to Bill Neiman (Mar. 30, 2020) (ECF No. 64-11). 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 9 of 28
+ 
+10 
+Hartford’s Cross-Motion for Summary Judgment 
+ 
+Hartford supplemented its reservation of rights letter on September 30, 2022. The 
+supplemental letter addressed evidence that Carson Madrona and SanOak, but not Ashley, had 
+caused Perez’s injuries. “[T]he incident occurred as a result of improper maintenance and repair 
+of the Main Electric Panel”—electrical equipment in a common area, not in the leased 
+premises—which Mountain and Perez “assert[ed] was Carson [Madrona’s] responsibility to 
+maintain under the Lease Agreement.”10 Hartford explained that if “it is established that the 
+Plaintiffs’ injuries occurred as the result of the electrical system that was Carson [Madrona’s] 
+duty to maintain and in a common area under the control of Carson [Madrona] and/or its 
+property manager, … Hartford has no duty to indemnify Carson [Madrona].” 
+The Trial and the Appeal 
+ 
+Mountain’s claim was settled, but Perez’s claim went to trial. In July 2023, the jury 
+returned its verdict. The jury was asked, “what percentage of responsibility for … Perez’s harm 
+do you assign to” each defendant? The jury assigned 50% to Carson Madrona, 50% to SanOak, 
+and 0% to Ashley.11 
+ 
+Upon learning that Ashley was 0% responsible for Perez’s injuries, Hartford explained to 
+Carson Madrona that although Hartford had been trying for years to get Ohio Security to 
+acknowledge its duty to defend Carson Madrona, Hartford would nonetheless “continue to fund 
+Carson’s reasonable and necessary defense fees and costs in the [Underlying] Lawsuit.” Ex. 3; 
+Bailey Dec. ¶ 7. Hartford also continued pressing Ohio Security to acknowledge its primary 
+insurance obligations, explaining that Hartford “has no continuing defense obligation and no 
+ 
+10 Letter from Tim Bailey to Bill Neiman (Sept. 30, 2022) (ECF No. 64-12). 
+11 Ex. 1, Tr. 14430 (July 10, 2023); Verdict Form (ECF No. 63-11) at 4. 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 10 of 28
+ 
+11 
+Hartford’s Cross-Motion for Summary Judgment 
+indemnity obligation to Carson in this matter” and that Ohio Security should be defending 
+Carson Madrona.12 After all, Ohio Security was Carson Madrona’s direct insurer, and it had been 
+defending SanOak. Even after Hartford’s letter to Ohio Security, Ohio Security knew that 
+Hartford was continuing to defend Carson Madrona. Ex. 4 (“It is our understanding that 
+Hartford will also continue to defend Carson Madrona”). A month later, Hartford filed this 
+lawsuit, seeking a declaration of the parties’ rights and obligations, while continuing to defend 
+Carson Madrona and posting its share of an appellate bond. Bailey Dec. ¶ 8. 
+ 
+After the verdict, Ohio Security (which was already defending SanOak) commenced 
+defending Carson Madrona under the policy it issued directly to Carson Madrona and engaged 
+appellate counsel. Carson Madrona and Ohio Security then appealed from the jury verdict. But 
+before anyone filed a principal brief, the Underlying Lawsuit settled. Carson Madrona, Ohio 
+Security, and American Fire (excess insurance above the Ohio Security policy) contributed to 
+that settlement. This motion refers to Ohio Security and American Fire together as “Liberty.”13  
+This Coverage Action 
+ 
+In its original complaint here, Hartford sought, among other relief, a judicial declaration 
+that it could withdraw its defense of Carson Madrona and deny indemnity coverage.14 Because 
+Liberty has since picked up Carson Madrona’s defense and contributed toward settlement, this 
+action is now about two kinds of recoupment: first, whether Hartford can recoup from Ohio 
+ 
+12 Letter from Sonia S. Waisman, Esq. to Patricia A. Daza-Luu, Esq. (Sept. 11, 2023) 
+(ECF No. 64-14) at 4. 
+13 See Liberty Mutual Group, Statement as of June 30, 2024: Schedule Y - Part 1 - Organizational 
+Chart at 2, https://tinyurl.com/LiMuOrg (accessed December 30, 2024). 
+14 Complaint for Declaratory Relief (ECF No. 1). 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 11 of 28
+ 
+12 
+Hartford’s Cross-Motion for Summary Judgment 
+Security some or all of the costs Hartford incurred to defend Ohio Security’s direct insured; and 
+second, whether Carson Madrona and Liberty can recoup their post-verdict defense and 
+settlement costs from Ashley’s primary and excess insurers—Hartford and ACE Property and 
+Casualty Insurance Company (“ACE”). 
+Legal Standard 
+ 
+Summary judgment is appropriate under Federal Rule of Civil Procedure 56 only when, 
+based on undisputed material facts, the moving party is entitled to judgment as a matter of law. 
+Celotex Corp. v. Catrett (1986) 477 U.S. 317, 322. Here, every material fact is undisputed—the 
+parties agree about what the underlying pleadings say, what their insurance policies say, what 
+they wrote to one another in letters, who paid for what costs, and what the jury verdict says. The 
+only remaining question is the legal effect of these undisputed facts and authentic documents. 
+Argument 
+I.  
+An endorsement to the Hartford policy, not the coverage form, controls Carson 
+Madrona’s status as an additional insured. 
+ 
+The Hartford Policy, like very many other insurance policies, comprises several “forms” 
+of four basic types: (i) “declarations” pages setting out the parties to the insurance contract, the 
+cost of insurance premiums, and the limits of insurance; (ii) a “coverage form” that sets out the 
+basic terms of the insurance policy; (iii) “endorsements” that modify the basic terms in the 
+coverage form to this insurance of this insured; and (iv) “schedules” setting out factual details 
+that help clarify the meaning of the other forms. See ECF No. 64-10 at 13 (listing forms). 
+ 
+When interpreting insurance policies, California courts have held for decades that “if 
+there is a conflict in meaning between an endorsement and the body of the policy, the 
+endorsement controls.” Cont’l Cas. Co. v. Phoenix Const. Co. (1956) 46 Cal. 2d 423, 431; see 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 12 of 28
+ 
+13 
+Hartford’s Cross-Motion for Summary Judgment 
+Fageol Truck & Coach v. Pac. Indem. (1941) 18 Cal. 2d 731, 738 (“Such special endorsement 
+prevails over any contrary provision of the body of the policy”). This matches the “standard rule 
+of contract interpretation” that “specific terms control over general ones.”15 United States ex rel. 
+Welch v. My Left Foot Child. Therapy, LLC (9th Cir. 2017) 871 F.3d 791, 797. 
+ 
+Consistent with this standard rule, the Hartford Policy’s coverage form has a list of 
+people who qualify as an “additional insured,” but explains that the list does not apply if there is 
+an applicable endorsement: 
+However, no such person or organization is an insured under this provision if such 
+person or organization is included as an insured by an endorsement issued by us and 
+made a part of this Coverage Part. 
+ECF No. 64-10 at 27 (just below the highlighted portion). In other words, if there is an 
+endorsement that governs Carson Madrona’s status as an additional insured, then the coverage-
+form provisions do not apply. Carson Madrona and Liberty omitted this language from their 
+motions, using ellipses. ECF No. 63 at 11; ECF No. 64 at 6. 
+ 
+The Hartford Policy does include an endorsement that governs Carson Madrona’s status 
+as an additional insured. The policy contains an “Additional Insured - Designated Person or 
+Organization” endorsement, which applies to “blanket where required by written contract or 
+agreement” (the “Blanket Endorsement”): 
+A. Section II — Who Is An Insured is amended to include as an additional insured 
+the person(s) or organization(s) shown in the Schedule [“BLANKET WHERE 
+REQUIRED BY WRITTEN CONTRACT OR AGREEMENT”], but only 
+with respect to liability for "bodily injury", "property damage" or "personal and 
+ 
+15 California law uses ordinary canons of contract construction for insurance policies. “While 
+insurance contracts have special features, they are still contracts to which the ordinary rules of 
+contractual interpretation apply.” Haynes v. Farmers Ins. Exch. (2004) 32 Cal. 4th 1198, 1204. To 
+that end, courts “seek to discern the mutual intention of the parties and, where possible, to infer 
+this intent from the terms of the policy.” Id. (citing Cal. Civ. Code §§ 1636, 1639). 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 13 of 28
+ 
+14 
+Hartford’s Cross-Motion for Summary Judgment 
+advertising injury" caused, in whole or in part, by your acts or omissions or the 
+acts or omissions of those acting on your behalf: 
+1. In the performance of your ongoing operations; or 
+2. In connection with your premises owned by or rented to you. 
+However: 
+1. The insurance afforded to such additional insured only applies to the extent 
+permitted by law; and 
+2. If coverage provided to the additional insured is required by a contract or 
+agreement, the insurance afforded to such additional insured will not be 
+broader than that which you are required by the contract or agreement to 
+provide for such additional insured. 
+ECF No. 64-10 at 59. “Blanket” additional insured provisions usually apply when a contract 
+between the insured and a third party require additional insured coverage. See Voyager Indem. Ins. 
+v. Zalman N., Inc. (C.D. Cal. 2023) 668 F. Supp. 3d 990, 994, 997; Certain Underwriters at Lloyd's 
+of London v. Am. Safety Ins. Services, Inc. (C.D. Cal. 2010) 702 F. Supp. 2d 1169, 1171 (defining 
+“Blanket Endorsement” to mean an endorsement that “provides coverage to ‘those parties 
+required to be named as an Additional Insured in a written contract with the Named Insured 
+entered into prior to the loss or occurrence”). Here, the Blanket Endorsement specifically 
+applies to liability from “premises … rented to you,” i.e., the space that Ashley leased.16 
+ 
+The Blanket Endorsement, by its terms, governs Carson Madrona’s coverage as an 
+additional insured, because Ashley was “required by written contract” to make Carson Madrona 
+ 
+16 Carson Madrona argues that because no endorsement to the Hartford Policy specifically 
+“names Carson Madrona,” no endorsement matters. ECF No. 63 at 22. But nothing in the 
+coverage form requires the endorsement to name Carson Madrona; it is enough under the plain 
+text of the policy that Carson Madrona “is included as an insured by an endorsement.” Carson 
+Madrona is included as an insured by the Blanket Endorsement, so the coverage-form additional-
+insured provisions do not apply. 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 14 of 28
+ 
+15 
+Hartford’s Cross-Motion for Summary Judgment 
+an insured under the Hartford Policy. The lease agreement between Carson Madrona and Ashley 
+obligated Ashley to make Carson Madrona an insured under its insurance: 
+Tenant … agrees [to] carry and maintain … a policy of commercial general liability 
+insurance (known as broad form comprehensive general liability insurance) insuring 
+Tenant and Landlord against any and all liability for personal injury and property 
+damage (including loss of use of property) arising out of the operation, 
+maintenance, use or occupancy of the Premises, as well as all private and public 
+sidewalks, driveways, parking areas and other grounds serving the Premises or 
+otherwise related thereto. Landlord shall also be a named insured on such policy.  
+ECF No. 64-7 at 23 (emphasis added). The lease then sets out the required limits of insurance, 
+the priority of Ashley’s insurance, and several other insurance specifics. Id. at 24. It follows that 
+the Blanket Endorsement, not the coverage-form provisions, governs Carson Madrona’s status as 
+an additional insured. 
+ 
+Because they omitted key language from their motions, neither Carson Madrona nor 
+Liberty explained why the coverage form, rather than the Blanket Endorsement, should govern 
+Carson Madrona’s additional-insured rights. Nor can they. The plain text of the coverage form 
+says that the Blanket Endorsement controls.  
+II.  
+Hartford has no duty to indemnify Carson Madrona, because Ashley did not cause 
+Perez’s injuries. 
+ 
+The Blanket Endorsement’s terms match a commonsense notion: liability insurance 
+issued to Ashley should insure only against injuries that Ashley caused. The Blanket 
+Endorsement specifically limits Carson Madrona’s insurance coverage to injuries “caused, in 
+whole or in part, by [Ashley’s] acts or omissions or the acts or omissions of those acting on 
+[Ashley’s] behalf.” ECF No. 64-10 at 59. 
+ 
+Perez’s injuries were not “caused, in whole or in part” by Ashley. If the jury had found 
+Ashley to be a 100% substantial cause, then Perez’s injuries would have been “caused, in whole” 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 15 of 28
+ 
+16 
+Hartford’s Cross-Motion for Summary Judgment 
+by Ashley. If the jury had found Ashley to be a partial substantial cause, then Perez’s injuries 
+would have been “caused, … in part” by Ashley. But because the jury found Ashley to be a 0% 
+substantial cause, Ashley did not cause Perez’s injuries. 
+ 
+Decades of California cases confirm that because Ashley was not a substantial factor in 
+Perez’s injuries, Ashley did not “cause” his injuries. Ashley’s conduct was not a “legal cause of 
+the injury” unless Ashley’s conduct was to some extent a substantial factor. See Espinosa v. Little 
+Co. of Mary Hosp. (1995) 31 Cal. App. 4th 1304, 1317–1318 (“where a defendant’s negligence is a 
+concurring cause of an injury, the law regards it as a legal cause of the injury, regardless of the 
+extent to which it contributes to the injury”). That is because “conduct is not a substantial factor 
+in causing harm if the same harm would have occurred without that conduct.” Yanez v. Plummer 
+(2013) 221 Cal. App. 4th 180, 187 (citing 6 Witkin, Summary of California Law, Torts § 1185 
+(11th ed. 2024)). And it makes sense to tie “cause” to “substantial factor,” because “[t]he 
+substantial factor standard is a relatively broad one, requiring only that the contribution of the 
+individual cause be more than negligible or theoretical.” People v. ConAgra Grocery Prods. Co. 
+(2017) 17 Cal. App. 5th 51, 102. When the jury decided that Ashley was not a substantial factor, it 
+also decided that Ashley was not a cause. 
+ 
+The jury instructions in Perez’s case also confirm that Carson Madrona and SanOak were 
+the only causes of Perez’s injuries. “A substantial factor in causing harm is a factor that a 
+reasonable person would consider to have contributed to the harm. It must be more than a remote 
+or trivial factor. … Conduct is not a substantial factor in causing harm if the same harm would 
+have occurred without the conduct.” Ex. 1, Tr. 14147 (July 6, 2023). Because the jury was 
+instructed to find Ashley a substantial factor if a “reasonable person would consider” Ashley to 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 16 of 28
+ 
+17 
+Hartford’s Cross-Motion for Summary Judgment 
+have contributed to Perez’s injuries, the jury verdict necessarily means that only an unreasonable 
+person would say Ashley caused Perez’s injuries. That is, the jury decided that Carson 
+Madrona’s and Liberty’s arguments are unreasonable. 
+ 
+Carson Madrona and Liberty appear to have four arguments in response. First, they point 
+to the jury’s finding that Ashley was “negligent” as proof that Ashley was a cause of Perez’s 
+injuries. ECF No. 63 at 9, 21–23; ECF No. 64 at 13, 17 n.3. But the jury was instructed that “a 
+person who … leases … property is negligent if [they] fail[] to use reasonable care to keep the 
+property in a reasonably safe condition … and to repair or replace or give adequate warning of 
+anything that could reasonably be expected to harm others.” Ex. 1, Tr. 14148–49 (July 6, 2023). 
+This instruction did not require the jury to find that Ashley’s lack of reasonable care caused any of 
+Perez’s injuries. Ex. 1, Tr. 14150–51 (July 6, 2023). The jury was instructed to find “negligence” 
+if Ashley failed to inspect its own rented space, regardless of the consequences. 
+ 
+Second, Carson Madrona argues without evidence that Perez’s injuries were “caused, in 
+whole or in party, by … the acts or omissions of those acting on [Ashley’s] behalf,” because 
+Perez was “clearly” acting on Ashley’s behalf.17 ECF No. 63 at 22. But even if Perez were acting 
+on Ashley’s behalf,18 Carson Madrona’s premise—that Perez’s own negligence was a substantial 
+ 
+17 Carson Madrona was discussing a different part of the Hartford Policy. Carson Madrona argues 
+that if it is not an additional insured under § II.6.c. of the coverage form, then it is an additional 
+insured under § II.6.f. of the coverage form. ECF No. 63 at 22. Carson Madrona’s status as an 
+additional insured is not governed by any subsection of the coverage form provisions. See § 1 
+supra. But because § II.6.f. uses the phrase “caused, in whole or in part,” which appears in the 
+Blanket Endorsement, we consider Carson Madrona’s arguments here. 
+18 Carson Madrona’s continuing effort to generate legal theories under which it would have won 
+the Underlying Lawsuit blinks reality. Perez was not acting “on Ashley’s behalf,” because he was 
+not acting as Ashley’s agent; he was acting on behalf of an electrical repair company. See Secci v. 
+United Indep. Taxi Drivers, Inc. (2017) 8 Cal. App. 5th 846, 855 (an agent acts on its principal’s 
+behalf). 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 17 of 28
+ 
+18 
+Hartford’s Cross-Motion for Summary Judgment 
+factor in causing his injuries—was made to and rejected by the jury. Ex. 1, Tr. 13864 (July 5, 2023) 
+(Carson Madrona’s closing argument: “the sole cause of the arc flash was Mr. Perez, and 
+Mr. Perez’s injury were due to Mr. Perez himself and some of the actions he took or failed to 
+take, period.”). The jury rejected Carson Madrona’s argument, instead finding that Perez was 
+not negligent. Ex. 1, Tr. 14430 (July 10, 2023). Based on that finding, it allocated 0% substantial 
+cause to Perez. Id. (“To David Perez, ‘0’ percent.”). Neither Ashley nor Perez “cause[d], in 
+whole or in part” Perez’s injuries. 
+ 
+Carson Madrona wants to relitigate these issues in one paragraph, again citing no 
+evidence. ECF No. 63 at 23. It argues that Perez “was also at least in part a cause of the 
+accident,” without explaining its theory, and it argues that because Ashley called Perez to fix the 
+flickering lights, Ashley “at least in part” caused Perez’s injuries. But the jury held otherwise. 
+After a full trial on the merits, the jury imposed liability on Carson Madrona based on its finding 
+that Ashley and Perez did not cause Perez’s injuries. The Hartford Policy, by contrast, covers only 
+liability imposed on Carson Madrona that Ashley or its agents caused. 
+ 
+Perhaps Carson Madrona means to argue that any but-for cause—any event in a long 
+causal chain—qualifies as “caused” under the Hartford Policy. But as one court has persuasively 
+explained, but-for causation is inconsistent with the phrase “caused, in whole or in part.” 
+“These words require proximate causation since ‘but for’ causation cannot be partial. An event 
+may not be wholly or partially connected [in the but-for sense] to a result, it either is or it is not 
+connected.” Burlington Ins. v. N.Y.C. Transit Auth. (2017) 29 N.Y.3d 313, 322 (Rivera, J.). 
+Because a but-for cause cannot be “in part” but a proximate cause can, the only way to make 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 18 of 28
+ 
+19 
+Hartford’s Cross-Motion for Summary Judgment 
+sense of the whole phrase is to require a proximate cause. Id. (citing Dan B. Dobbs et al., Torts § 
+189 (2d ed. 2011 & June 2017 Update) and Black’s Law Dictionary (10th ed. 2014)).19 
+ 
+Third, in one paragraph, Liberty appears to argue that because the lease agreement 
+between Carson Madrona and Ashley obligated Ashley to “indemnify, hold harmless, and 
+defend” Carson Madrona, “[t]here can be no dispute” that “Carson Madrona” had “additional 
+insured status” “under the Hartford Policy.” ECF No. 64 at 21. But the lease does not govern 
+Hartford’s coverage obligations; the Hartford Policy does. Reliance Nat. Indem. v. Gen. Star 
+Indem. (1999) 72 Cal. App. 4th 1063, 1072–73 (“There is nothing that can make any of the 
+policies at issue subject to the contractual obligations to which these carriers were not parties”); 
+see ACE’s Cross-Motion at 22–23. As Liberty itself explained just a paragraph earlier, additional 
+insureds are “entitled to the ‘full indemnity and defense promised under the policy.’” Id. 
+(emphasis added). In any event, the lease has been terminated and the parties have released one 
+another, so no claim can depend on anyone’s rights under the lease. Lease Termination (ECF 
+No. 63-16). 
+ 
+Fourth, without any associated argument, Liberty contends that Hartford “specifically 
+acknowledg[ed] that Carson Madrona was an additional insured under the Lessors of Land 
+provision [in the coverage form].” ECF No. 64. Not so. Hartford’s letter to Carson Madrona 
+included the language that Carson Madrona and Liberty have consistently omitted, under which 
+Carson Madrona is not “an insured under” the coverage-form provisions if it “is included as an 
+insured by an endorsement.” ECF No. 64-11 at 6. Hartford acknowledged that Carson Madrona 
+was “defined in the lease” as Ashley’s landlord, id. at 8, but never concluded that this made 
+ 
+19 For a fuller treatment of this issue, see ACE’s cross-motion for summary judgment. 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 19 of 28
+ 
+20 
+Hartford’s Cross-Motion for Summary Judgment 
+Carson Madrona an additional insured under the coverage-form provisions. To the contrary, 
+Hartford’s defense was “subject to a full reservation of … Hartford’s rights to deny or limit 
+coverage … for any other reason, based on the terms of the policies and applicable law. Id. 
+Similarly, Hartford’s supplemental letter notified Carson Madrona that it might not satisfy even 
+the looser “arises out of” test, because discovery revealed facts showing that only Carson 
+Madrona and SanOak were responsible for Perez’s injuries. ECF No. 64-12 at 3–4.20 
+ 
+Finally, in a passing swipe, Liberty appears to argue that because Hartford defended 
+Carson Madrona through trial, Hartford “cannot seriously dispute” that it owed Carson 
+Madrona a defense through appeal and full indemnity. ECF No. 64 at 21. But California courts do 
+not punish insurers for defending when coverage is in doubt. State Farm Gen. Ins. v. Mintarsih 
+(2009) 175 Cal. App. 4th 274, 285. Hartford can rationally provide a defense during the trial 
+litigation while seriously disputing any duty to do so. 
+ 
+Hartford had no duty to indemnify Carson Madrona against the Perez settlement. It 
+therefore has no obligation to reimburse Carson Madrona or any of its insurers for their 
+contributions toward that settlement. 
+III.  
+Ohio Security breached its duty to defend Carson Madrona for years, and it owes 
+Hartford some or all of the cost of defending Carson Madrona. 
+ 
+Ohio Security had a primary duty to defend its named insured, Carson Madrona—a duty 
+that Ohio Security breached for years while Hartford defended Carson Madrona. After 
+abandoning its insured through trial, Ohio Security now demands payment from Hartford for 
+certain appellate costs. But it is Ohio Security that owes money for a wrongly denied defense. 
+ 
+20 Liberty’s motion does not invoke the doctrine of waiver, and any waiver argument is belied by 
+the text of Harford’s letters: “Hartford … does not waive its rights.” ECF No. 64-12 at 5. 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 20 of 28
+ 
+21 
+Hartford’s Cross-Motion for Summary Judgment 
+A. 
+Ohio Security had a duty to defend Carson Madrona. 
+ 
+When, as here, two insurers provide coverage at the same level for the same insured, 
+courts will enforce the policies’ other-insurance clauses as written if the provisions do not 
+conflict and there is no prejudice to the insured. Hartford Cas. Ins. v. Travelers Indem. (2003) 110 
+Cal. App. 4th 710, 727.  
+ 
+In this case, the two policies can be reconciled. The Hartford Policy explicitly states that 
+it is excess of the Ohio Security Policy: the Hartford Policy is “excess over any other insurance, 
+whether primary, excess, contingent or on any other basis, except when purchased specifically to 
+apply in excess of this insurance.” ECF No. 64-10 at 97. But the Ohio Security Policy says that it 
+is, by default, primary: “This insurance is primary except when Paragraph b. below applies.” 
+ECF No. 64-5 at 29. Ohio Security tries to rely on an exception to its default rule, under which 
+the Ohio Security Policy is excess over “[a]ny other primary insurance available to Carson 
+Madrona covering liability for damages arising out of the premises or operations … for which you 
+have been added as an additional insured.” ECF No. 64-5 at 29. For this exception to apply, Ohio 
+Security must point to other primary insurance available to Carson Madrona. But the Hartford 
+Policy is not “primary insurance”; it is “excess over” all other insurance. Hartford Policy (ECF 
+No. 64-10) at 97. Ohio Security’s arguments to the contrary fail to confront this policy language. 
+ 
+At the very least, Hartford’s and Ohio Security’s other-insurance clauses are repugnant, 
+because they cannot both be true at the same time. When the other-insurance clauses conflict in 
+this way, California law deletes both clauses, requiring all insurance issued as primary insurance 
+to share equally. Century Sur. Co. v. United Pac. Ins. (2003) 109 Cal. App. 4th 1246, 1260 (“The 
+Century ‘other insurance’ clause and the pro rata clauses of the other three insurers are mutually 
+repugnant. If we enforce Century's clause, then we cannot enforce the clauses of the other 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 21 of 28
+ 
+22 
+Hartford’s Cross-Motion for Summary Judgment 
+primary insurers.”); Travelers Cas. & Sur. v. Century Sur. (Ct. App. 2004) 13 Cal. Rptr. 3d 526, 
+529. If this Court rejects Hartford’s lead argument—that the Hartford Policy is excess over the 
+Ohio Security Policy—then it should hold that the other-insurance clauses are repugnant: 
+Hartford’s other-insurance clause purports to make the Hartford Policy excess over the Ohio 
+Security Policy, and (according to Ohio Security) Ohio Security’s other-insurance clause 
+purports to do the opposite.  
+ 
+Ohio Security cites only one case on this issue: Rossmoor Sanitation v. Pylon, Inc. (1975) 13 
+Cal. 3d 622. But that case had nothing to do with additional-insured coverage. In Rossmoor, 
+Rossmoor Sanitation had an indemnity agreement with Pylon, Inc. Id. at 625. Insurance 
+Company of North America had paid money on behalf of Rossmoor and sought subrogation—it 
+sought to step into Rossmoor’s shoes and press a contractual indemnity claim against Pylon. Id. 
+at 633–34. Here, by contrast, Ohio Security has no subrogated indemnity claim to press against 
+Ashley. Indeed, Carson Madrona filed such a claim in the Perez action, but that claim died when 
+Carson Madrona released Ashley from any lease-related liability. Lease Termination at 4 
+(“Landlord … hereby fully and unconditionally … releases … Tenant … from any and all … 
+claims … which the Landlord … ever had … related in any way to the Premises or the Lease”). 
+Applying Rossmoor, because Ohio Security lacks any subrogated claim against Ashley, it must 
+argue about priority of coverage based on the text of the insurance policies. 
+ 
+No matter which way this Court resolves this issue, Ohio Security was a primary insurer 
+and obligated to defend Carson Madrona against Perez’s claims. 
+B. 
+Ohio Security wrongly refused to participate in Carson Madrona’s defense. 
+ 
+Apart from its priority-of-coverage arguments, Ohio Security concedes that its policy 
+covers the Underlying Lawsuit. ECF No. 64 at 23 (“Ohio Security acknowledges that with regard 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 22 of 28
+ 
+23 
+Hartford’s Cross-Motion for Summary Judgment 
+to the duty to indemnify Carson Madrona, its policy attaches before the excess policies issued by 
+Ace and American Fire.”). Yet Ohio Security spent years insisting that others should defend its 
+insured. In 2018 and 2019, Ohio Security insisted that Ashley defend Carson Madrona. Ex. 5; 
+Ex. 6. In 2022, Ohio Security again insisted that Hartford—and only Hartford—owed Carson 
+Madrona a defense. Ex. 7. Because Ohio Security had a primary duty to defend Carson Madrona 
+that entire time, it owes Hartford reimbursement for Hartford’s overpayment toward Carson 
+Madrona’s defense.  
+ 
+For these reasons, this Court should hold that the Ohio Security Policy is the true primary 
+policy, which means Ohio Security owes Hartford all of Hartford’s Carson Madrona-related 
+defense costs. In the alternative, if this Court determines that the Ohio Security Policy and the 
+Hartford Policy are co-primary, this Court should hold that Ohio Security owes half as much. 
+IV.  
+ Hartford never breached a duty to defend Carson Madrona. 
+ 
+Unlike Ohio Security, Hartford never breached a duty to defend Carson Madrona. No 
+one disputes that Hartford defended Carson Madrona through trial. And although Hartford 
+lacked a duty to defend Carson Madrona after the jury verdict, Hartford never withdrew its 
+defense. Instead, even though Ohio Security knew Hartford was continuing to pay defense 
+counsel to defend Carson Madrona, Ohio Security paid for new appellate counsel to defend 
+Carson Madrona and SanOak. 
+A. 
+After the jury determined that Ashley did not cause Perez’s injuries, 
+Hartford had no duty to defend Carson Madrona. 
+ 
+Ohio Security, which paid to appeal the judgment and then settled before briefing, seeks 
+to shift appellate counsel’s fees to Hartford. Its premise for “Hartford’s Continued Duty to 
+Defend After the Verdict” is that the “arising out of” language in the coverage form “does not 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 23 of 28
+ 
+24 
+Hartford’s Cross-Motion for Summary Judgment 
+require proof of liability on the part of Ashley Furniture to trigger indemnity coverage for Carson 
+Madrona.” ECF No. 64 at 20-21 (citing Vitton Constr. Co. v. Pac. Ins. (2003) 110 Cal. App. 4th 
+762, 767–68). For that reason, and that reason alone, Ohio Security contends that Hartford’s 
+defense obligation was the same before and after the jury’s verdict.  
+ 
+But the Blanket Endorsement does restrict coverage for Carson Madrona to injury 
+“caused, in whole or in part, by [Ashley’s] acts or omissions.” Again, Ohio Security never 
+confronts this language.  
+ 
+Under the Blanket Endorsement, the jury’s verdict changed everything. Even when the 
+underlying pleadings or extrinsic evidence show a potential for coverage, giving rise to a defense 
+obligation, the obligation terminates when “undisputed” facts “conclusively demonstrate … no 
+potential for coverage.” Haskel, Inc. v. Superior Court (1995) 33 Cal. App. 4th 963 (citing Montrose 
+Chem. Corp. v. Superior Ct. (1993) 6 Cal. 4th 287, 298–99); see Saarman Constr., Ltd. v. Ironshore 
+Specialty Ins. (N.D. Cal. 2017) 230 F. Supp. 3d 1068, 1076 (Tigar, J. applying the legal test). 
+When the jury found that Ashley’s negligence was not a substantial cause of Perez’s injury, any 
+potential for coverage under the Hartford Policy disappeared. Indeed, the Perezes did not cross-
+appeal seeking to hold Ashley liable. At that point, there was no potential for coverage under the 
+Hartford Policy, and Hartford had no duty to defend Carson Madrona. 
+B. 
+Hartford never withdrew its defense, so Hartford satisfied any post-verdict 
+duty to defend Carson Madrona. 
+ 
+Even if Ohio Security convinces this Court that Hartford had a duty to defend Carson 
+Madrona after the verdict, Ohio Security cannot win summary judgment that Hartford breached 
+that duty. Ohio Security cannot show that Hartford ceased defending Carson Madrona. After the 
+verdict, Hartford told Carson Madrona that it would continue to provide a defense. Hartford 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 24 of 28
+ 
+25 
+Hartford’s Cross-Motion for Summary Judgment 
+could not have been clearer on this point, explaining to Carson Madrona that although Ohio 
+Security should either take over the defense or contribute toward it, Hartford would continue to 
+defend Carson Madrona. Ex. 3. Hartford protected Carson Madrona even after the judgment by 
+contributing toward the premium for Carson Madrona’s appeal bond, Bailey Dec. ¶ 8, a fact 
+omitted by Liberty in its papers. And Ohio Security wrote a letter reflecting its understanding 
+that Hartford was defending.21 Ex. 4. Neither Carson Madrona nor Ohio Security have offered 
+any contrary evidence that would create a genuine issue about this basic fact. Instead, the 
+summary judgment record shows that Ohio Security finally recognized its duties, retained 
+appellate counsel, noted the appeal, and partially bonded the judgment all with full knowledge 
+that Hartford was continuing to pay to defend Carson Madrona. 
+V.  
+Hartford does not owe Ohio Security for defense fees, costs, or interest. 
+ 
+In addition to “defense costs,” Ohio Security seeks reimbursement from Hartford for 
+“all costs taxed against” Carson Madrona and $1.1 million in post-judgment interest.22 Ohio 
+Security premises this argument on the section of the Hartford policy governing “supplementary 
+payments,” which include defense counsel’s fees, certain bond costs, and post-judgment interest  
+Hartford Policy (ECF No. 64-10) at 74. Hartford could owe these costs only if Hartford had a 
+duty to defend Carson Madrona. Mintarsih, 175 Cal. App. 4th at 285. And even if Hartford had a 
+duty to defend, such a duty is shared with Ohio Security, and the supplementary payments apply 
+ 
+21 Ohio Security’s brief says that based on a September 2023 letter, Ohio Security understood 
+that Hartford was not defending, calling Hartford’s letter an “abandonment.” ECF No. 64 at 24. 
+But its letter from November 2023 says the opposite. Ex. 4. 
+22 Liberty appears confused about what it paid. Its affidavit says it paid $1.1 million in interest, but 
+it has since responded in discovery that it paid $1.2 million in interest. Ex. 8. 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 25 of 28
+ 
+26 
+Hartford’s Cross-Motion for Summary Judgment 
+according to their terms. Here, that means Hartford owes nothing in costs, no attorneys’ fees, 
+and no post-judgment interest.  
+ 
+A. Post-judgment Interest. Whether or not Hartford had a duty to defend Carson 
+Madrona, Hartford owes none of the post-judgment interest. The relevant provision of the 
+Hartford Policy says that Hartford “will pay … [a]ll interest on the full amount of any judgment 
+that accrues after entry of the judgment and before we have paid, offered to pay, or deposited in 
+court the part of the judgment that is within the applicable limit of insurance.” ECF No. 64-10 at 
+25. Put another way, Hartford promised to pay any interest that accrues because of Hartford’s 
+delay in paying its share of the underlying judgment. 
+ 
+Here, because Hartford had no duty to indemnify Carson Madrona, Hartford owed none 
+of the jury award against Carson Madrona. Mintarsih, 175 Cal. App. 4th at 285. For that reason, 
+none of the post-judgment interest is attributable to Hartford’s delay in paying Perez. Instead, 
+post-judgment interest accrued only because Liberty and Carson Madrona elected to take an 
+appeal and delay payment. Under the plain text of the Hartford Policy, Liberty and Carson 
+Madrona cannot make Hartford pay for their decision to delay satisfying the judgment.23 
+ 
+B. Costs. For two reasons, Ohio Security is not entitled to reimbursement of costs 
+awarded against Carson Madrona and SanOak. 
+ 
+First, Ohio Security is wrong about priority of coverage. See § III.A. The Ohio Security 
+Policy is either the true primary policy and responsible for all costs, or Ohio Security is co-
+ 
+23 Similarly, Hartford owes no prejudgment interest. The Hartford Policy promises to pay 
+“[p]rejudgment interest awarded against the insured” but only “on that part of the judgment we 
+pay.” As with post-judgment interest, because Hartford had to pay none of the underlying 
+judgment, it can owe no prejudgment interest to any party. 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 26 of 28
+ 
+27 
+Hartford’s Cross-Motion for Summary Judgment 
+primary with the Hartford Policy and, in that circumstance, Hartford’s share of the costs would 
+more than offset Ohio Security’s failure to defend Carson Madrona.24 Either way, Hartford owes 
+Ohio Security nothing. 
+ 
+Second, Ohio Security is trying to force Hartford to pay for costs attributable to SanOak, 
+who (all parties agree) Hartford had no duty to defend or indemnify. The $238,582 costs award 
+was rendered against Carson Madrona and SanOak, jointly and severally, based on a jury verdict 
+that each was 50% liable for Perez’s injuries. Ohio Security offers no authority under which it 
+should be allowed to reconstrue those costs as 100% attributable to Carson Madrona (who 
+Hartford arguably insured), rather than equally attributable to SanOak (who Ohio Security alone 
+insured). Instead, it appears that Ohio Security has accounted for its payment to Perez to 
+maximize its litigation advantage against Hartford, rather than to fairly account for its payments 
+on behalf of its insureds. This Court should not countenance that maneuver. 
+ 
+C. Appellate Counsel Fees. Hartford owes none of the appellate counsel fees Ohio 
+Security incurred, because it had no duty to defend Carson Madrona on appeal because its duty 
+to defend ceased at the verdict. See § II. But even if Ohio Security could establish that Hartford 
+had a duty to defend on appeal, Hartford fulfilled that duty through continued funding of trial 
+counsel who contributed to the appellate efforts. At most it would owe at most a quarter of 
+reasonable and necessary fees and this would be more than offset by all the back defense costs 
+owed by Ohio Security. Again, here the apportionment of fees should match the apportionment 
+ 
+24 Ohio Security’s over-attribution to Carson Madrona cuts Hartford’s share of the costs award 
+in half. If Ohio Security and Hartford are co-primary, that would cut Hartford’s share of the costs 
+award in half again. And if Ohio Security is the true primary policy, then Hartford owes none of 
+these costs. So of the $238,582 in costs awarded at trial, Hartford owes $0 or, at most, 
+$59,645.50.  
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 27 of 28
+ 
+28 
+Hartford’s Cross-Motion for Summary Judgment 
+of costs—fees must be split among Carson Madrona and SanOak, and then whichever insurers 
+have a duty to defend Carson Madrona would pay the fees. 
+VI.  
+Carson Madrona would be entitled to no coverage under the Hartford Policy even 
+under the coverage-form provisions. 
+ 
+Finally, even if Carson Madrona and Liberty were to convince this Court that the 
+Hartford Policy’s coverage form additional-insured provisions apply, Hartford’s defense and 
+indemnity obligations would be the same: Hartford’s duty to defend would have ended at the jury 
+verdict, and Hartford would have no duty to indemnify Carson Madrona. ACE addresses this 
+issue in greater detail in its motion, and Hartford adopts ACE’s arguments by reference.   
+VII.  Conclusion 
+For these reasons, this Court should grant summary judgment in its favor as described in 
+the above notice of motion and deny Liberty’s and Carson Madrona’s motions for summary 
+judgment. 
+ 
+/s/ Gary R. Selvin 
+ 
+ 
+ 
+Gary R. Selvin (112030) 
+Selvin Wraith LLP 
+6250 Claremont Avenue, Suite 200 
+Oakland, CA 94618 
+Telephone No.: 510.874.1814  
+Facsimile No.:  510.465.8976 
+gselvin@selvinwraith.com 
+ 
+Ezra S. Gollogly 
+admitted pro hac vice 
+Joseph Dudek,  
+admitted pro hac vice 
+Kramon & Graham, P.A. 
+7500 East Pratt St., Suite 1100 
+Baltimore, MD 21202 
+Telephone No.: 410.752.6030 
+Facsimile No.:  410.361.8233 
+egollogly@kg-law.com 
+jdudek@kg-law.com 
+Case 3:23-cv-06259-VC     Document 67     Filed 01/16/25     Page 28 of 28
