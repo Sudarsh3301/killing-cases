@@ -1,0 +1,19 @@
+{
+  "note": "Hand-graded from the order (Dkt. 81, 20 March 2025): the court's outcome for each claim of the map, for the movants' side. 'lost': the court ruled against it. 'exposed': the court left it open. 'secure': the court accepted it or nothing in the order goes against it.",
+  "claims": {
+    "relief-psj": {"court": "lost", "why": "Motion denied"},
+    "el-hartford-duty-to-defend": {"court": "exposed", "why": "Duty to defend on appeal may have existed; breach not decided (p. 3 and n. 1)"},
+    "sub-ai-status-hartford": {"court": "lost", "why": "Insured under the endorsement, not the coverage form's Lessors of Land provision (p. 1)"},
+    "sub-no-fault-requirement": {"court": "lost", "why": "'Caused, in whole or in part' means proximate cause (p. 2)"},
+    "sub-breach-withdrawal": {"court": "exposed", "why": "Breach not decided (n. 1)"},
+    "el-recovery-defense-amounts": {"court": "lost", "why": "Ohio Security is primary (p. 3)"},
+    "sub-defense-fees": {"court": "lost", "why": "Ohio Security is primary (p. 3)"},
+    "sub-costs": {"court": "lost", "why": "Ohio Security is primary (p. 3)"},
+    "sub-post-judgment-interest": {"court": "lost", "why": "No duty to indemnify, so no post-judgment interest (p. 3)"},
+    "el-ace-additional-insured": {"court": "secure", "why": "Not decided against; the order treats Ace as possibly owing a defense (p. 3)"},
+    "el-priority-of-coverage": {"court": "lost", "why": "Ohio before Hartford; American Fire before Ace (pp. 3-4)"},
+    "sub-hartford-primary": {"court": "lost", "why": "Hartford is excess; the lease does not set priority (pp. 3-4)"},
+    "sub-ohio-second": {"court": "lost", "why": "Ohio Security is primary, not second (p. 3)"},
+    "sub-ace-before-american-fire": {"court": "lost", "why": "American Fire applies before Ace (p. 4)"}
+  }
+}

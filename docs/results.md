@@ -27,7 +27,7 @@ All numbers come from one replayed case, *Hartford Fire v. Carson Madrona* (N.D.
 | Attacks still standing after the exchange | 22 of 47 |
 | Attacks on premises the brief never states, still open | 9 of 15 (60%), against 13 of 32 (41%) for all other attacks |
 | The attack matching the court's first reason (#2) | Targets an unstated premise; still open after the exchange |
-| Claims rated secure: as filed, under attack, after the exchange | 5, 1, 2 of 14 |
+| Claims rated secure: as filed, under attack, after the exchange | 2, 0, 1 of 14 |
 | Court's reasons that still defeat the rewritten brief | 7 of 7, after 15 applied edits |
 
 Examples of applied edits: the several judgment against Carson Madrona was $12.75 million, not the $25.5 million the brief states; and the dates of two Hartford letters were corrected. The full redline is in the pipeline output (`out/<matter>/brief/twin.json`, field `redline`).
@@ -46,18 +46,34 @@ Examples of applied edits: the several judgment against Carson Madrona was $12.7
 
 ## Does the map's verdict match the court?
 
-After the exchange, each claim has a status. Against the court's order:
+After the exchange, each claim has a status. Against the court's order ([`results/hartford-court-claims.json`](../results/hartford-court-claims.json), graded by hand):
 
 | | Claims |
 | --- | --- |
-| Same as the court | 9 of 14 |
-| At risk where the court ruled against it, but not marked lost | 3 of 14 |
-| Wrong | 2 of 14 |
+| Same as the court | 11 of 14 |
+| At risk where the court ruled against it, but not marked lost | 2 of 14 |
+| Wrong | 1 of 14 |
 
-The 2 wrong claims:
+A reasoning step counts as a route into a claim only when at least one input applies the law to this case: a fact, the text of a document, or a sub-claim. A rule or holding alone does not carry a claim. This rule took the match from 9 to 11 of 14.
 
-1. **"Hartford pays first"** stayed secure, but the court reversed it. The status rule keeps a claim secure while any one route into it survives, and here one weak route survived.
-2. **"Hartford owed a continuing defence, and breached it"** was marked lost, but the court held the duty to defend on appeal may have existed and left breach undecided. The map merged two legal questions into one claim.
+The one wrong claim: **"Hartford owed a continuing defence, and breached it"** is marked lost, but the court held the duty to defend on appeal may have existed and left breach undecided. The map puts the duty to defend and the indemnity question into one step with 10 inputs. `scripts/check_map.ts` flags that step and that claim; the fix is to convert the claim again.
+
+## Does the red team change what a reader concludes?
+
+A frontier model (Claude Opus 5.5) called each of the 14 claims: secure, exposed or lost. The three prompts have the same brief, claims and instructions. Only the added material changes.
+
+| The model reads | Same as the court | Called secure, court did not accept |
+| --- | --- | --- |
+| The brief alone | 2 of 14 | 6 |
+| The brief and the red team's 47 attacks | 9 of 14 | 1 |
+| The brief, the attacks and the AI judge's rulings | 12 of 14 | 1 |
+| *The map's own status, for comparison* | *11 of 14* | *0* |
+
+Asked about the case with no documents, the model did not recall it. Prompts and answers: [`results/cliff/`](../results/cliff/).
+
+## Can a model trace the map without the code?
+
+Yes, at this size. The code knocked out 1 to 6 premises in 12 scenarios, changing 0 to 10 claims. Given the map and the status rules in words, the same model traced every scenario exactly. The map's value is the structure it gives the attacks, not the code that computes status.
 
 ## Who does what
 

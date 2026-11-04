@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Matter Twin</title>
+<title>Killing Cases</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -117,6 +117,7 @@ dialog { width:min(820px, 94vw); max-height:86vh; border:1px solid var(--rule); 
 dialog::backdrop { background:rgb(10 15 20 / .45); }
 dialog header { position:sticky; top:0; display:flex; gap:8px; align-items:center; padding:10px 14px; }
 dialog pre { margin:0; padding:14px 18px 24px; white-space:pre-wrap; font:14px/1.6 var(--serif); }
+#run-live { border:1px solid var(--rule); background:var(--paper); color:var(--ink); border-radius:6px; padding:4px 10px; font-size:13px; text-decoration:none; font-weight:600; }
 mark { background:color-mix(in srgb, var(--warn) 30%, transparent); color:inherit; }
 @media (prefers-reduced-motion: reduce) { * { transition:none !important; animation:none !important; } }
 </style>
@@ -124,12 +125,13 @@ mark { background:color-mix(in srgb, var(--warn) 30%, transparent); color:inheri
 <body>
 <header>
 	<div class="bar">
-		<h1 id="title">Matter Twin</h1>
+		<h1 id="title"><a href="./" style="color:inherit;text-decoration:none">Killing Cases</a></h1>
 		<select id="matter" aria-label="Matter">
 			<option value="hartford-v-carson-madrona">Hartford v. Carson Madrona</option>
 			<option value="batten-v-kvat">Batten v. K-VA-T Food Stores</option>
 			<option value="tr-v-ross">Thomson Reuters v. Ross</option>
 		</select>
+		<a id="run-live" href="run.html">Watch the run</a>
 		<input type="search" id="q" placeholder="Find in the argument" aria-label="Find in the argument">
 		<div class="phases" role="radiogroup" aria-label="Phase">
 			<button role="radio" data-phase="0">As filed</button>
@@ -167,6 +169,10 @@ const CAPTION = [
 ];
 const TONE = { secure: "ok", supported: "ok", holds: "ok", closed: "ok", exposed: "warn", weak: "warn", unanchored: "warn", contested: "contest", lost: "bad", undercut: "bad", undermined: "bad", contradicted: "bad", open: "bad", sealed: "info", unchecked: "info" };
 const tone = (s) => TONE[s] ?? "info";
+// One plain word per state, the same words as the summary page and the run.
+const SAY = { secure: "holds", supported: "holds", holds: "holds", exposed: "at risk", weak: "at risk", unanchored: "at risk", contested: "disputed", lost: "falls", undercut: "falls", undermined: "falls", contradicted: "falls", sealed: "not checkable", unchecked: "not checkable", open: "still open", closed: "answered" };
+const say = (s) => SAY[s] ?? s ?? "";
+const LANE = { authority: "case-law", record: "record", structure: "structure" };
 const WORST = { open: 3, contested: 2, closed: 1 };
 
 let T = null, R = null, matter = "", phase = 0, sel = null, query = "";
@@ -185,12 +191,12 @@ const stem = (f) => String(f).replace(/^text\//, "").replace(/\.(txt|pdf)$/, "")
 /* ---------- loading ---------- */
 async function load(m) {
 	matter = m; sel = null;
-	const [t, r] = await Promise.all([fetch(`/twin/${m}`), fetch(`/replay/${m}`)]);
+	const [t, r] = await Promise.all([fetch(`data/${m}/twin.json`), fetch(`data/${m}/replay.json`)]);
 	R = r.ok ? await r.json() : null;
 	if (!t.ok) {
 		T = null;
 		document.querySelectorAll(".phases button").forEach((b) => (b.disabled = true));
-		$("#tab-map").innerHTML = `<p class="empty">No twin for this matter yet. Run <code>npx tsx src/run.ts ${esc(m)}</code> to build it.</p>`;
+		$("#tab-map").innerHTML = `<p class="empty">No recorded run for this matter yet.</p>`;
 		["#tab-attacks", "#tab-redline", "#tab-replay", "#inspector", "#strip", "#caption"].forEach((s) => ($(s).innerHTML = ""));
 		return;
 	}
@@ -223,9 +229,9 @@ function claimHTML(c) {
 }
 function renderMap() {
 	$("#tab-map").innerHTML = `<div class="legend">
-		<span data-tone="ok"><i></i>holds</span><span data-tone="warn"><i></i>weak or unproven</span><span data-tone="contest"><i></i>contested</span>
-		<span data-tone="bad"><i></i>lost or broken</span><span data-tone="info"><i></i>not checkable</span>
-		<span>Squares are premises; a hollow square is a premise the brief assumes but never states. A ring marks a live attack.</span></div>
+		<span data-tone="ok"><i></i>holds</span><span data-tone="warn"><i></i>at risk</span><span data-tone="contest"><i></i>disputed</span>
+		<span data-tone="bad"><i></i>falls</span><span data-tone="info"><i></i>not checkable</span>
+		<span>Squares are the points the brief relies on; a hollow square is one it never states. A ring marks a live attack.</span></div>
 		<div id="map">${T.claims.filter((c) => !c.parent).map(claimHTML).join("")}</div>`;
 }
 function paint() {
@@ -234,7 +240,7 @@ function paint() {
 		el.dataset.tone = tone(s);
 		const as = phase ? attacksOn(id) : [], w = as.length ? worst(as) : "";
 		if (el.classList.contains("pip")) { el.dataset.hit = w === "closed" ? "" : w; return; }
-		el.querySelector(".chip").textContent = s ?? "";
+		el.querySelector(".chip").textContent = say(s);
 		const n = el.querySelector(".notch");
 		n.hidden = !as.length; n.dataset.tone = tone(w);
 		const live = as.filter((a) => exposure(a.id) !== "closed").length;
@@ -242,7 +248,7 @@ function paint() {
 	});
 	const counts = {};
 	$("#strip").innerHTML = T.claims.map((c) => { const s = status("claims", c.id); counts[s] = (counts[s] ?? 0) + 1; return `<button data-tone="${tone(s)}" data-goto="${esc(c.id)}" title="${esc(s)}: ${esc(short(c.text, 80))}" aria-label="${esc(s)}: ${esc(short(c.text, 80))}"></button>`; }).join("")
-		+ `<span>${T.claims.length} claims: ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(", ")}</span>`;
+		+ `<span>${T.claims.length} claims: ${Object.entries(counts).map(([k, v]) => `${v} ${say(k)}`).join(", ")}</span>`;
 	applySearch();
 }
 function applySearch() {
@@ -266,13 +272,13 @@ const orderedAttacks = () => (T.attacks ?? []).filter((a) =>
 function renderAttacks() {
 	if (!T) return;
 	if (!T.attacks?.length) { $("#tab-attacks").innerHTML = `<p class="empty">No attacks yet. Run the red team for this matter.</p>`; return; }
-	const group = (key, vals) => `<b>${key === "exposure" ? "Ruling" : key[0].toUpperCase() + key.slice(1)}</b>` + vals.map((v) => `<button class="toggle" data-f="${key}" data-v="${v}" aria-pressed="${filt[key].has(v)}">${v}</button>`).join("");
+	const group = (key, vals) => `<b>${key === "exposure" ? "Ruling" : key[0].toUpperCase() + key.slice(1)}</b>` + vals.map((v) => `<button class="toggle" data-f="${key}" data-v="${v}" aria-pressed="${filt[key].has(v)}">${key === "lane" ? LANE[v] : key === "exposure" ? say(v) : v}</button>`).join("");
 	const list = orderedAttacks();
 	$("#tab-attacks").innerHTML = `<div class="filters">${group("lane", ["structure", "record", "authority"])}${group("severity", ["critical", "major", "minor"])}${T.exchanges ? group("exposure", ["open", "contested", "closed"]) : ""}</div>
 		<p class="meta">${list.length} of ${T.attacks.length} attacks, strongest first. Press j and k to walk through them.</p>
 		${list.map((a) => { const e = exposure(a.id); return `<button class="row" data-goto="${esc(a.id)}"><span class="rank">#${a.globalRank}</span>
-			<span><span class="what">${esc(short(a.text, 170))}</span><br><span class="meta">${esc(a.lane)}, ${esc(a.type)}, ${esc(a.severity)}${a.beyondBaseline ? ", not in the baseline" : ""}</span></span>
-			${e ? `<span class="pill" data-tone="${tone(e)}">${e}</span>` : `<span></span>`}</button>`; }).join("")}`;
+			<span><span class="what">${esc(short(a.text, 170))}</span><br><span class="meta">${LANE[a.lane]} attacker, ${esc(a.type)}, ${esc(a.severity)}</span></span>
+			${e ? `<span class="pill" data-tone="${tone(e)}">${say(e)}</span>` : `<span></span>`}</button>`; }).join("")}`;
 }
 
 /* ---------- redline tab ---------- */
@@ -280,29 +286,29 @@ function renderRedline() {
 	const r = T.redline ?? [];
 	if (!r.length) { $("#tab-redline").innerHTML = `<p class="empty">No redline yet. It appears once the defence's edits have been ruled on.</p>`; return; }
 	$("#tab-redline").innerHTML = `<p class="meta" style="margin-top:12px">${r.filter((e) => e.applied).length} of ${r.length} edits applied. An edit is kept only when the ruling closed or contested its attack.</p>`
-		+ r.map((e) => `<div style="border-bottom:1px solid var(--rule);padding:10px 0"><span class="pill" data-tone="${tone(e.exposure)}">${esc(e.exposure)}</span> <button class="link" data-goto="${esc(e.attack)}">answers attack #${A.get(e.attack)?.globalRank ?? esc(e.attack)}</button>${e.applied ? "" : ' <span class="meta">quote not found in the brief, not applied</span>'}
+		+ r.map((e) => `<div style="border-bottom:1px solid var(--rule);padding:10px 0"><span class="pill" data-tone="${tone(e.exposure)}">${esc(say(e.exposure))}</span> <button class="link" data-goto="${esc(e.attack)}">answers attack #${A.get(e.attack)?.globalRank ?? esc(e.attack)}</button>${e.applied ? "" : ' <span class="meta">quote not found in the brief, not applied</span>'}
 			<div class="edit"><span class="del">${esc(e.quote)}</span></div><div class="edit"><span class="ins">${esc(e.replacement)}</span></div></div>`).join("");
 }
 
 /* ---------- replay tab ---------- */
 function renderReplay() {
 	if (!R) { $("#tab-replay").innerHTML = `<p class="empty">No replay for this matter. Replay needs an answer key from the real outcome.</p>`; return; }
-	const rounds = [["opposition", "The other side's papers"], ["bench", "The bench"], ["ruling", "The ruling"], ...(R.round6 ? [["round6", "Hardened brief, replayed"]] : [])];
-	$("#tab-replay").innerHTML = `<p class="meta" style="margin-top:12px">The twin is frozen at the filing date. Reveal what happened next, one round at a time.</p>
-		<div class="filters">${rounds.map(([k, l], i) => `<button class="toggle" data-round="${k}" aria-pressed="false">Round ${i + 3}: ${l}</button>`).join("")}</div><div id="reveal"></div>`;
+	const rounds = [["opposition", "The other side's papers"], ["bench", "The bench"], ["ruling", "The ruling"], ...(R.round6 ? [["round6", "Edited brief, replayed"]] : [])];
+	$("#tab-replay").innerHTML = `<p class="meta" style="margin-top:12px">The map is frozen at the filing date. Reveal what happened next, one round at a time.</p>
+		<div class="filters">${rounds.map(([k, l], i) => `<button class="toggle" data-round="${k}" aria-pressed="false">${l}</button>`).join("")}</div><div id="reveal"></div>`;
 }
 function showRound(k) {
 	document.querySelectorAll("[data-round]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.round === k)));
 	if (k === "round6") {
-		$("#reveal").innerHTML = `<p class="meta"><b>Counterfactual.</b> A separate judge agent plays the court's actual decisive reasons against the hardened brief and the same record. Nobody can know how the court would have ruled on the hardened brief.</p>`
-			+ R.round6.rulings.map((x) => `<div class="row" style="grid-template-columns:auto 1fr"><span class="pill" data-tone="${tone(x.exposure)}">${esc(x.exposure)}</span><span class="what">${esc(x.reason)}</span></div>`).join("")
+		$("#reveal").innerHTML = `<p class="meta"><b>Counterfactual.</b> A separate AI judge replays the court's deciding reasons against the edited brief and the same record. Nobody can know how the court would have ruled on the edited brief.</p>`
+			+ R.round6.rulings.map((x) => `<div class="row" style="grid-template-columns:auto 1fr"><span class="pill" data-tone="${tone(x.exposure)}">${esc(say(x.exposure))}</span><span class="what">${esc(x.reason)}</span></div>`).join("")
 			+ (R.round6.bottomLine ? `<p class="prose">${esc(R.round6.bottomLine)}</p>` : "");
 		return;
 	}
-	$("#reveal").innerHTML = R[k].map((m) => `<div class="row" style="grid-template-columns:auto 1fr">
-		<span class="pill" data-tone="${m.twin ? "ok" : "bad"}">${m.twin ? "flagged" : "missed"}</span>
-		<span><span class="what">${esc(m.item.text)}</span><br><span class="meta">${m.item.decisive ? "Decisive. " : ""}${m.twin ? `Twin: <button class="link" data-goto="${esc(m.twin.attack)}">attack #${m.twin.rank}</button> (${esc(m.twin.lane)}).` : "Twin: not flagged."} Baseline: ${m.baseline ? "flagged" : "not flagged"}.</span></span></div>`).join("")
-		+ (k === "ruling" ? `<p class="prose">${esc(R.outcome)}</p><table class="meta">${Object.entries(R.summary).map(([a, v]) => `<tr><td>${esc(a)}</td><td><b>${esc(v)}</b></td></tr>`).join("")}</table><p class="meta">Matching is by the Jev decision model and undercounts some matches; read the rows, not only the totals.</p>` : "");
+	$("#reveal").innerHTML = R[k].filter((m) => k !== "ruling" || m.item.decisive).map((m) => `<div class="row" style="grid-template-columns:auto 1fr">
+		<span class="pill" data-tone="${m.twin ? "ok" : "bad"}">${m.twin ? "found" : "missed"}</span>
+		<span><span class="what">${esc(m.item.text)}</span><br><span class="meta">${m.item.decisive ? "Deciding reason. " : ""}${m.twin ? `Found by <button class="link" data-goto="${esc(m.twin.attack)}">attack #${m.twin.rank}</button> (${LANE[m.twin.lane] ?? esc(m.twin.lane)} attacker).` : "Not found from the filing-day papers."}</span></span></div>`).join("")
+		+ (k === "ruling" ? `<p class="prose">${esc(R.outcome)}</p><p class="meta">These are the order\u2019s deciding reasons, matched to attacks by hand. Its other points are not counted.</p>` : "");
 }
 
 /* ---------- inspector ---------- */
@@ -320,9 +326,9 @@ function select(id, push = true) {
 	}
 	renderInspector();
 }
-const track = (kind, id) => `<div class="track">${[0, 1, 2].filter((p) => T[PHASE_KEY[p]]).map((p) => { const s = status(kind, id, p); return `<span class="stop${p === phase ? " now" : ""}">${["As filed", "Under attack", "After"][p]}<span class="chip" data-tone="${tone(s)}">${esc(s)}</span></span>`; }).join("")}</div>`;
+const track = (kind, id) => `<div class="track">${[0, 1, 2].filter((p) => T[PHASE_KEY[p]]).map((p) => { const s = status(kind, id, p); return `<span class="stop${p === phase ? " now" : ""}">${["As filed", "Under attack", "After"][p]}<span class="chip" data-tone="${tone(s)}">${esc(say(s))}</span></span>`; }).join("")}</div>`;
 const cite = (a) => a.sealed ? `<p class="meta">Sealed or not public.</p>` : `<button class="cite" data-file="${esc(stem(a.file))}" data-page="${a.page}" data-quote="${esc(a.quote)}">“${esc(short(a.quote, 220))}”<small>${esc(stem(a.file))}, page ${a.page}${a.support ? `, ${esc(words(a.support))}` : ""}</small></button>`;
-const attackList = (id) => { const as = attacksOn(id); return as.length ? `<h3>Attacks on this (${as.length})</h3>` + as.sort((x, y) => x.globalRank - y.globalRank).map((a) => { const e = exposure(a.id); return `<button class="row" data-goto="${esc(a.id)}" style="grid-template-columns:36px 1fr auto"><span class="rank">#${a.globalRank}</span><span class="what">${esc(short(a.text, 130))}</span>${e ? `<span class="pill" data-tone="${tone(e)}">${e}</span>` : "<span></span>"}</button>`; }).join("") : ""; };
+const attackList = (id) => { const as = attacksOn(id); return as.length ? `<h3>Attacks on this (${as.length})</h3>` + as.sort((x, y) => x.globalRank - y.globalRank).map((a) => { const e = exposure(a.id); return `<button class="row" data-goto="${esc(a.id)}" style="grid-template-columns:36px 1fr auto"><span class="rank">#${a.globalRank}</span><span class="what">${esc(short(a.text, 130))}</span>${e ? `<span class="pill" data-tone="${tone(e)}">${say(e)}</span>` : "<span></span>"}</button>`; }).join("") : ""; };
 const goto = (id) => `<button class="link" data-goto="${esc(id)}">${esc(short(nodeText(kindOf(id), id), 110))}</button>`;
 
 function renderInspector() {
@@ -351,7 +357,7 @@ function renderInspector() {
 		const a = A.get(sel), r = T.responses?.find((x) => x.answers === a.id), e = T.exchanges?.find((x) => x.attack === a.id);
 		const list = orderedAttacks(), at = list.findIndex((x) => x.id === a.id);
 		box.innerHTML = `<div class="walk"><button data-walk="-1" ${at <= 0 ? "disabled" : ""}>Previous attack</button><button data-walk="1" ${at < 0 || at >= list.length - 1 ? "disabled" : ""}>Next attack</button></div>
-			<p class="meta">Attack #${a.globalRank}: ${esc(a.lane)}, ${esc(a.type)}, ${esc(a.severity)}${a.beyondBaseline ? ", not in the baseline" : ""}</p>
+			<p class="meta">Attack #${a.globalRank}: ${LANE[a.lane]} attacker, ${esc(a.type)}, ${esc(a.severity)}</p>
 			<p class="meta">Targets ${goto(a.target)}</p>
 			<ol class="thread">
 				<li data-tone="bad"><h4>Attack</h4><div class="prose">${esc(a.text)}</div>${a.question ? `<p class="meta">Raises the critical question: ${esc(a.question)}</p>` : ""}
@@ -371,7 +377,7 @@ const rec = { doc: null, page: 1, quote: "" };
 const cache = {};
 async function openRecord(file, page, quote) {
 	const key = `${matter}/${file}`;
-	if (!cache[key]) { const r = await fetch(`/record/${matter}/${encodeURIComponent(file)}`); cache[key] = r.ok ? await r.json() : null; }
+	if (!cache[key]) { const r = await fetch(`data/${matter}/record/${encodeURIComponent(file)}.json`); cache[key] = r.ok ? await r.json() : null; }
 	if (!cache[key]) { alertText(`This document is not in the record as known at filing: ${file}`); return; }
 	Object.assign(rec, { doc: cache[key], page: +page || 1, quote });
 	drawRecord(); $("#record").showModal();

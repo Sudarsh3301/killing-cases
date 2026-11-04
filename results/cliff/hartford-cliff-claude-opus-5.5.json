@@ -1,0 +1,576 @@
+{
+ "model": "claude-opus-5.5",
+ "offline": true,
+ "note": "Answer key is the engine; this measures dependency tracking, not legal truth. Offline: answers written by Claude agent sessions told to answer from the prompt alone; that they used no tools is instructed, not enforced.",
+ "byChanged": {
+  "0": {
+   "scenarios": 1,
+   "allRight": 1
+  },
+  "1": {
+   "scenarios": 1,
+   "allRight": 1
+  },
+  "3": {
+   "scenarios": 2,
+   "allRight": 2
+  },
+  "4": {
+   "scenarios": 1,
+   "allRight": 1
+  },
+  "6": {
+   "scenarios": 2,
+   "allRight": 2
+  },
+  "7": {
+   "scenarios": 1,
+   "allRight": 1
+  },
+  "8": {
+   "scenarios": 1,
+   "allRight": 1
+  },
+  "9": {
+   "scenarios": 2,
+   "allRight": 2
+  },
+  "10": {
+   "scenarios": 1,
+   "allRight": 1
+  }
+ },
+ "scenarios": [
+  {
+   "id": "hartford-cliff-01",
+   "knocked": [
+    "el-priority-of-coverage/p-text-ace-schedule"
+   ],
+   "changed": 0,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "exposed",
+    "el-hartford-duty-to-defend": "exposed",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "exposed",
+    "sub-defense-fees": "exposed",
+    "sub-costs": "exposed",
+    "sub-post-judgment-interest": "exposed",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "exposed",
+    "el-hartford-duty-to-defend": "exposed",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "exposed",
+    "sub-defense-fees": "exposed",
+    "sub-costs": "exposed",
+    "sub-post-judgment-interest": "exposed",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-37",
+   "knocked": [
+    "el-hartford-duty-to-defend/p-text-lease-indemnity"
+   ],
+   "changed": 1,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "exposed",
+    "el-hartford-duty-to-defend": "exposed",
+    "sub-ai-status-hartford": "exposed",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "exposed",
+    "sub-defense-fees": "exposed",
+    "sub-costs": "exposed",
+    "sub-post-judgment-interest": "exposed",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "exposed",
+    "el-hartford-duty-to-defend": "exposed",
+    "sub-ai-status-hartford": "exposed",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "exposed",
+    "sub-defense-fees": "exposed",
+    "sub-costs": "exposed",
+    "sub-post-judgment-interest": "exposed",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-07",
+   "knocked": [
+    "el-priority-of-coverage/p-fact-os-limits"
+   ],
+   "changed": 3,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "exposed",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "exposed",
+    "sub-defense-fees": "exposed",
+    "sub-costs": "exposed",
+    "sub-post-judgment-interest": "exposed",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "lost",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "lost",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "exposed",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "exposed",
+    "sub-defense-fees": "exposed",
+    "sub-costs": "exposed",
+    "sub-post-judgment-interest": "exposed",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "lost",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "lost",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-14",
+   "knocked": [
+    "el-recovery-defense-amounts/p-fact-os-paid-costs",
+    "el-hartford-duty-to-defend/p-text-ai-written-contract"
+   ],
+   "changed": 3,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "exposed",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "exposed",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "exposed",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "exposed",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "exposed",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "exposed",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-09",
+   "knocked": [
+    "el-recovery-defense-amounts/p-fact-os-defended",
+    "el-recovery-defense-amounts/p-fact-os-paid-costs",
+    "el-hartford-duty-to-defend/p-fact-hartford-policy"
+   ],
+   "changed": 4,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "exposed",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "exposed",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "exposed",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "exposed",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-15",
+   "knocked": [
+    "el-hartford-duty-to-defend/p-rule-insured-burden",
+    "el-hartford-duty-to-defend/p-fact-arc-flash",
+    "el-hartford-duty-to-defend/p-fact-hartford-policy"
+   ],
+   "changed": 6,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-29",
+   "knocked": [
+    "el-hartford-duty-to-defend/p-rule-broad-duty",
+    "el-priority-of-coverage/p-text-ace-schedule",
+    "el-recovery-defense-amounts/p-fact-pji-paid",
+    "el-recovery-defense-amounts/p-fact-os-paid-costs",
+    "el-priority-of-coverage/p-text-lease-primary"
+   ],
+   "changed": 6,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-32",
+   "knocked": [
+    "el-hartford-duty-to-defend/p-fact-settlement",
+    "el-hartford-duty-to-defend/p-fact-ror-2022"
+   ],
+   "changed": 7,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "lost",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "lost",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-18",
+   "knocked": [
+    "el-hartford-duty-to-defend/p-rule-defend-all",
+    "el-hartford-duty-to-defend/p-holding-hartford-casualty",
+    "el-hartford-duty-to-defend/p-rule-duration",
+    "el-hartford-duty-to-defend/p-fact-verdict-carson",
+    "el-hartford-duty-to-defend/p-rule-insured-burden",
+    "el-recovery-defense-amounts/p-text-supp-costs"
+   ],
+   "changed": 8,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "lost",
+    "sub-breach-withdrawal": "lost",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "lost",
+    "sub-breach-withdrawal": "lost",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "exposed",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "exposed",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-06",
+   "knocked": [
+    "el-hartford-duty-to-defend/p-fact-settlement",
+    "el-priority-of-coverage/p-holding-rossmoor",
+    "el-priority-of-coverage/p-text-lease-indemnity",
+    "el-priority-of-coverage/p-rule-horizontal-community",
+    "el-priority-of-coverage/p-holding-jpi-inequitable",
+    "el-priority-of-coverage/p-text-os-excess"
+   ],
+   "changed": 9,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "lost",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "lost",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "lost",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "lost",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "lost",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "lost",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-17",
+   "knocked": [
+    "el-priority-of-coverage/p-text-af-coverage",
+    "el-priority-of-coverage/p-fact-hartford-limits",
+    "el-recovery-defense-amounts/p-fact-withdrawal",
+    "el-hartford-duty-to-defend/p-fact-verdict-carson",
+    "el-hartford-duty-to-defend/p-holding-vitton"
+   ],
+   "changed": 9,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "lost",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "lost",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "lost",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "lost",
+    "sub-breach-withdrawal": "exposed",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "secure",
+    "el-priority-of-coverage": "lost",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "lost",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  },
+  {
+   "id": "hartford-cliff-34",
+   "knocked": [
+    "el-hartford-duty-to-defend/p-fact-settlement",
+    "el-recovery-defense-amounts/p-fact-pji-paid",
+    "el-ace-additional-insured/p-text-ace-who-insured",
+    "el-priority-of-coverage/p-text-ace-defense"
+   ],
+   "changed": 10,
+   "right": 14,
+   "of": 14,
+   "allRight": true,
+   "model": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "lost",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "exposed",
+    "el-priority-of-coverage": "lost",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "lost",
+    "sub-ace-before-american-fire": "exposed"
+   },
+   "engine": {
+    "relief-psj": "lost",
+    "el-hartford-duty-to-defend": "lost",
+    "sub-ai-status-hartford": "secure",
+    "sub-no-fault-requirement": "exposed",
+    "sub-breach-withdrawal": "lost",
+    "el-recovery-defense-amounts": "lost",
+    "sub-defense-fees": "lost",
+    "sub-costs": "lost",
+    "sub-post-judgment-interest": "lost",
+    "el-ace-additional-insured": "exposed",
+    "el-priority-of-coverage": "lost",
+    "sub-hartford-primary": "exposed",
+    "sub-ohio-second": "lost",
+    "sub-ace-before-american-fire": "exposed"
+   }
+  }
+ ]
+}

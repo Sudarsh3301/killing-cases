@@ -15,6 +15,9 @@ twin = json.loads((out / "brief" / "twin.json").read_text(encoding="utf8"))
 round6 = json.loads((out / "replay" / "round6.json").read_text(encoding="utf8"))
 reasons = json.loads((ROOT / "results" / f"{short}-court-reasons.json").read_text(encoding="utf8"))["reasons"]
 profile = json.loads((ROOT / "matters" / matter / "profile.json").read_text(encoding="utf8"))
+court_claims = json.loads((ROOT / "results" / f"{short}-court-claims.json").read_text(encoding="utf8"))["claims"]
+# A frontier model calls each claim from the brief alone, then with the red team's attacks, then with the AI judge's rulings too.
+readers = json.loads((ROOT / "results" / "cliff" / f"{short}-court-ablation.json").read_text(encoding="utf8"))["runs"]
 
 premises = twin["premises"]
 implicit = {p["id"] for p in premises if p["implicit"]}
@@ -46,10 +49,20 @@ result = {
     "courtReasons": len(reasons),
     "courtReasonsFlaggedByTwin": sum(r["twinRank"] is not None for r in reasons),
     "courtReasonsFoundByBaseline": sum(r["baseline"] for r in reasons),
+    # Of the reasons the red team found, how many it found by attacking a premise the brief never states.
+    "courtReasonsOnUnstated": sum(next(a["target"] in implicit for a in twin["attacks"] if a["globalRank"] == r["twinRank"]) for r in reasons if r["twinRank"]),
     "courtFirstTwoRanks": [r["twinRank"] for r in reasons[:2]],
     "redlineEditsApplied": sum(e["applied"] for e in twin.get("redline", [])),
     "hardenedReplayStillOpen": sum(r["exposure"] == "open" for r in round6["rulings"]),
     "hardenedReplayReasons": len(round6["rulings"]),
+    # Each claim's status after the exchange against the court's order. "Direction": the map has it at risk, the court ruled against it.
+    "claimAgreement": {"exact": sum(status("statusAfter")[c] == v["court"] for c, v in court_claims.items()),
+                       "direction": sum(status("statusAfter")[c] == "exposed" and v["court"] == "lost" for c, v in court_claims.items()),
+                       "of": len(court_claims)},
+    "readers": {"briefOnly": readers["Opus, brief only"]["exact"],
+                "withAttacks": readers["Opus, brief + attacks"]["exact"],
+                "withRulings": readers["Opus, brief + attacks + AI judge rulings"]["exact"],
+                "briefOnlyFalseSecure": readers["Opus, brief only"]["calledSecureCourtDidNot"]},
 }
 (ROOT / "results" / f"{short}.json").write_text(json.dumps(result, indent=2) + "\n", encoding="utf8")
 print(json.dumps(result, indent=2))

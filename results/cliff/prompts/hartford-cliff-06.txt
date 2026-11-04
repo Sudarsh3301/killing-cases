@@ -1,0 +1,170 @@
+SYSTEM:
+You trace an argument map exactly by its rules. Reply as JSON: {"claims": {"<claim id>": "secure" | "exposed" | "lost", ...}} with every claim id.
+
+USER:
+How status is computed:
+- A premise is "fallen" if knocked out, or already "undermined"/"contradicted". It is "ok" if "supported" or "unchecked". It is "soft" if "contested". Anything else (unanchored, sealed) is neither ok nor fallen.
+- A sub-claim used as an input is ok if "secure", soft if "exposed", fallen if "lost".
+- A step is "undercut" if listed as undercut. Otherwise it "holds" if every input is ok (it is "contested" instead if listed as contested), it is "contested" if every input is ok or soft, and it is "weak" otherwise.
+- A route is a step with at least one input that is a fact premise, a text premise or a claim. Steps whose inputs are only rules or holdings are not routes.
+- A claim is "lost" if listed as rebutted. Else, if it has steps but no routes: "exposed". Else, if it has no routes and has sub-claims: "secure" if all sub-claims are secure, "lost" if any is lost, else "exposed". Else, if any route holds: "secure" ("exposed" if the claim is listed as contested). Else, if every route is undercut or has a fallen input: "lost". Else "exposed".
+- Sub-claims feed their parents, so resolve from the bottom up.
+
+CLAIMS:
+- relief-psj
+- el-hartford-duty-to-defend (under relief-psj)
+- sub-ai-status-hartford (under el-hartford-duty-to-defend)
+- sub-no-fault-requirement (under el-hartford-duty-to-defend)
+- sub-breach-withdrawal (under el-hartford-duty-to-defend)
+- el-recovery-defense-amounts (under relief-psj)
+- sub-defense-fees (under el-recovery-defense-amounts)
+- sub-costs (under el-recovery-defense-amounts)
+- sub-post-judgment-interest (under el-recovery-defense-amounts)
+- el-ace-additional-insured (under relief-psj)
+- el-priority-of-coverage (under relief-psj)
+- sub-hartford-primary (under el-priority-of-coverage)
+- sub-ohio-second (under el-priority-of-coverage)
+- sub-ace-before-american-fire (under el-priority-of-coverage)
+
+STEPS (inputs -> claim):
+- el-hartford-duty-to-defend/i1-ai-written-contract: el-hartford-duty-to-defend/p-text-ai-written-contract, el-hartford-duty-to-defend/p-text-lessors-of-land, el-hartford-duty-to-defend/p-fact-lease, el-hartford-duty-to-defend/p-fact-assignment, el-hartford-duty-to-defend/imp-lessee-is-named-insured, el-hartford-duty-to-defend/imp-lease-written-contract, el-hartford-duty-to-defend/p-text-lease-insurance, el-hartford-duty-to-defend/imp-occurrence-in-period, el-hartford-duty-to-defend/p-fact-hartford-policy -> sub-ai-status-hartford
+- el-hartford-duty-to-defend/i1-ai-arising-out-of: el-hartford-duty-to-defend/p-rule-arising-out-of, el-hartford-duty-to-defend/p-holding-truck-use, el-hartford-duty-to-defend/p-holding-hartford-casualty, el-hartford-duty-to-defend/p-holding-syufy, el-hartford-duty-to-defend/p-fact-ashley-employee-called, el-hartford-duty-to-defend/p-fact-use-reason-present, el-hartford-duty-to-defend/p-fact-mdp-supplied-ashley, el-hartford-duty-to-defend/p-fact-mdp-central, el-hartford-duty-to-defend/p-fact-incident, el-hartford-duty-to-defend/p-fact-arc-flash, el-hartford-duty-to-defend/imp-mdp-within-use -> sub-ai-status-hartford
+- el-hartford-duty-to-defend/i1-ai-lease-consistent: el-hartford-duty-to-defend/p-text-lease-indemnity, el-hartford-duty-to-defend/p-text-lease-electrical, el-hartford-duty-to-defend/p-text-lessors-of-land -> sub-ai-status-hartford
+- el-hartford-duty-to-defend/i1-ai-hartford-admission: el-hartford-duty-to-defend/p-fact-tender, el-hartford-duty-to-defend/p-fact-ror-2020, el-hartford-duty-to-defend/p-fact-ror-2022, el-hartford-duty-to-defend/p-fact-hartford-defended -> sub-ai-status-hartford
+- el-hartford-duty-to-defend/i1-nofault-rule: el-hartford-duty-to-defend/p-holding-vitton, el-hartford-duty-to-defend/p-holding-truck-fault, el-hartford-duty-to-defend/p-holding-american-casualty, el-hartford-duty-to-defend/p-holding-syufy -> sub-no-fault-requirement
+- el-hartford-duty-to-defend/i1-nofault-analogy: el-hartford-duty-to-defend/p-holding-truck-use, el-hartford-duty-to-defend/p-fact-verdict-ashley, el-hartford-duty-to-defend/p-fact-verdict-carson, el-hartford-duty-to-defend/p-text-lessors-of-land, el-hartford-duty-to-defend/imp-not-fault-based-endorsement -> sub-no-fault-requirement
+- el-hartford-duty-to-defend/i1-breach: el-hartford-duty-to-defend/p-rule-duration, el-hartford-duty-to-defend/p-rule-defend-all, el-hartford-duty-to-defend/p-fact-judgment, el-hartford-duty-to-defend/p-fact-withdrawal, el-hartford-duty-to-defend/p-fact-withdrawal-reason, el-hartford-duty-to-defend/p-fact-appeal, el-hartford-duty-to-defend/p-fact-settlement, el-hartford-duty-to-defend/imp-not-exhausted, el-hartford-duty-to-defend/imp-appeal-is-defense, el-hartford-duty-to-defend/imp-potential-persisted -> sub-breach-withdrawal
+- el-hartford-duty-to-defend/i1-element: sub-ai-status-hartford, sub-no-fault-requirement, sub-breach-withdrawal, el-hartford-duty-to-defend/p-rule-broad-duty, el-hartford-duty-to-defend/p-rule-potential-test, el-hartford-duty-to-defend/p-rule-insured-burden, el-hartford-duty-to-defend/p-text-insuring-agreement, el-hartford-duty-to-defend/p-fact-allegations, el-hartford-duty-to-defend/p-fact-shared-control, el-hartford-duty-to-defend/imp-lease-in-force -> el-hartford-duty-to-defend
+- el-recovery-defense-amounts/i2-fees: el-hartford-duty-to-defend, el-recovery-defense-amounts/p-fact-withdrawal, el-recovery-defense-amounts/p-fact-os-funded-appeal, el-recovery-defense-amounts/p-fact-os-defended, el-recovery-defense-amounts/imp-fees-reasonable, el-recovery-defense-amounts/imp-reimbursement-right -> sub-defense-fees
+- el-recovery-defense-amounts/i2-costs-law: el-recovery-defense-amounts/p-holding-prichard, el-recovery-defense-amounts/p-holding-mintarsih, el-recovery-defense-amounts/p-rule-supp-defense -> sub-costs
+- el-recovery-defense-amounts/i2-costs-apply: el-recovery-defense-amounts/p-text-supp-intro, el-recovery-defense-amounts/p-text-supp-costs, el-hartford-duty-to-defend, el-recovery-defense-amounts/p-fact-costs-memo, el-recovery-defense-amounts/p-fact-costs-order, el-recovery-defense-amounts/p-fact-os-paid-costs, el-recovery-defense-amounts/imp-supp-despite-withdrawal, el-recovery-defense-amounts/imp-reimbursement-right -> sub-costs
+- el-recovery-defense-amounts/i2-pji: el-recovery-defense-amounts/p-text-supp-pji, el-recovery-defense-amounts/p-rule-pji-rate, el-recovery-defense-amounts/p-fact-judgment-date, el-recovery-defense-amounts/p-fact-offer-limits, el-recovery-defense-amounts/p-fact-pji-paid, el-recovery-defense-amounts/imp-hartford-no-offer, el-recovery-defense-amounts/imp-supp-despite-withdrawal, el-recovery-defense-amounts/imp-pji-amount-matches, el-hartford-duty-to-defend -> sub-post-judgment-interest
+- el-recovery-defense-amounts/i2-element: sub-defense-fees, sub-costs, sub-post-judgment-interest, el-recovery-defense-amounts/imp-reimbursement-right -> el-recovery-defense-amounts
+- el-ace-additional-insured/i3-read-clause: el-ace-additional-insured/p-text-ace-who-insured, el-ace-additional-insured/p-text-ace-schedule, el-ace-additional-insured/p-fact-ace-policy -> el-ace-additional-insured
+- el-ace-additional-insured/i3-reliance: el-ace-additional-insured/p-holding-reliance, el-ace-additional-insured/imp-ace-follow-form, el-ace-additional-insured/imp-ace-no-contrary -> el-ace-additional-insured
+- el-ace-additional-insured/i3-apply: sub-ai-status-hartford, el-ace-additional-insured/p-fact-certificate, el-ace-additional-insured/p-text-ace-who-insured, el-ace-additional-insured/imp-no-broader, el-ace-additional-insured/imp-ace-occurrence-in-period -> el-ace-additional-insured
+- el-priority-of-coverage/i4-h-rossmoor: el-priority-of-coverage/p-holding-rossmoor -> sub-hartford-primary
+- el-priority-of-coverage/i4-h-analogy: el-priority-of-coverage/p-holding-rossmoor, el-priority-of-coverage/p-text-lease-indemnity, el-priority-of-coverage/p-text-lease-insurance, sub-ai-status-hartford, el-priority-of-coverage/imp-indemnity-covers-claim, el-priority-of-coverage/imp-lease-in-force -> sub-hartford-primary
+- el-priority-of-coverage/i4-h-lease-primary: el-priority-of-coverage/p-text-lease-primary, el-priority-of-coverage/imp-hartford-own-other-insurance -> sub-hartford-primary
+- el-priority-of-coverage/i4-h-consistent: el-priority-of-coverage/p-fact-certificate, el-priority-of-coverage/p-text-os-excess, el-priority-of-coverage/p-fact-hartford-limits -> sub-hartford-primary
+- el-priority-of-coverage/i4-o-horizontal: el-priority-of-coverage/p-rule-horizontal-padilla, el-priority-of-coverage/p-rule-horizontal-community, el-priority-of-coverage/p-holding-reliance-exhaustion, el-priority-of-coverage/p-holding-jpi-inequitable, el-priority-of-coverage/p-fact-os-concedes, el-priority-of-coverage/p-fact-os-policy, el-priority-of-coverage/p-fact-os-limits, el-priority-of-coverage/p-text-os-insuring, el-priority-of-coverage/p-text-ace-insuring, el-priority-of-coverage/p-text-ace-defense, el-priority-of-coverage/p-text-af-coverage, el-priority-of-coverage/imp-ace-excess-over-os -> sub-ohio-second
+- el-priority-of-coverage/i4-a-same-level: el-priority-of-coverage/p-holding-rossmoor-same-level, el-priority-of-coverage/p-holding-rossmoor -> sub-ace-before-american-fire
+- el-priority-of-coverage/i4-a-rossmoor-analogy: el-priority-of-coverage/p-holding-rossmoor, el-priority-of-coverage/p-fact-ace-policy, el-priority-of-coverage/p-text-ace-schedule, el-priority-of-coverage/p-fact-af-policy, el-priority-of-coverage/p-text-lease-indemnity, el-priority-of-coverage/p-text-ace-other-insurance, el-priority-of-coverage/p-text-af-other-insurance, el-priority-of-coverage/imp-competing-excess-clauses -> sub-ace-before-american-fire
+- el-priority-of-coverage/i4-a-jpi: el-priority-of-coverage/p-holding-jpi, el-priority-of-coverage/p-text-lease-insurance, el-ace-additional-insured, el-priority-of-coverage/imp-competing-excess-clauses -> sub-ace-before-american-fire
+- el-priority-of-coverage/i4-element: sub-hartford-primary, sub-ohio-second, sub-ace-before-american-fire, el-priority-of-coverage/imp-carson-covered-each -> el-priority-of-coverage
+
+PREMISES (id, kind, status):
+- el-hartford-duty-to-defend/p-rule-broad-duty: rule, supported
+- el-hartford-duty-to-defend/p-rule-potential-test: rule, supported
+- el-hartford-duty-to-defend/p-rule-insured-burden: rule, supported
+- el-hartford-duty-to-defend/p-rule-duration: rule, supported
+- el-hartford-duty-to-defend/p-rule-defend-all: rule, supported
+- el-hartford-duty-to-defend/p-text-insuring-agreement: text, supported
+- el-hartford-duty-to-defend/p-fact-hartford-policy: fact, supported
+- el-hartford-duty-to-defend/p-text-ai-written-contract: text, supported
+- el-hartford-duty-to-defend/p-text-lessors-of-land: text, supported
+- el-hartford-duty-to-defend/p-fact-lease: fact, unanchored
+- el-hartford-duty-to-defend/p-fact-assignment: fact, supported
+- el-hartford-duty-to-defend/p-text-lease-electrical: text, supported
+- el-hartford-duty-to-defend/p-text-lease-indemnity: text, supported
+- el-hartford-duty-to-defend/p-text-lease-insurance: text, supported
+- el-hartford-duty-to-defend/p-fact-incident: fact, supported
+- el-hartford-duty-to-defend/p-fact-arc-flash: fact, supported
+- el-hartford-duty-to-defend/p-fact-allegations: fact, unanchored
+- el-hartford-duty-to-defend/p-fact-ashley-employee-called: fact, unanchored
+- el-hartford-duty-to-defend/p-fact-use-reason-present: fact, unanchored
+- el-hartford-duty-to-defend/p-fact-mdp-supplied-ashley: fact, sealed
+- el-hartford-duty-to-defend/p-fact-mdp-central: fact, sealed
+- el-hartford-duty-to-defend/p-fact-shared-control: fact, sealed
+- el-hartford-duty-to-defend/p-fact-tender: fact, unanchored
+- el-hartford-duty-to-defend/p-fact-ror-2020: fact, supported
+- el-hartford-duty-to-defend/p-fact-ror-2022: fact, supported
+- el-hartford-duty-to-defend/p-fact-hartford-defended: fact, unanchored
+- el-hartford-duty-to-defend/p-fact-verdict-carson: fact, supported
+- el-hartford-duty-to-defend/p-fact-verdict-ashley: fact, supported
+- el-hartford-duty-to-defend/p-fact-judgment: fact, unanchored
+- el-hartford-duty-to-defend/p-fact-withdrawal: fact, supported
+- el-hartford-duty-to-defend/p-fact-withdrawal-reason: fact, unanchored
+- el-hartford-duty-to-defend/p-fact-appeal: fact, unanchored
+- el-hartford-duty-to-defend/p-fact-settlement: fact, supported
+- el-hartford-duty-to-defend/p-rule-arising-out-of: rule, unchecked
+- el-hartford-duty-to-defend/p-holding-vitton: holding, supported
+- el-hartford-duty-to-defend/p-holding-truck-fault: holding, unchecked
+- el-hartford-duty-to-defend/p-holding-american-casualty: holding, supported
+- el-hartford-duty-to-defend/p-holding-truck-use: holding, unchecked
+- el-hartford-duty-to-defend/p-holding-hartford-casualty: holding, supported
+- el-hartford-duty-to-defend/p-holding-syufy: holding, supported
+- el-hartford-duty-to-defend/imp-lessee-is-named-insured: text, unanchored
+- el-hartford-duty-to-defend/imp-lease-written-contract: text, supported
+- el-hartford-duty-to-defend/imp-occurrence-in-period: fact, supported
+- el-hartford-duty-to-defend/imp-mdp-within-use: fact, unanchored
+- el-hartford-duty-to-defend/imp-not-fault-based-endorsement: text, unanchored
+- el-hartford-duty-to-defend/imp-lease-in-force: fact, unanchored
+- el-hartford-duty-to-defend/imp-not-exhausted: fact, supported
+- el-hartford-duty-to-defend/imp-appeal-is-defense: rule, unanchored
+- el-hartford-duty-to-defend/imp-potential-persisted: rule, unanchored
+- el-recovery-defense-amounts/p-fact-withdrawal: fact, supported
+- el-recovery-defense-amounts/p-fact-os-funded-appeal: fact, unanchored
+- el-recovery-defense-amounts/p-fact-os-defended: fact, supported
+- el-recovery-defense-amounts/p-text-supp-intro: text, supported
+- el-recovery-defense-amounts/p-text-supp-costs: text, supported
+- el-recovery-defense-amounts/p-rule-supp-defense: rule, unanchored
+- el-recovery-defense-amounts/p-holding-prichard: holding, supported
+- el-recovery-defense-amounts/p-holding-mintarsih: holding, supported
+- el-recovery-defense-amounts/p-fact-costs-memo: fact, unanchored
+- el-recovery-defense-amounts/p-fact-costs-order: fact, unanchored
+- el-recovery-defense-amounts/p-fact-os-paid-costs: fact, supported
+- el-recovery-defense-amounts/p-text-supp-pji: text, supported
+- el-recovery-defense-amounts/p-rule-pji-rate: rule, unchecked
+- el-recovery-defense-amounts/p-fact-judgment-date: fact, supported
+- el-recovery-defense-amounts/p-fact-offer-limits: fact, supported
+- el-recovery-defense-amounts/p-fact-pji-paid: fact, supported
+- el-recovery-defense-amounts/imp-reimbursement-right: rule, unanchored
+- el-recovery-defense-amounts/imp-fees-reasonable: fact, unanchored
+- el-recovery-defense-amounts/imp-supp-despite-withdrawal: rule, unanchored
+- el-recovery-defense-amounts/imp-hartford-no-offer: fact, unanchored
+- el-recovery-defense-amounts/imp-pji-amount-matches: fact, unanchored
+- el-ace-additional-insured/p-fact-ace-policy: fact, supported
+- el-ace-additional-insured/p-text-ace-schedule: text, supported
+- el-ace-additional-insured/p-text-ace-who-insured: text, supported
+- el-ace-additional-insured/p-fact-certificate: fact, supported
+- el-ace-additional-insured/p-holding-reliance: holding, supported
+- el-ace-additional-insured/imp-ace-follow-form: text, unanchored
+- el-ace-additional-insured/imp-ace-no-contrary: text, unanchored
+- el-ace-additional-insured/imp-no-broader: rule, unanchored
+- el-ace-additional-insured/imp-ace-occurrence-in-period: fact, supported
+- el-priority-of-coverage/p-holding-rossmoor: holding, supported
+- el-priority-of-coverage/p-holding-rossmoor-same-level: holding, supported
+- el-priority-of-coverage/p-text-lease-indemnity: text, supported
+- el-priority-of-coverage/p-text-lease-primary: text, supported
+- el-priority-of-coverage/p-text-lease-insurance: text, supported
+- el-priority-of-coverage/p-fact-certificate: fact, unanchored
+- el-priority-of-coverage/p-text-os-excess: text, supported
+- el-priority-of-coverage/p-fact-hartford-limits: fact, supported
+- el-priority-of-coverage/p-fact-os-policy: fact, unanchored
+- el-priority-of-coverage/p-fact-os-limits: fact, supported
+- el-priority-of-coverage/p-text-os-insuring: text, supported
+- el-priority-of-coverage/p-fact-os-concedes: fact, unanchored
+- el-priority-of-coverage/p-rule-horizontal-padilla: rule, supported
+- el-priority-of-coverage/p-rule-horizontal-community: rule, supported
+- el-priority-of-coverage/p-holding-reliance-exhaustion: holding, supported
+- el-priority-of-coverage/p-holding-jpi-inequitable: holding, supported
+- el-priority-of-coverage/p-fact-ace-policy: fact, supported
+- el-priority-of-coverage/p-text-ace-schedule: text, supported
+- el-priority-of-coverage/p-text-ace-insuring: text, supported
+- el-priority-of-coverage/p-text-ace-defense: text, supported
+- el-priority-of-coverage/p-text-ace-other-insurance: text, supported
+- el-priority-of-coverage/p-fact-af-policy: fact, supported
+- el-priority-of-coverage/p-text-af-coverage: text, supported
+- el-priority-of-coverage/p-text-af-other-insurance: text, supported
+- el-priority-of-coverage/p-holding-jpi: holding, supported
+- el-priority-of-coverage/imp-hartford-own-other-insurance: text, unanchored
+- el-priority-of-coverage/imp-indemnity-covers-claim: fact, unanchored
+- el-priority-of-coverage/imp-lease-in-force: fact, unanchored
+- el-priority-of-coverage/imp-ace-excess-over-os: text, unanchored
+- el-priority-of-coverage/imp-competing-excess-clauses: rule, unanchored
+- el-priority-of-coverage/imp-carson-covered-each: fact, unanchored
+
+KNOCK OUT these premises (they are now fallen): el-hartford-duty-to-defend/p-fact-settlement, el-priority-of-coverage/p-holding-rossmoor, el-priority-of-coverage/p-text-lease-indemnity, el-priority-of-coverage/p-rule-horizontal-community, el-priority-of-coverage/p-holding-jpi-inequitable, el-priority-of-coverage/p-text-os-excess
+
+Give every claim's status after the knockout.

@@ -1,0 +1,47 @@
+{
+ "note": "Claim-by-claim calls against the court order (Dkt. 81). Opus runs are single Claude agent sessions, each confirmed to have read its whole prompt file; told to use no tools beyond reading it (instructed, not enforced). first-pass runs may have read only part of the prompt.",
+ "runs": {
+  "Opus, brief only": {
+   "exact": 2,
+   "direction": 6,
+   "wrong": 6,
+   "calledSecureCourtDidNot": 6
+  },
+  "Opus, brief + attacks": {
+   "exact": 9,
+   "direction": 2,
+   "wrong": 3,
+   "calledSecureCourtDidNot": 1
+  },
+  "Opus, brief + attacks + AI judge rulings": {
+   "exact": 12,
+   "direction": 0,
+   "wrong": 2,
+   "calledSecureCourtDidNot": 1
+  },
+  "Engine, map + attacks + rulings": {
+   "exact": 11,
+   "direction": 2,
+   "wrong": 1,
+   "calledSecureCourtDidNot": 0
+  },
+  "(first pass, brief only)": {
+   "exact": 1,
+   "direction": 5,
+   "wrong": 8,
+   "calledSecureCourtDidNot": 8
+  },
+  "(first pass, attacks only, partial read)": {
+   "exact": 7,
+   "direction": 3,
+   "wrong": 4,
+   "calledSecureCourtDidNot": 1
+  },
+  "(first pass, attacks + rulings)": {
+   "exact": 12,
+   "direction": 0,
+   "wrong": 2,
+   "calledSecureCourtDidNot": 1
+  }
+ }
+}

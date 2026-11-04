@@ -1,0 +1,76 @@
+{
+	"note": "Hand-written per case: short labels, captions and which items to feature. Every number is a {placeholder} filled from the data.",
+	"title": "Hartford v. Carson Madrona",
+	"court": "N.D. Cal. No. 23-cv-06259-VC",
+	"side": "Ohio Security and American Fire, moving for partial summary judgment",
+	"orderDate": "2025-03-20",
+	"briefPages": 29,
+	"labels": {
+		"relief-psj": "Partial summary judgment",
+		"el-hartford-duty-to-defend": "Hartford owed a defense",
+		"sub-ai-status-hartford": "Carson is an additional insured",
+		"sub-no-fault-requirement": "No fault needed",
+		"sub-breach-withdrawal": "Withdrawal was a breach",
+		"el-recovery-defense-amounts": "Ohio Security recovers its outlay",
+		"sub-defense-fees": "Appellate fees",
+		"sub-costs": "Costs",
+		"sub-post-judgment-interest": "Post-judgment interest",
+		"el-ace-additional-insured": "Carson is insured under Ace",
+		"el-priority-of-coverage": "Order of coverage",
+		"sub-hartford-primary": "Hartford pays first",
+		"sub-ohio-second": "Ohio Security second",
+		"sub-ace-before-american-fire": "Ace before American Fire"
+	},
+	"featuredPremise": "el-hartford-duty-to-defend/imp-not-fault-based-endorsement",
+	"missedReasonAt": {
+		"rule-4": "sub-post-judgment-interest"
+	},
+	"briefQuote": {
+		"src": "Ohio Security’s brief, ECF page 20",
+		"text": "Coverage under the Hartford policy for Carson Madrona does not require proof of liability"
+	},
+	"skipped": {
+		"policySrc": "Hartford policy, Section II(6)",
+		"policy": "…provided the injury or damage occurs subsequent to the execution of the contract or agreement. … <mark>However, no such person or organization is an insured under this provision if such person or organization is included as an insured by an endorsement issued by us</mark> …",
+		"briefSrc": "Ohio Security’s brief, ECF page 10",
+		"brief": "…provided the injury or damage occurs subsequent to the execution of the contract or agreement. <mark>***</mark> (c) Lessors of Land or Premises…"
+	},
+	"topAttacks": {
+		"1": "Hartford’s withdrawal letter gave three grounds; the brief answers one",
+		"2": "The brief quotes the policy but skips the sentence that removes Carson’s status",
+		"3": "Case law: the endorsement controls the general clause",
+		"4": "The brief’s no-fault cases involve endorsements that do not allocate by fault",
+		"5": "The jury found the tenant 0% at fault",
+		"6": "“Caused, in whole or in part” means proximate cause"
+	},
+	"redlineExample": "resp-rec-17",
+	"chapters": {
+		"build": {
+			"title": "Building the map",
+			"caption": "A model reads the {briefPages}-page brief into {claims} claims and {premises} points, and backs {anchored} of {stated} stated points with the record."
+		},
+		"unstated": {
+			"title": "The assumption it never states",
+			"caption": "{unstated} points the brief relies on but never says. This one holds up the duty-to-defend branch."
+		},
+		"attack": {
+			"title": "The red team",
+			"caption": "Three AI attackers find {attacks} attacks. Every quote is in the filings; every case was decided before filing day."
+		},
+		"exchange": {
+			"title": "Answer and AI judge",
+			"caption": "Each attack gets an answer, a counter and an AI judge’s call. {open} of {attacks} stay open, including the two on the unstated point."
+		},
+		"ruling": {
+			"title": "The court’s order",
+			"caption": "{days} days after filing, the court denied the motion. {found} of its {reasons} deciding reasons were already on the list."
+		},
+		"edited": {
+			"title": "Editing the brief",
+			"caption": "{edits} AI edits were applied. Replayed by an AI judge, {still} of the court’s {reasons} reasons still beat the brief."
+		}
+	},
+	"ghostNote": "The no-fault argument only works if this is true. The brief never says it.",
+	"ghostSrc": "Unstated point, found by the map",
+	"cast": "two insurers, Ohio Security and American Fire"
+}

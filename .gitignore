@@ -4,3 +4,6 @@ matters/*.log
 matters/*.err
 node_modules/
 .env
+notes/
+site/
+__pycache__/

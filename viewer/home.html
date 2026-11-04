@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Killing Cases</title>
+<meta name="description" content="Working only from the papers filed {days} days before the ruling, an AI found {found} of the {reasons} reasons that decided the motion.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+	--bg:#f2f4f1; --card:#fbfcfa; --ink:#18212c; --muted:#5a6571; --rule:#cdd3d6;
+	--hold:#2e6b5c; --weak:#a86d10; --broken:#b3261e; --idle:#8d96a0;
+	--serif:"Newsreader", Georgia, serif; --sans:"Public Sans", system-ui, sans-serif;
+	color-scheme:light;
+}
+@media (prefers-color-scheme: dark) {
+	:root { --bg:#13171c; --card:#1a1f26; --ink:#e8ecef; --muted:#a3adb8; --rule:#323a43; --hold:#5bb39d; --weak:#d9a441; --broken:#f0564b; --idle:#7c8691; color-scheme:dark; }
+}
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.55 var(--sans); }
+a { color:inherit; }
+.wrap { max-width:1120px; margin:0 auto; padding:0 max(16px, env(safe-area-inset-left)); }
+header { display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; padding:18px 0 0; }
+.brand { font:600 22px var(--serif); text-decoration:none; }
+nav { display:flex; gap:10px; flex-wrap:wrap; }
+.btn { display:inline-block; text-decoration:none; font:600 15px var(--sans); border:1px solid var(--rule); background:var(--card); border-radius:6px; padding:9px 16px; }
+.btn.primary { background:var(--ink); color:var(--bg); border-color:var(--ink); }
+.kicker { font:600 14px var(--sans); color:var(--muted); margin:40px 0 10px; }
+h1 { font:500 clamp(32px, 4.6vw, 52px)/1.1 var(--serif); letter-spacing:-.012em; margin:0 0 14px; max-width:960px; text-wrap:balance; }
+.lede { font-size:19px; color:var(--muted); margin:0 0 28px; max-width:780px; }
+.score { display:flex; align-items:center; gap:28px; flex-wrap:wrap; }
+.sq { display:flex; gap:10px; }
+.sq i { width:48px; height:48px; border-radius:7px; display:block; background:var(--broken); }
+.sq i.miss { background:none; border:2px solid var(--idle); }
+.big { font:500 64px/1 var(--serif); color:var(--broken); font-variant-numeric:tabular-nums; }
+.big small { display:block; font:500 15px var(--sans); color:var(--muted); margin-top:6px; }
+.key { font-size:14px; color:var(--muted); margin:10px 0 0; }
+.key b { color:var(--broken); }
+.take { font-weight:700; font-size:18px; margin:16px 0 0; }
+.cta { margin:16px 0 0; }
+.cards { display:grid; grid-template-columns:repeat(3, 1fr); gap:16px; margin:34px 0 0; }
+.card { background:var(--card); border:1px solid var(--rule); border-radius:8px; padding:18px 20px 16px; display:flex; flex-direction:column; }
+.card h2 { font:500 21px/1.25 var(--serif); margin:0 0 14px; text-wrap:balance; }
+.card p { margin:12px 0 0; font-size:15px; color:var(--muted); }
+.card p b { color:var(--ink); }
+.grid { display:grid; grid-template-columns:repeat(22, 1fr); gap:3px; }
+.grid i { aspect-ratio:1; border-radius:2px; background:var(--idle); opacity:.55; }
+.grid i.h { background:none; opacity:1; outline:1.5px dashed var(--broken); outline-offset:-1.5px; }
+.vs { display:grid; gap:8px; font:400 14px/1.45 var(--serif); }
+.vs div { border-left:3px solid var(--rule); padding-left:10px; }
+.vs .src { display:block; font:600 12px var(--sans); color:var(--muted); margin-bottom:2px; }
+mark { background:color-mix(in srgb, var(--broken) 22%, transparent); color:inherit; padding:0 1px; border-radius:2px; }
+.edits { display:flex; align-items:center; gap:10px; flex-wrap:wrap; font-size:14px; color:var(--muted); }
+.ticks { display:flex; gap:3px; }
+.ticks i { width:7px; height:22px; border-radius:2px; background:var(--hold); }
+.arrow { font-size:18px; }
+.sq.small i { width:22px; height:22px; border-radius:4px; }
+.sq.court i { background:var(--ink); }
+.sq.court i.miss { background:none; }
+.readers { margin:34px 0 0; background:var(--card); border:1px solid var(--rule); border-radius:8px; padding:20px 22px 18px; }
+.readers h2 { font:500 24px/1.25 var(--serif); margin:0 0 14px; text-wrap:balance; }
+.readers .row { display:grid; grid-template-columns:190px auto 1fr; align-items:center; gap:14px; padding:6px 0; }
+.readers .row span { font-size:15px; color:var(--muted); }
+.readers .row.on span { color:var(--ink); font-weight:600; }
+.readers .row b { font:500 22px var(--serif); font-variant-numeric:tabular-nums; }
+.readers .sq.small { gap:5px; }
+.readers .sq.small i { background:var(--hold); }
+.readers .sq.small i.miss { background:none; border:1.5px solid var(--idle); }
+.readers p { margin:12px 0 0; font-size:15px; color:var(--muted); max-width:780px; }
+.readers p b { color:var(--ink); }
+@media (max-width: 860px) { .readers .row { grid-template-columns:1fr auto; } .readers .row .sq { grid-column:1 / -1; grid-row:2; gap:4px; } .readers .sq.small i { width:17px; height:17px; border-radius:3px; } }
+.means { display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap; margin:30px 0 0; padding:20px 0; border-top:1px solid var(--rule); }
+.means p { margin:0; font:500 20px/1.35 var(--serif); }
+.means p span { font:600 13px var(--sans); color:var(--muted); display:block; margin-bottom:2px; }
+.foot { font-size:13px; color:var(--muted); padding:6px 0 30px; }
+#method { border-top:1px solid var(--rule); padding:34px 0 60px; }
+#method h2 { font:500 28px var(--serif); margin:0 0 14px; }
+#method ol { max-width:780px; padding-left:22px; margin:0; }
+#method li { margin:8px 0; }
+#method .limits { color:var(--muted); font-size:14px; max-width:780px; }
+:focus-visible { outline:2px solid var(--ink); outline-offset:2px; }
+@media (max-width: 860px) { .cards { grid-template-columns:1fr; } .sq i { width:36px; height:36px; } .big { font-size:52px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+	<a class="brand" href="./">Killing Cases</a>
+	<nav><a class="btn primary" href="run.html">Watch the run</a><a class="btn" href="map.html">Explore the map</a></nav>
+</header>
+<main>
+	<p class="kicker">{title} · a real federal insurance case</p>
+	<h1>Working only from the papers filed {days} days before the ruling, an AI found {found} of the {reasons} reasons that decided the motion.</h1>
+	<p class="lede">The brief belongs to {cast}, whose motion the court denied. We gave an AI red team that brief and only the papers filed with it, then checked its attacks against the court’s order.</p>
+
+	<div class="score" role="img" aria-label="Of the court's {reasons} deciding reasons, the AI found {found} from filing-day papers and missed {missed}.">
+		<div class="sq">{squares}</div>
+		<div class="big">{found} of {reasons}<small>of the court’s deciding reasons, found from filing-day papers</small></div>
+	</div>
+	<p class="key"><b>■</b> found from filing-day papers &nbsp; □ missed</p>
+	<p class="take">The court’s first reason was the top pick of two of the three AI attackers.</p>
+	<p class="cta"><a class="btn primary" href="run.html">Watch the 80-second run</a></p>
+
+	<section class="readers" aria-label="How a frontier model calls the brief's {claims} claims, against the court's order">
+		<h2>Without the red team, the AI believed the brief</h2>
+		<div class="row"><span>Brief alone</span><div class="sq small">{aloneSquares}</div><b>{alone} of {claims}</b></div>
+		<div class="row on"><span>+ the red team’s attacks</span><div class="sq small">{attacksSquares}</div><b>{withAttacks} of {claims}</b></div>
+		<div class="row on"><span>+ the AI judge’s rulings</span><div class="sq small">{rulingsSquares}</div><b>{withRulings} of {claims}</b></div>
+		<p>A frontier model called each of the brief’s {claims} claims; each green square is a claim it called the same way as the court. <b>Reading the brief alone, it rated {falseSecure} claims safe that the court did not accept.</b></p>
+	</section>
+
+	<div class="cards">
+		<section class="card">
+			<h2>The weak spot was an assumption the brief never wrote</h2>
+			<div class="grid" role="img" aria-label="{premises} points the brief relies on, {unstated} of them never stated">{grid}</div>
+			<p>Each square is a point the brief relies on; hollow ones it never states. <b>{onUnstated} of the {found} reasons it found hit a hollow square.</b></p>
+		</section>
+		<section class="card">
+			<h2>The brief quoted the policy, and skipped the sentence the court relied on</h2>
+			<div class="vs">
+				<div><span class="src">{policySrc}</span>{policy}</div>
+				<div><span class="src">{briefSrc}</span>{brief}</div>
+			</div>
+			<p><b>The record attacker’s first attack named the missing sentence.</b> The court’s first reason rests on it.</p>
+		</section>
+		<section class="card">
+			<h2>Editing the brief did not answer the court</h2>
+			<div class="edits"><span class="ticks" aria-hidden="true">{ticks}</span>{edits} AI edits applied <span class="arrow" aria-hidden="true">→</span> <span class="sq small court" aria-hidden="true">{stillSquares}</span></div>
+			<p>An AI judge replayed the court’s reasons against the edited brief. <b>{still} of {reasons} still beat it.</b></p>
+		</section>
+	</div>
+
+	<div class="means">
+		<p><span>What this means</span>Attack the assumptions your brief never states, before you file.</p>
+		<nav><a class="btn primary" href="run.html">Watch the run (80 s)</a><a class="btn" href="map.html">Explore the full map</a></nav>
+	</div>
+	<p class="foot">Proof of concept · one real case · <a href="#method">How we tested ↓</a></p>
+</main>
+
+<section id="method">
+	<h2>How we tested</h2>
+	<ol>
+		<li><b>Freeze.</b> The AI takes the side that lost and sees only the brief and {otherFiles} other documents from the docket ({docket}), all filed by {filed}. The other side’s papers and the court’s order are held out.</li>
+		<li><b>Map.</b> A model turns the brief into {claims} claims, {steps} reasoning steps and {premises} points it relies on, {unstated} of them never stated.</li>
+		<li><b>Check.</b> Each stated point is searched for in the record, and each case citation is looked up on CourtListener: {anchored} of {stated} are backed by a quote or a checked case.</li>
+		<li><b>Attack.</b> Three AI attackers, for case law, the record and the argument’s structure, produce {attacks} attacks. Every quote must be found in the filings and every cited case decided before filing day.</li>
+		<li><b>Answer.</b> An AI defense answers each attack, AI opposing counsel counters, and an AI judge calls it answered, disputed or still open.</li>
+		<li><b>Read.</b> A frontier model calls each claim three times: from the brief alone, with the attacks, and with the AI judge’s rulings too.</li>
+		<li><b>Score.</b> Only now is the order opened. We count {reasons} of its {orderPoints} points as deciding, and match each by hand to the first attack in the list that makes the same point.</li>
+	</ol>
+	<p class="limits">One case and one run, matched by hand. Asked about the case with no documents, the model did not recall it.</p>
+</section>
+</div>
+</body>
+</html>

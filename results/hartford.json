@@ -19,18 +19,30 @@
     "ruling": "open"
   },
   "secureClaims": {
-    "asFiled": 5,
-    "underAttack": 1,
-    "afterExchange": 2
+    "asFiled": 2,
+    "underAttack": 0,
+    "afterExchange": 1
   },
   "courtReasons": 7,
   "courtReasonsFlaggedByTwin": 6,
   "courtReasonsFoundByBaseline": 5,
+  "courtReasonsOnUnstated": 5,
   "courtFirstTwoRanks": [
     2,
     3
   ],
   "redlineEditsApplied": 15,
   "hardenedReplayStillOpen": 7,
-  "hardenedReplayReasons": 7
+  "hardenedReplayReasons": 7,
+  "claimAgreement": {
+    "exact": 11,
+    "direction": 2,
+    "of": 14
+  },
+  "readers": {
+    "briefOnly": 2,
+    "withAttacks": 9,
+    "withRulings": 12,
+    "briefOnlyFalseSecure": 6
+  }
 }

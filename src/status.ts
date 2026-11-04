@@ -22,6 +22,9 @@ export function computeStatus(claims: Claim[], premises: Premise[], inferences: 
 	const ok = (f: string) => (claimIds.has(f) ? s.claims[f] === "secure" : s.premises[f] === "supported" || s.premises[f] === "unchecked");
 	const soft = (f: string) => (claimIds.has(f) ? s.claims[f] === "exposed" : s.premises[f] === "contested");
 	const fallen = (f: string) => (claimIds.has(f) ? s.claims[f] === "lost" : s.premises[f] === "undermined" || s.premises[f] === "contradicted");
+	// A route must apply the law to this case: a rule or holding alone is half a syllogism and cannot carry a claim.
+	const kind = new Map(premises.map((p) => [p.id, p.kind]));
+	const isRoute = (i: Inference) => i.from.some((f) => claimIds.has(f) || kind.get(f) === "fact" || kind.get(f) === "text");
 	// Claims depend on sub-claims, so resolve from the leaves up; the tree is shallow, a fixed number of passes is enough.
 	for (let pass = 0; pass < 4; pass++) {
 		for (const i of inferences) {
@@ -31,10 +34,12 @@ export function computeStatus(claims: Claim[], premises: Premise[], inferences: 
 			else s.inferences[i.id] = "weak";
 		}
 		for (const c of claims) {
-			const into = inferences.filter((i) => i.to === c.id);
+			const all = inferences.filter((i) => i.to === c.id);
+			const into = all.filter(isRoute);
 			const children = claims.filter((k) => k.parent === c.id);
 			let v: Status["claims"][string];
 			if (open(c.id, "rebut")) v = "lost";
+			else if (all.length && !into.length) v = "exposed"; // only rule-only steps: nothing applies the law to these facts
 			else if (!into.length && children.length) {
 				// A claim with no inference into it (typically the relief) stands on all of its children.
 				v = children.every((k) => s.claims[k.id] === "secure") ? "secure" : children.some((k) => s.claims[k.id] === "lost") ? "lost" : "exposed";

@@ -30,7 +30,7 @@ test("a claim with no inference into it stands only when all its children stand"
 test("a statute or a case missing from CourtListener is unchecked and does not block the inference", () => {
 	const statute: Premise = { ...prem("st", null, "rule"), citation: { text: "Code Civ. Proc. § 685.010", verified: false, statute: true } };
 	const missing: Premise = { ...prem("tr", null, "holding"), citation: { text: "56 Cal.App.5th 619", verified: false, note: "not in CourtListener" } };
-	const s = computeStatus([claim("el")], [statute, missing], [inf("i1", ["st", "tr"], "el")]);
+	const s = computeStatus([claim("el")], [statute, missing, prem("f", { verified: true })], [inf("i1", ["st", "tr", "f"], "el")]);
 	assert.equal(s.premises.st, "unchecked");
 	assert.equal(s.premises.tr, "unchecked");
 	assert.equal(s.claims.el, "secure");
@@ -71,8 +71,18 @@ test("a contradicting anchor makes the premise contradicted, and a claim resting
 test("a sealed anchor is reported as sealed, and rules and holdings count as supported when their citation verifies", () => {
 	const sealed = prem("s", { sealed: true, file: null, page: null });
 	const rule: Premise = { ...prem("r", null, "rule"), citation: { text: "32 Cal. App. 4th 643", verified: true } };
-	const s = computeStatus([claim("el")], [sealed, rule], [inf("i1", ["r"], "el")]);
+	const s = computeStatus([claim("el")], [sealed, rule, prem("f", { verified: true })], [inf("i1", ["r", "f"], "el")]);
 	assert.equal(s.premises.s, "sealed");
 	assert.equal(s.premises.r, "supported");
 	assert.equal(s.claims.el, "secure");
+});
+
+test("a step from a rule or holding alone is not a route: it cannot keep a claim secure, and it does not save one whose real routes fell", () => {
+	const holding: Premise = { ...prem("h", null, "holding"), citation: { text: "13 Cal. 3d 622", verified: true } };
+	const fact = prem("f", { verified: true });
+	const claims = [claim("el")];
+	const infs = [inf("bare", ["h"], "el"), inf("applied", ["h", "f"], "el")];
+	assert.equal(computeStatus(claims, [holding, fact], infs).claims.el, "secure");
+	assert.equal(computeStatus(claims, [holding, fact], infs, [atk("x", "undermine", "f")]).claims.el, "lost");
+	assert.equal(computeStatus(claims, [holding], [inf("bare", ["h"], "el")]).claims.el, "exposed");
 });
