@@ -40,7 +40,7 @@ The bar: a litigator gets something they could not get before, and can trust it 
 
 ## Test set
 
-3 public summary-judgment matters in `scripts/matter-twin-poc/matters/` (see its `README.md`). In each one the twin takes the side that lost.
+3 public summary-judgment matters in `matters/` (see its `README.md`). In each one the twin takes the side that lost.
 
 | Matter | Our side and brief (lost) | Papers it answers | What happened | Stresses |
 |---|---|---|---|---|
@@ -174,7 +174,7 @@ type Twin = {
 
 ## Pipeline
 
-All steps are plain functions in `scripts/matter-twin-poc/`, run with `tsx`. Each step writes JSON to `out/<matter>/<mode>/`, so any step can be re-run alone and every model output stays inspectable. The frontier model is set in the POC's config. The data is public, so any provider can be used.
+All steps are plain functions in `src/`, run with `tsx`. Each step writes JSON to `out/<matter>/<mode>/`, so any step can be re-run alone and every model output stays inspectable. The frontier model is set in the POC's config. The data is public, so any provider can be used.
 
 1. **Index the record (code).** Split each frozen record file into sections of about 3,000 characters, keeping the page number. Build a full-text (BM25) index.
 2. **Convert the input into the twin.** This is the step everything else depends on: every later step works on the graph's node ids. The work is split by one rule: the frontier model writes, a decision model judges bounded questions at volume, and code does everything deterministic.

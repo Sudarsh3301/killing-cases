@@ -126,3 +126,8 @@ python scripts/figures.py   # redraws the charts above
 | `matters/` | The 3 public test cases: filings as text, with what was known on filing day |
 | `results/` | The numbers behind every chart |
 | `docs/` | [Evidence and method](docs/results.md), [design](docs/design.md) |
+
+## Licence
+
+Code: [MIT](LICENSE). The court filings in `matters/` are public records from CourtListener RECAP and are not covered
+by this licence. Not legal advice.

@@ -1,4 +1,4 @@
-# Matter-twin POC test set
+# Killing Cases test set
 
 3 public federal summary-judgment matters from CourtListener RECAP, chosen by hand so that each one stresses a different detector.
 
